@@ -1,0 +1,68 @@
+# -*- mode: yaml -*-
+# vim: set filetype=yaml tabstop=4 shiftwidth=4 autoindent smartindent:
+site_name: "Is Christ True?"
+site_url: https://ischristtrue.com/
+site_description: "Is Christ True?"
+site_author: RS Christopher
+docs_dir: src
+site_dir: docs
+dev_addr: 127.0.0.1:7000
+copyright: Uncopyright &copy; 2023 ~ R.S. Christopher
+extra:
+    generator: false
+extra_css:
+    - css/extra.css
+theme:
+    name: material
+    features:
+        - navigation.indexes
+        - navigation.footer
+        - navigation.sections
+        - navigation.tabs
+        - navigation.top
+    palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: black
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    logo: images/christ-logo-w.png
+    favicon: images/favicon.png
+
+nav:
+    - About: 
+        - index.md
+        - What is Truth?: what-is-truth.md
+    - Worldviews:
+        - worldviews/index.md
+    - Doctrines:
+        - doctrines/index.md
+    - References: 
+        - references/index.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+  - toc:
+      permalink: True
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
