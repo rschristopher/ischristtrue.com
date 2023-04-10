@@ -10,8 +10,6 @@ dev_addr: 127.0.0.1:7000
 copyright: Uncopyright &copy; 2023 ~ R.S. Christopher
 extra:
     generator: false
-extra_css:
-    - css/extra.css
 theme:
     name: material
     features:
@@ -24,13 +22,14 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: black
-      accent: black
+      accent: deep orange
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: black
+      accent: deep orange
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
