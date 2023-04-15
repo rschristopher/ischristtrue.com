@@ -7,9 +7,9 @@ Son of God
 Have mercy on me, a sinner
 -->
 
-What is truth?
-Can we know what's true?
-Can we know anything?
+What and who is truth?
+
+Can we know truth?
 
 Paradigms
 What paradigms best make sense of the world?
