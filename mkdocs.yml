@@ -39,7 +39,7 @@ theme:
 nav:
     - About: 
         - index.md
-        - What is Truth?: what-is-truth.md
+        - Who is Truth?: who-is-truth.md
     - Worldviews:
         - worldviews/index.md
     - Doctrines:
