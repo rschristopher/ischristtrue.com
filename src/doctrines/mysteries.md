@@ -17,6 +17,9 @@ We acknowledge them to be,
  efficient means of grace to the receivers.
 
 
+
+
+
 ## 1. Holy Baptism
 
 "Go and make disciples of all the nations, 
@@ -135,7 +138,7 @@ with which is joined sacramental confession,
 
 
 
-7. Holy Oil
+## 7. Holy Oil
 
  or Prayer-Oil is spoken of in Mark,
  {Mark 6:13}
