@@ -41,8 +41,11 @@ nav:
         - index.md
         - Who is Christ?: who-is-christ.md
         - Who or What is Truth?: truth.md
-    - Worldviews:
-        - worldviews/index.md
+    - Modern Views:
+        - modern-views/index.md
+        - Rationality: modern-views/rationality.md
+    - Ancient Views:
+        - ancient-views/index.md
     - Doctrines:
         - doctrines/index.md
     - References: 
