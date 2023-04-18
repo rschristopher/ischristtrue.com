@@ -98,9 +98,23 @@ Truth exists, and is knowable from the
 Truth is experienced in very personal ways,
  primarily in sense perceptions.
 
+Modern views understand truth as an attribute
+ unto itself, that something is true or it is not.
+
+Ancient Views understood truth as a spirit,
+ which means it has personhood,
+ as all spirits do.
+If there is a *spirit of truth*,
+ then the better question is
+ "who is truth?"
+ rather than
+ "what is true 
+
 Agency
 
 Self awareness
+
+Consciousness
 
 
 
