@@ -10,8 +10,9 @@ How do we make sense of what is real?
 
 In other words, whatever *we* are,
  are perceiving of an external world
- that we are agents within,
- acting out in the world,
+ that we are agents within 
+ and that we are
+ acting out in this world --
  and when we seek truth,
  we are seeking to know the world
  (and ourselves)
@@ -23,6 +24,21 @@ Is it radically different than
  the way we perceive it?
 
 
+
+## Knowing what actually exists 
+
+Can we know anything?
+
+What does it mean to know?
+
+Epistemology
+
+
+
+
+## Knowing Truth
+
+Is there an objective knowable truth?
 
 
 
