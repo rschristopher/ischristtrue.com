@@ -176,7 +176,7 @@ It might make demands of us, we might
  as "you".
 
 In this way we can see *spirits*
- everywhere, im all manner of complex system
+ everywhere, in all manner of complex systems 
  that we interact with and participate in.
 These are patterns of reality over time,
  they
