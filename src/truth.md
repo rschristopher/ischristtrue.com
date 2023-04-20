@@ -195,25 +195,27 @@ Spirits everywhere, even in the most simple
 In our secular mechanistic presuppositions
  we imagine this as purely "natural" causes,
  as if that explained anything.
+
 We often play word games with what are
  objectively spirits making themselves
  known to us.
-They have implicit meaning, beauty, and functions
+Spirits have implicit meaning, beauty,
+ and functions
  that are far transcendent of the limits
  of a mechanistic worldview.
 Those trapped in such a 
  mechanistic worldview are blind to
  the everpresent spirits in front of their
  own face, pretending with
- absurd pride that they are the originators
+ absurd pride that humans are the originators
  of all the beauty and meaning
  they perceive, that only the *functions*
- of what they're perceiving is real.
+ of what humans perceive is real.
 
 But even so, even if only the causal functions
  of these complex emergent patterns are
- real, then is that not evidence of spirits
- everywhere?
+ real, then is that itself
+ evidence of spirits anyone can see?
 If you look upon a thunderstorm do you see
  the entirety of the storm all at once?
 No, it is a pattern over time, a spirit.
