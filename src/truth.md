@@ -248,12 +248,21 @@ This somewhat crude classification
  paradigms into a useful filter, as ultimately
  we are only concerned with the existence
  of such a divine spirit of truth
- that is knowable.
+ that is itself knowable.
 
-If they do not exist, or are not knowable,
- then gone too is any hope of an objective
- truth.
+If the spirit of truth does not exist,
+ or is not knowable to us,
+ then gone too is any hope of any defensible
+ epistemology.
+In other words, we can't know anything and
+ there cannot be knowable truth about ourselves
+ or the universe without a spirit of truth
+ making knowledge available to us.
 
+Whoever this spirit of truth is,
+ this universal pattern of reality,
+ it is a being who grants us knowledge
+ of ourselves and the world we live in.
 
 
 
