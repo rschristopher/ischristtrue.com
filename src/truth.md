@@ -117,7 +117,7 @@ If there is a *spirit of truth*,
 
 
 
-## Who is Truth?
+## Spirits 
 
 Truth, or the spirit of truth,
  like any spirit,
@@ -242,14 +242,14 @@ Well, turns out there's only a handful of
  possible answers.
 Either such a being exists, or doesn't.
 And if such a being does exist,
- they are either knowable, or not.
+ the spirit is either knowable, or not.
 
 This somewhat crude classification
  can handily separate the multitude
  of religious worldviews and metaphysical
  paradigms into a useful filter, as ultimately
  we are only concerned with the existence
- of such a divine spirit of truth
+ of a divine spirit of truth
  that is itself knowable.
 
 If the spirit of truth does not exist,
@@ -261,10 +261,30 @@ In other words, we can't know anything and
  or the universe without a spirit of truth
  making knowledge available to us.
 
-Whoever this spirit of truth is,
+Whoever this divine spirit of truth is,
  this universal pattern of reality,
  it is a being who grants us knowledge
  of ourselves and the world we live in.
+Importantly, we are now
+ at the limits of logic
+ and reason.
+For logic and reason cannot contain
+ that which gives rise to logic and reason.
+Logic and reason are not self sustaining,
+ they do not grant us knowledge of truth.
+They are but artifacts of our consciousness,
+ the means with which we *make sense* of the
+ world around us.
+The divine truth, this spirit,
+ must be the source of logic and reason --
+ the means given to us to *make sense*
+ of the world.
+
+
+
+## Knowledge is Revealed
+
+
 
 
 
