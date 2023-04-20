@@ -44,7 +44,7 @@ In the [modern view](modern-views/)
 There is word games.
 There is a will to power.
 There is power and oppression.
-There is the deconstruction of a
+There is the deconstruction of
  everything into games of power
  and oppression.
 
