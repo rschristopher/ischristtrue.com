@@ -214,8 +214,8 @@ Those trapped in such a
 
 But even so, even if only the causal functions
  of these complex emergent patterns are
- real, then is that itself
- evidence of spirits anyone can see?
+ real, then is that itself not clear
+ evidence of spirits that anyone can see?
 If you look upon a thunderstorm do you see
  the entirety of the storm all at once?
 No, it is a pattern over time, a spirit.
