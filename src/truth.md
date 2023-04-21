@@ -1,12 +1,11 @@
-# Who or What is Truth?
+# Nature of Truth
 
-This is perhaps the most basic of any
- fundamental question one can ask.
+Seeking truth is perhaps the first inkling
+ of fundamental questions one can ask.
 We might start with the most fundamental,
 
-What is real? 
-
-How do we make sense of what is real?
+!!! question "What is real?"
+    And how do we make sense of what is real?
 
 In other words, whatever *we* are,
  we are perceiving an external world,
@@ -14,12 +13,13 @@ In other words, whatever *we* are,
  and when we seek truth,
  we are seeking to know the world
  (and ourselves)
- as it actually exists.
+ as they actually exist.
+
 Is the world we perceive real?
 Is it all a dream?
 Is it a delusion from a demon?
 Is it all a simulation?
-Is it radically different than
+Is the world radically different than
  the way we perceive it?
 
 
@@ -39,7 +39,7 @@ Epistemology
 
 Is there objective knowable truth?
 
-In the [modern view](modern-views/)
+In the [modern view](../modern-views/)
  there is no objective knowable truth.
 There is word games.
 There is a will to power.

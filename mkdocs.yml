@@ -39,8 +39,8 @@ theme:
 nav:
     - About: 
         - index.md
+        - Nature of Truth: truth.md
         - Who is Christ?: who-is-christ.md
-        - Who or What is Truth?: truth.md
     - Modern Views:
         - modern-views/index.md
         - Rationality: modern-views/rationality.md
