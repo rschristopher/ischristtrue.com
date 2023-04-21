@@ -302,14 +302,12 @@ By asking.
 
 ## Meaning and Morality
 
-
 Truth claims, as revealed to us,
  contain not only the causal functions
  that materialists misattribute to
  "natural causes"
  (saying something is "natural"
- doesn't actually explain anything)
- --
+ doesn't actually explain anything) --
  truth claims also contain meaning
  and morality, in other words, values
  of what is good and what is not.
