@@ -70,7 +70,7 @@ And you certainly don't live in a
  universe.
 
 The postmodern "deconstructions" of
- [modern views](modern-views/)
+ [modern views](../modern-views/)
  may yield absurdity,
  but they are apt critiques
  of the rationalism we see in
@@ -94,17 +94,16 @@ Something is true if it is objectively true,
  is what brings people to the "Truth".
 
 
-
-## Attributes of Truth
-
 Truth exists, and is knowable.
 Truth is experienced in very personal ways,
- primarily in sense perceptions.
+ not confined to sense perceptions.
 
 Modern views understand truth as an attribute
- unto itself, that something is true or it is not.
+ unto itself,
+ that something is either true or it is not.
 
-Ancient Views understood truth as a spirit,
+[Ancient Views](../ancient-views/)
+ understood truth as a spirit,
  which means it has personhood,
  as all spirits do.
 If there is a *spirit of truth*,
@@ -117,7 +116,7 @@ If there is a *spirit of truth*,
 
 
 
-## Spirits 
+## Spirit of Truth
 
 Truth, or the spirit of truth,
  like any spirit,
@@ -147,7 +146,7 @@ If you haven't thought of a spirit
  interact with our world but hover
  about --
  this is most certainly not a spirit,
- this is a naive caricature.
+ this is a childish caricature.
 Anyone can "see" a spirit, if not directly
  then through the patterns of reality
  over time.
@@ -269,23 +268,35 @@ Importantly, we are now
  at the limits of logic
  and reason.
 For logic and reason cannot contain
+ in themselves 
  that which gives rise to logic and reason.
 Logic and reason are not self sustaining,
  they do not grant us knowledge of truth.
 They are but artifacts of our consciousness,
  the means with which we *make sense* of the
  world around us.
-The divine truth, this spirit,
+The divine truth, this spirit of truth,
  must be the source of logic and reason --
  the means given to us to *make sense*
  of the world.
 
 
 
-## Knowledge is Revealed
+## Truth is Revealed
 
+As we cannot reach objective and knowable truth
+ through reason and logic,
+ then it must
+ be revealed (if there is truth).
+And this revelation of truth can only
+ happen through communion, that is,
+ relationship between ourselves and
+ the Spirit of Truth.
 
+What is our relationship to such a spirit?
 
+This we can only know by revelation.
+By asking.
 
 
 
