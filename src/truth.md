@@ -297,7 +297,11 @@ By asking.
 
 
 
+
+
+
 ## Meaning and Morality
+
 
 Truth claims, as revealed to us,
  contain not only the causal functions
