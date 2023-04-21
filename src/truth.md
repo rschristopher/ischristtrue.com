@@ -92,9 +92,6 @@ For truth to have any meaning,
 Something is true if it is objectively true,
  and knowledge of this objectivity
  is what brings people to the "Truth".
-
-
-Truth exists, and is knowable.
 Truth is experienced in very personal ways,
  not confined to sense perceptions.
 
@@ -298,6 +295,46 @@ What is our relationship to such a spirit?
 This we can only know by revelation.
 By asking.
 
+
+
+## Meaning and Morality
+
+Truth claims, as revealed to us,
+ contain not only the causal functions
+ that materialists misattribute to
+ "natural causes"
+ (saying something is "natural"
+ doesn't actually explain anything)
+ --
+ truth claims also contain meaning
+ and morality, in other words, values
+ of what is good and what is not.
+This should not be surprising since
+ revelatory truth cane from a relationship
+ with a spirit that is the source of all
+ that is.
+Just as we share truth claims with
+ each other,
+ so too does the Spirit of Truth
+ share with us.
+
+What we understand as morality,
+ ethical behavior, how we ought to live,
+ is intractable from a truth claim.
+All truth claims consist of
+ causal functionality,
+ morality, 
+ meaning,
+ and beauty.
+
+Seeking truth is then not an
+ idle hobby of bored philosophers.
+Seeking truth is to orient your entire
+ life into a relationship with God,
+ with the Spirit of Truth,
+ imbuing your life with meaning
+ sufficient to endure the suffering
+ of this world.
 
 
 
