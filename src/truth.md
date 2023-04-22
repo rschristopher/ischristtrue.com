@@ -1,7 +1,8 @@
 # Nature of Truth
 
-Seeking truth is perhaps the first inkling
- of fundamental questions one can ask.
+Seeking truth is the first intimation,
+ the nascent wondering,
+ of the fundamental questions of life.
 We might start with the most fundamental,
 
 !!! question "What is real?"
@@ -12,8 +13,8 @@ In other words, whatever *we* are,
  and we are agents within that world --
  and when we seek truth,
  we are seeking to know the world
- (and ourselves)
- as they actually exist.
+ (and ourself)
+ as it actually exists.
 
 Is the world we perceive real?
 Is it all a dream?
@@ -42,11 +43,10 @@ Is there objective knowable truth?
 In the [modern view](../modern-views/)
  there is no objective knowable truth.
 There is word games.
-There is a will to power.
+There is suffering.
 There is power and oppression.
 There is the deconstruction of
- everything into games of power
- and oppression.
+ everything, even deconstructionism itself.
 
 To be clear, if you claim to be a
  rationalist,
@@ -91,20 +91,21 @@ For truth to have any meaning,
  perspectives.
 Something is true if it is objectively true,
  and knowledge of this objectivity
- is what brings people to the "Truth".
-Truth is experienced in very personal ways,
- not confined to sense perceptions.
+ is what brings people to "the Truth".
 
-Modern views understand truth as an attribute
- unto itself,
+Modern views understand truth as an attribute,
  that something is either true or it is not.
+But in practice,
+ truth is experienced in very personal ways,
+ and not at all confined to sense perceptions.
+
 
 [Ancient Views](../ancient-views/)
  understood truth as a spirit,
  which means it has personhood,
  as all spirits do.
 If there is a *spirit of truth*,
- then rather than ask,
+ then we should not ask,
  "what is true?"
  we ought to ask
  "who is truth?"
@@ -122,7 +123,7 @@ Truth, or the spirit of truth,
 A pattern of reality that is
  objectively real (and not
  a veil of delusions
- and perceptions).
+ or perceptions).
 In other words, that which
  is objectively real is
  the spirit we are referring.
@@ -145,7 +146,8 @@ If you haven't thought of a spirit
  this is most certainly not a spirit,
  this is a childish caricature.
 Anyone can "see" a spirit, if not directly
- then through the patterns of reality
+ through symbolism or iconography,
+ then through patterns of reality
  over time.
 A spirit is just that, a pattern of
  reality that has conscious agency.
@@ -189,7 +191,7 @@ Spirits everywhere, even in the most simple
  systems, such as a leaf turning to face
  the sun.
 In our secular mechanistic presuppositions
- we imagine this as purely "natural" causes,
+ we imagine this as purely "natural causes",
  as if that explained anything.
 
 We often play word games with what are
@@ -197,16 +199,17 @@ We often play word games with what are
  known to us.
 Spirits have implicit meaning, beauty,
  and functions
- that are far transcendent of the limits
+ that transcend the limits
  of a mechanistic worldview.
-Those trapped in such a 
+Those trapped in a 
  mechanistic worldview are blind to
  the everpresent spirits in front of their
  own face, pretending with
  absurd pride that humans are the originators
  of all the beauty and meaning
  they perceive, that only the *functions*
- of what humans perceive is real.
+ of the natural world are real
+ (and some deny even that).
 
 But even so, even if only the causal functions
  of these complex emergent patterns are
@@ -238,7 +241,7 @@ Well, turns out there's only a handful of
  possible answers.
 Either such a being exists, or doesn't.
 And if such a being does exist,
- the spirit is either knowable, or not.
+ that spirit is either knowable, or not.
 
 This somewhat crude classification
  can handily separate the multitude
