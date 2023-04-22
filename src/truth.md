@@ -1,8 +1,12 @@
 # Nature of Truth
 
-Seeking truth is the first intimation,
+!!! quote "the light, the light, the seeking, the searching, in chaos, in chaos"
+    Maori prayer
+
+
+Seeking *truth* is the first intimation,
  the nascent wondering,
- of the fundamental questions of life.
+ towards the fundamental questions of life.
 We might start with the most fundamental,
 
 !!! question "What is real?"
@@ -13,7 +17,7 @@ In other words, whatever *we* are,
  and we are agents within that world --
  and when we seek truth,
  we are seeking to know the world
- (and ourself)
+ (and our own soul)
  as it actually exists.
 
 Is the world we perceive real?
