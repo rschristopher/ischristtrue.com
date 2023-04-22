@@ -1,8 +1,9 @@
 # Nature of Truth
 
-!!! quote "the light, the light,
- the seeking, the searching,
- in chaos, in chaos"
+!!! quote "~ from a Maori prayer"
+    the light, the light
+    the seeking, the searching
+    in chaos, in chaos
 
 
 Seeking *truth* is the first intimation,
