@@ -1,8 +1,10 @@
 # Nature of Truth
 
 
-> *the light, the light* --
-> *seeking, searching* --
+> *the light, the light*
+
+> *seeking, searching*
+
 > *in chaos, in chaos*
 
 
