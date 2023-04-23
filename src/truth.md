@@ -2,9 +2,8 @@
 
 
 > *the light, the light*
-> 
 > *the seeking, the searching*
-> 
+
 > *in chaos, in chaos*
 
 
