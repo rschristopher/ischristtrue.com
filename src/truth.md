@@ -1,11 +1,9 @@
 # Nature of Truth
 
 
-> *the light, the light*
-
-> *seeking, searching*
-
-> *in chaos, in chaos*
+> *the light, the light,<br />
+ seeking, searching,<br />
+ in chaos, in chaos*
 
 
 Seeking *truth* is the first intimation
