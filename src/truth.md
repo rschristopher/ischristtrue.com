@@ -29,9 +29,6 @@ In other words, whatever *we* are,
  why this world exists,
  and our purpose in this
  world of suffering and death.
-Such a path provides no worldly power
- or advantage -- the reward can
- only be truth itself.
 
 Is the world we perceive real?
 Is it all a dream?
@@ -72,7 +69,7 @@ To be clear, if you claim to be a
  someone who follows
  science
  and does not believe in
- spirits or anything you can't
+ anything you can't
  see with your own eyes,
  then you will find yourself
  unmoored from any first principles
@@ -88,14 +85,14 @@ And you certainly don't live in a
 
 The postmodern "deconstructions" of
  [modern views](../modern-views/)
- may yield absurdity,
+ will yield absurdity,
  but they are apt critiques
  of the rationalism we see in
  secular culture.
 There is indeed a patriarchal hierarchy
  which is the foundation for any and all
  truth claims.
-The patriarchy is real!
+The patriarchy, it turns out, is real!
 And yet it's not man-made.
 On some level the postmodernists
  know this, and still reject it
@@ -137,8 +134,9 @@ Truth, or the spirit of truth,
  like any spirit,
  can be thought of as a
  pattern of reality.
-A pattern of reality that is
- objectively real (and not
+A pattern of reality that is as
+ objective as it is real
+ (and not
  a veil of delusions
  or perceptions).
 In other words, that which
@@ -173,16 +171,17 @@ Think of the spirit of a city.
 A city over time will grow and
  move about like an amoeba
  (though we rarely think of it this way).
+Such an entity reacts to the outside
+ world beyond its "body",
+ with sense organs and means
+ with which to actualize its will.
 In a secular worldview we might refer
  to the "emergent" patterns and behavior
  of such a complex system.
 But the word "emergence" is what if
  not consciousness?
-Such an entity reacts to the outside
- world beyond its "body",
- with sense organs and means
- with which to actualize its will.
-It might make demands of us, we might
+It might make demands of us,
+ we might participate in or
  be mere components in this 
  "emergent" consciousness --
  the same way the bacteria in your
@@ -190,7 +189,7 @@ It might make demands of us, we might
  emergent consciousness that is known
  as "you".
 
-In this way we can see *spirits*
+Understood properly, we can see *spirits*
  everywhere, in all manner of complex systems 
  that we interact with and participate in.
 These are patterns of reality over time,
@@ -246,40 +245,40 @@ Your consciousness emerges from the
 
 Who then is the Spirit of Truth?
 
-All things as they are,
+He is all things as they are,
  all patterns, simple and complex,
  all that was, is, and will be --
  including our own bodies and minds --
- this is the spirit of truth.
-What kind of being, what kind of spirit
+ this is the Spirit of Truth.
+What kind of being, what kind of spirit,
  could encompass all?
 
 Well, turns out there's only a handful of
  possible answers.
-Either such a being exists, or doesn't.
-And if such a being does exist,
- that spirit is either knowable, or not.
+Either He exists, or doesn't.
+And if He does exist,
+ He is either knowable, or not.
 
 This somewhat crude classification
  can handily separate the multitude
  of religious worldviews and metaphysical
  paradigms into a useful filter, as ultimately
  we are only concerned with the existence
- of a divine spirit of truth
+ of a divine Spirit of Truth 
  that is itself knowable.
 
-If the spirit of truth does not exist,
+If the Spirit of Truth does not exist,
  or is not knowable to us,
  then gone too is any hope of any defensible
  epistemology.
 In other words, we can't know anything and
  there cannot be knowable truth about ourselves
- or the universe without a spirit of truth
+ or the universe without a Spirit of Truth 
  making knowledge available to us.
 
-Whoever this divine spirit of truth is,
+Whoever this divine Spirit of Truth is,
  this universal pattern of reality,
- it is a being who grants us knowledge
+ He grants us knowledge
  of ourselves and the world we live in.
 Importantly, we are now
  at the limits of logic
@@ -287,22 +286,22 @@ Importantly, we are now
 For logic and reason cannot contain
  in themselves 
  that which gives rise to logic and reason.
-Logic and reason are not self sustaining,
+Logic and reason are not self-sustaining,
  they do not grant us knowledge of truth.
 They are but artifacts of our consciousness,
  the means with which we *make sense* of the
  world around us.
-The divine truth, this spirit of truth,
+The divine truth, this Spirit of Truth,
  must be the source of logic and reason --
  the means given to us to *make sense*
  of the world.
 
 
 
-## Truth is Revealed
+## Revealed Truth 
 
 As we cannot reach objective and knowable truth
- through reason and logic,
+ through reason and logic alone,
  then it must
  be revealed (if there is truth).
 And this revelation of truth can only
@@ -313,7 +312,7 @@ And this revelation of truth can only
 What is our relationship to such a spirit?
 
 This we can only know by revelation.
-By asking.
+By asking and receiving an answer.
 
 
 
