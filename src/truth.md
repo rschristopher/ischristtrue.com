@@ -1,31 +1,22 @@
 # Nature of Truth
 
 
-> *the light, the light,<br />
- seeking, searching,<br />
- in chaos, in chaos*
-
-
 Wisdom begins with
- seeking *truth*, honestly seeking answers
- to the most fundamental questions
+ seeking *truth*, seeking answers
+ to the most fundamental questions:
+What is real?
+How do we know what is real?
+Why is there suffering and death?
+What is the purpose of it all?
 
-!!! question "What is real?"
-    How do we know what is real?
-    
-    Why is there suffering and death?
-    
-    What is the purpose of it all?
-
-In other words, whatever *we* are,
+Whatever *we* are,
  we are perceiving an external world,
  a world filled with suffering,
- and we are agents within that world --
+ and we are agents within this world --
  and when we seek truth,
- we are seeking to know the world
- (and our own soul)
- as it actually exists,
- and to know why we exist,
+ we are seeking to know
+ what actually exists;
+ to know why we exist,
  why this world exists,
  and our purpose in this
  world of suffering and death.
@@ -39,7 +30,16 @@ Is the world radically different than
 
 
 
+
+
+
+
+
 ## Knowing what actually exists 
+
+> *the light, the light<br />
+> ~ seeking, searching ~<br />
+> in chaos, in chaos*
 
 Can we know anything?
 
@@ -107,14 +107,14 @@ Something is true if it is objectively true,
  and knowledge of this objectivity
  is what brings people to "the Truth".
 
-Modern views understand truth as an attribute,
+[Modern views](../modern-views/) understand truth as an attribute,
  that something is either true or it is not.
 But in practice,
  truth is experienced in very personal ways,
  and not at all confined to sense perceptions.
 
 
-[Ancient Views](../ancient-views/)
+[Ancient views](../ancient-views/)
  understood truth as a spirit,
  which means it has personhood,
  as all spirits do.
@@ -177,25 +177,31 @@ Such an entity reacts to the outside
  with which to actualize its will.
 In a secular worldview we might refer
  to the "emergent" patterns and behavior
- of such a complex system.
+ of a complex system.
 But the word "emergence" is what if
  not consciousness?
 It might make demands of us,
  we might participate in or
- be mere components in this 
+ be mere components of this 
  "emergent" consciousness --
  the same way the bacteria in your
  gut are an integral part of the
  emergent consciousness that is known
  as "you".
+And thankfully, these
+ bacteria participate in the emergence
+ (that we call consciousness)
+ known as "you".
 
 Understood properly, we can see *spirits*
  everywhere, in all manner of complex systems 
  that we interact with and participate in.
 These are patterns of reality over time,
- they
- are not normally visible because through
- our biased thinking we rarely see
+ plainly visible to all humans throughout
+ the ages and ages -- and yet
+ seemingly invisible to our modern
+ biased mechanistic thinking,
+ because we ignore
  the consciousness of anything other
  than ourselves and other human beings
  (if even that).
@@ -245,7 +251,8 @@ Your consciousness emerges from the
 
 Who then is the Spirit of Truth?
 
-He is all things as they are,
+He is the source
+ of all things as they are,
  all patterns, simple and complex,
  all that was, is, and will be --
  including our own bodies and minds --
@@ -265,7 +272,7 @@ This somewhat crude classification
  paradigms into a useful filter, as ultimately
  we are only concerned with the existence
  of a divine Spirit of Truth 
- that is itself knowable.
+ that is knowable.
 
 If the Spirit of Truth does not exist,
  or is not knowable to us,
@@ -298,6 +305,8 @@ The divine truth, this Spirit of Truth,
 
 
 
+
+
 ## Revealed Truth 
 
 As we cannot reach objective and knowable truth
@@ -320,6 +329,28 @@ By asking and receiving an answer.
 
 
 ## Meaning and Morality
+
+Just as knowledge rests on a firm foundation
+ of *the Truth*, which as we have seen
+ can only be revealed -- so too
+ is morality as well as its cousin:
+ meaning (as in, the meaning of life).
+In other words, we necessarily
+ assume that
+ Truth exists
+ in order that we can *know* anything,
+ as well as know what is good,
+ and know the meaning of anything.
+
+If you cannot understand the meaning
+ of even the most basic of perceptions,
+ such as a chair or a cup,
+ then how could you possible
+ hope to understand the
+ meaning of your life?
+Let alone the meaning of
+ the suffering and death
+ of life?
 
 Truth claims, as revealed to us,
  contain not only the causal functions
@@ -346,7 +377,7 @@ All truth claims consist of
  causal functionality,
  morality, 
  meaning,
- and beauty.
+ and even beauty.
 
 Seeking truth is then not an
  idle hobby of bored philosophers.
@@ -361,6 +392,79 @@ Seeking truth is to orient your entire
 
 
 
+## Antithesis of Truth
+
+The alternative to truth,
+ popular in all modern universities,
+ and especially in the sad state of
+ western philosophy,
+ is relativism or apathy
+ towards truth, which is to say,
+ that there is no objective knowable truth,
+ which is the same as saying there is
+ no such thing as truth.
+
+Even the strong rationalists with their
+ weapons of reason and empiricism,
+ will shrink in their seats
+ when confronted with an actual
+ question of merit.
+A young student may go to such
+ *experts* of philsophy
+ (these proclaimed lovers of wisdom)
+ looking for answers
+ to the fundamental questions of life;
+ and instead they will get nothing
+ but a history of ideas.
+Here, young seeker,
+ here is a list of ideas 
+ that show how complicated 
+ is the history of even the word
+ truth.
+
+"But what is the answer?"
+ a young seeker might demand.
+
+> "Who am I to tell?"
+
+"I thought you were the expert!"
+
+Imagine an engineering professor behaving this way.
+A young students seeks to know how airplanes work,
+ and the professor of Engineering presents
+ them only with a history of ideas; and
+ a vague relativism where the student
+ is suddenly unaware of whether
+ manned flight is even possible.
+As universities continue 
+ the nihilistic degredation
+ of truth, that is exactly what the
+ future will be.
+
+You might object to the above metaphor,
+ because engineering and airplanes
+ or physical things with known
+ attributes and answers -- well no,
+ the entire field sits atop
+ an assumption of a knowable objective
+ truth, it is dependent on objective
+ truth, and we all know this.
+It cannot, not even the math that
+ explains aerodynamic lift, 
+ exist independently without
+ a foundation of truth.
+
+Beware those who cannot answer
+ the fundamental questions
+ they proclaim to study.
+Beware even more those who do not
+ live in accord to their proclaimed answers.
+
+Know them by their fruits.
+
+
+
+
 https://plato.stanford.edu/entries/truth/
 
 
@@ -368,3 +472,5 @@ https://plato.stanford.edu/entries/truth/
 Why is there something rather than nothing.
 
 https://plato.stanford.edu/entries/nothingness/#WhyTheSomRatThaNot
+
+
