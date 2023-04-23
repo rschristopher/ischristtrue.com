@@ -10,8 +10,10 @@ Wisdom begins with
  seeking *truth*, honestly seeking answers
  to the most fundamental questions
 
-!!! question "How do we know what is real?"
-    Why is there suffering?
+!!! question "What is real?"
+    How do we know what is real?
+    
+    Why is there suffering and death?
     
     What is the purpose of it all?
 
