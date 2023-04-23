@@ -6,27 +6,38 @@
  in chaos, in chaos*
 
 
-Seeking *truth* is the first intimation
- towards the most fundamental questions of life.
-We might start with the most fundamental,
+Wisdom begins with
+ seeking *truth*, honestly seeking answers
+ to the most fundamental questions
 
-!!! question "What is real?"
-    And how do we make sense of what is real?
+!!! question "How do we know what is real?"
+
+!!! question "Why is there suffering?"
+
+!!! question "What is the purpose of it all?"
 
 In other words, whatever *we* are,
  we are perceiving an external world,
+ a world filled with suffering,
  and we are agents within that world --
  and when we seek truth,
  we are seeking to know the world
  (and our own soul)
- as it actually exists.
+ as it actually exists,
+ and to know why we exist,
+ why this world exists,
+ and our purpose in this
+ world of suffering and death.
+Such a path provides no worldly power
+ or advantage -- the reward can
+ only be truth itself.
 
 Is the world we perceive real?
 Is it all a dream?
 Is it a delusion from a demon?
 Is it all a simulation?
 Is the world radically different than
- the way we perceive it?
+ how we perceive it?
 
 
 
