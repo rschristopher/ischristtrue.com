@@ -11,10 +11,9 @@ Wisdom begins with
  to the most fundamental questions
 
 !!! question "How do we know what is real?"
-
-!!! question "Why is there suffering?"
-
-!!! question "What is the purpose of it all?"
+    Why is there suffering?
+    
+    What is the purpose of it all?
 
 In other words, whatever *we* are,
  we are perceiving an external world,
