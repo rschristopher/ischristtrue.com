@@ -8,9 +8,8 @@
 > *in chaos, in chaos*
 
 
-Seeking *truth* is the first intimation,
- the nascent wondering,
- towards the fundamental questions of life.
+Seeking *truth* is the first intimation
+ towards the most fundamental questions of life.
 We might start with the most fundamental,
 
 !!! question "What is real?"
