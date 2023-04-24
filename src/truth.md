@@ -11,15 +11,14 @@ What is the purpose of it all?
 
 Whatever *we* are,
  we are perceiving an external world,
- a world filled with suffering,
- and we are agents within this world --
+ a world filled with suffering --
  and when we seek truth,
  we are seeking to know
  what actually exists;
- to know why we exist,
+ to know why *we* exist,
  why this world exists,
- and our purpose in this
- world of suffering and death.
+ and our purpose amidst
+ the suffering and death.
 
 Is the world we perceive real?
 Is it all a dream?
