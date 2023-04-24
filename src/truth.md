@@ -410,8 +410,8 @@ Even the strong rationalists with their
  when confronted with an actual
  question of merit.
 A young student may go to such
- *experts* of philsophy
- (these proclaimed lovers of wisdom)
+ *experts* of philosophy
+ (those proclaimed lovers of wisdom)
  looking for answers
  to the fundamental questions of life;
  and instead they will get nothing
@@ -441,18 +441,28 @@ As universities continue
  of truth, that is exactly what the
  future will be.
 
-You might object to the above metaphor,
+You might object to the above 
+ as an imperfect metaphor,
  because engineering and airplanes
- or physical things with known
- attributes and answers -- well no,
- the entire field sits atop
+ are physical things with known
+ attributes and answers -- 
+ surely metaphysical questions cannot
+ have such ready answers!
+Yet the entire field of engineering
+ sits atop
  an assumption of a knowable objective
- truth, it is dependent on objective
+ truth, a metaphysical claim,
+ it is dependent on objective
  truth, and we all know this.
 It cannot, not even the math that
  explains aerodynamic lift, 
  exist independently without
- a foundation of truth.
+ a foundation of knowable truth.
+How strange that 
+ our [modern view](../modern-views)
+ would only be confident in
+ the fruits but not the tree
+ from which they grow.
 
 Beware those who cannot answer
  the fundamental questions
