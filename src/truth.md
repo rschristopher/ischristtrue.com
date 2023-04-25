@@ -379,7 +379,7 @@ All truth claims consist of
  and even beauty.
 
 Seeking truth is then not an
- idle hobby of bored philosophers.
+ idle hobby of armchair philosophers.
 Seeking truth is to orient your entire
  life into a relationship with God,
  with the Spirit of Truth,
@@ -395,8 +395,7 @@ Seeking truth is to orient your entire
 
 The alternative to truth,
  popular in all modern universities,
- and especially in the sad state of
- western philosophy,
+ and especially in philosophy classrooms,
  is relativism or apathy
  towards truth, which is to say,
  that there is no objective knowable truth,
