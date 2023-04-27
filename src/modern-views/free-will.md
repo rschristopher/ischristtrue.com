@@ -4,6 +4,8 @@ Foreknowledge != Predestination
 
 Synergy vs Monergism
 
+http://www.crivoice.org/creeddositheus.html
+
 https://orthodoxbridge.com/2012/08/12/plucking-the-tulip-1-an-orthodox-critique-of-the-reformed-doctrine-of-predestination/
 
 https://people.cs.ksu.edu/~bbp9857/calvinism.html
