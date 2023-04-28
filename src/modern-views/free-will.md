@@ -23,7 +23,7 @@ This parallels a 7th century debate
 
 
 
-## Why this matters?
+## Why this Matters?
 Soteriology and Christology
 
 And general sense making
