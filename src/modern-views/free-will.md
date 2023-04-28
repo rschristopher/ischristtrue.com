@@ -34,7 +34,7 @@ vs
 God's love for mankind
 
 
-### weakness in synergism
+### weakness in Synergism
 
 Doubting God's absolute sovereignty,
  doubting God's omniscience.
