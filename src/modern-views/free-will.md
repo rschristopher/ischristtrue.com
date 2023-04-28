@@ -34,13 +34,13 @@ vs
 God's love for mankind
 
 
-### weakness in Synergism
+### Weakness in Synergism
 
 Doubting God's absolute sovereignty,
  doubting God's omniscience.
 
 
-### weakness in Monergism
+### Weakness in Monergism
 
 Doubting God's love for all mankind,
  dying only for the sins of the elect,
