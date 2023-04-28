@@ -10,7 +10,7 @@ https://orthodoxbridge.com/2012/08/12/plucking-the-tulip-1-an-orthodox-critique-
 
 https://people.cs.ksu.edu/~bbp9857/calvinism.html
 
-Either Calvin and the reformers were wrong,
+Either John Calvin and the reformers were wrong,
  or John Chrysostom and the church fathers
  were wrong.
 This parallels a 7th century debate
@@ -21,6 +21,8 @@ This parallels a 7th century debate
  (Christ had human AND divine will).
 
 
+
+
 ## Why this matters?
 Soteriology and Christology
 
@@ -29,15 +31,32 @@ And general sense making
 
 God's ultimate sovereignty
 vs
-God's love for mankind 
+God's love for mankind
 
+
+### weakness in synergism
+
+Doubting God's absolute sovereignty,
+ doubting God's omniscience.
+
+
+### weakness in Monergism
+
+Doubting God's love for all mankind,
+ dying only for the sins of the elect,
+ not participating willfully in your own salvation,
+ predestined to hell with no chance of salvation,
+ impossible to act within,
+ imposing limits of God
+ 
+ 
  
 
 
 Double predestination
 
 
-Limits of Rationality
+## Limits of Rationality
 
 We cannot reason or fit God within the bounds
  of rationality.
@@ -102,6 +121,9 @@ Why not save everyone? Or make salvation available
 ## What would change my mind?
 
 Truth revealed by God.
+
+
+
 
 
 
