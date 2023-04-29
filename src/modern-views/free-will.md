@@ -72,21 +72,23 @@ Total Predestination
 
 ### Love and Free Will
 
-Man cannot fathom omniscience and the nature
+Man cannot fathom omniscience nor the nature
  of God's will, His divine judgement,
  His divine mercy,
- His divine love, and any of His
+ His divine love, nor any of His
  transcendent characteristics;
  and while all will one day be revealed,
  it seems foolish to force God into
  logical constraints, as if to tell
  the creator of the universe what His
- essence must be, what His omniscience
+ timeless essence must be,
+ what His omniscience
  must mean.
+
 Does God will His creatures to hell and
  only save the elect according to his will?
-Logically, yes, His omniscience and divine
- will means exactly that.
+Logically, His omniscience and divine
+ will mean exactly that.
 And yet, His divine mercy and love
  are for all of creation, even
  the most wretched of sinners.
@@ -95,6 +97,7 @@ What is human will if not an aspect
  of His divine will?
 What has been revealed is that all, as in all,
  are so loved that He gave His only son.
+
 The unelect, these are His children,
  they suffer without Him, and He calls to them,
  and the angels rejoice when one is saved.
@@ -112,6 +115,10 @@ TULIP,
 It starts, necessarily, with
  unconditional election and flows
  logically from one to the next
+
+Total depravity
+
+Unconditional election
 
 
 
