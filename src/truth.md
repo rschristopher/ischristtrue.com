@@ -66,10 +66,11 @@ Unfortunately, what we
  intellectuals of our age
  is a nihilistic
  progression of 
- [dead ideas](https://plato.stanford.edu/entries/nothingness/#WhyTheSomRatThaNot),
+ dead ideas,
  a history of the failures
  of past philosophers to answer
- *any* of the fundamental questions --
+ [any](https://plato.stanford.edu/entries/nothingness/#WhyTheSomRatThaNot)
+ of the fundamental questions --
  and we're left with
  rationalizations and word games to
  desensitize honest seekers,
