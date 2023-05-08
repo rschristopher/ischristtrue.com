@@ -42,8 +42,7 @@ It is tempting in our
  worldview to imagine that
  objective truth can be
  attained merely through
- logic and observation
- --
+ logic and observation --
  that we can *know* what actually exists,
  that we can *know* the truth.
 As such,
@@ -558,8 +557,7 @@ Let alone the meaning of
  of life?
 Importantly, by denying knowable
  objective truth, you deny
- morality, meaning, and even beauty
- --
+ morality, meaning, and even beauty --
  you will be left with the inversion
  of beauty and morality,
  which is fashion and relativism.
