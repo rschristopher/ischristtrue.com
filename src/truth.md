@@ -51,7 +51,7 @@ As such,
  fundamental questions
  of life and fully expect
  to find answers amongst the
- philosophers
+ [philosophers](https://plato.stanford.edu/entries/truth/)
  and
  intellectuals
  of the modern age.
@@ -65,7 +65,8 @@ Unfortunately, what we
  philosophers and professional
  intellectuals of our age
  is a nihilistic
- progression of dead ideas,
+ progression of 
+ [dead ideas](https://plato.stanford.edu/entries/nothingness/#WhyTheSomRatThaNot),
  a history of the failures
  of past philosophers to answer
  *any* of the fundamental questions --
@@ -681,12 +682,9 @@ Orthodox, as opposed to heterodox,
 
 
 
-https://plato.stanford.edu/entries/truth/
 
 
 
-Why is there something rather than nothing.
 
-https://plato.stanford.edu/entries/nothingness/#WhyTheSomRatThaNot
 
 
