@@ -1,24 +1,26 @@
 # Nature of Truth
 
 
-Wisdom begins with
- seeking *truth*, seeking answers
+Life begins with the
+ seeking *truth*,
+ making sense of the world,
+ seeking answers
  to the most fundamental questions:
 What is real?
 How do we know what is real?
 Why is there suffering and death?
 What is the purpose of it all?
 
-Whatever *we* are,
+Whatever it is that *we* are,
  we are perceiving an external world,
- a world filled with suffering --
- and when we seek truth,
+ a world filled with suffering.
+When we seek truth,
  we are seeking to know
  what actually exists;
  to know why *we* exist,
  why this world exists,
  and our purpose amidst
- the suffering and death.
+ the perceived suffering and death.
 
 Is the world we perceive real?
 Is it all a dream?
@@ -36,24 +38,128 @@ Is the world radically different than
 
 ## Knowing what actually exists 
 
+It's tempting in our 
+ [modern](../modern-views/)
+ worldview to imagine that
+ objective truth can be
+ attained merely through
+ logic and observation
+ --
+ that we can *know* what actually exists,
+ that we can *know* the truth.
+As such,
+ many young and curious seekers of truth
+ approach the
+ fundamental questions
+ of life and fully expect
+ to find answers amongst the
+ philosophers
+ and
+ intellectuals
+ of the modern age.
+For surely they must have answers --
+ these are afterall, the 
+ most fundamental questions
+ one could ever ask.
+
+Unfortunately, what we
+ find amongst the learned
+ philosophers and professional
+ thinkers of our age
+ is a nihilistic
+ progression of dead ideas,
+ a history of the failures
+ of past philosophers to answer
+ *any* of the fundamental questions --
+ and we're left with
+ rationalizations and word games to
+ desensitize honest seekers,
+ to soothe them into
+ accepting their failures
+ and the inevitable nihilism
+ that follows.
+
+Find one of these so-called
+ experts and ask them yourself --
+Can we know anything?
+What does it mean to know?
+What do you, personally, *know*?
+
+They may tell you about
+ epistemology,
+ about "justified true belief",
+ about the 
+ [Gettier problem](https://en.wikipedia.org/wiki/Gettier_problem),
+ and you'll find yourself
+ reading the likes of
+ [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche), 
+ [Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel),
+ and maybe some
+ [Wittgenstein](https://en.wikipedia.org/wiki/Friedrich_Nietzsche).
+Then maybe
+ [Camus](https://en.wikipedia.org/wiki/Albert_Camus)
+ and 
+ [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault)
+ if you had the temprament for it.
+And now all you know is that
+ the mere concept of
+ objective truth doesn't
+ actually exist, except
+ we can't even know that,
+ because to claim that is
+ itself an objective truth claim.
+
+We now know less than we did
+ before we started.
+Either we pretend everything is
+ rational and we can call ourselves
+ a "realist" or a
+ "pramatist",
+ or we do the exact opposite
+ and embrace the esoteric
+ spiritual systems all competing
+ for our attention.
+Maybe 
+ Buddhists
+ have the right answer, or
+ maybe any of the various
+ [gurus](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi)
+ or 
+ [antigurus](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti).
+Maybe we revert back to
+ secular liberalism, and find
+ ourselves yearning for the
+ comforts of religious
+ systems we just can't
+ bring ourselves to actually believe.
+
+For what is belief other than how
+ we act in the face of the
+ pain and suffering of life?
+What is it that we actually believe?
+And why do none of these systems
+ have any foundational answers
+ and always seem to bring us
+ further and further away
+ from those fundamental questions
+ we originally wanted answers to?
+
+
 > *the light, the light<br />
-> ~ seeking, searching ~<br />
+> ~ the seeking, the searching ~<br />
 > in chaos, in chaos*
 
-Can we know anything?
-
-What does it mean to know?
-
-Epistemology
 
 
 
 
 ## Knowing Truth
 
-Is there objective knowable truth?
+This should be a simple question,
+ is there objective knowable truth?
+Does truth exist?
 
-In the [modern view](../modern-views/)
+In the [modern view](../modern-views/),
  there is no objective knowable truth.
 There is word games.
 There is suffering.
@@ -115,8 +221,7 @@ But in practice,
 
 [Ancient views](../ancient-views/)
  understood truth as a spirit,
- which means it has personhood,
- as all spirits do.
+ which means it has something akin to personhood.
 If there is a *spirit of truth*,
  then we should not ask,
  "what is true?"
