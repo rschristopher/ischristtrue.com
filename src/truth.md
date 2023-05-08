@@ -35,7 +35,7 @@ Is the world radically different than
 
 
 
-Knowing what actually exists It is tempting in our 
+## Knowing what actually exists It is tempting in our 
  [modern](../modern-views/)
  worldview to imagine that
  objective truth can be
