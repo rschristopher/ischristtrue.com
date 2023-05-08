@@ -1,7 +1,7 @@
 # Nature of Truth
 
 
-Life begins with the
+Life begins with 
  seeking *truth*,
  making sense of the world,
  seeking answers
@@ -19,7 +19,7 @@ When we seek truth,
  what actually exists;
  to know why *we* exist,
  why this world exists,
- and our purpose amidst
+ and to know our purpose amidst
  the perceived suffering and death.
 
 Is the world we perceive real?
@@ -212,7 +212,8 @@ Something is true if it is objectively true,
  and knowledge of this objectivity
  is what brings people to "the Truth".
 
-[Modern views](../modern-views/) understand truth as an attribute,
+[Modern views](../modern-views/) understand
+ truth as an attribute,
  that something is either true or it is not.
 But in practice,
  truth is experienced in very personal ways,
