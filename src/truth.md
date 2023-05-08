@@ -36,7 +36,9 @@ Is the world radically different than
 
 
 
-## Knowing what actually exists 
+
+## Knowing what actually exists
+
 
 It's tempting in our 
  [modern](../modern-views/)
@@ -114,14 +116,14 @@ We now know less than we did
 Either we pretend everything is
  rational and we can call ourselves
  a "realist" or a
- "pramatist",
+ "pragmatist",
  or we do the exact opposite
  and embrace the esoteric
  spiritual systems all competing
  for our attention.
 Maybe 
  Buddhists
- have the right answer, or
+ have the truth or
  maybe any of the various
  [gurus](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi)
  or 
@@ -131,13 +133,14 @@ Maybe we revert back to
  ourselves yearning for the
  comforts of religious
  systems we just can't
- bring ourselves to actually believe.
+ bring ourselves to literally believe.
 
 For what is belief other than how
  we act in the face of the
  pain and suffering of life?
 What is it that we actually believe?
 And why do none of these systems
+ we espouse 
  have any foundational answers
  and always seem to bring us
  further and further away
@@ -166,6 +169,11 @@ There is suffering.
 There is power and oppression.
 There is the deconstruction of
  everything, even deconstructionism itself.
+
+It seems every worldview is on same gradient
+ that gets further and further away from
+ answering the fundamental questions
+ of life.
 
 To be clear, if you claim to be a
  rationalist,
@@ -228,7 +236,9 @@ If there is a *spirit of truth*,
  "what is true?"
  we ought to ask
  "who is truth?"
-
+In fact, this is the only way
+ we can even hope to arrive
+ at knowable objective truth.
 
 
 
@@ -264,7 +274,10 @@ If you haven't thought of a spirit
  interact with our world but hover
  about --
  this is most certainly not a spirit,
- this is a childish caricature.
+ this is a childish caricature
+ and it demonstrates the unquestioned
+ nihilism that possesses our
+ conventional wisdom.
 Anyone can "see" a spirit, if not directly
  through symbolism or iconography,
  then through patterns of reality
@@ -450,7 +463,7 @@ In other words, we necessarily
 If you cannot understand the meaning
  of even the most basic of perceptions,
  such as a chair or a cup,
- then how could you possible
+ then how could you possibly 
  hope to understand the
  meaning of your life?
 Let alone the meaning of
@@ -465,7 +478,7 @@ Truth claims, as revealed to us,
  doesn't actually explain anything) --
  truth claims also contain meaning
  and morality, in other words, values
- of what is good and what is not.
+ of what is good, and what is not.
 This should not be surprising since
  revelatory truth cane from a relationship
  with a spirit that is the source of all
@@ -511,15 +524,15 @@ The alternative to truth,
 Even the strong rationalists with their
  weapons of reason and empiricism,
  will shrink in their seats
- when confronted with an actual
- question of merit.
+ when confronted with a fundamental 
+ question.
 A young student may go to such
  *experts* of philosophy
  (those proclaimed lovers of wisdom)
  looking for answers
  to the fundamental questions of life;
  and instead they will get nothing
- but a history of ideas.
+ but a history of anti-Christian ideas.
 Here, young seeker,
  here is a list of ideas 
  that show how complicated 
