@@ -39,7 +39,6 @@ Is the world radically different than
 
 ## Knowing what actually exists
 
-
 It's tempting in our 
  [modern](../modern-views/)
  worldview to imagine that
@@ -67,7 +66,7 @@ For surely they must have answers --
 Unfortunately, what we
  find amongst the learned
  philosophers and professional
- thinkers of our age
+ intellectuals of our age
  is a nihilistic
  progression of dead ideas,
  a history of the failures
@@ -77,7 +76,7 @@ Unfortunately, what we
  rationalizations and word games to
  desensitize honest seekers,
  to soothe them into
- accepting their failures
+ accepting intellectual failures
  and the inevitable nihilism
  that follows.
 
@@ -106,24 +105,27 @@ Then maybe
 And now all you know is that
  the mere concept of
  objective truth doesn't
- actually exist, except
+ actually exist or at least
+ is not knowable, except
  we can't even know that,
  because to claim that is
  itself an objective truth claim.
 
 We now know less than we did
  before we started.
-Either we pretend everything is
+We can now 
+ either pretend everything is
  rational and we can call ourselves
  a "realist" or a
  "pragmatist",
- or we do the exact opposite
+ or we
  and embrace the esoteric
  spiritual systems all competing
- for our attention.
+ for our attention,
+ maybe they have some answers.
 Maybe 
  Buddhists
- have the truth or
+ have objective truth or
  maybe any of the various
  [gurus](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi)
  or 
@@ -131,21 +133,21 @@ Maybe
 Maybe we revert back to
  secular liberalism, and find
  ourselves yearning for the
- comforts of religious
- systems we just can't
+ comforts of ancient religious
+ beliefs we just can't
  bring ourselves to literally believe.
 
 For what is belief other than how
  we act in the face of the
  pain and suffering of life?
 What is it that we actually believe?
-And why do none of these systems
- we espouse 
+And why do none of the
+ modern belief systems
  have any foundational answers
  and always seem to bring us
  further and further away
  from those fundamental questions
- we originally wanted answers to?
+ we originally wanted to answer?
 
 
 > *the light, the light<br />
@@ -169,11 +171,42 @@ There is suffering.
 There is power and oppression.
 There is the deconstruction of
  everything, even deconstructionism itself.
+Once again, we move further and further
+ away from the fundamental questions.
 
-It seems every worldview is on same gradient
- that gets further and further away from
- answering the fundamental questions
- of life.
+If you are at all serious about pursuing
+ and knowing truth,
+ you may want to consider an alternative
+ to the fashionable trends of modern
+ philosophy which all seems to aim
+ away from fundamental questions,
+ as if on purpose.
+You may want to consider that the
+ entire enlightenment project
+ has yielded exactly this assault
+ on the fundamental questions,
+ and that it is anti-Christian in
+ its aim, from the secular humanist
+ with their watered down
+ Christian traditions,
+ to the pragmatists and devout
+ atheists, all the way to the esoteric
+ spiritual revivalism that springs
+ forth inevitably from the
+ spiritually dead atheists
+ and the spiritually weak humanists.
+All of these seemingly disparate worldviews
+ share a singular and notable feature;
+ to weaken and reject Christianity,
+ which just so happens to be the origin 
+ of "knowable objective truth".
+For those who still hold a belief in
+ knowable objective truth and yet
+ reject Christianity, you are operating
+ on the fumes of a Christian worldview,
+ and you'll find only absurdity at the
+ other end of your venture.
+ 
 
 To be clear, if you claim to be a
  rationalist,
@@ -187,11 +220,20 @@ To be clear, if you claim to be a
  then you will find yourself
  unmoored from any first principles
  necessary for even a pretense
- of objective truth.
-Non-belief in an otherwise "unseen" reality 
+ of objective truth, and you've
+ probably numbed yourself to those
+ fundamental questions and you simply
+ stopped asking them with any humility.
+You can ignore the fundamental questions,
+ but non-belief in an otherwise "unseen" reality 
  doesn't negate the existence of that reality.
-You don't live in a mechanistic universe.
-You don't live in absurdist universe.
+You don't live in a mechanistic universe,
+ because fundamental questions are
+ not mechanistic and yet still exist
+ and are still fundamental.
+You don't live in absurdist universe,
+ accepting absurdism is merely to
+ abandon reason and will.
 And you certainly don't live in a 
  postmodern
  universe.
@@ -199,19 +241,34 @@ And you certainly don't live in a
 The postmodern "deconstructions" of
  [modern views](../modern-views/)
  will yield absurdity,
- but they are apt critiques
+ but they are still apt critiques
  of the rationalism we see in
  secular culture.
 There is indeed a patriarchal hierarchy
  which is the foundation for any and all
  truth claims.
+There is a normative system of power.
+It indeed can't be otherwise.
 The patriarchy, it turns out, is real!
-And yet it's not man-made.
+And yet it doesn't seem to be man-made,
+ it is in the fabric of reality.
 On some level the postmodernists
  know this, and still reject it
  (and hence reject *truth* itself).
 
-My truth, your truth ...
+They'll say, "my truth", "your truth",
+ because truth to them is relative,
+ a language game of power.
+Yet we can't say this without making yet
+ another objective truth claim.
+Hypocrisy would bother them if they
+ believed in objective truth.
+But really, they are assaulting the very
+ idea of knowable objective truth,
+ reducing it to self worship.
+And even this moves them paradoxically
+ closer to actual truth (that truth
+ involves a person and a relationship).
 
 For truth to have any meaning,
  then truth must transcend all subjective
@@ -226,17 +283,20 @@ Something is true if it is objectively true,
 But in practice,
  truth is experienced in very personal ways,
  and not at all confined to sense perceptions.
-
+We once understood this in our culture,
+ that truth is revealed to you personally.
 
 [Ancient views](../ancient-views/)
  understood truth as a spirit,
- which means it has something akin to personhood.
+ which means Truth was
+ something akin to personhood.
 If there is a *spirit of truth*,
  then we should not ask,
  "what is true?"
  we ought to ask
  "who is truth?"
-In fact, this is the only way
+In fact, as we shall see,
+ this is the only way
  we can even hope to arrive
  at knowable objective truth.
 
@@ -258,11 +318,10 @@ In other words, that which
  is objectively real is
  the spirit we are referring.
 And rather than a *what*,
- this is better understood as a *who*.
+ truth is better understood as a *who*.
 
 A spirit is any pattern of reality with 
- a non-material consciousness,
- which is all consciousness.
+ a consciousness
 It has agency and 
  self awareness.
 It has personal attributes.
@@ -295,7 +354,8 @@ Such an entity reacts to the outside
  with which to actualize its will.
 In a secular worldview we might refer
  to the "emergent" patterns and behavior
- of a complex system.
+ of a complex system or ideology,
+ or Foucault's panopticon.
 But the word "emergence" is what if
  not consciousness?
 It might make demands of us,
@@ -312,7 +372,7 @@ And thankfully, these
  known as "you".
 
 Understood properly, we can see *spirits*
- everywhere, in all manner of complex systems 
+ everywhere, in all manner of systems 
  that we interact with and participate in.
 These are patterns of reality over time,
  plainly visible to all humans throughout
@@ -417,9 +477,10 @@ They are but artifacts of our consciousness,
  the means with which we *make sense* of the
  world around us.
 The divine truth, this Spirit of Truth,
- must be the source of logic and reason --
+ must be the source of logic and reason
+ (which are merely 
  the means given to us to *make sense*
- of the world.
+ of the world).
 
 
 
@@ -429,8 +490,8 @@ The divine truth, this Spirit of Truth,
 
 As we cannot reach objective and knowable truth
  through reason and logic alone,
- then it must
- be revealed (if there is truth).
+ then truth can only
+ be revealed.
 And this revelation of truth can only
  happen through communion, that is,
  relationship between ourselves and
@@ -448,27 +509,18 @@ By asking and receiving an answer.
 
 ## Meaning and Morality
 
-Just as knowledge rests on a firm foundation
+Just as knowledge depends
+ on a firm foundation
  of *the Truth*, which as we have seen
  can only be revealed -- so too
- is morality as well as its cousin:
+ are morality as well as its cousin:
  meaning (as in, the meaning of life).
-In other words, we necessarily
- assume that
+In other words, we must necessarily
+ believe that
  Truth exists
  in order that we can *know* anything,
  as well as know what is good,
  and know the meaning of anything.
-
-If you cannot understand the meaning
- of even the most basic of perceptions,
- such as a chair or a cup,
- then how could you possibly 
- hope to understand the
- meaning of your life?
-Let alone the meaning of
- the suffering and death
- of life?
 
 Truth claims, as revealed to us,
  contain not only the causal functions
@@ -481,21 +533,38 @@ Truth claims, as revealed to us,
  of what is good, and what is not.
 This should not be surprising since
  revelatory truth cane from a relationship
- with a spirit that is the source of all
+ with a spirit that is 
+ (necessarily) the source of all
  that is.
 Just as we share truth claims with
  each other,
  so too does the Spirit of Truth
  share with us.
 
-What we understand as morality,
- ethical behavior, how we ought to live,
+What we understand as morality
  is intractable from a truth claim.
 All truth claims consist of
  causal functionality,
  morality, 
  meaning,
  and even beauty.
+
+If you cannot understand the meaning
+ of even the most basic of things,
+ such as a chair or a cup,
+ then how could you possibly 
+ hope to understand the
+ meaning of your life?
+Let alone the meaning of
+ the suffering and death
+ of life?
+Importantly, by denying knowable
+ objective truth, you deny
+ morality, meaning, and even beauty
+ --
+ you will be left with the inversion
+ of beauty and morality,
+ which is fashion and relativism.
 
 Seeking truth is then not an
  idle hobby of armchair philosophers.
@@ -515,7 +584,7 @@ Seeking truth is to orient your entire
 The alternative to truth,
  popular in all modern universities,
  and especially in philosophy classrooms,
- is relativism or apathy
+ is relativism and apathy
  towards truth, which is to say,
  that there is no objective knowable truth,
  which is the same as saying there is
@@ -546,8 +615,10 @@ Here, young seeker,
 
 "I thought you were the expert!"
 
-Imagine an engineering professor behaving this way.
-A young students seeks to know how airplanes work,
+Imagine an engineering professor
+ behaving this way.
+A young students seeks to know
+ how airplanes work,
  and the professor of Engineering presents
  them only with a history of ideas; and
  a vague relativism where the student
@@ -563,13 +634,13 @@ You might object to the above
  because engineering and airplanes
  are physical things with known
  attributes and answers -- 
- surely metaphysical questions cannot
+ surely fundamental questions cannot
  have such ready answers!
 Yet the entire field of engineering
  sits atop
  an assumption of a knowable objective
  truth, a metaphysical claim,
- it is dependent on objective
+ all is dependent on objective
  truth, and we all know this.
 It cannot, not even the math that
  explains aerodynamic lift, 
@@ -588,6 +659,28 @@ Beware even more those who do not
  live in accord to their proclaimed answers.
 
 Know them by their fruits.
+
+
+
+## Nihilism
+
+Ultimately, moving away from
+ knowable objective truth is
+ to move towards nihilism.
+Nihilism is simply the rejection of
+ truth, a worship of self and
+ in its purest form a worship of nothing.
+It is, interestingly, also anti-Christian
+ in its entirety.
+
+In other words, the move towards Nihilism
+ and away from knowable objective truth,
+ is identical to the
+ move away from Orthodox Christianity.
+Orthodox, as opposed to heterodox,
+ and Orthodox Christianity as in the
+ Christianity as it was believed
+ by the apostles.
 
 
 
