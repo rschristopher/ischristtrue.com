@@ -675,8 +675,9 @@ In other words, the move towards Nihilism
  is identical to the
  move away from Orthodox Christianity.
 Orthodox, as opposed to heterodox,
- and Orthodox Christianity as in the
+ and Orthodox Christianity as in
  Christianity as it was believed
+ and practiced 
  by the apostles.
 
 
