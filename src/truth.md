@@ -56,8 +56,8 @@ As such,
  of life and fully expect
  to find answers amongst the
  [philosophers](https://plato.stanford.edu/entries/truth/)
- and
- intellectuals
+ and so-called
+ "intellectuals"
  of the modern age.
 For surely they must have answers --
  these are afterall, the 
@@ -67,7 +67,7 @@ For surely they must have answers --
 Unfortunately, what we
  find amongst the learned
  philosophers and professional
- intellectuals of our age
+ intellectuals
  is a nihilistic
  progression of 
  dead ideas,
@@ -104,8 +104,9 @@ Then maybe
  [Camus](https://en.wikipedia.org/wiki/Albert_Camus)
  and 
  [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault)
- if you had the temprament for it.
-And now all you know is that
+ if you have the temprament for it.
+And now, after a lot of reading,
+ all you know is that
  the mere concept of
  objective truth doesn't
  actually exist or at least
@@ -116,14 +117,14 @@ And now all you know is that
 
 We now know less than we did
  before we started.
-We can now 
+We
  either pretend everything is
  rational and we can call ourselves
  a "realist" or a
  "pragmatist",
  or we
- and embrace the esoteric
- spiritual systems all competing
+ and embrace one of the esoteric
+ spiritual systems that is competing
  for our attention,
  maybe they have some answers.
 Maybe 
@@ -137,20 +138,22 @@ Maybe we revert back to
  secular liberalism, and find
  ourselves yearning for the
  comforts of ancient religious
- beliefs we just can't
+ beliefs that we just can't
  bring ourselves to literally believe.
 
 For what is belief other than how
  we act in the face of the
  pain and suffering of life?
 What is it that we actually believe?
-And why do none of the
+And why do none of these
  modern belief systems
  have any foundational answers
  and always seem to bring us
  further and further away
  from those fundamental questions
  we originally wanted to answer?
+
+This is, afterall, the human condition.
 
 
 > *the light, the light<br />
