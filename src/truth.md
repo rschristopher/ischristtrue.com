@@ -1,15 +1,18 @@
 # Nature of Truth
 
 
-Life begins with 
+Life begins by
  seeking *truth*,
  making sense of the world,
  seeking answers
  to the most fundamental questions:
 What is real?
 How do we know what is real?
+And the philosophical-inclined
+ might also ask:
 Why is there suffering and death?
 What is the purpose of it all?
+
 
 Whatever it is that *we* are,
  we are perceiving an external world,
