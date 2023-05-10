@@ -123,7 +123,7 @@ We
  a "realist" or a
  "pragmatist",
  or we
- and embrace one of the esoteric
+ embrace one of the esoteric
  spiritual systems that is competing
  for our attention,
  maybe they have some answers.
