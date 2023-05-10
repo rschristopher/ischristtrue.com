@@ -60,7 +60,7 @@ As such,
  "intellectuals"
  of the modern age.
 For surely they must have answers --
- these are afterall, the 
+ these are afterall the 
  most fundamental questions
  one could ever ask.
 
@@ -69,14 +69,15 @@ Unfortunately, what we
  philosophers and professional
  intellectuals
  is a nihilistic
- progression of 
+ program of 
  dead ideas,
  a history of the failures
  of past philosophers to answer
  [any](https://plato.stanford.edu/entries/nothingness/#WhyTheSomRatThaNot)
  of the fundamental questions --
  and we're left with
- rationalizations and word games to
+ rationalizations and word games,
+ as if to
  desensitize honest seekers,
  to soothe them into
  accepting intellectual failures
@@ -87,7 +88,7 @@ Find one of these so-called
  experts and ask them yourself --
 Can we know anything?
 What does it mean to know?
-What do you, personally, *know*?
+
 
 They may tell you about
  epistemology,
@@ -98,19 +99,19 @@ They may tell you about
  reading the likes of
  [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche), 
  [Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel),
- and maybe some
- [Wittgenstein](https://en.wikipedia.org/wiki/Friedrich_Nietzsche).
-Then maybe
- [Camus](https://en.wikipedia.org/wiki/Albert_Camus)
- and 
- [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault)
- if you have the temprament for it.
+  [Wittgenstein](https://en.wikipedia.org/wiki/Friedrich_Nietzsche),
+ and maybe others.
+Or perhaps the absurdists like
+ [Camus](https://en.wikipedia.org/wiki/Albert_Camus).
+ Or postmodernists like
+ [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault), assuming 
+ you have the temprament for it.
 And now, after a lot of reading,
  all you know is that
  the mere concept of
  objective truth doesn't
- actually exist or at least
- is not knowable, except
+ actually exist, or at least
+ is not knowable -- except
  we can't even know that,
  because to claim that is
  itself an objective truth claim.
@@ -118,19 +119,21 @@ And now, after a lot of reading,
 We now know less than we did
  before we started.
 We
- either pretend everything is
- rational and we can call ourselves
- a "realist" or a
- "pragmatist",
- or we
- embrace one of the esoteric
- spiritual systems that is competing
- for our attention,
- maybe they have some answers.
+ could pretend everything is
+ rational and call ourselves
+ "realists" or
+ "pragmatists".
+And then like a pendulum 
+ we could swing the other way and
+ embrace any of the esoteric
+ spiritual systems that are competing
+ for our attention.
+Transcendental  
+ something-or-other.
 Maybe 
  Buddhists
- have objective truth or
- maybe any of the various
+ have knowable objective truth.
+Or maybe any of the various
  [gurus](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi)
  or 
  [antigurus](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti).
@@ -184,14 +187,15 @@ If you are at all serious about pursuing
  and knowing truth,
  you may want to consider an alternative
  to the fashionable trends of modern
- philosophy which all seems to aim
+ philosophy which always seems to aim
  away from fundamental questions,
  as if on purpose.
 You may want to consider that the
  entire enlightenment project
  has yielded exactly this assault
  on the fundamental questions,
- and that it is anti-Christian in
+ and that it is specifically 
+ anti-Christian in
  its aim, from the secular humanist
  with their watered down
  Christian traditions,
@@ -229,7 +233,7 @@ To be clear, if you claim to be a
  of objective truth, and you've
  probably numbed yourself to those
  fundamental questions and you simply
- stopped asking them with any humility.
+ stopped asking.
 You can ignore the fundamental questions,
  but non-belief in an otherwise "unseen" reality 
  doesn't negate the existence of that reality.
@@ -237,8 +241,8 @@ You don't live in a mechanistic universe,
  because fundamental questions are
  not mechanistic and yet still exist
  and are still fundamental.
-You don't live in absurdist universe,
- accepting absurdism is merely to
+You don't live in absurdist universe --
+ accepting absurdism is to
  abandon reason and will.
 And you certainly don't live in a 
  postmodern
@@ -253,11 +257,13 @@ The postmodern "deconstructions" of
 There is indeed a patriarchal hierarchy
  which is the foundation for any and all
  truth claims.
-There is a normative system of power.
+There is a normative system of power
+ and oppression.
 It indeed can't be otherwise.
 The patriarchy, it turns out, is real!
 And yet it doesn't seem to be man-made,
  it is in the fabric of reality.
+It's everywhere the empiricists look.
 On some level the postmodernists
  know this, and still reject it
  (and hence reject *truth* itself).
@@ -283,7 +289,8 @@ Something is true if it is objectively true,
  and knowledge of this objectivity
  is what brings people to "the Truth".
 
-[Modern views](../modern-views/) understand
+[Modern views](../modern-views/)
+ frame
  truth as an attribute,
  that something is either true or it is not.
 But in practice,
@@ -295,7 +302,7 @@ We once understood this in our culture,
 [Ancient views](../ancient-views/)
  understood truth as a spirit,
  which means Truth was
- something akin to personhood.
+ something akin to a person.
 If there is a *spirit of truth*,
  then we should not ask,
  "what is true?"
