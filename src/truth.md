@@ -8,7 +8,8 @@ Life begins by
  to the most fundamental questions:
 What is real?
 How do we know what is real?
-And the philosophical-inclined
+
+And the philosophically-inclined
  might also ask:
 Why is there suffering and death?
 What is the purpose of it all?
