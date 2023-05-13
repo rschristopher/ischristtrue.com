@@ -157,7 +157,9 @@ And why do none of these
  we originally wanted to answer?
 
 This is, afterall, the human condition.
-
+We ought to know *something*,
+ anything, about
+ our own existence.
 
 > *the light, the light<br />
 > ~ the seeking, the searching ~<br />
@@ -176,6 +178,9 @@ Does truth exist?
 In the [modern view](../modern-views/),
  there is no objective knowable truth.
 There is word games.
+There is a cascade of unconsciously 
+ held beliefs behind every word,
+ even the word "truth".
 There is suffering.
 There is power and oppression.
 There is the deconstruction of
@@ -334,7 +339,7 @@ And rather than a *what*,
  truth is better understood as a *who*.
 
 A spirit is any pattern of reality with 
- a consciousness
+ a consciousness.
 It has agency and 
  self awareness.
 It has personal attributes.
@@ -352,7 +357,7 @@ If you haven't thought of a spirit
  conventional wisdom.
 Anyone can "see" a spirit, if not directly
  through symbolism or iconography,
- then through patterns of reality
+ but through patterns of reality
  over time.
 A spirit is just that, a pattern of
  reality that has conscious agency.
@@ -367,11 +372,11 @@ Such an entity reacts to the outside
  with which to actualize its will.
 In a secular worldview we might refer
  to the "emergent" patterns and behavior
- of a complex system or ideology,
- or Foucault's panopticon.
+ of a complex system or
+ ideology.
 But the word "emergence" is what if
  not consciousness?
-It might make demands of us,
+It might make demands of us;
  we might participate in or
  be mere components of this 
  "emergent" consciousness --
@@ -379,7 +384,7 @@ It might make demands of us,
  gut are an integral part of the
  emergent consciousness that is known
  as "you".
-And thankfully, these
+And thankfully, those
  bacteria participate in the emergence
  (that we call consciousness)
  known as "you".
@@ -389,9 +394,9 @@ Understood properly, we can see *spirits*
  that we interact with and participate in.
 These are patterns of reality over time,
  plainly visible to all humans throughout
- the ages and ages -- and yet
+ the ages of ages -- and yet
  seemingly invisible to our modern
- biased mechanistic thinking,
+ biased mechanistic worldview,
  because we ignore
  the consciousness of anything other
  than ourselves and other human beings
@@ -400,7 +405,7 @@ But everywhere in nature, in our own
  interactions and what we observe around us,
  this "emergence" of consciousness is everywhere.
 
-Spirits everywhere, even in the most simple
+Spirits are everywhere, even in the most simple
  systems, such as a leaf turning to face
  the sun.
 In our secular mechanistic presuppositions
@@ -453,7 +458,7 @@ What kind of being, what kind of spirit,
 
 Well, turns out there's only a handful of
  possible answers.
-Either He exists, or doesn't.
+Either He exists, or He doesn't.
 And if He does exist,
  He is either knowable, or not.
 
@@ -470,8 +475,9 @@ If the Spirit of Truth does not exist,
  then gone too is any hope of any defensible
  epistemology.
 In other words, we can't know anything and
- there cannot be knowable truth about ourselves
- or the universe without a Spirit of Truth 
+ there cannot be knowable truth about ourselves,
+ or the universe,
+ without a Spirit of Truth 
  making knowledge available to us.
 
 Whoever this divine Spirit of Truth is,
