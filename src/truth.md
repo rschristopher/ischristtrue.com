@@ -9,8 +9,8 @@ Life begins by
 What is real?
 How do we know what is real?
 
-And the philosophically-inclined
- might also ask:
+The philosophically-inclined
+ might add:
 Why is there suffering and death?
 What is the purpose of it all?
 
@@ -58,7 +58,7 @@ As such,
  [philosophers](https://plato.stanford.edu/entries/truth/)
  and so-called
  "intellectuals"
- of the modern age.
+ of our modern age.
 For surely they must have answers --
  these are afterall the 
  most fundamental questions
@@ -100,13 +100,13 @@ They may tell you about
  [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche), 
  [Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel),
   [Wittgenstein](https://en.wikipedia.org/wiki/Friedrich_Nietzsche),
- and maybe others.
+ and many others.
 Or perhaps the absurdists like
  [Camus](https://en.wikipedia.org/wiki/Albert_Camus).
  Or postmodernists like
  [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault), assuming 
  you have the temprament for it.
-And now, after a lot of reading,
+And now, after a lot of study,
  all you know is that
  the mere concept of
  objective truth doesn't
