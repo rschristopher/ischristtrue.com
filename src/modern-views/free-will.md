@@ -10,6 +10,8 @@ https://orthodoxbridge.com/2012/08/12/plucking-the-tulip-1-an-orthodox-critique-
 
 https://people.cs.ksu.edu/~bbp9857/calvinism.html
 
+https://credohouse.org/blog/an-eastern-orthodox-view-of-predestination
+
 Either John Calvin and the reformers were wrong,
  or John Chrysostom and the church fathers
  were wrong.
