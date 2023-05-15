@@ -148,7 +148,7 @@ Who are you to classify God within rationality?
 
 How to make sense of demons?
 That is, if no free will, then why torment?
-Why pull the unekect further from God?
+Why pull the unelect further from God?
 Why not save everyone? Or make salvation available
  to all, even those you know won't be saved?
 
