@@ -12,6 +12,8 @@ https://people.cs.ksu.edu/~bbp9857/calvinism.html
 
 https://credohouse.org/blog/an-eastern-orthodox-view-of-predestination
 
+https://saintgeorgekearney.com/load.php?pageid=55
+
 Either John Calvin and the reformers were wrong,
  or John Chrysostom and the church fathers
  were wrong.
