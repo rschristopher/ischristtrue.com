@@ -128,7 +128,7 @@ And then like a pendulum
  embrace any of the esoteric
  spiritual systems that are competing
  for our attention.
-Transcendental  
+Transcendental
  something-or-other.
 Maybe 
  Buddhists
