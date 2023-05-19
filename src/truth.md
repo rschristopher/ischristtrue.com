@@ -201,7 +201,7 @@ You may want to consider that the
  on the fundamental questions,
  and that it is specifically 
  anti-Christian in
- its aim, from the secular humanist
+ its aim: from the secular humanists
  with their watered down
  Christian traditions,
  to the pragmatists and devout
@@ -211,7 +211,7 @@ You may want to consider that the
  spiritually dead atheists
  and the spiritually weak humanists.
 All of these seemingly disparate worldviews
- share a singular and notable feature;
+ share a singular and notable feature:
  to weaken and reject Christianity,
  which just so happens to be the origin 
  of "knowable objective truth".
@@ -222,6 +222,29 @@ For those who still hold a belief in
  and you'll find only absurdity at the
  other end of your venture.
  
+But aha, you may be asking,
+ what about the ancient Romans
+ and their concept of a divine truth,
+ *veritas*?
+Or the ancient Greek philosophers?
+Plato certainly had a lot to say
+ on this
+ matter.
+Christianity might have copied 
+ the concept of an objective
+ knowable truth, but they did
+ not invent it.
+Except that *veritas* was a
+ pagan Goddess, daughter of Saturn,
+ in some tellings she was a creation
+ of Prometheus --
+ not exactly what we mean when
+ talking about *truth*.
+And
+*platonic forms*
+ hardly bear a resemblance to
+ what we mean when talking
+ about objective knowable truth.
 
 To be clear, if you claim to be a
  rationalist,
@@ -237,7 +260,7 @@ To be clear, if you claim to be a
  necessary for even a pretense
  of objective truth, and you've
  probably numbed yourself to those
- fundamental questions and you simply
+ fundamental questions, and perhaps 
  stopped asking.
 You can ignore the fundamental questions,
  but non-belief in an otherwise "unseen" reality 
