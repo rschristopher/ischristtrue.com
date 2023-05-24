@@ -245,6 +245,10 @@ And
  hardly bear a resemblance to
  what we mean when talking
  about objective knowable truth.
+Whether we like it or not,
+ Christianity is what brought us
+ the very concept of
+ *objective knowable truth*.
 
 To be clear, if you claim to be a
  rationalist,
