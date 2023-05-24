@@ -233,7 +233,7 @@ Plato certainly had a lot to say
 Christianity might have copied 
  the concept of an objective
  knowable truth, but they did
- not invent it.
+ not invent it, right?
 Except that *veritas* was a
  pagan Goddess, daughter of Saturn,
  in some tellings she was a creation
