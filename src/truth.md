@@ -193,7 +193,7 @@ If you are at all serious about pursuing
  and knowing truth,
  you may want to consider an alternative
  to the fashionable trends of modern
- philosophy which always seems to aim
+ philosophy which aims
  away from fundamental questions,
  as if on purpose.
 You may want to consider that the
