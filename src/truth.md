@@ -106,8 +106,8 @@ Or perhaps the absurdists like
  Or postmodernists like
  [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault)
  if you have the temprament for it.
-And now, after a lot of study,
- all you know is that
+And then, after a lot of study,
+ all you'll know is that
  the mere concept of
  objective truth doesn't
  actually exist, or at least
