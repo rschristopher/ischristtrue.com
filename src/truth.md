@@ -178,7 +178,7 @@ Does truth exist?
 
 In the [modern view](../modern-views/),
  there is no objective knowable truth.
-There is word games.
+There are word games.
 There is a cascade of unconsciously 
  held beliefs behind every word,
  even the word "truth".
