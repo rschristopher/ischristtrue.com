@@ -104,8 +104,8 @@ They may tell you about
 Or perhaps the absurdists like
  [Camus](https://en.wikipedia.org/wiki/Albert_Camus).
  Or postmodernists like
- [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault), assuming 
- you have the temprament for it.
+ [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault)
+ if you have the temprament for it.
 And now, after a lot of study,
  all you know is that
  the mere concept of
