@@ -160,6 +160,7 @@ This is, afterall, the human condition.
 We ought to know *something*,
  anything, about
  our own existence.
+As the old Maori prayer goes,
 
 > *the light, the light<br />
 > ~ the seeking, the searching ~<br />
