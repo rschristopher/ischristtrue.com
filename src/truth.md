@@ -730,6 +730,60 @@ Orthodox, as opposed to heterodox,
  by the apostles.
 
 
+## Christ is the Spirit of Truth
+
+The Christian answer to Truth is,
+ on one hand,
+ an outrageous claim;
+ and on the other hand,
+ a necessary claim for
+ truth to be knowable.
+That is, the spirit of truth is
+ the creator of the universe,
+ who was incarnate as man,
+ who was crucified for us,
+ and on the third day He
+ rose again.
+And even more outrageous,
+ Christ is the mediator between
+ God and man, between God the father
+ and man.
+In other words, the creator of the
+ universe is knowable to you,
+ born and died for you,
+ and is there in your very
+ perception of truth to
+ mediate between known and unknown --
+that as you look out onto the world,
+ there is the creator of the universe
+ to help, to mediate and discern.
+ 
+As outrageous as this can sound to
+ modern ears, the alternative is
+ absurdity and nihilism.
+The very idea of knowable objective
+ truth presupposes these seemingly
+ outrageous claims -- that you are
+ created in the image and likeness 
+ of God, that this creator of the
+ universe loves you, and you
+ were made to know and glorify Him 
+ (the spirit of Truth), and that
+ creation itself is knowable to you.
+Your life is not only meaningful,
+ but divinely meaningful as to
+ contain an eternal soul,
+ that you do not, and cannot,
+ return to nothingness,
+ but that your existence sustains
+ throughout eternity --
+ hence denying truth, the truth,
+ is itself a fall from grace,
+ a [hell](../doctrines/hell.md)
+ of one's own making.
+ 
+
+
 
 
 
