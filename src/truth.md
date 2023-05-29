@@ -748,7 +748,7 @@ That is, the Spirit of Truth is
  rose again.
 To be clear, there is no justifiable 
  epistemology outside of Christianity
- and these outrageous claims.
+ and these seemingly outrageous claims.
 To be sure,
  there have been 
  countless attempts,
@@ -773,8 +773,8 @@ In other words, the creator of the
  between known and unknown.
 As you look out onto the world,
  the creator of the universe
- is there with you,
- the source of all that is,
+ is there with you.
+The source of all that is,
  is with you.
  
 As outrageous as this can sound to
