@@ -807,10 +807,10 @@ And even in your fallen state,
 To believe in objective
  knowable truth, is to 
  necessarily also believe that
-your soul is eternal --
- hence denying God,
- denying knowable truth,
- is a fall from grace --
+your soul is eternal.
+To deny God,
+ to denying knowable truth,
+ is to fall from grace --
  an eternal
  [hell](../doctrines/hell/)
  of one's own making.
