@@ -85,7 +85,7 @@ The human being is immortal, and still
  retains even after the fall,
  an immortal soul.
 We once beheld the face of God,
- and we shone with our own radiance,
+ and we shone with His radiance,
  with no shame or vulnerability in
  our being.
 It is after the fall, turning away
@@ -122,9 +122,9 @@ They exist in meaningless darkness,
  to their resentment of God,
  the God who won't let them return
  to nothingness, for that is
- to erase the creation as a mistake,
+ to erase their created soul as a mistake,
  which in their pride is what they would do.
-God's love is there, ready to
+God's love is here, ready to
  save, and yet they still refuse, forever,
  burning in pain while desperate for
  the abyss of nothingness.
@@ -136,11 +136,14 @@ If you want to understand hell,
 Recognize the divinity of the lowliest
  of human lives.
 Remember that our souls are immortal,
- and that We do not deserve
- a return to nothingness,
- 
+ and that we
+ (created in the image and likeness of the creator of the universe)
+ will not return to nothingness.
+A human soul is not destined for nirvana nor moksha --
+ every soul is destined for truth, be it glorious, be it cold, be it fire.
+God have mercy on us.
 
- 
+
 
 
 

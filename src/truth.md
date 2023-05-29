@@ -118,8 +118,7 @@ And then, after a lot of study,
 
 We now know less than we did
  before we started.
-We
- could pretend everything is
+We could pretend everything is
  rational and call ourselves
  "realists" or
  "pragmatists".
@@ -555,7 +554,7 @@ By asking and receiving an answer.
 
 
 
-## Meaning and Morality
+### Meaning and Morality
 
 Just as knowledge depends
  on a firm foundation
@@ -626,7 +625,7 @@ Seeking truth is to orient your entire
 
 
 
-## Antithesis of Truth
+### Antithesis of Truth
 
 The alternative to truth,
  popular in all modern universities,
@@ -709,7 +708,7 @@ Know them by their fruits.
 
 
 
-## Nihilism
+### Nihilism
 
 Ultimately, moving away from
  knowable objective truth is
@@ -741,20 +740,25 @@ The Christian answer to Truth is,
  and on the other hand,
  a necessary claim for
  truth to be knowable.
-That is, the spirit of truth is
+That is, the Spirit of Truth is
  the creator of the universe,
  who was incarnate as man,
  who was crucified for us,
  and on the third day He
  rose again.
 To be clear, there is no justifiable 
- epistemology outside of Christianity.
-To be sure there have been 
-countless attempts,
+ epistemology outside of Christianity
+ and its epistemic claims.
+To be sure,
+ there have been 
+ countless attempts,
  but all lead to nihilism,
- to a rejection of knowable truth,
- and a desperate yearning for
- nothingness.
+ to a rejection of knowable truth.
+Rejecting the uniquely Christian notion
+ of knowable truth yields only
+ a desperate yearning for
+ nothingness
+ (to return to nothingness).
  
 And even more outrageous,
  Christ is the mediator between
@@ -767,8 +771,7 @@ In other words, the creator of the
  and is present in your every
  perception, mediating 
  between known and unknown.
-As
- you look out onto the world,
+As you look out onto the world,
  the creator of the universe
  is there with you,
  the source of all that is,
@@ -784,26 +787,29 @@ The very idea of knowable objective
  of God, that the creator of the
  universe has and always will have
  infinite love for you.
-You
- were made to know and glorify Him 
- (the spirit of Truth), and
+You were made to know and glorify Him 
+ (the spirit of Truth), and as such
  creation itself is knowable to you.
+
 Your life is not only meaningful,
  but divinely meaningful,
- an eternal soul made in His image,
- that you do not, and cannot,
- return to nothingness,
- but that your existence sustains
+ an eternal soul made in His image.
+You are an icon, a symbol,
+ for God, the creator of the universe.
+You do not, and cannot,
+ return to nothingness.
+To believe in objective
+ knowable truth, is to 
+ also believe that your
+your soul sustains
  through all eternity --
  hence denying God,
- denying the truth,
+ denying knowable truth,
  is a fall from grace --
  an eternal
- [hell](../doctrines/hell.md)
+ [hell](../doctrines/hell/)
  of one's own making.
  
-
-
 
 
 
