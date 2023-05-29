@@ -800,9 +800,8 @@ You do not, and cannot,
  return to nothingness.
 To believe in objective
  knowable truth, is to 
- also believe that your
-your soul sustains
- through all eternity --
+ necessarily also believe that
+your soul is eternal --
  hence denying God,
  denying knowable truth,
  is a fall from grace --
