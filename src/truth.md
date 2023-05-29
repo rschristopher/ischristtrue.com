@@ -579,7 +579,7 @@ Truth claims, as revealed to us,
  and morality, in other words, values
  of what is good, and what is not.
 This should not be surprising since
- revelatory truth cane from a relationship
+ revelatory truth came from a relationship
  with a spirit that is 
  (necessarily) the source of all
  that is.
@@ -748,7 +748,7 @@ That is, the Spirit of Truth is
  rose again.
 To be clear, there is no justifiable 
  epistemology outside of Christianity
- and its epistemic claims.
+ and these outrageous claims.
 To be sure,
  there have been 
  countless attempts,
@@ -779,7 +779,11 @@ As you look out onto the world,
  
 As outrageous as this can sound to
  modern ears, the alternative is
- absurdity and nihilism.
+ absurdity and nihilism
+ (and what better way to understand
+  modernity than the observation that
+  absurdity is the preference and
+  knowable truth is absurd).
 The very idea of knowable objective
  truth presupposes these seemingly
  outrageous claims -- that you are
@@ -796,7 +800,8 @@ Your life is not only meaningful,
  an eternal soul made in His image.
 You are an icon, a symbol,
  for God, the creator of the universe.
-You do not, and cannot,
+And even in your fallen state,
+ you will not, and cannot,
  return to nothingness.
 To believe in objective
  knowable truth, is to 
