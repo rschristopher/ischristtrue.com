@@ -716,7 +716,7 @@ Ultimately, moving away from
 Nihilism is simply the rejection of
  truth, a worship of self and
  in its purest form a worship of nothing.
-It is, interestingly, also anti-Christian
+It is, interestingly, anti-Christian
  in its entirety.
 
 In other words, the move towards Nihilism
@@ -730,7 +730,9 @@ Orthodox, as opposed to heterodox,
  by the apostles.
 
 
-## Christ is the Spirit of Truth
+
+
+## Christianity and Truth 
 
 The Christian answer to Truth is,
  on one hand,
@@ -744,19 +746,32 @@ That is, the spirit of truth is
  who was crucified for us,
  and on the third day He
  rose again.
+To be clear, there is no justifiable 
+ epistemology outside of Christianity.
+To be sure there have been 
+countless attempts,
+ but all lead to nihilism,
+ to a rejection of knowable truth,
+ and a desperate yearning for
+ nothingness.
+ 
 And even more outrageous,
  Christ is the mediator between
- God and man, between God the father
- and man.
+ God and man, between God the Father 
+ and man -- and thus between
+ God's will and man.
 In other words, the creator of the
  universe is knowable to you,
- born and died for you,
- and is there in your very
- perception of truth to
- mediate between known and unknown --
-that as you look out onto the world,
- there is the creator of the universe
- to help, to mediate and discern.
+ was born and died for you,
+ and is present in your every
+ perception, mediating 
+ between known and unknown.
+As
+ you look out onto the world,
+ the creator of the universe
+ is there with you,
+ the source of all that is,
+ is with you.
  
 As outrageous as this can sound to
  modern ears, the alternative is
@@ -765,21 +780,25 @@ The very idea of knowable objective
  truth presupposes these seemingly
  outrageous claims -- that you are
  created in the image and likeness 
- of God, that this creator of the
- universe loves you, and you
+ of God, that the creator of the
+ universe has and always will have
+ infinite love for you.
+You
  were made to know and glorify Him 
- (the spirit of Truth), and that
+ (the spirit of Truth), and
  creation itself is knowable to you.
 Your life is not only meaningful,
- but divinely meaningful as to
- contain an eternal soul,
+ but divinely meaningful,
+ an eternal soul made in His image,
  that you do not, and cannot,
  return to nothingness,
  but that your existence sustains
- throughout eternity --
- hence denying truth, the truth,
- is itself a fall from grace,
- a [hell](../doctrines/hell.md)
+ through all eternity --
+ hence denying God,
+ denying the truth,
+ is a fall from grace --
+ an eternal
+ [hell](../doctrines/hell.md)
  of one's own making.
  
 
