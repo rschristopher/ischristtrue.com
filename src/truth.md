@@ -775,7 +775,8 @@ As you look out onto the world,
  the creator of the universe
  is there with you.
 The source of all that is,
- is with you.
+ is with you,
+ making truth knowable to you.
  
 As outrageous as this can sound to
  modern ears, the alternative is
