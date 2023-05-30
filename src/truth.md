@@ -783,8 +783,7 @@ As outrageous as this can sound to
  absurdity and nihilism
  (and what better way to understand
   modernity than the observation that
-  absurdity is the preference and
-  knowable truth is absurd).
+  knowable truth will seem absurd).
 The very idea of knowable objective
  truth presupposes these seemingly
  outrageous claims -- that you are
@@ -799,8 +798,10 @@ You were made to know and glorify Him
 Your life is not only meaningful,
  but divinely meaningful,
  an eternal soul made in His image.
-You are an icon, a symbol
- of God, the creator of the universe.
+You are an icon, a finite symbol
+ of the infinite God,
+ an ambassador to 
+ the creator of the universe.
 And even in your fallen state,
  you will not, and cannot,
  return to nothingness.
@@ -809,7 +810,7 @@ To believe in objective
  necessarily also believe that
 your soul is eternal.
 To deny God,
- to denying knowable truth,
+ to deny knowable truth,
  is to fall from grace --
  an eternal
  [hell](../doctrines/hell/)
