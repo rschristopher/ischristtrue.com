@@ -11,14 +11,14 @@ How do we know what is real?
 
 The philosophically-inclined
  might add:
-Why is there suffering and death?
+*Why is there suffering and death?
 What is the purpose of it all?
 Is the world we perceive real?
 Is it all a dream?
 Is it a delusion from a demon?
 Is it all a simulation?
 Is the world radically different than
- how we perceive it?
+ how we perceive it?*
 
 
 Whatever it is that *we* are,
