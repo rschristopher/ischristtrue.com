@@ -1,7 +1,7 @@
 # Nature of Truth
 
 
-Life begins by
+Our lives begin by
  seeking *truth*,
  making sense of the world,
  seeking answers
@@ -113,7 +113,7 @@ And then, after a lot of study,
  actually exist, or at least
  is not knowable -- except
  we can't even know that,
- because to claim that is
+ because to claim such a thing is
  itself an objective truth claim.
 
 We now know less than we did
