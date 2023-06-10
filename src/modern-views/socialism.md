@@ -5,6 +5,7 @@
 
 ## Marx and Engels
 
+Fr. Seraphim Rose said,
 > These ideas were atheistic, 
 > materialistic, extremely naive: 
 > science is the answer to everything. 
