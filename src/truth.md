@@ -783,7 +783,7 @@ As outrageous as this can sound to
  absurdity and nihilism
  (and what better way to understand
   modernity than the observation that
-  knowable truth will seem absurd).
+  absurdity has become preferable to truth).
 The very idea of knowable objective
  truth presupposes these seemingly
  outrageous claims -- that you are
