@@ -31,6 +31,14 @@ by Dostoyevsky
 
 https://en.m.wikipedia.org/wiki/%C3%9Cbermensch
 
+from Robespierre to Hitler
+
+from transhumanism to sovereign individuals
+
+all marching in lockstep through 
+ the Nihilist program.
+ 
+ 
 
 
 
