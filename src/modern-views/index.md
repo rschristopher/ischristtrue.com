@@ -1,7 +1,5 @@
 # Modern Views
 
-
-
 > It may be that I am the first
 > to light upon an idea which will
 > divide the history of mankind in two.
@@ -26,3 +24,31 @@
 
 ~ Krillov in The Possessed
 by Dostoyevsky
+
+
+
+...
+
+https://en.m.wikipedia.org/wiki/%C3%9Cbermensch
+
+
+
+
+
+## Revolutionaries
+
+...
+
+
+## Reactionaries
+
+...
+
+
+
+
+## Nihilism
+
+...
+
+
