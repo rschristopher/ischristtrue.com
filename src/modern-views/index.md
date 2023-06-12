@@ -27,7 +27,9 @@ by Dostoyevsky
 
 
 
-...
+
+
+## Ubermensch 
 
 https://en.m.wikipedia.org/wiki/%C3%9Cbermensch
 
@@ -42,6 +44,18 @@ all marching in lockstep through
 > Shall we not ourselves have to become gods merely to seem worthy of it (the death of God)?
 
 ~ Nietzsche 
+
+"Dead are all the gods. Now do we desire the Superman to live.”
+
+And Kirillov in The Possessed says: “If there is no God, then I am God.”
+
+And Dostoyevsky distinguishes between the God-man Jesus Christ and the man-god, the new being who is coming up from the earth to become god.
+
+Zarathustra says:
+ “-I bring you a goal; I preach to you the Superman. Man is something to be overcome. What have you done to overcome him? All things before you have produced something beyond themselves, and would you be the ebb of this great flood? Would you rather go back to the animal than transcend man? What is  the ape to man? A jest or a bitter shame. And just that shall man be to the Superman, a jest or a bitter shame. You have traveled the way from worm to man, and much in you is still worm.... Lo, I preach to you the Superman. The Superman is the meaning of the earth.
+
+... and Hitler believed himself to be so.
+
 
 
 
