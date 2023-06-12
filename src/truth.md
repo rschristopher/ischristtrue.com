@@ -97,6 +97,8 @@ They may tell you about
  [Gettier problem](https://en.wikipedia.org/wiki/Gettier_problem),
  and you'll find yourself
  reading the likes of
+ [Hume](https://en.m.wikipedia.org/wiki/David_Hume),
+ [Kant](https://en.m.wikipedia.org/wiki/Immanuel_Kant),
  [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche), 
  [Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel),
   [Wittgenstein](https://en.wikipedia.org/wiki/Friedrich_Nietzsche),
