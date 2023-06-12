@@ -39,7 +39,9 @@ all marching in lockstep through
  the Nihilist program.
  
  
+> Shall we not ourselves have to become gods merely to seem worthy of it (the death of God)?
 
+~ Nietzsche 
 
 
 
