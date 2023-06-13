@@ -57,6 +57,13 @@ Zarathustra says:
 ... and Hitler believed himself to be so.
 
 
+> And the serpent said unto the woman, Ye shall not surely die:
+
+
+> ye shall be as gods
+~ the serpent, Genesis 3:4,5
+
+
 
 
 ## Revolutionaries
