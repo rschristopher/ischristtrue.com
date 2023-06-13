@@ -61,6 +61,7 @@ Zarathustra says:
 
 
 > ye shall be as gods
+
 ~ the serpent, Genesis 3:4,5
 
 
