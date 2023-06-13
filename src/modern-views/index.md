@@ -73,13 +73,13 @@ Or, we can trace it all the way back
  
 > And the serpent said unto the woman, Ye shall not surely die:
 
-> ye shall be as gods
+> For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
 
 ~ Genesis 3:4,5
 
-And with that,
+"ye shall be as gods",
  Nietzsche's entire philosophy can
- be summed up by two lines
+ be summed up by a serpent 
  in Genesis.
 
 
