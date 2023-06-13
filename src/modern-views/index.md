@@ -2,6 +2,10 @@
 
 from transhumanism to sovereign individuals
 
+The destruction of the old order,
+ which is necessary for the new age
+ to come.
+
 from Hitler to Robespierre
 
 all marching in lockstep through 
@@ -77,10 +81,12 @@ Or, we can trace it all the way back
 
 ~ Genesis 3:4,5
 
-"ye shall be as gods",
+*"ye shall be as gods",*
  Nietzsche's entire philosophy can
- be summed up by a serpent 
+ be summed up by that serpent 
  in Genesis.
+
+
 
 
 ## Revolutionaries
