@@ -61,14 +61,26 @@ Zarathustra says:
 ... and Hitler believed himself to be so.
 
 
+We can trace the modern view back
+ to the enlightenment,
+ to the Copernican revolution,
+ to the age of scholasticism,
+ and even to the
+ great schism
+ that preceded.
+Or, we can trace it all the way back
+ to that serpent in the garden:
+ 
 > And the serpent said unto the woman, Ye shall not surely die:
-
 
 > ye shall be as gods
 
 ~ Genesis 3:4,5
 
-
+And with that,
+ Nietzsche's entire philosophy can
+ be summed up by two lines
+ in Genesis.
 
 
 ## Revolutionaries
