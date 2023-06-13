@@ -1,5 +1,14 @@
 # Modern Views
 
+from transhumanism to sovereign individuals
+
+from Hitler to Robespierre
+
+all marching in lockstep through 
+ the Nihilist program.
+ 
+ 
+
 > It may be that I am the first
 > to light upon an idea which will
 > divide the history of mankind in two.
@@ -33,12 +42,7 @@ by Dostoyevsky
 
 https://en.m.wikipedia.org/wiki/%C3%9Cbermensch
 
-from Robespierre to Hitler
 
-from transhumanism to sovereign individuals
-
-all marching in lockstep through 
- the Nihilist program.
  
  
 > Shall we not ourselves have to become gods merely to seem worthy of it (the death of God)?
@@ -62,7 +66,7 @@ Zarathustra says:
 
 > ye shall be as gods
 
-~ the serpent, Genesis 3:4,5
+~ Genesis 3:4,5
 
 
 
