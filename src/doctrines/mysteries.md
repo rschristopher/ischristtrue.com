@@ -1,4 +1,4 @@
-# Mysteries
+# The Holy Mysteries
 
 http://www.crivoice.org/creeddositheus.html
 
