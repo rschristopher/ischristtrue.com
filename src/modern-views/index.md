@@ -82,9 +82,11 @@ Or, we can trace it all the way back
 ~ Genesis 3:4,5
 
 *"ye shall be as gods",*
- Nietzsche's entire philosophy can
- be summed up by that serpent 
- in Genesis.
+And with that,
+ Nietzsche's entire philosophical
+ journey takes us all the way
+ back to that same serpent 
+ in the garden.
 
 
 
