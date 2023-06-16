@@ -81,7 +81,8 @@ Or, we can trace it all the way back
 
 ~ Genesis 3:4,5
 
-*"ye shall be as gods",*
+> *"ye shall be as gods",*
+
 And with that,
  Nietzsche's entire philosophical
  journey takes us all the way
