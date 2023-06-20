@@ -21,7 +21,7 @@ They believe they came from a
  was created *from nothingness*
  -- and they wonder why the
  astute theists will point out
- that they secretly believe in God
+ that they unconsciously believe in God
  (for who else creates *ex nihilo*?)
 
 But is this really the end fate
