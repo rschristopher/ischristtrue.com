@@ -276,7 +276,7 @@ You don't live in a mechanistic universe,
  because fundamental questions are
  not mechanistic and yet still exist
  and are still fundamental.
-You don't live in absurdist universe --
+You don't live in an absurdist universe --
  accepting absurdism is to
  abandon reason and will.
 And you certainly don't live in a 
