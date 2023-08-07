@@ -4,6 +4,7 @@ https://orthodoxchristiantheology.com/2020/12/11/the-orthodox-doctrine-of-justif
 
 https://orthodoxchristiantheology.com/2020/12/17/the-orthodox-doctrine-of-justification-the-patristic-and-conciliar-teaching
 
+
 Romans 8:30
 also see commentary from Symeon the New Theologian:
 
