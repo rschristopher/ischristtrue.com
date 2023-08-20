@@ -67,6 +67,7 @@ How does EO avoid the dangers of
  synergism? Do they?
 What about Catholicism?
 
+https://crosstheology.wordpress.com/synergism/
 
 http://www.crivoice.org/creeddositheus.html
 
