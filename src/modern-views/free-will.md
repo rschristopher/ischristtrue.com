@@ -50,7 +50,7 @@ Foreknowledge != Predestination
 Synergy vs Monergism
 
 best take: Armenianism is a Calvinist
- dressing atound rational synergism, which
+ dressing around rational synergism, which
  can lead to semi-pelegianism and deism.
 Yet the culprit, the cause, is the rigid
  TULIP ideas of Calvinism, that is, 
@@ -68,6 +68,10 @@ How does EO avoid the dangers of
 What about Catholicism?
 
 https://crosstheology.wordpress.com/synergism/
+
+Double predestination?
+https://crosstheology.wordpress.com/the-outright-disaster-of-the-augustinian-calvinist-formulation-of-election/
+
 
 http://www.crivoice.org/creeddositheus.html
 
@@ -103,10 +107,15 @@ vs
 God's love for mankind
 
 
+
+
 ### Weakness in Synergism
 
 Doubting God's absolute sovereignty,
  doubting God's omniscience.
+
+Risks of semi-pelegianism 
+
 
 
 ### Weakness in Monergism
@@ -116,13 +125,10 @@ Doubting God's love for all mankind,
  not participating willfully in your own salvation,
  predestined to hell with no chance of salvation,
  impossible to act within,
- imposing limits of God
- 
- 
- 
+ imposing limits on God based on rationality.
 
-
-Double predestination
+Influence of Platonism / Hellenism applied to the Bible (hence prevalent in the west in exactly those areas most
+influenced by Platonism)
 
 
 ## Limits of Rationality
@@ -137,6 +143,8 @@ What we cannot reason about?
 Total Free Will
 vs
 Total Predestination
+
+
 
 
 ### Love and Free Will
