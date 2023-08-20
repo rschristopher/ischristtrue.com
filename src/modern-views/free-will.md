@@ -1,4 +1,49 @@
-# Free Will
+# Does Man have Free Will?
+
+For better or worse, the question of
+ free will continues to be a
+ perplexing and unanswered question
+ for all worldviews.
+Whether religious or mechanistic,
+ spiritual or rationalistic,
+ none have ever gotten a clear
+ answer to the question of free will.
+Many answers are available, but none
+ that reached consensus even within
+ the narrow bounds of a given worldview.
+Even Christians (in every era 
+ and in all the various
+ denominations) continue to debate
+ this topic.
+
+
+## Predestination
+
+The Biblical narrative is very clear
+ on two points:
+ *1 - man has free will*
+ and
+ *2 - God has ultimate sovereignty*.
+The structure of the Biblical narrative
+ affirms both points.
+God is transcendent to all of creation,
+ separate from creation, with complete
+ sovereignty over all of His creation.
+This includes all transcendent categories,
+ from meaning to logic, and even time
+ as we know it, all of creation 
+ is contingent on the creator.
+And yet, God is a character in the
+ Biblical narrative.
+This is not an impersonal God of deism.
+God is not only personal, our very
+ notion of personhood points to God,
+ that is, we have personhood because
+ we were made in His image abd likeness.
+
+He craated man and saw that it was good.
+
+
 
 Foreknowledge != Predestination 
 
