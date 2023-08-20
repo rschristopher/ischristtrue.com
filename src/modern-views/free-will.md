@@ -83,6 +83,10 @@ https://credohouse.org/blog/an-eastern-orthodox-view-of-predestination
 
 https://saintgeorgekearney.com/load.php?pageid=55
 
+https://classicalchristianity.com/2011/05/09/eastern-orthodox-view-of-calvinism/
+
+https://classicalchristianity.com/2011/02/21/on-depraved-nature/
+
 Either John Calvin and the reformers were wrong,
  or John Chrysostom and the church fathers
  were wrong.
