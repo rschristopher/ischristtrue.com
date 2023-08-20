@@ -3,7 +3,7 @@
 For better or worse, the question of
  free will continues to be a
  perplexing and unanswered question
- for all worldviews.
+ for all people across all worldviews.
 Whether religious or mechanistic,
  spiritual or rationalistic,
  none have ever gotten a clear
@@ -21,33 +21,44 @@ Even Christians (in every era
 
 The Biblical narrative is very clear
  on two points:
- *1 - man has free will*
+ *1 - God has ultimate sovereignty*
  and
- *2 - God has ultimate sovereignty*.
+ *2 - man has free will*.
 The structure of the Biblical narrative
  affirms both points.
-God is transcendent to all of creation,
- separate from creation, with complete
- sovereignty over all of His creation.
-This includes all transcendent categories,
- from meaning to logic, and even time
- as we know it, all of creation 
- is contingent on the creator.
-And yet, God is a character in the
- Biblical narrative.
+God is a character in the
+ Biblical narrative, as is man.
 This is not an impersonal God of deism.
 God is not only personal, our very
  notion of personhood points to God,
  that is, we have personhood because
- we were made in His image abd likeness.
-
-He craated man and saw that it was good.
+ we were made in His image and likeness.
+Our free will exists in that we
+ participate in His will.
+Even God hardening (strengthening)
+ Pharoah's heart, it allowed Pharoah
+ to follow his own will against
+ certain destruction.
 
 
 
 Foreknowledge != Predestination 
 
+
+
+
 Synergy vs Monergism
+
+best take: Armenianism is a Calvinist
+ dressing atound rational synergism, which
+ can lead to semi-pelegianism and deism.
+Yet the culprit, the cause, is the rigid
+ TULIP ideas of Calvinism, that is, 
+ ignoring the infinite love and mercy
+ of God, and focusing too much on a
+ rationalistic system, will inevitably
+ create rational Armenianism.
+https://www.monergism.com/arminianisms
 
 http://www.crivoice.org/creeddositheus.html
 
@@ -216,3 +227,4 @@ Truth revealed by God.
 
 
 
+ a 
