@@ -99,7 +99,8 @@ This parallels a 7th century debate
  bitheletism
  (Christ had human AND divine will).
 
-
+"The decree of reprobation cannot be made an object of prayer or preaching, and this is an argument against it. Experience confirms election, but repudiates reprobation."
+https://classicalchristianity.com/2011/03/14/on-irrestible-grace-and-synergy/
 
 
 ## Why this Matters?
