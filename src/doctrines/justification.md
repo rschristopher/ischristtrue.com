@@ -1,5 +1,16 @@
 # Justification
 
+
+https://classicalchristianity.com/2011/02/25/on-limited-atonement/
+St. Gregory of Nyssa ca. 335-394
+
+“But why is it,” they ask, “that all men do not obtain the grace, but that, while some adhere to the Word, the portion who remain unbelieving is no small one; either because God was unwilling to bestow his benefit ungrudgingly upon all, or because He was altogether unable to do so?” Now neither of these alternatives can defy criticism. For it is unworthy of God, either that He should not will what is good, or that He should be unable to do it. “If, therefore, the Faith is a good thing, why,” they ask, “does not its grace come upon all men?” Now, if in our representation of the Gospel mystery we had so stated the matter as that it was the Divine will that the Faith should be so granted away amongst mankind that some men should be called, while the rest had no share in the calling, occasion would be given for bringing such a charge against this Revelation. But if the call came with equal meaning to all and makes no distinction as to worth, age, or different national characteristics (for it was for this reason that at the very first beginning of the proclamation of the Gospel they who ministered the Word were, by Divine inspiration, all at once enabled to speak in the language of any nation, viz. in order that no one might be destitute of a share in the blessings of evangelical instruction), with what reasonableness can they still charge it upon God that the Word has not influenced all mankind? 
+
+
+
+
+
+
 https://orthodoxchristiantheology.com/2020/12/11/the-orthodox-doctrine-of-justification-the-biblical-teaching/
 
 https://orthodoxchristiantheology.com/2020/12/17/the-orthodox-doctrine-of-justification-the-patristic-and-conciliar-teaching
