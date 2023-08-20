@@ -102,6 +102,10 @@ This parallels a 7th century debate
 "The decree of reprobation cannot be made an object of prayer or preaching, and this is an argument against it. Experience confirms election, but repudiates reprobation."
 https://classicalchristianity.com/2011/03/14/on-irrestible-grace-and-synergy/
 
+https://classicalchristianity.com/2011/03/29/on-the-perseverance-of-the-saints/
+
+
+
 
 ## Why this Matters?
 Soteriology and Christology
@@ -121,14 +125,14 @@ God's love for mankind
 Doubting God's absolute sovereignty,
  doubting God's omniscience.
 
-Risks of semi-pelegianism 
+Risks of semi-pelegianism, pelegianism more generally, and even deism -- a slippery slope into the horrors of the postmodern "enlightenment" that denies God, truth, morality, and any defensible epistemology -- leaving man devoured and disintegrated into the dark waters of chaos, unable to justify any such thing as goodness or even hope.
 
 
 
 ### Weakness in Monergism
 
 Doubting God's love for all mankind,
- dying only for the sins of the elect,
+ Christ dying only for the sins of the elect,
  not participating willfully in your own salvation,
  predestined to hell with no chance of salvation,
  impossible to act within,
@@ -221,7 +225,8 @@ It's easy to say, but like a denial of
 Either God's sovereignty requires absurd
  conclusions for human consciousness,
  or God's divine love grants us free will
- to chose to worship and glorify Him.
+ to chose to worship and glorify Him,
+ to participate in His will, or not.
 By falling away from Him,
  we become the playthings of demons,
  no longer able to exercise our
@@ -230,6 +235,7 @@ By falling away from Him,
 
 Who are you to classify God within rationality?
 
+How to make sense of angels?
 How to make sense of demons?
 That is, if no free will, then why torment?
 Why pull the unelect further from God?
@@ -248,7 +254,3 @@ Truth revealed by God.
 
 
 
-
-
-
- a 
