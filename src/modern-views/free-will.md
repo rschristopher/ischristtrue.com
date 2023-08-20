@@ -60,6 +60,9 @@ Yet the culprit, the cause, is the rigid
  create rational Armenianism.
 https://www.monergism.com/arminianisms
 
+Pelegianism was deemed heretical in 418
+https://en.m.wikipedia.org/wiki/Councils_of_Carthage see Cannon V
+
 http://www.crivoice.org/creeddositheus.html
 
 https://orthodoxbridge.com/2012/08/12/plucking-the-tulip-1-an-orthodox-critique-of-the-reformed-doctrine-of-predestination/
