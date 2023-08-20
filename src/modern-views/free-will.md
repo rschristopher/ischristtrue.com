@@ -83,6 +83,8 @@ https://credohouse.org/blog/an-eastern-orthodox-view-of-predestination
 
 https://saintgeorgekearney.com/load.php?pageid=55
 
+https://classicalchristianity.com/2011/04/03/on-election-foreknowledge
+
 https://classicalchristianity.com/2011/05/09/eastern-orthodox-view-of-calvinism/
 
 https://classicalchristianity.com/2011/02/21/on-depraved-nature/
