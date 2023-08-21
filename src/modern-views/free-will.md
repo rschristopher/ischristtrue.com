@@ -1,4 +1,4 @@
-# Does Man have Free Will?
+# Free Will
 
 For better or worse, the question of
  free will continues to be a
