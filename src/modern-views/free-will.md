@@ -16,6 +16,8 @@ Even Christians (in every era
  denominations) continue to debate
  this topic.
 
+Pharisees, Sadducees, Essenes 
+https://classicalchristianity.com/2011/02/15/on-predestination/
 
 ## Predestination
 
