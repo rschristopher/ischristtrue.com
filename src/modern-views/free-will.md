@@ -7,17 +7,45 @@ For better or worse, the question of
 Whether religious or mechanistic,
  spiritual or rationalistic,
  none have ever gotten a clear
- answer to the question of free will.
+ answer to the question of human free will.
 Many answers are available, but none
- that reached consensus even within
- the narrow bounds of a given worldview.
-Even Christians (in every era 
- and in all the various
+ have reached consensus even within
+ the narrow bounds of any given worldview.
+If you try, you'll find schisms with two or more camps debating this issue.
+There will be those that deny any notion
+ of human free will
+ (leaving man to a kind of fatalism),
+ and there will be those that affirm man's
+ absolute and total freedom.
+And of course there will be plenty in between.
+Pick any era in history in any culture
+ and in any worldview and you will
+ find this exact pattern 
+ (albeit framed within the lexicon
+ of that worldview).
+
+Even Christians (in all the various
  denominations) continue to debate
  this topic.
+They'll refer to *predestination*
+ and often redefine *free will* to fit
+ their nuanced theological interpretations.
+Yet even within the subtle nuances of
+ the Greek word 
+ [synergoi](https://crosstheology.wordpress.com/synergism/)
+ the core debate rages on.
+For example,
+ Calvinists debate this topic between
+ themselves, resulting in
+ [Arminianism vs Monergism](https://www.thoughtstheological.com/calvinism-molinism-arminianism-and-open-theism-monergismsynergism-at-the-macro-and-micro-levels/), 
+ and Molinism as the in-between.
+And if we detour back to our
+ pre-Christian history, this exact 
+ question of free will and
+ predestination
+ [divided the
+ Pharisees, Sadducees, and Essenes](https://classicalchristianity.com/2011/02/15/on-predestination/).
 
-Pharisees, Sadducees, Essenes 
-https://classicalchristianity.com/2011/02/15/on-predestination/
 
 ## Predestination
 
@@ -51,7 +79,7 @@ Foreknowledge != Predestination
 
 Synergy vs Monergism
 
-best take: Armenianism is a Calvinist
+best take: Arminianism is a Calvinist
  dressing around rational synergism, which
  can lead to semi-pelegianism and deism.
 Yet the culprit, the cause, is the rigid
@@ -59,7 +87,7 @@ Yet the culprit, the cause, is the rigid
  ignoring the infinite love and mercy
  of God, and focusing too much on a
  rationalistic system, will inevitably
- create rational Armenianism.
+ create rational Arminianism.
 https://www.monergism.com/arminianisms
 
 Pelegianism was deemed heretical in 418
