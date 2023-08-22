@@ -179,6 +179,12 @@ To the degree the reactionary revolutions produce revealed truth they can be sai
 
 The revealed truth is the unification of the truths of monergism acted out in the truths of synergism (exactly as the apostle Paul explained).
 
+!!! quote "1 Corinthians 3:9"
+    For we are labourers together with God: ye are God's husbandry, ye are God's building.
+
+    fellow workers;
+    συνεργοί (synergoi)
+    
 
 
 ## Limits of Rationality
