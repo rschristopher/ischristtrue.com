@@ -6,7 +6,7 @@ For better or worse, the question of
  for all people across all worldviews.
 Whether religious or mechanistic,
  spiritual or rationalistic,
- none have ever gotten a clear
+ none have ever received a clear
  answer to the question of human free will.
 Many answers are available, but none
  have reached consensus even within
@@ -17,7 +17,7 @@ There will be those that deny any notion
  (leaving man to a kind of fatalism),
  and there will be those that affirm man's
  absolute and total freedom.
-And of course there will be plenty in between.
+And of course there will be plenty in between (from nuanced interpretations to various slippery slope slopes).
 Pick any era in history in any culture
  and in any worldview and you will
  find this exact pattern 
@@ -40,7 +40,7 @@ For example,
  [Arminianism vs Monergism](https://www.monergism.com/arminianisms), 
  and 
  [Molinism](https://www.thoughtstheological.com/calvinism-molinism-arminianism-and-open-theism-monergismsynergism-at-the-macro-and-micro-levels/)
- as the in-between.
+ as the nuanced in-between.
 And if we detour back to our
  pre-Christian history, this exact 
  question of free will and
@@ -171,6 +171,7 @@ Doubting God's love for all mankind,
 
 Influence of Platonism / Hellenism applied to the Bible (hence prevalent in the west in exactly those areas most
 influenced by Platonism)
+
 
 
 ## Limits of Rationality
