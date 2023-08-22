@@ -22,7 +22,7 @@ Pick any era in history in any culture
  and in any worldview and you will
  find this exact pattern 
  (albeit framed within the lexicon
- of that worldview).
+ of the specific worldview).
 
 Even Christians (in all the various
  denominations) continue to debate
