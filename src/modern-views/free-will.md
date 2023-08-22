@@ -11,7 +11,7 @@ Whether religious or mechanistic,
 Many answers are available, but none
  have reached consensus even within
  the narrow bounds of any given worldview.
-If you try, you'll find schisms with two or more camps debating this issue.
+If you try, you'll likely find schisms with two or more camps debating this issue.
 There will be those that deny any notion
  of human free will
  (leaving man to a kind of fatalism),
@@ -37,8 +37,10 @@ Yet even within the subtle nuances of
 For example,
  Calvinists debate this topic between
  themselves, resulting in
- [Arminianism vs Monergism](https://www.thoughtstheological.com/calvinism-molinism-arminianism-and-open-theism-monergismsynergism-at-the-macro-and-micro-levels/), 
- and Molinism as the in-between.
+ [Arminianism vs Monergism](https://www.monergism.com/arminianisms), 
+ and 
+ [Molinism](https://www.thoughtstheological.com/calvinism-molinism-arminianism-and-open-theism-monergismsynergism-at-the-macro-and-micro-levels/)
+ as the in-between.
 And if we detour back to our
  pre-Christian history, this exact 
  question of free will and
@@ -88,7 +90,6 @@ Yet the culprit, the cause, is the rigid
  of God, and focusing too much on a
  rationalistic system, will inevitably
  create rational Arminianism.
-https://www.monergism.com/arminianisms
 
 Pelegianism was deemed heretical in 418
 https://en.m.wikipedia.org/wiki/Councils_of_Carthage see Cannon V
