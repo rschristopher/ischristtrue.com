@@ -54,17 +54,19 @@ And if we detour back to our
 
 The Biblical narrative is very clear
  on two points:
- *1 - God has ultimate sovereignty*
- and
- *2 - man has free will*.
+
+*1 - God has ultimate sovereignty*, and
+
+*2 - man has free will*.
+
 The structure of the Biblical narrative
  affirms both points.
 God is a character in the
- Biblical narrative, as is man.
+ Bible, as is man.
 This is not an impersonal God of deism.
 God is not only personal, our very
  notion of personhood points to God,
- that is, we have personhood because
+ that is, we possess personhood because
  we were made in His image and likeness.
 Our free will exists in that we
  participate in His will.
