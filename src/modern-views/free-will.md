@@ -1,7 +1,7 @@
 # Free Will
 
 For better or worse, the question of
- free will continues to be a
+ *free will* continues to be a
  perplexing and unanswered question
  for all people across all worldviews.
 Whether religious or mechanistic,
@@ -10,8 +10,9 @@ Whether religious or mechanistic,
  answer to the question of human free will.
 Many answers are available, but none
  have reached consensus even within
- the narrow bounds of any given worldview.
-If you try, you'll likely find schisms with two or more camps debating the issue.
+ the narrow bounds of their worldview,
+ let alone a universally accepted answer amongst all worldviews.
+Pick one of these answers and you'll find schisms with two or more camps debating the issue.
 There will be those that deny any notion
  of human free will
  (leaving man to a kind of fatalism),
@@ -25,8 +26,8 @@ Pick any era in history in any culture
  of the specific worldview).
 
 Even Christians (in all the various
- denominations) continue to debate
- this topic.
+ denominations) have debated
+ this topic from the first century to the present.
 They'll refer to *predestination*
  and often redefine *free will* to fit
  their nuanced theological interpretations.
