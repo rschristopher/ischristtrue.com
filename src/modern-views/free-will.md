@@ -62,19 +62,27 @@ The Biblical narrative is very clear
 The structure of the Biblical narrative
  affirms both points.
 God is a character in the
- Bible, as is man.
+ Bible, as is man,
+ who was created in the image
+ and likeness of God.
 This is not an impersonal God of deism.
-God is not only personal, our very
- notion of personhood points to God,
+God is not only personal, but our very
+ notion of personhood is from God,
  that is, we possess personhood because
  we were made in His image and likeness.
 Our free will exists in that we
  participate in His will.
+And His will is done as He is the transcendent source of all creation.
 Even God hardening (strengthening)
  Pharoah's heart, it allowed Pharoah
  to follow his own will against
  certain destruction.
 
+These two revealed truths, of God's sovereignty and man's free will, create a potential dilemma, as effectively both sides of the *free will* debate are strongly affirmed. And thus any interpretation of scripture which denies one side can be declared false. And the question of reconciling these seemingly contrary views is left as a divine mystery, but one that parallels the life and character of Jesus Christ.
+
+
+Pelegianism was deemed heretical in 418
+https://en.m.wikipedia.org/wiki/Councils_of_Carthage see Cannon V
 
 
 Foreknowledge != Predestination 
@@ -94,8 +102,6 @@ Yet the culprit, the cause, is the rigid
  rationalistic system, will inevitably
  create rational Arminianism.
 
-Pelegianism was deemed heretical in 418
-https://en.m.wikipedia.org/wiki/Councils_of_Carthage see Cannon V
 
 How does EO avoid the dangers of
  synergism? Do they?
