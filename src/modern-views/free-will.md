@@ -210,18 +210,12 @@ Doubting God's love for all mankind,
 Influence of Platonism / Hellenism applied to the Bible (hence prevalent in the west in exactly those areas most
 influenced by Platonism)
 
-And most critically, monergism begets its own antithesis, which in turn begets a classic revolutionary and reactionary cycle.
+And most critically, monergism begets its own antithesis, which in turn begets a classic revolutionary and reactionary cycle. A cycle that only Christ can successfully resolve as mediator.
 
 To the degree the reactionary revolutions produce revealed truth they can be said to be good (as all truth is), but to the degree they create schisms and deception, including bad faith arguments and misrepresentations of the opposing view; this is the work of the adversary, the bad fruits of demonic influence.
 
 
-The revealed truth is the unification of the truths of monergism acted out in the truths of synergism (exactly as the apostle Paul explained).
-
-!!! quote "1 Corinthians 3:9"
-    For we are labourers together with God: ye are God's husbandry, ye are God's building.
-
-    fellow workers;
-    συνεργοί (synergoi)
+The revealed truth is the unification of the truths of monergism acted out in the truths of synergism.
     
 
 
