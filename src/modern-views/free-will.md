@@ -103,7 +103,7 @@ This affirmation is traditionally known as
 
 !!! quote "1 Corinthians 3:9"
     Θεοῦ γάρ ἐσμεν **συνεργοί**· Θεοῦ γεώργιον, Θεοῦ οἰκοδομή ἐστε.
-
+    
     Theou gar esmen **synergoi**; Theou geôrgion, Theou oecodomê este.
     
     For we are **fellow workers** with God: ye are God's husbandry, ye are God's building.
