@@ -27,7 +27,7 @@ Pick any era in history in any culture
 
 Even Christians (in all the various
  denominations) have debated
- this topic from the first century to the present.
+ this topic from the first century to the present day.
 They'll refer to *predestination*
  and often redefine *free will* to fit
  their nuanced theological interpretations.
@@ -79,6 +79,34 @@ Even God hardening (strengthening)
  certain destruction.
 
 These two revealed truths, of God's sovereignty and man's free will, create a potential dilemma, as effectively both sides of the *free will* debate are strongly affirmed. And thus any interpretation of scripture which denies one side can be declared false. And the question of reconciling these seemingly contrary views is left as a divine mystery, but one that parallels the life and character of Jesus Christ.
+
+This in effect is affirmed in the
+Chalcedonian Definition 
+that Christ has two wills, 
+that Christ is both God and man.
+This necessarily implies that man's
+ will not only exists but that it
+ can be redeemed in Christ.
+Note also how the human will of Christ
+ participates in the will of the father,
+ with obedience so as to glorify the
+ father.
+By coming to Christ we find in Christ
+ an answer to the free will 
+ question;
+ and affirmation that any interpretation
+ that denies free will or God's ultimate sovereignty is heretical and false.
+Only by affirming that Christ is both God and man, such that man is both free and completely subject to God's sovereignty can we make sense of the Bible.
+This affirmation is traditionally known as
+ synergism
+ from the Greek synergoi, as Saint Paul writes,
+
+!!! quote "1 Corinthians 3:9"
+    Θεοῦ γάρ ἐσμεν **συνεργοί**· Θεοῦ γεώργιον, Θεοῦ οἰκοδομή ἐστε.
+
+    Theou gar esmen **synergoi**; Theou geôrgion, Theou oecodomê este.
+    
+    For we are **fellow workers** with God: ye are God's husbandry, ye are God's building.
 
 
 Pelegianism was deemed heretical in 418
