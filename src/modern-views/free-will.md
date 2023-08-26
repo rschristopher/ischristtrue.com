@@ -25,7 +25,11 @@ Pick any era in history in any culture
  (albeit framed within the lexicon
  of the specific worldview).
 
-Even Christians (in all the various
+
+
+## Free Will in Christendom 
+
+Christians (in all the various
  denominations) have debated
  this topic from the first century to the present day.
 They'll refer to *predestination*
@@ -48,6 +52,24 @@ And if we detour back to our
  predestination
  [divided the
  Pharisees, Sadducees, and Essenes](https://classicalchristianity.com/2011/02/15/on-predestination/).
+
+One of the earliest debates on free will
+ within Christianity was the
+ Pelegian Controversy.
+
+Pelegianism was deemed heretical in 418
+https://en.m.wikipedia.org/wiki/Councils_of_Carthage see Cannon V
+
+https://orthodoxwiki.org/Fourth_Ecumenical_Council
+
+https://orthodoxwiki.org/Sixth_Ecumenical_Council
+
+
+
+
+
+
+
 
 
 ## Predestination
@@ -110,23 +132,19 @@ This affirmation is traditionally known as
     
     For we are **fellow workers** with God: ye are God's husbandry, ye are God's building.
 
-
-Pelegianism was deemed heretical in 418
-https://en.m.wikipedia.org/wiki/Councils_of_Carthage see Cannon V
-
-
-Foreknowledge != Predestination 
+Foreknowledge != Predestination
 
 
 
 
-Synergy vs Monergism
+
+## Synergism and Monergism
 
 best take: Arminianism is a Calvinist
  dressing around rational synergism, which
  can lead to semi-pelegianism and deism.
 Yet the culprit, the cause, is the rigid
- TULIP ideas of Calvinism, that is, 
+ views of reprobation in Calvinism, that is, 
  ignoring the infinite love and mercy
  of God, and focusing too much on a
  rationalistic system, will inevitably
@@ -190,7 +208,7 @@ God's love for mankind
 
 
 
-### Weakness in Synergism
+## Weakness in Synergism
 
 Doubting God's absolute sovereignty,
  doubting God's omniscience.
@@ -199,7 +217,7 @@ Risks of semi-pelegianism, pelegianism more generally, and even deism -- a slipp
 
 
 
-### Weakness in Monergism
+## Weakness in Monergism
 
 Doubting God's love for all mankind,
  Christ dying only for the sins of the elect,
@@ -216,7 +234,13 @@ And most critically, monergism begets its own antithesis, which in turn begets a
 To the degree the reactionary revolutions produce revealed truth they can be said to be good (as all truth is), but to the degree they create schisms and deception, including bad faith arguments and misrepresentations of the opposing view; this is the work of the adversary, the bad fruits of demonic influence.
 
 
-The revealed truth is the unification of the truths of monergism acted out in the truths of synergism.
+## Revolution and Reaction
+
+https://en.m.wikipedia.org/wiki/The_Anatomy_of_Revolution
+
+Resolving the dilemma requires Christ.
+
+The revealed truth is the unification of the truths of monergism acted out in the truths of synergism. Traditionally this is what is meant by synergism, and is what the St. Paul referenced by synergoi.
     
 
 
@@ -227,11 +251,6 @@ We cannot reason or fit God within the bounds
 
 What we can reason about?
 What we cannot reason about?
-
-
-Total Free Will
-vs
-Total Predestination
 
 
 
@@ -276,16 +295,6 @@ Is saying *yes* to this a slight to His
 
 
 Man created in the image and likeness of God
-
-TULIP,
-It starts, necessarily, with
- unconditional election and flows
- logically from one to the next
-
-Total depravity
-
-Unconditional election
-
 
 
 
