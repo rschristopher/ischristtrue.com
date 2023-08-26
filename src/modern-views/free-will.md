@@ -10,8 +10,9 @@ Whether religious or mechanistic,
  answer to the question of human free will.
 Many answers are available, but none
  have reached consensus even within
- the narrow bounds of their worldview,
+ the narrow bounds of their own worldview,
  let alone a universally accepted answer amongst all worldviews.
+
 Pick one of these answers and you'll find schisms with two or more camps debating the issue.
 There will be those that deny any notion
  of human free will
@@ -27,7 +28,7 @@ Pick any era in history in any culture
 
 
 
-## Free Will in Christendom 
+## Free Will and Christianity
 
 Christians (in all the various
  denominations) have debated
@@ -39,101 +40,60 @@ Yet even within the subtle nuances of
  the Greek word 
  [synergoi](https://crosstheology.wordpress.com/synergism/)
  the core debate rages on.
+And if we detour back to our
+ pre-Christian history, this exact 
+ question of free will and
+ predestination is what
+ [divided the
+ Pharisees, Sadducees, and Essenes](https://classicalchristianity.com/2011/02/15/on-predestination/).
+
+One of the earliest debates of free will
+ within Christianity was the
+ [Pelagian Controversy](https://tabletalkmagazine.com/article/2020/09/augustine-and-the-pelagian-controversy/).
+And despite the conventional wisdom that 
+ [St. Augustine](https://en.wikipedia.org/wiki/Saint_Augustine)
+ was reacting to the writings of
+ Pelagius, the opposite was true.
+Augustine's own writings were the catalyst
+ that birthed a *reaction* known as
+ [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism),
+ a conflict which has arguably persisted through
+ the ages and follows the aforementioned pattern
+ of a schism over free will.
+The *Pelagians* reacted to the perceived lack
+ of free will within
+ St. Augustine's writings --
+ this reaction pushed into anti-Biblical views
+ (that original sin did not taint human nature)
+ in order to allow for human free will.
+The Pelagian view
+ was deemed heretic
+ (see Canon V from the [Council of 418](https://en.m.wikipedia.org/wiki/Councils_of_Carthage)).
+However, the debate continued afterwards in what is known as
+ [semi-Pelagianism](https://en.wikipedia.org/wiki/Semi-Pelagianism).
+
+From these ongoing free will debates,
+ [synergism](https://en.wikipedia.org/wiki/Synergism)
+ became the agreed upon solution by *orthodox* Christians.
+This view was reinforced in the
+ [fourth ecumenical council](https://orthodoxwiki.org/Fourth_Ecumenical_Council)
+ determining that the person of Christ
+ has *both* a human and divine will,
+ that Christ is both God and man --
+ a view that was further reinforced in the
+ [sixth ecumenical council](https://orthodoxwiki.org/Sixth_Ecumenical_Council).
+Unfortunately, the orthodox view of synergism 
+ has occasionally drifted such that it can
+ resemble a semi-Pelagian view, often times
+ with deliberate misrepresentations
+ resulting in renewed free-will debates amongst Christians
+ that parallel the early church history.
 For example,
- Calvinists debate this topic between
- themselves, resulting in
+ reformed theologians continue to debate this topic, resulting in
  [Arminianism vs Monergism](https://www.monergism.com/arminianisms), 
  and 
  [Molinism](https://www.thoughtstheological.com/calvinism-molinism-arminianism-and-open-theism-monergismsynergism-at-the-macro-and-micro-levels/)
  as the nuanced in-between.
-And if we detour back to our
- pre-Christian history, this exact 
- question of free will and
- predestination
- [divided the
- Pharisees, Sadducees, and Essenes](https://classicalchristianity.com/2011/02/15/on-predestination/).
-
-One of the earliest debates on free will
- within Christianity was the
- Pelegian Controversy.
-
-Pelegianism was deemed heretical in 418
-https://en.m.wikipedia.org/wiki/Councils_of_Carthage see Cannon V
-
-https://orthodoxwiki.org/Fourth_Ecumenical_Council
-
-https://orthodoxwiki.org/Sixth_Ecumenical_Council
-
-
-
-
-
-
-
-
-
-## Predestination
-
-The Biblical narrative is very clear
- on two points:
-
-*1 - God has ultimate sovereignty*, and
-
-*2 - man has free will*.
-
-The structure of the Biblical narrative
- affirms both points.
-God is a character in the
- Bible, as is man,
- who was created in the image
- and likeness of God.
-This is not an impersonal God of deism.
-God is not only personal, but our very
- notion of personhood is from God,
- that is, we possess personhood because
- we were made in His image and likeness.
-Our free will exists in that we
- participate in His will.
-And His will is done. 
-He is the transcendent source of all creation.
-Even God hardening (strengthening)
- Pharoah's heart, 
- this is what allowed Pharoah
- to follow his own will against
- certain destruction.
-
-These two revealed truths, of God's sovereignty and man's free will, create a potential dilemma, as effectively both sides of the *free will* debate are strongly affirmed. And thus any interpretation of scripture which denies one side can be declared false. And the question of reconciling these seemingly contrary views is left as a divine mystery, one that parallels the life and character of Jesus Christ.
-
-This in effect is affirmed in the
-Chalcedonian Definition 
-that Christ has two wills and
-that Christ is both God and man.
-This necessarily implies that man's free
- will not only exists but that it
- can be redeemed in Christ.
-Note also how the human will of Christ
- participates in the will of the father,
- with obedience so as to glorify the
- father.
-By coming to Christ we find in Christ
- an answer to the free will 
- question;
- and we find affirmation that any interpretation
- that denies or compromises free will or that denies or compromises God's ultimate sovereignty, any such views are as heretical and false as denying that Christ is both God and man.
-Only by affirming that Christ is both God and man, such that man is both free and completely subject to God's sovereignty can we make sense of the Bible.
-This affirmation is traditionally known as
- synergism
- from the Greek synergoi, as Saint Paul writes,
-
-!!! quote "1 Corinthians 3:9"
-    Θεοῦ γάρ ἐσμεν **συνεργοί**· Θεοῦ γεώργιον, Θεοῦ οἰκοδομή ἐστε.
-    
-    Theou gar esmen **synergoi**; Theou geôrgion, Theou oecodomê este.
-    
-    For we are **fellow workers** with God: ye are God's husbandry, ye are God's building.
-
-Foreknowledge != Predestination
-
 
 
 
@@ -251,6 +211,80 @@ We cannot reason or fit God within the bounds
 
 What we can reason about?
 What we cannot reason about?
+
+
+
+
+
+
+
+
+
+
+## Predestination
+
+The Biblical narrative is very clear
+ on two points:
+
+*1 - God has ultimate sovereignty*, and
+
+*2 - man has free will*.
+
+The structure of the Biblical narrative
+ affirms both points.
+God is a character in the
+ Bible, as is man,
+ who was created in the image
+ and likeness of God.
+This is not an impersonal God of deism.
+God is not only personal, but our very
+ notion of personhood is from God,
+ that is, we possess personhood because
+ we were made in His image and likeness.
+Our free will exists in that we
+ participate in His will.
+And His will is done. 
+He is the transcendent source of all creation.
+Even God hardening (strengthening)
+ Pharoah's heart, 
+ this is what allowed Pharoah
+ to follow his own will against
+ certain destruction.
+
+These two revealed truths, of God's sovereignty and man's free will, create a potential dilemma, as effectively both sides of the *free will* debate are strongly affirmed. And thus any interpretation of scripture which denies one side can be declared false. And the question of reconciling these seemingly contrary views is left as a divine mystery, one that parallels the life and character of Jesus Christ.
+
+This in effect is affirmed in the
+Chalcedonian Definition
+ from the
+ ([fourth ecumenical council](https://orthodoxwiki.org/Fourth_Ecumenical_Council))
+that Christ has two wills and
+that Christ is both God and man.
+This necessarily implies that man's free
+ will not only exists but that it
+ can be redeemed in Christ.
+Note also how the human will of Christ
+ participates in the will of the father,
+ with obedience so as to glorify God (the father).
+By coming to Christ we find in Christ
+ an answer to the free will 
+ question;
+ and we find affirmation that any interpretation
+ that denies or compromises free will or that denies or compromises God's ultimate sovereignty, any such views are as heretical and false as denying that Christ is both God and man.
+Only by affirming that Christ is both God and man, such that man is both free and completely subject to God's sovereignty can we make sense of the Bible.
+This is what is traditionally known as
+ synergism
+ from the Greek synergoi, as Saint Paul writes,
+
+!!! quote "1 Corinthians 3:9"
+    Θεοῦ γάρ ἐσμεν **συνεργοί**· Θεοῦ γεώργιον, Θεοῦ οἰκοδομή ἐστε.
+    
+    Theou gar esmen **synergoi**; Theou geôrgion, Theou oecodomê este.
+    
+    For we are **fellow workers** with God: ye are God's husbandry, ye are God's building.
+
+Foreknowledge != Predestination
+
+
 
 
 
