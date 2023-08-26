@@ -72,7 +72,8 @@ God is not only personal, but our very
  we were made in His image and likeness.
 Our free will exists in that we
  participate in His will.
-And His will is done as He is the transcendent source of all creation.
+And His will is done. 
+He is the transcendent source of all creation.
 Even God hardening (strengthening)
  Pharoah's heart, 
  this is what allowed Pharoah
