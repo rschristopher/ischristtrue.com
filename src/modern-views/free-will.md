@@ -160,69 +160,9 @@ And while both sides have plenty of scriptural support,
  all it takes is one counterexample to show an interpretation as false.
 
 
-### TODO
-
-"The decree of reprobation cannot be made an object of prayer or preaching, and this is an argument against it. Experience confirms election, but repudiates reprobation."
-https://classicalchristianity.com/2011/03/14/on-irrestible-grace-and-synergy/
-
-https://classicalchristianity.com/2011/03/29/on-the-perseverance-of-the-saints/
-
-As such, it would be fair to 
- see Arminianism as a Calvinist
- dressing around rationalistic synergism, which
- can lead to semi-pelegianism and deism.
-Yet the culprit, the cause, is the rigid
- views of reprobation in Calvinism, that is, 
- ignoring the infinite love and mercy
- of God, and focusing too much on a
- rationalistic system, will inevitably
- create rationalistic Arminianism.
-
-How does EO avoid the dangers of
- synergism? Do they?
-What about Catholicism?
-
-https://crosstheology.wordpress.com/synergism/
-
-Double predestination?
-https://crosstheology.wordpress.com/the-outright-disaster-of-the-augustinian-calvinist-formulation-of-election/
 
 
-http://www.crivoice.org/creeddositheus.html
-
-https://orthodoxbridge.com/2012/08/12/plucking-the-tulip-1-an-orthodox-critique-of-the-reformed-doctrine-of-predestination/
-
-https://people.cs.ksu.edu/~bbp9857/calvinism.html
-
-https://credohouse.org/blog/an-eastern-orthodox-view-of-predestination
-
-https://saintgeorgekearney.com/load.php?pageid=55
-
-https://classicalchristianity.com/2011/04/03/on-election-foreknowledge
-
-https://classicalchristianity.com/2011/05/09/eastern-orthodox-view-of-calvinism/
-
-https://classicalchristianity.com/2011/02/21/on-depraved-nature/
-
-
-
-
-
-### Why this Matters?
-
-Soteriology and Christology
-
-And general sense making
-
-
-God's ultimate sovereignty
-vs
-God's love for mankind
-
-
-
-
-### Weakness in Arminianism
+### Weakness of Arminianism
 
 Arminian synergism, which is similar to the Roman Catholic view of synergism, contains plenty of scriptural support. 
 However, there are many passages that must bend or break with this interpretation, e.g.,
@@ -236,7 +176,7 @@ Risks of semi-pelegianism, pelegianism more generally, and even deism -- a slipp
 
 
 
-### Weakness in Monergism
+### Weakness of Monergism
 
 There is plenty of scriptural support for monergism and all five points of Calvinism. However, as with Arminianism, all it takes is one counterexample, e.g.,
 
@@ -264,19 +204,65 @@ Asserting that Christ died only for the sins of the elect.
 Not participating willfully in your own salvation.
 The unelect are predestined to hell with no chance of salvation.
 
- impossible to act within
+Double predestination is impossible to act within.
+
+https://crosstheology.wordpress.com/the-outright-disaster-of-the-augustinian-calvinist-formulation-of-election/
+
+"The decree of reprobation cannot be made an object of prayer or preaching, and this is an argument against it. Experience confirms election, but repudiates reprobation."
+
+https://classicalchristianity.com/2011/03/14/on-irrestible-grace-and-synergy/
+
+https://classicalchristianity.com/2011/03/29/on-the-perseverance-of-the-saints/
+
+As such, it would be fair to 
+ see Arminianism as a Calvinist
+ dressing around rationalistic synergism, which
+ can lead to semi-pelegianism and deism.
+Yet the culprit, the cause, is the rigid
+ views of reprobation in Calvinism, that is, 
+ ignoring the infinite love and mercy
+ of God, and focusing too much on a
+ rationalistic system, will inevitably
+ create rationalistic Arminianism.
+
  
  imposing limits on God based on rationality.
 
 Influence of Platonism / Hellenism applied to the Bible (hence prevalent in the west in exactly those areas most
 influenced by Platonism)
 
-And most critically, monergism begets its own antithesis, which in turn begets a classic revolutionary and reactionary cycle. A cycle that only Christ can successfully resolve as mediator.
+And most critically, monergism begets its own antithesis, 
+ which in turn begets a classic revolutionary and reactionary cycle.
+We see the seeds of reaction [even now](https://people.cs.ksu.edu/~bbp9857/calvinism.html).
+A cycle that only Christ can successfully resolve as mediator.
 
 To the degree the reactionary revolutions produce revealed truth they can be said to be good (as all truth is), but to the degree they create schisms and deception, including bad faith arguments and misrepresentations of the opposing view; this is the work of the adversary, the bad fruits of demonic influence.
 
 
-### Revolution and Reaction
+
+
+
+
+
+
+### Why this Matters?
+
+Soteriology and Christology
+
+And general sense making
+
+
+God's ultimate sovereignty
+vs
+God's love for mankind
+
+
+
+
+
+
+
+## Revolution and Reaction
 
 Ultimately, if we look at the pattern in the free-will debates
  we find a predictable cycle of [revolution and reaction](https://en.m.wikipedia.org/wiki/The_Anatomy_of_Revolution).
@@ -359,7 +345,52 @@ This is what is traditionally known as
     
     For we are **fellow workers** with God: ye are God's husbandry, ye are God's building.
 
-While orthodox synergism has often been maligned and misrepresented (conflated with semi-Pelagian heresies), the core doctrine of synergy remains crucial and necessary to the truth of the Biblical narrative.
+While orthodox synergism has often been maligned and misrepresented
+ (conflated with semi-Pelagian heresies),
+ the core doctrine of synergy remains crucial
+ and necessary to the truth of the Biblical narrative.
+In fact, there were attempts at reconciliation between the early reformed church
+ and the Eastern Orthodox church.
+Unfortunately this did not lead to any unification,
+ although it did bear good fruits in what is known as
+ [The Confession of Dositheus](http://www.crivoice.org/creeddositheus.html)
+ which better articulated the Eastern Orthodox positions
+ with respect to reformed theology more generally.
+This is particularly interesting in hindsight as we can
+ see that the protestants were basing much of their
+ theology on the reaction against heresies within
+ the Roman Catholic church
+ (of which there was generally agreement between Protestants and Orthodox Christians).
+
+These attempts at unification continue
+ [to this day](https://orthodoxbridge.com/2012/08/12/plucking-the-tulip-1-an-orthodox-critique-of-the-reformed-doctrine-of-predestination/),
+ ...
+
+!!! quote "Acts 17:26-17"
+    And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;
+    That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us
+
+
+!!! quote "Acts 10:34-35"
+    Then Peter opened his mouth, and said, Of a truth I perceive that God is no respecter of persons:
+    
+    But in every nation he that feareth him, and worketh righteousness, is accepted with him.
+
+
+
+How does EO avoid the dangers of
+ synergism? Do they?
+What about Catholicism?
+
+
+https://saintgeorgekearney.com/load.php?pageid=55
+
+https://classicalchristianity.com/2011/04/03/on-election-foreknowledge
+
+https://classicalchristianity.com/2011/05/09/eastern-orthodox-view-of-calvinism/
+
+https://classicalchristianity.com/2011/02/21/on-depraved-nature/
+
 
 
 
