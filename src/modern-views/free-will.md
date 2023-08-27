@@ -330,23 +330,24 @@ Even God hardening (strengthening)
 These two revealed truths, of God's sovereignty and man's free will, create a potential dilemma, as effectively both sides of the *free will* debate are strongly affirmed in the Bible. And thus any interpretation of scripture which denies one side can be declared false. And the question of reconciling these seemingly contrary views is left as a divine mystery, one that parallels the life and character of Jesus Christ.
 
 This in effect is affirmed in the
-Chalcedonian Definition
- from the
- ([fourth ecumenical council](https://orthodoxwiki.org/Fourth_Ecumenical_Council))
+[Chalcedonian Definition](https://en.m.wikipedia.org/wiki/Chalcedonian_Definition)
+ (from the
+ [fourth ecumenical council](https://orthodoxwiki.org/Fourth_Ecumenical_Council))
 that Christ has two wills and
 that Christ is both God and man.
 This necessarily implies that man's free
  will not only exists but that it
  can be redeemed in Christ.
 Note also how the human will of Christ
+ not only was tempted by Satan, but also
  participates in the will of the father,
- with obedience so as to glorify God (the father).
+ with perfect obedience so as to glorify God (the father).
 By coming to Christ we find in Christ
  an answer to the free will 
  question;
  and we find affirmation that any interpretation
  that denies or compromises free will or that denies or compromises God's ultimate sovereignty, any such views are as heretical and false as denying that Christ is both God and man.
-Only by affirming that Christ is both God and man, such that man is both free and completely subject to God's sovereignty can we make sense of the Bible.
+Only by affirming that Christ is both God and man, such that man is both free and completely subject to God's sovereignty, can we make sense of the Bible.
 This is what is traditionally known as
  synergism
  from the Greek synergoi, as Saint Paul writes,
@@ -358,7 +359,7 @@ This is what is traditionally known as
     
     For we are **fellow workers** with God: ye are God's husbandry, ye are God's building.
 
-While orthodox synergism has been maligned and misrepresented, the core doctrine of synergism remains crucial and necessary to the truth of the Biblical narrative.
+While orthodox synergism has often been maligned and misrepresented (conflated with semi-Pelagian heresies), the core doctrine of synergy remains crucial and necessary to the truth of the Biblical narrative.
 
 
 
