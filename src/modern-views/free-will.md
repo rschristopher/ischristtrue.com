@@ -28,7 +28,7 @@ Pick any era in history in any culture
 
 
 
-## Free Will and Christianity
+## Christian Views
 
 Christians (in all the various
  denominations) have debated
@@ -47,8 +47,8 @@ And if we detour back to our
  [divided the
  Pharisees, Sadducees, and Essenes](https://classicalchristianity.com/2011/02/15/on-predestination/).
 
-One of the earliest debates of free will
- within Christianity was the
+One of the earliest Christian free will
+ debates was the
  [Pelagian Controversy](https://tabletalkmagazine.com/article/2020/09/augustine-and-the-pelagian-controversy/).
 And despite the conventional wisdom that 
  [St. Augustine](https://en.wikipedia.org/wiki/Saint_Augustine)
@@ -69,11 +69,11 @@ The *Pelagians* reacted to the perceived lack
 The Pelagian view
  was deemed heretic
  (see Canon V from the [Council of 418](https://en.m.wikipedia.org/wiki/Councils_of_Carthage)).
-However, the debate continued afterwards in what is known as
- [semi-Pelagianism](https://en.wikipedia.org/wiki/Semi-Pelagianism).
+However, the debate continued afterwards into various
+ [semi-Pelagian](https://en.wikipedia.org/wiki/Semi-Pelagianism) views.
 
 From these ongoing free will debates,
- [synergism](https://en.wikipedia.org/wiki/Synergism)
+ [synergism](https://crosstheology.wordpress.com/synergism/)
  became the agreed upon solution by *orthodox* Christians.
 This view was reinforced in the
  [fourth ecumenical council](https://orthodoxwiki.org/Fourth_Ecumenical_Council)
@@ -82,34 +82,101 @@ This view was reinforced in the
  that Christ is both God and man --
  a view that was further reinforced in the
  [sixth ecumenical council](https://orthodoxwiki.org/Sixth_Ecumenical_Council).
-Unfortunately, the orthodox view of synergism 
- has occasionally drifted such that it can
- resemble a semi-Pelagian view, often times
+As time went on, this orthodox view of synergism 
+ has occasionally drifted, often times
  with deliberate misrepresentations
+ into semi-Pelagian views,
  resulting in renewed free-will debates amongst Christians
- that parallel the early church history.
+ that parallel the debates in the early church history.
 For example,
- reformed theologians continue to debate this topic, resulting in
+ reformed theologians continue to debate this exact topic, resulting in
  [Arminianism vs Monergism](https://www.monergism.com/arminianisms), 
- and 
- [Molinism](https://www.thoughtstheological.com/calvinism-molinism-arminianism-and-open-theism-monergismsynergism-at-the-macro-and-micro-levels/)
- as the nuanced in-between.
+ which mimics the centuries old semi-Pelagian debates,
+ including nuanced in-between views such as
+ [Molinism](https://www.thoughtstheological.com/calvinism-molinism-arminianism-and-open-theism-monergismsynergism-at-the-macro-and-micro-levels/).
 
 
 
 
-## Synergism and Monergism
+### Synergism and Monergism
 
-best take: Arminianism is a Calvinist
- dressing around rational synergism, which
+As if to parallel the early Pelagian controversy,
+ Arminianism arose as a *reaction* to the writings of 
+ [John Calvin](https://en.wikipedia.org/wiki/John_Calvin)
+ who was heavily influenced by the Augustinian views
+ of predestination, and especially Calvin's views of
+ *reprobation*
+ (or what is otherwise known as 
+  [double predestination](https://history.hanover.edu/courses/excerpts/346cal2.html)).
+Which is a logical conclusion to the denial of human free will,
+ that the non-elect were effectively chosen for damnation
+ (that God "adjudges others to eternal death").
+These strict Calvinist views are known as
+ [monergism](https://en.wikipedia.org/wiki/Monergism).
+The reaction came from the writings of
+ [Jacobus Arminius](https://en.wikipedia.org/wiki/Jacobus_Arminius)
+ whose views led (inevitably) to a schism
+ with the Calvinist churches, such that the
+ [Remonstrant Brotherhood](https://en.wikipedia.org/wiki/Remonstrants)
+ split from the Dutch Reformed Church.
+
+The Remonstrant Arminian view was explicitly condemed
+ at the 
+ [Synod of Dort](https://en.wikipedia.org/wiki/Synod_of_Dort)
+ which led to the articulation of the
+ [five points of Calvinism](https://en.wikipedia.org/wiki/Calvinism#Five_Points_of_Calvinism)
+ (known by the mmnemonic acronym TULIP).
+And exactly like the emergence of semi-Pelagianism,
+ there inevitably arose rationalistic Arminianism, many of which are
+ superficially similar to the orthodox view of synergism.
+What followed in the century after Dort was a
+ migration away from strict Calvinism but not
+ stopping at Arminianism, instead going towards
+ [deism](https://en.wikipedia.org/wiki/Deism),
+ itself a stepping stone into the postmodern
+ malaise and meaning crisis.
+As a result, and as astute Calvinists have maintained,
+ any view that takes away from the complete
+ sovereignty of God inevitably leads to 
+ deism, naturalism, and ultiamtely to what
+ [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche),
+ described as the effective death of God
+ in the hearts of men.
+
+Slippery slope arguments aside,
+ while we can easily dispense with the semi-Pelagian
+ views of Remonstrant Arminianism,
+ we are left with an ongoing
+ debate between 
+ monergism
+ and
+ orthodox synergism.
+Ultimately, either John Calvin and the reformers were wrong,
+ or John Chrysostom and the church fathers were wrong.
+
+
+This parallels a 7th century debate
+ concerning monothelitism
+ (Christ had only divine will)
+ vs
+ bitheletism
+ (Christ had human AND divine will).
+
+"The decree of reprobation cannot be made an object of prayer or preaching, and this is an argument against it. Experience confirms election, but repudiates reprobation."
+https://classicalchristianity.com/2011/03/14/on-irrestible-grace-and-synergy/
+
+https://classicalchristianity.com/2011/03/29/on-the-perseverance-of-the-saints/
+
+As such, it would be fair to 
+ see Arminianism as a Calvinist
+ dressing around rationalistic synergism, which
  can lead to semi-pelegianism and deism.
 Yet the culprit, the cause, is the rigid
  views of reprobation in Calvinism, that is, 
  ignoring the infinite love and mercy
  of God, and focusing too much on a
  rationalistic system, will inevitably
- create rational Arminianism.
-
+ create rationalistic Arminianism.
 
 How does EO avoid the dangers of
  synergism? Do they?
@@ -137,25 +204,12 @@ https://classicalchristianity.com/2011/05/09/eastern-orthodox-view-of-calvinism/
 
 https://classicalchristianity.com/2011/02/21/on-depraved-nature/
 
-Either John Calvin and the reformers were wrong,
- or John Chrysostom and the church fathers
- were wrong.
-This parallels a 7th century debate
- concerning monothelitism
- (Christ had only divine will)
- vs
- bitheletism
- (Christ had human AND divine will).
-
-"The decree of reprobation cannot be made an object of prayer or preaching, and this is an argument against it. Experience confirms election, but repudiates reprobation."
-https://classicalchristianity.com/2011/03/14/on-irrestible-grace-and-synergy/
-
-https://classicalchristianity.com/2011/03/29/on-the-perseverance-of-the-saints/
 
 
 
 
-## Why this Matters?
+### Why this Matters?
+
 Soteriology and Christology
 
 And general sense making
@@ -168,7 +222,7 @@ God's love for mankind
 
 
 
-## Weakness in Synergism
+### Weakness in Synergism
 
 Doubting God's absolute sovereignty,
  doubting God's omniscience.
@@ -177,7 +231,7 @@ Risks of semi-pelegianism, pelegianism more generally, and even deism -- a slipp
 
 
 
-## Weakness in Monergism
+### Weakness in Monergism
 
 Doubting God's love for all mankind,
  Christ dying only for the sins of the elect,
@@ -211,7 +265,6 @@ We cannot reason or fit God within the bounds
 
 What we can reason about?
 What we cannot reason about?
-
 
 
 
@@ -289,7 +342,7 @@ Foreknowledge != Predestination
 
 
 
-### Love and Free Will
+## Love and Free Will
 
 Man cannot fathom omniscience nor the nature
  of God's will, His divine judgement,
