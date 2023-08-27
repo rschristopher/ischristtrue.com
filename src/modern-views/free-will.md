@@ -441,7 +441,7 @@ Why tempt people?
 
 Or better, why would God not make salvation available
  to all, even those He knows won't be saved?
-This is the dangerous question that if left untempered by truth will result in the continuation of the heretical revolution and reaction cycle we have seen before. In the end, Christ has a divine and a human will, He us both, and thus through Christ do we affirm knowable truth of man's free will and of God's absolute sovereignty.
+This is the dangerous question that if left untempered by truth will result in the continuation of the heretical cycles of revolution and reaction that we have seen before. In the end, Christ has a divine and a human will, He is both, and thus through Christ do we affirm objective knowable truth of man's free will and of God's absolute sovereignty.
 
 
 
