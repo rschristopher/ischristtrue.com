@@ -244,12 +244,12 @@ There is plenty of scriptural support for monergism and all five points of Calvi
      And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
 
 It's difficult to bend the above with *limited atonement*, the L in TULIP which states that Christ died only for the sins of the elect.
-Additionally, we are forced to bend much of scripture to remove man's will,
+Additionally, we are forced to bend much of scripture to remove man's will, e.g.,
 
 !!! quote "Hebrews 12:25"
      See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more shall not we escape, if we turn away from him that speaketh from heaven
 
-And more troubling, we must bend the very words of our Lord, who is very clear about the free will of man concerning his own salvation,
+And more troubling, we must bend the very words of our Lord, who is very clear about the free will of man concerning his own salvation, e.g.,
 
 !!! quote "Matthew 7:1-5"
      Judge not, that ye be not judged. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again. And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye? Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye? Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
