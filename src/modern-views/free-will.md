@@ -206,15 +206,10 @@ Asserting that Christ died only for the sins of the elect.
 Not participating willfully in your own salvation.
 The unelect are predestined to hell with no chance of salvation.
 
-Double predestination is impossible to act within.
-
-https://crosstheology.wordpress.com/the-outright-disaster-of-the-augustinian-calvinist-formulation-of-election/
+Double predestination is impossible to [act within](https://crosstheology.wordpress.com/the-outright-disaster-of-the-augustinian-calvinist-formulation-of-election/).
 
 "The decree of reprobation cannot be made an object of prayer or preaching, and this is an argument against it. Experience confirms election, but repudiates reprobation."
 
-https://classicalchristianity.com/2011/03/14/on-irrestible-grace-and-synergy/
-
-https://classicalchristianity.com/2011/03/29/on-the-perseverance-of-the-saints/
 
 As such, it would be fair to 
  view Arminianism as a Calvinist
@@ -235,7 +230,13 @@ influenced by Platonism)
 
 And most critically, monergism begets its own antithesis, 
  which in turn begets a classic cycle of revolution and reaction.
-We see the seeds of reaction continue ke within [critiques of Calvinism](https://people.cs.ksu.edu/~bbp9857/calvinism.html).
+We see the seeds of reaction 
+ [continue](https://classicalchristianity.com/2011/02/21/on-depraved-nature
+/)
+ [to](https://classicalchristianity.com/2011/03/29/on-the-perseverance-of-the-saints/)
+ [this](https://classicalchristianity.com/2011/03/14/on-irrestible-grace-and-synergy/)
+ [very](https://classicalchristianity.com/2011/04/03/on-election-foreknowledge)
+ [day](https://people.cs.ksu.edu/~bbp9857/calvinism.html).
 This is a cycle that only Christ can successfully resolve as mediator.
 
 To the degree the reactionary revolutions produce revealed truth they can be said to be good (as all truth is), but to the degree they create schisms and deception, including bad faith arguments and misrepresentations of the opposing view; this is the work of the adversary, the bad fruits of demonic influence. And unfortunately, one can find bad faith arguments and straw men on both sides of this debate. We ought to tread carefully here, and remember that if this issue was unimportant we wouldn't find such demonic interference.
@@ -333,6 +334,7 @@ Note also how the human will of Christ
  not only was tempted by Satan, but also
  participates in the will of the father,
  with perfect obedience so as to glorify God (the father).
+Christ's human will participated harmoniously with His divine will, and in a way that makes it possible for us to do, participating harmoniously with the divine sovereign will.
 By coming to Christ we find in Christ
  an answer to the free will 
  question;
@@ -350,13 +352,20 @@ This is what is traditionally known as
     
     For we are **fellow workers** with God: ye are God's husbandry, ye are God's building.
 
+Orthodox synergism is notably different from Roman Catholic as well as rational Arminian synergism, in that the orthodox view affirms God's absolute sovereignty through Christ's divine will, while simultaneously affirming man's free will through Christ's human will.
+This does not compromise on irresistible grace nor total depravity, nor any of the five points of Calvinism.
+In fact, it becomes clear that Calvinism speaks of Christ's divine will while making no claims about Christ's human will and the necessary implications to man's free will.
+
+Ultimately, the creator of the universe became flesh, became man -- the divine Logos incarnate. And as such lived with sinless perfection, participating in the divine will through His human will.
+
 While orthodox synergism has often been maligned and misrepresented
- (conflated with semi-Pelagian heresies),
- the core doctrine of synergy remains crucial
+ (conflated with Roman Catholic or Arminian semi-Pelagian heresies),
+ the core doctrine of orthodox synergy remains crucial
  and necessary to the truth of the Biblical narrative.
+ 
 In fact, there were attempts at reconciliation between the early reformed church
  and the Eastern Orthodox church.
-Unfortunately this did not lead to any unification,
+Unfortunately this did not lead to unification,
  although it did bear good fruits in what is known as
  [The Confession of Dositheus](http://www.crivoice.org/creeddositheus.html)
  which better articulated the Eastern Orthodox positions
@@ -368,7 +377,9 @@ This is particularly interesting in hindsight as we can
  (of which there was generally agreement between Protestants and Orthodox Christians).
 
 These attempts at unification continue
- [to this day](https://orthodoxbridge.com/2012/08/12/plucking-the-tulip-1-an-orthodox-critique-of-the-reformed-doctrine-of-predestination/),
+ [to](https://orthodoxbridge.com/2012/08/12/plucking-the-tulip-1-an-orthodox-critique-of-the-reformed-doctrine-of-predestination/)
+ [this](https://saintgeorgekearney.com/load.php?pageid=55)
+ [day](https://classicalchristianity.com/2011/05/09/eastern-orthodox-view-of-calvinism/)
  ...
 
 !!! quote "Acts 17:26-17"
@@ -388,13 +399,6 @@ How does EO avoid the dangers of
 What about Catholicism?
 
 
-https://saintgeorgekearney.com/load.php?pageid=55
-
-https://classicalchristianity.com/2011/04/03/on-election-foreknowledge
-
-https://classicalchristianity.com/2011/05/09/eastern-orthodox-view-of-calvinism/
-
-https://classicalchristianity.com/2011/02/21/on-depraved-nature/
 
 
 
