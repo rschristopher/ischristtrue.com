@@ -222,6 +222,8 @@ God's love for mankind
 
 ### Weakness in Synergism
 
+Arminian synergism, which is similar to the Roman Catholic view of synergism contains plenty of scriptural counterexamples. Again, all that is needed is one counterexample to falsify a given interpretation.
+
 Risks of semi-pelegianism, pelegianism more generally, and even deism -- a slippery slope into the horrors of the postmodern "enlightenment" that denies God, truth, morality, and any defensible epistemology -- leaving man devoured and disintegrated into the dark waters of chaos, unable to justify any such thing as goodness or even hope.
 
 
@@ -260,7 +262,7 @@ The revealed truth is the unification of the truths of monergism acted out in th
 
 
 
-## Predestination
+## Orthodox Predestination
 
 The Biblical narrative is very clear
  on two points:
@@ -320,6 +322,8 @@ This is what is traditionally known as
     Theou gar esmen **synergoi**; Theou geôrgion, Theou oecodomê este.
     
     For we are **fellow workers** with God: ye are God's husbandry, ye are God's building.
+
+While orthodox synergism has been maligned and misrepresented, the core doctrine remains crucial and necessary to the truth of the Biblical narrative.
 
 Foreknowledge != Predestination
 
@@ -396,9 +400,11 @@ Who are you to classify God within rationality?
 How to make sense of angels?
 How to make sense of demons?
 That is, if no free will, then why torment?
-Why pull the unelect further from God?
-Why not save everyone? Or make salvation available
- to all, even those you know won't be saved?
+Why tempt people?
+
+Or better, why would God not make salvation available
+ to all, even those He knows won't be saved?
+This is the dangerous question that if left untempered by truth will result in the continuation of the heretical revolution and reaction cycle we have seen before. In the end, Christ has a divine and a human will, He us both, and thus through Christ do we affirm knowable truth of man's free will and of God's absolute sovereignty.
 
 
 
