@@ -113,6 +113,7 @@ The Arminian reaction was especially concerned with Calvin's views of
  which is a logical conclusion to the denial of human free will,
  that the non-elect were effectively chosen for damnation
  (that God "adjudges others to eternal death").
+
 These strict Calvinist views are known as
  [monergism](https://en.wikipedia.org/wiki/Monergism).
 The reaction to monergism came from the writings of
@@ -121,20 +122,21 @@ The reaction to monergism came from the writings of
  within the Calvinist churches, such that the
  [Remonstrant Brotherhood](https://en.wikipedia.org/wiki/Remonstrants)
  split from the Dutch Reformed Church.
-
-The Remonstrant Arminian view was explicitly condemed
+The Remonstrant Arminian view was explicitly condemned 
  at the 
  [Synod of Dort](https://en.wikipedia.org/wiki/Synod_of_Dort)
  which is what led to the articulation of the
  [five points of Calvinism](https://en.wikipedia.org/wiki/Calvinism#Five_Points_of_Calvinism)
  (known by the mnemonic acronym TULIP).
-And exactly like the emergence of semi-Pelagianism,
- there inevitably arose rationalistic Arminianism.
+
+And exactly like the emergence of semi-Pelagianism, the condemnation
+ of Remonstrant Arminianism
+ led inevitably to a rationalistic Arminianism.
 Many of these views are
  superficially similar to the Roman Catholic view of synergism.
 What followed in the century after Dort was a
  migration away from strict monergism but not
- stopping at Arminianism, instead leading inevitably towards
+ stopping at rational Arminianism, instead leading inevitably towards
  [deism](https://en.wikipedia.org/wiki/Deism),
  itself a stepping stone into the postmodern
  malaise and meaning crisis.
@@ -148,14 +150,14 @@ As a result, and as astute Calvinists have maintained,
 
 Slippery slopes aside,
  while we can easily dispense with the semi-Pelagian
- views of Remonstrant Arminianism,
+ views of Arminianism,
  we are left with an ongoing
  debate between 
  monergism
  and
  orthodox synergism.
 Ultimately, either John Calvin and the reformers were wrong,
- or John Chrysostom and all the church fathers were wrong.
+ or John Chrysostom and all of the church fathers were wrong.
 And while both sides have plenty of scriptural support,
  all it takes is one counterexample to show an interpretation as false.
 
@@ -183,13 +185,13 @@ There is plenty of scriptural support for monergism and all five points of Calvi
 !!! quote "1 John 2:2"
      And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
 
-It's difficult to bend the above with *limited atonement*, the L in TULIP which states that Christ died only for the sins of the elect.
-Additionally, we are forced to bend much of scripture to remove man's will, e.g.,
+It's difficult to reconcile the above with *limited atonement*, the L in TULIP which states that Christ died only for the sins of the elect.
+Additionally, we are forced to bend much of scripture to remove man's free will, e.g.,
 
 !!! quote "Hebrews 12:25"
      See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more shall not we escape, if we turn away from him that speaketh from heaven
 
-And more troubling, we must bend the very words of our Lord, who is very clear about the free will of man concerning salvation, e.g.,
+And more troubling, we must bend the very words of our Lord, who is very clear about the free will of man concerning salvation, providing explicit moral instruction *as if* we have free will, e.g.,
 
 !!! quote "Matthew 7:1-5"
      Judge not, that ye be not judged. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again. And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye? Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye? Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
@@ -215,7 +217,7 @@ https://classicalchristianity.com/2011/03/14/on-irrestible-grace-and-synergy/
 https://classicalchristianity.com/2011/03/29/on-the-perseverance-of-the-saints/
 
 As such, it would be fair to 
- see Arminianism as a Calvinist
+ view Arminianism as a Calvinist
  dressing around rationalistic synergism, which
  can lead to semi-pelegianism and deism.
 Yet the culprit, the cause, is the rigid
@@ -232,11 +234,14 @@ Influence of Platonism / Hellenism applied to the Bible (hence prevalent in the 
 influenced by Platonism)
 
 And most critically, monergism begets its own antithesis, 
- which in turn begets a classic revolutionary and reactionary cycle.
-We see the seeds of reaction [even now](https://people.cs.ksu.edu/~bbp9857/calvinism.html).
-A cycle that only Christ can successfully resolve as mediator.
+ which in turn begets a classic cycle of revolution and reaction.
+We see the seeds of reaction continue ke within [critiques of Calvinism](https://people.cs.ksu.edu/~bbp9857/calvinism.html).
+This is a cycle that only Christ can successfully resolve as mediator.
 
-To the degree the reactionary revolutions produce revealed truth they can be said to be good (as all truth is), but to the degree they create schisms and deception, including bad faith arguments and misrepresentations of the opposing view; this is the work of the adversary, the bad fruits of demonic influence.
+To the degree the reactionary revolutions produce revealed truth they can be said to be good (as all truth is), but to the degree they create schisms and deception, including bad faith arguments and misrepresentations of the opposing view; this is the work of the adversary, the bad fruits of demonic influence. And unfortunately, one can find bad faith arguments and straw men on both sides of this debate. We ought to tread carefully here, and remember that if this issue was unimportant we wouldn't find such demonic interference.
+
+!!! quote "2 Peter 2:1"
+     But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
 
 
 
@@ -457,9 +462,6 @@ By falling away from Him,
  we become the playthings of demons,
  no longer able to exercise our
  God-given will.
-
-!!! quote "2 Peter 2:1"
-     But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
 
 
 
