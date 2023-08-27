@@ -127,7 +127,7 @@ The Remonstrant Arminian view was explicitly condemed
  [Synod of Dort](https://en.wikipedia.org/wiki/Synod_of_Dort)
  which is what led to the articulation of the
  [five points of Calvinism](https://en.wikipedia.org/wiki/Calvinism#Five_Points_of_Calvinism)
- (known by the mmnemonic acronym TULIP).
+ (known by the mnemonic acronym TULIP).
 And exactly like the emergence of semi-Pelagianism,
  there inevitably arose rationalistic Arminianism, many of these views are
  superficially similar to the orthodox view of synergism.
