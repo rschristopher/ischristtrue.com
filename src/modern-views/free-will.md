@@ -103,12 +103,14 @@ For example,
 As if to parallel the early Pelagian controversy,
  Arminianism arose as a *reaction* to the writings of 
  [John Calvin](https://en.wikipedia.org/wiki/John_Calvin)
- who was heavily influenced by the Augustinian views
- of predestination, and especially Calvin's views of
+ who was heavily influenced by 
+ the writings of St. Augustine 
+ on predestination.
+The Arminian reaction was especially concerned with Calvin's views of
  *reprobation*
  (or what is otherwise known as 
-  [double predestination](https://history.hanover.edu/courses/excerpts/346cal2.html)).
-Which is a logical conclusion to the denial of human free will,
+  [double predestination](https://history.hanover.edu/courses/excerpts/346cal2.html)),
+ which is a logical conclusion to the denial of human free will,
  that the non-elect were effectively chosen for damnation
  (that God "adjudges others to eternal death").
 These strict Calvinist views are known as
@@ -116,22 +118,22 @@ These strict Calvinist views are known as
 The reaction came from the writings of
  [Jacobus Arminius](https://en.wikipedia.org/wiki/Jacobus_Arminius)
  whose views led (inevitably) to a schism
- with the Calvinist churches, such that the
+ within the Calvinist churches, such that the
  [Remonstrant Brotherhood](https://en.wikipedia.org/wiki/Remonstrants)
  split from the Dutch Reformed Church.
 
 The Remonstrant Arminian view was explicitly condemed
  at the 
  [Synod of Dort](https://en.wikipedia.org/wiki/Synod_of_Dort)
- which led to the articulation of the
+ which is what led to the articulation of the
  [five points of Calvinism](https://en.wikipedia.org/wiki/Calvinism#Five_Points_of_Calvinism)
  (known by the mmnemonic acronym TULIP).
 And exactly like the emergence of semi-Pelagianism,
- there inevitably arose rationalistic Arminianism, many of which are
+ there inevitably arose rationalistic Arminianism, many of these views are
  superficially similar to the orthodox view of synergism.
 What followed in the century after Dort was a
  migration away from strict Calvinism but not
- stopping at Arminianism, instead going towards
+ stopping at Arminianism, instead leading inevitably towards
  [deism](https://en.wikipedia.org/wiki/Deism),
  itself a stepping stone into the postmodern
  malaise and meaning crisis.
@@ -153,14 +155,10 @@ Slippery slope arguments aside,
  orthodox synergism.
 Ultimately, either John Calvin and the reformers were wrong,
  or John Chrysostom and the church fathers were wrong.
+And while both sides have plenty of scriptural support, all it takes is one counterexample to show an interpretation as false.
 
 
-This parallels a 7th century debate
- concerning monothelitism
- (Christ had only divine will)
- vs
- bitheletism
- (Christ had human AND divine will).
+### TODO
 
 "The decree of reprobation cannot be made an object of prayer or preaching, and this is an argument against it. Experience confirms election, but repudiates reprobation."
 https://classicalchristianity.com/2011/03/14/on-irrestible-grace-and-synergy/
@@ -224,20 +222,20 @@ God's love for mankind
 
 ### Weakness in Synergism
 
-Doubting God's absolute sovereignty,
- doubting God's omniscience.
-
 Risks of semi-pelegianism, pelegianism more generally, and even deism -- a slippery slope into the horrors of the postmodern "enlightenment" that denies God, truth, morality, and any defensible epistemology -- leaving man devoured and disintegrated into the dark waters of chaos, unable to justify any such thing as goodness or even hope.
 
 
 
 ### Weakness in Monergism
 
-Doubting God's love for all mankind,
- Christ dying only for the sins of the elect,
- not participating willfully in your own salvation,
- predestined to hell with no chance of salvation,
- impossible to act within,
+Doubting God's love for all mankind.
+Asserting that Christ died only for the sins of the elect.
+Not participating willfully in your own salvation.
+The unelect are predestined to hell with no chance of salvation.
+
+ impossible to act within
+
+ 
  imposing limits on God based on rationality.
 
 Influence of Platonism / Hellenism applied to the Bible (hence prevalent in the west in exactly those areas most
@@ -254,19 +252,7 @@ https://en.m.wikipedia.org/wiki/The_Anatomy_of_Revolution
 
 Resolving the dilemma requires Christ.
 
-The revealed truth is the unification of the truths of monergism acted out in the truths of synergism. Traditionally this is what is meant by synergism, and is what the St. Paul referenced by synergoi.
-    
-
-
-## Limits of Rationality
-
-We cannot reason or fit God within the bounds
- of rationality.
-
-What we can reason about?
-What we cannot reason about?
-
-
+The revealed truth is the unification of the truths of monergism acted out in the truths of synergism. Traditionally this is what is meant by synergism, and is what St. Paul referenced by synergoi.
 
 
 
@@ -301,10 +287,10 @@ He is the transcendent source of all creation.
 Even God hardening (strengthening)
  Pharoah's heart, 
  this is what allowed Pharoah
- to follow his own will against
+ to follow his own free will against
  certain destruction.
 
-These two revealed truths, of God's sovereignty and man's free will, create a potential dilemma, as effectively both sides of the *free will* debate are strongly affirmed. And thus any interpretation of scripture which denies one side can be declared false. And the question of reconciling these seemingly contrary views is left as a divine mystery, one that parallels the life and character of Jesus Christ.
+These two revealed truths, of God's sovereignty and man's free will, create a potential dilemma, as effectively both sides of the *free will* debate are strongly affirmed in the Bible. And thus any interpretation of scripture which denies one side can be declared false. And the question of reconciling these seemingly contrary views is left as a divine mystery, one that parallels the life and character of Jesus Christ.
 
 This in effect is affirmed in the
 Chalcedonian Definition
@@ -350,7 +336,7 @@ Man cannot fathom omniscience nor the nature
  His divine love, nor any of His
  transcendent characteristics;
  and while all will one day be revealed,
- it seems foolish to force God into
+ it is foolish to force God into
  logical constraints, as if to tell
  the creator of the universe what His
  timeless essence must be,
@@ -367,7 +353,7 @@ And yet, His divine mercy and love
 
 What is human will if not an aspect
  of His divine will?
-What has been revealed is that all, as in all,
+What has been revealed is that all, as in *all*,
  are so loved that He gave His only son.
 
 The unelect, these are His children,
@@ -379,13 +365,11 @@ Is saying *no* to this a slight to His
 Is saying *yes* to this a slight to His
  love and mercy?
 
+God calls us to participate in this His will, and thus we have free will sufficient to sin, sufficient to deny God.
 
 
 Man created in the image and likeness of God
 
-
-
-Rational supremacy
 
 
 
