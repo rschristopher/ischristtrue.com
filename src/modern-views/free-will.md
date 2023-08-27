@@ -225,7 +225,7 @@ God's love for mankind
 ### Weakness in Arminianism
 
 Arminian synergism, which is similar to the Roman Catholic view of synergism, contains plenty of scriptural support. 
-However, there are many passages that must bend or break with this interpretation.
+However, there are many passages that must bend or break with this interpretation, e.g.,
 
 !!! quote "Romans 8:29-30"
      For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
@@ -237,6 +237,13 @@ Risks of semi-pelegianism, pelegianism more generally, and even deism -- a slipp
 
 
 ### Weakness in Monergism
+
+There is plenty of scriptural support for monergism and all five points of Calvinism. However, as with Arminianism, all it takes is one counterexample, e.g.,
+
+!!! quote "1 John 2:2"
+     And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
+
+It's difficult to bend the above with *limited atonement*, the L in TULIP which states that Christ died only for the elect.
 
 Doubting God's love for all mankind.
 Asserting that Christ died only for the sins of the elect.
@@ -339,9 +346,6 @@ This is what is traditionally known as
 
 While orthodox synergism has been maligned and misrepresented, the core doctrine of synergism remains crucial and necessary to the truth of the Biblical narrative.
 
-Foreknowledge != Predestination
-
-
 
 
 
@@ -407,6 +411,10 @@ By falling away from Him,
  we become the playthings of demons,
  no longer able to exercise our
  God-given will.
+
+!!! quote "2 Peter 2:1"
+     But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
+
 
 
 Who are you to classify God within rationality?
