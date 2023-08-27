@@ -98,7 +98,7 @@ For example,
 
 
 
-### Synergism and Monergism
+### Arminianism and Monergism
 
 As if to parallel the early Pelagian controversy,
  Arminianism arose as a *reaction* to the writings of 
@@ -129,8 +129,9 @@ The Remonstrant Arminian view was explicitly condemed
  [five points of Calvinism](https://en.wikipedia.org/wiki/Calvinism#Five_Points_of_Calvinism)
  (known by the mnemonic acronym TULIP).
 And exactly like the emergence of semi-Pelagianism,
- there inevitably arose rationalistic Arminianism, many of these views are
- superficially similar to the orthodox view of synergism.
+ there inevitably arose rationalistic Arminianism.
+Many of these views are
+ superficially similar to the Roman Catholic view of synergism.
 What followed in the century after Dort was a
  migration away from strict monergism but not
  stopping at Arminianism, instead leading inevitably towards
@@ -139,13 +140,13 @@ What followed in the century after Dort was a
  malaise and meaning crisis.
 As a result, and as astute Calvinists have maintained,
  any view that takes away from the complete
- sovereignty of God inevitably leads to 
+ sovereignty of God (and irresistable grace) inevitably leads to 
  deism, naturalism, and ultimately to what
  [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
  described as the death of God
  in the hearts of man.
 
-Slippery slope arguments aside,
+Slippery slopes aside,
  while we can easily dispense with the semi-Pelagian
  views of Remonstrant Arminianism,
  we are left with an ongoing
@@ -154,8 +155,9 @@ Slippery slope arguments aside,
  and
  orthodox synergism.
 Ultimately, either John Calvin and the reformers were wrong,
- or John Chrysostom and the church fathers were wrong.
-And while both sides have plenty of scriptural support, all it takes is one counterexample to show an interpretation as false.
+ or John Chrysostom and all the church fathers were wrong.
+And while both sides have plenty of scriptural support,
+ all it takes is one counterexample to show an interpretation as false.
 
 
 ### TODO
@@ -220,9 +222,10 @@ God's love for mankind
 
 
 
-### Weakness in Synergism
+### Weakness in Arminianism
 
-Arminian synergism, which is similar to the Roman Catholic view of synergism, contains plenty of scriptural support. However, all that is needed is one counterexample to falsify a given interpretation.
+Arminian synergism, which is similar to the Roman Catholic view of synergism, contains plenty of scriptural support. 
+However, there are many passages that must bend or break with this interpretation.
 
 Risks of semi-pelegianism, pelegianism more generally, and even deism -- a slippery slope into the horrors of the postmodern "enlightenment" that denies God, truth, morality, and any defensible epistemology -- leaving man devoured and disintegrated into the dark waters of chaos, unable to justify any such thing as goodness or even hope.
 
@@ -236,7 +239,6 @@ Not participating willfully in your own salvation.
 The unelect are predestined to hell with no chance of salvation.
 
  impossible to act within
-
  
  imposing limits on God based on rationality.
 
@@ -248,13 +250,20 @@ And most critically, monergism begets its own antithesis, which in turn begets a
 To the degree the reactionary revolutions produce revealed truth they can be said to be good (as all truth is), but to the degree they create schisms and deception, including bad faith arguments and misrepresentations of the opposing view; this is the work of the adversary, the bad fruits of demonic influence.
 
 
-## Revolution and Reaction
+### Revolution and Reaction
 
-https://en.m.wikipedia.org/wiki/The_Anatomy_of_Revolution
+Ultimately, if we look at the pattern in the free-will debates
+ we find a predictable cycle of [revolution and reaction](https://en.m.wikipedia.org/wiki/The_Anatomy_of_Revolution).
+From Pelagianism to Arminianism to the various councils/synods
+ condeming them -- the pattern is as timeless as Christianity itself.
+These are clearly two sides of the same coin.
+The five points of Calvinism contain within their strict dogma
+ a seed of semi-Pelagianism, be it Arminianism or Molinism or
+ whatever the -ism.
 
-Resolving the dilemma requires Christ.
 
-The revealed truth is the unification of the truths of monergism acted out in the truths of synergism. Traditionally this is what is meant by synergism, and is what St. Paul referenced by synergoi.
+Resolving this reactionary cycle requires Christ.
+The revealed truth is the unification of the truths of monergism (of irresistable grace) acted out in the truths of synergism. Traditionally this is what is meant by orthodox synergism.
 
 
 
