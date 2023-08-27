@@ -140,9 +140,9 @@ What followed in the century after Dort was a
 As a result, and as astute Calvinists have maintained,
  any view that takes away from the complete
  sovereignty of God inevitably leads to 
- deism, naturalism, and ultiamtely to what
- [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche),
- described as the effective death of God
+ deism, naturalism, and ultimately to what
+ [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
+ described as the death of God
  in the hearts of man.
 
 Slippery slope arguments aside,
