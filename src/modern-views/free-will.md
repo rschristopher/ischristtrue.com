@@ -173,10 +173,10 @@ However, there are many passages that must bend or break with this interpretatio
      For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
 
 Any semi-Pelagian view that weakens God's absolute sovereignty, or denies irresistible grace, will have a particular hard time with this passage. 
-And in fact, the only way to reconcile passages such as these with a semi-Pelegian view is to weaken the passage into something unrecognizable to any reasonable understanding.
-We can confidently conclude that all forms of semi-Pelagianism are heretical.
+And in fact, the only way to reconcile passages such as these with a semi-Pelegian view is to weaken the passage into something unrecognizable.
+We can confidently conclude that all forms of semi-Pelagianism are false.
 
-Additionally, we have historic hindsight and plenty of bad fruits from even the most agreeable form rational Arminianism.
+Additionally, we have historic hindsight into the bad fruits from even the most agreeable forms of rational Arminianism.
 In particular the risks of deism (which is simply a logical conclusion of semi-Pelagianism more generally) 
 -- a slippery slope into the horrors of the postmodern "enlightenment" that denies God, truth, morality, and any defensible epistemology -- leaving man devoured and disintegrated into the dark waters of chaos, unable to justify any such thing as goodness or even hope.
 
@@ -184,55 +184,45 @@ In particular the risks of deism (which is simply a logical conclusion of semi-P
 
 ### Weakness of Monergism
 
-There is plenty of scriptural support for monergism and all five points of Calvinism. However, as with Arminianism, all it takes is one counterexample, e.g.,
+There is plenty of scriptural support for monergism and all five points of Calvinism. 
+However, as with Arminianism, all it takes is one counterexample in order to falsify, e.g.,
 
 !!! quote "1 John 2:2"
      And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.
 
-It's difficult to reconcile the above with *limited atonement*, the L in TULIP which states that Christ died only for the sins of the elect.
+It's difficult to reconcile the above with *limited atonement*,
+ the L in TULIP which states that Christ died only for the sins of the elect.
 Additionally, we are forced to bend much of scripture to remove man's free will, e.g.,
 
 !!! quote "Hebrews 12:25"
      See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more shall not we escape, if we turn away from him that speaketh from heaven
 
-And more troubling, we must bend the very words of our Lord, who is very clear about the free will of man concerning salvation, providing explicit moral instruction *as if* we have free will, e.g.,
+And more troubling, we must bend the very words of our Lord,
+ who is very clear about the free will of man concerning salvation,
+ providing explicit moral instruction *as if* we have free will, e.g.,
 
 !!! quote "Matthew 7:1-5"
      Judge not, that ye be not judged. For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again. And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye? Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye? Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
 
+Without any actionable free will on the part of man,
+ Christ could have simply said "follow your heart, for God has absolute sovereignty."
+Instead, he speaks and teaches with authority to stubborn and fallen humans,
+ as if they were creatures possessing a God-given free will.
+
 !!! quote "Matthew 7:7-8"
      Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
 
-...
+And perhaps the most egregious flaw of monergism is
+ that it *necessitates* reprobation (double predestination),
+ despite the fact that there is no direct support for
+ double predestination in the Bible nor in any orthodox tradition.
+Importantly,
+ double predestination is impossible to
+ [act within](https://crosstheology.wordpress.com/the-outright-disaster-of-the-augustinian-calvinist-formulation-of-election/).
+One cannot preach nor pray in harmony with double predestination.
 
-Doubting God's love for all mankind.
-Asserting that Christ died only for the sins of the elect.
-Not participating willfully in your own salvation.
-The unelect are predestined to hell with no chance of salvation.
-
-Double predestination is impossible to [act within](https://crosstheology.wordpress.com/the-outright-disaster-of-the-augustinian-calvinist-formulation-of-election/).
-
-"The decree of reprobation cannot be made an object of prayer or preaching, and this is an argument against it. Experience confirms election, but repudiates reprobation."
-
-
-As such, it would be fair to 
- view Arminianism as a Calvinist
- dressing around rationalistic synergism, which
- can lead to semi-pelegianism and deism.
-Yet the culprit, the cause, is the rigid
- views of reprobation in Calvinism, that is, 
- ignoring the infinite love and mercy
- of God, and focusing too much on a
- rationalistic system, will inevitably
- create rationalistic Arminianism.
-
- 
- imposing limits on God based on rationality.
-
-Influence of Platonism / Hellenism applied to the Bible (hence prevalent in the west in exactly those areas most
-influenced by Platonism)
-
-And most critically, monergism begets its own antithesis, 
+As a consequence,
+ monergism begets its own antithesis, 
  which in turn begets a classic cycle of revolution and reaction.
 We see the seeds of reaction 
  [continue](https://classicalchristianity.com/2011/02/21/on-depraved-nature
@@ -243,12 +233,26 @@ We see the seeds of reaction
  [day](https://people.cs.ksu.edu/~bbp9857/calvinism.html).
 This is a cycle that only Christ can successfully resolve as mediator.
 
-To the degree the reactionary revolutions produce revealed truth they can be said to be good (as all truth is), but to the degree they create schisms and deception, including bad faith arguments and misrepresentations of the opposing view; this is the work of the adversary, the bad fruits of demonic influence. And unfortunately, one can find bad faith arguments and straw men on both sides of this debate. We ought to tread carefully here, and remember that if this issue was unimportant we wouldn't find such demonic interference.
+To the degree the reactions produce revealed truth they can be said to be good (as all truth is), but to the degree they create schisms and deception, including bad faith arguments and misrepresentations of the opposing view; this is the work of the adversary, the bad fruits of demonic influence. And unfortunately, one can find bad faith arguments and straw men on both sides of this debate. We ought to tread carefully here, and remember that if this issue was unimportant we likely wouldn't find such demonic interference.
 
 !!! quote "2 Peter 2:1"
      But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
 
 
+As such, it would be fair to 
+ view Arminianism as a Calvinist
+ dressing around rationalistic synergism, which
+ can lead to semi-pelegianism and deism.
+Yet the culprit, the cause, is the rigid
+ views of reprobation within Calvinism, that is, 
+ ignoring the infinite love and mercy
+ of God, and focusing on a
+ rationalistic system, will inevitably
+ create rationalistic Arminianism.
+We cannot condemn Arminianism while
+ blamelessly clinging to monergism.
+
+ 
 
 
 
@@ -289,7 +293,14 @@ Rationality itself is contingent upon this same transcendent will of God, and wh
 This is in fact what it means for Christ to be the mediator between the high and the low, between fallen man and God the father -- because He is unifying the particular (man's will) with the transcendent (divine will).
 
 Resolving this reactionary cycle requires Christ.
-The revealed truth is the unification of the truths of monergism (of irresistable grace) acted out in the truths of synergism. Traditionally this is what is meant by orthodox synergism.
+The revealed truth is the unification of the truths of monergism (e.g., of irresistable grace) acted out in the truths of synergism. Traditionally this is what is meant by orthodox synergism.
+
+
+
+ imposing limits on God based on rationality.
+
+Influence of Platonism / Hellenism applied to the Bible (hence prevalent in the west in exactly those areas most
+influenced by Platonism)
 
 
 
