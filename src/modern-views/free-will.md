@@ -227,6 +227,11 @@ God's love for mankind
 Arminian synergism, which is similar to the Roman Catholic view of synergism, contains plenty of scriptural support. 
 However, there are many passages that must bend or break with this interpretation.
 
+!!! quote "Romans 8:29-30"
+     For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
+
+...
+
 Risks of semi-pelegianism, pelegianism more generally, and even deism -- a slippery slope into the horrors of the postmodern "enlightenment" that denies God, truth, morality, and any defensible epistemology -- leaving man devoured and disintegrated into the dark waters of chaos, unable to justify any such thing as goodness or even hope.
 
 
