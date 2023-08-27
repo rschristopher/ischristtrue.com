@@ -115,7 +115,7 @@ The Arminian reaction was especially concerned with Calvin's views of
  (that God "adjudges others to eternal death").
 These strict Calvinist views are known as
  [monergism](https://en.wikipedia.org/wiki/Monergism).
-The reaction came from the writings of
+The reaction to monergism came from the writings of
  [Jacobus Arminius](https://en.wikipedia.org/wiki/Jacobus_Arminius)
  whose views led (inevitably) to a schism
  within the Calvinist churches, such that the
@@ -132,7 +132,7 @@ And exactly like the emergence of semi-Pelagianism,
  there inevitably arose rationalistic Arminianism, many of these views are
  superficially similar to the orthodox view of synergism.
 What followed in the century after Dort was a
- migration away from strict Calvinism but not
+ migration away from strict monergism but not
  stopping at Arminianism, instead leading inevitably towards
  [deism](https://en.wikipedia.org/wiki/Deism),
  itself a stepping stone into the postmodern
@@ -143,7 +143,7 @@ As a result, and as astute Calvinists have maintained,
  deism, naturalism, and ultiamtely to what
  [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche),
  described as the effective death of God
- in the hearts of men.
+ in the hearts of man.
 
 Slippery slope arguments aside,
  while we can easily dispense with the semi-Pelagian
@@ -222,7 +222,7 @@ God's love for mankind
 
 ### Weakness in Synergism
 
-Arminian synergism, which is similar to the Roman Catholic view of synergism contains plenty of scriptural counterexamples. Again, all that is needed is one counterexample to falsify a given interpretation.
+Arminian synergism, which is similar to the Roman Catholic view of synergism, contains plenty of scriptural support. However, all that is needed is one counterexample to falsify a given interpretation.
 
 Risks of semi-pelegianism, pelegianism more generally, and even deism -- a slippery slope into the horrors of the postmodern "enlightenment" that denies God, truth, morality, and any defensible epistemology -- leaving man devoured and disintegrated into the dark waters of chaos, unable to justify any such thing as goodness or even hope.
 
@@ -262,7 +262,7 @@ The revealed truth is the unification of the truths of monergism acted out in th
 
 
 
-## Orthodox Predestination
+## Orthodox View
 
 The Biblical narrative is very clear
  on two points:
@@ -323,7 +323,7 @@ This is what is traditionally known as
     
     For we are **fellow workers** with God: ye are God's husbandry, ye are God's building.
 
-While orthodox synergism has been maligned and misrepresented, the core doctrine remains crucial and necessary to the truth of the Biblical narrative.
+While orthodox synergism has been maligned and misrepresented, the core doctrine of synergism remains crucial and necessary to the truth of the Biblical narrative.
 
 Foreknowledge != Predestination
 
