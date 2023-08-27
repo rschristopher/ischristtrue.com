@@ -172,9 +172,13 @@ However, there are many passages that must bend or break with this interpretatio
 !!! quote "Romans 8:29-30"
      For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren. Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
 
-...
+Any semi-Pelagian view that weakens God's absolute sovereignty, or denies irresistible grace, will have a particular hard time with this passage. 
+And in fact, the only way to reconcile passages such as these with a semi-Pelegian view is to weaken the passage into something unrecognizable to any reasonable understanding.
+We can confidently conclude that all forms of semi-Pelagianism are heretical.
 
-Risks of semi-pelegianism, pelegianism more generally, and even deism -- a slippery slope into the horrors of the postmodern "enlightenment" that denies God, truth, morality, and any defensible epistemology -- leaving man devoured and disintegrated into the dark waters of chaos, unable to justify any such thing as goodness or even hope.
+Additionally, we have historic hindsight and plenty of bad fruits from even the most agreeable form rational Arminianism.
+In particular the risks of deism (which is simply a logical conclusion of semi-Pelagianism more generally) 
+-- a slippery slope into the horrors of the postmodern "enlightenment" that denies God, truth, morality, and any defensible epistemology -- leaving man devoured and disintegrated into the dark waters of chaos, unable to justify any such thing as goodness or even hope.
 
 
 
@@ -279,6 +283,10 @@ The five points of Calvinism contain within their strict dogma
  a seed of semi-Pelagianism, be it Arminianism or Molinism or
  whatever the -ism.
 
+This is necessarily true because the five points of Calvinism (TULIP) are true from the divine will of God, that is, from the transcendent, and not the particular of human rationality.
+Rationality itself is contingent upon this same transcendent will of God, and while we can *make sense* of TULIP through transcendent categories, we cannot apply it to particulars, say, to your own prayer life (other than as a reminder of God's absolute sovereignty).
+
+This is in fact what it means for Christ to be the mediator between the high and the low, between fallen man and God the father -- because He is unifying the particular (man's will) with the transcendent (divine will).
 
 Resolving this reactionary cycle requires Christ.
 The revealed truth is the unification of the truths of monergism (of irresistable grace) acted out in the truths of synergism. Traditionally this is what is meant by orthodox synergism.
