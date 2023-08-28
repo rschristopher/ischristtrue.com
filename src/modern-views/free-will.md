@@ -157,7 +157,7 @@ Slippery slopes aside,
  monergism
  and
  orthodox synergism.
-It sees as if
+It seems as if
  either John Calvin and the reformers were wrong,
  or John Chrysostom and all of the church fathers were wrong.
 And while both sides have plenty of scriptural support,
@@ -233,7 +233,7 @@ We see the seeds of this reaction
  [very](https://classicalchristianity.com/2011/04/03/on-election-foreknowledge)
  [day](https://people.cs.ksu.edu/~bbp9857/calvinism.html).
 
-To the degree the reactions produce revealed truth they can be said to be good (as all truth is), but to the degree they create schisms and deception, including bad faith arguments and misrepresentations of the opposing view; this is the work of the adversary, the bad fruits of demonic influence. And unfortunately, one can find bad faith arguments and straw men on both sides of this debate. We ought to tread carefully here, and remember that if this issue was unimportant we likely wouldn't find such demonic interference.
+To the degree the reactions produce revealed truth they can be said to be good (as all truth *is* good), but to the degree they create schisms and deception, including bad faith arguments and misrepresentations of the opposing view; this is the work of the adversary, the bad fruits of demonic influence. And unfortunately, one can find bad faith arguments and straw men on both sides of this debate. We ought to tread carefully here, and remember that if this issue was unimportant we likely wouldn't find such demonic interference.
 
 !!! quote "2 Peter 2:1"
      But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
@@ -246,7 +246,7 @@ In the final analysis, it would be fair to
 Yet the culprit, the cause, is the rigid
  views of reprobation within Calvinism, that is, 
  ignoring the infinite love and mercy
- of God, and focusing on a
+ of God, and instead focusing on a
  rationalistic system, will inevitably
  create rationalistic Arminianism.
 We cannot condemn Arminianism while
