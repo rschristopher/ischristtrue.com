@@ -208,8 +208,9 @@ And more troubling, we must bend the very words of our Lord,
 
 Without any actionable free will on the part of man,
  Christ could have simply said "follow your heart, for God has absolute sovereignty."
-Instead, he speaks and teaches with authority to fallen humans,
- as if they were creatures possessing a God-given free will.
+
+Instead, he speaks and teaches with authority to all of us,
+ as if we were creatures possessing a God-given free will.
 
 !!! quote "Matthew 7:7-8"
      Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
@@ -249,6 +250,7 @@ Yet the culprit, the cause, is the rigid
  of God, and instead focusing on a
  rationalistic system, will inevitably
  create rationalistic Arminianism.
+
 We cannot condemn Arminianism while
  blamelessly clinging to monergism.
 
@@ -308,7 +310,7 @@ This is not an impersonal God of deism.
 God is not only personal, but our very
  notion of personhood is from God,
  that is, we possess personhood because
- we were made in His image and likeness.
+ we ware made in the image and likeness of God.
 Our free will exists in that we
  participate in His will.
 And His will is done. 
@@ -336,10 +338,11 @@ Note also how the human will of Christ
  with perfect obedience so as to glorify God (the father).
 Christ's human will participated harmoniously with His divine will, and in a way that makes it possible for us to participate harmoniously with His divine sovereign will.
 By coming to Christ we find in Christ
- an answer to the "free will*
+ an answer to the *free will*
  question;
  and we find affirmation that any interpretation
  that denies or compromises free will or that denies or compromises God's ultimate sovereignty, any such compromised views are as heretical and false as denying that Christ is both God and man.
+
 Only by affirming that Christ is both God and man, such that man is both free and completely subject to God's sovereignty, can we make sense of the Bible.
 This is what is traditionally known as
  synergism
@@ -442,7 +445,7 @@ Is saying *yes* to this a slight to His
 
 God calls us to participate in His divine will,
  and thus we have free will sufficient to sin,
- sufficient to deny God.
+ sufficient to delude ourselves into denying God.
 For man is created in the image and likeness of God.
 
 
@@ -463,18 +466,10 @@ By falling away from Him,
  no longer able to exercise our
  God-given will.
 
-
-
-
-
-How to make sense of angels?
-How to make sense of demons?
-That is, if no free will, then why torment?
-Why tempt people?
-
-Or better, why would God not make salvation available
- to all, even those He knows won't be saved?
-This is the dangerous question that if left untempered by truth will result in the continuation of the heretical cycles of revolution and reaction that we have seen before. 
+These are difficult and even dangerous questions
+ that if left untempered by truth will result in
+ the continuation of the heretical cycles of revolution and reaction
+ that we have seen before. 
 In the end, Christ has a divine will and a human will,
  He is both, and thus through Christ do we affirm the
  objective knowable truth of man's free will **and** of God's absolute sovereignty.
