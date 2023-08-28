@@ -63,7 +63,7 @@ Augustine's own writings were the catalyst
 The *Pelagians* reacted to the perceived lack
  of free will within
  St. Augustine's writings --
- this reaction pushed into anti-Biblical views
+ this reaction introduced anti-Biblical views
  (that original sin did not taint human nature)
  in order to allow for human free will.
 The Pelagian view
@@ -72,7 +72,7 @@ The Pelagian view
 However, the debate continued afterwards in a reactionary cycle producing various
  [semi-Pelagian](https://en.wikipedia.org/wiki/Semi-Pelagianism) views.
 
-From these ongoing free will debates,
+From these ongoing debates over free will,
  [synergism](https://crosstheology.wordpress.com/synergism/)
  became the agreed upon solution by *orthodox* Christians.
 This view was reinforced in the
@@ -86,8 +86,8 @@ As time went on, this orthodox view of synergism
  has occasionally drifted, often times
  with deliberate misrepresentations
  into semi-Pelagian views,
- resulting in renewed free-will debates amongst Christians
- that parallel the debates in the early church history.
+ resulting in renewed debates
+ that parallel those from early church history.
 For example,
  reformed theologians continue to debate this exact topic, resulting in
  [Arminianism vs Monergism](https://www.monergism.com/arminianisms), 
@@ -116,7 +116,7 @@ The Arminian reaction was especially concerned with Calvin's views of
 
 These strict Calvinist views are known as
  [monergism](https://en.wikipedia.org/wiki/Monergism).
-The reaction to monergism came from the writings of
+The antithetical reaction to monergism came from the writings of
  [Jacobus Arminius](https://en.wikipedia.org/wiki/Jacobus_Arminius)
  whose views led (inevitably) to a schism
  within the Calvinist churches, such that the
@@ -151,7 +151,8 @@ As a result, and as astute Calvinists have maintained,
 Slippery slopes aside,
  while we can easily dispense with the semi-Pelagian
  views of Arminianism,
- we are left with an ongoing
+ if we are truly concerned with truth,
+ then we are left with an ongoing
  debate between 
  monergism
  and
@@ -179,7 +180,7 @@ We can confidently conclude that all forms of semi-Pelagianism are false.
 
 Additionally, we have historic hindsight into the bad fruits from even the most agreeable forms of rational Arminianism.
 In particular the risks of deism (which is simply a logical conclusion of semi-Pelagianism more generally) 
--- a slippery slope into the horrors of the postmodern "enlightenment" that denies God, truth, morality, and any defensible epistemology -- leaving man devoured and disintegrated into the dark waters of chaos, unable to justify any such thing as goodness or even hope.
+-- a slippery slope into the horrors of the postmodern "enlightenment" that denies God, truth, morality, and any defensible epistemology -- leaving man disintegrated into the dark waters of chaos, unable to justify any such thing as goodness or even hope.
 
 
 
@@ -207,7 +208,7 @@ And more troubling, we must bend the very words of our Lord,
 
 Without any actionable free will on the part of man,
  Christ could have simply said "follow your heart, for God has absolute sovereignty."
-Instead, he speaks and teaches with authority to stubborn and fallen humans,
+Instead, he speaks and teaches with authority to fallen humans,
  as if they were creatures possessing a God-given free will.
 
 !!! quote "Matthew 7:7-8"
