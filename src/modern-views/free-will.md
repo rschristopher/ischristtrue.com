@@ -402,8 +402,7 @@ These attempts at unification continue
 
 ## Divine Love and Free Will
 
-Man cannot fathom omniscience nor the nature
- of God's will, His divine judgement,
+Man cannot fathom omniscience nor the nature of God's will, His divine judgement,
  His divine mercy,
  His divine love, nor any of His
  transcendent characteristics;
@@ -466,7 +465,7 @@ By falling away from Him,
 
 
 
-Who are you to classify God within rationality?
+
 
 How to make sense of angels?
 How to make sense of demons?
