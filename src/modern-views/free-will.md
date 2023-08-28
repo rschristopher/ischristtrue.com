@@ -259,48 +259,29 @@ We cannot condemn Arminianism while
 
 
 
-### Why this Matters?
-
-Soteriology and Christology
-
-And general sense making
-
-
-God's ultimate sovereignty
-vs
-God's love for mankind
-
-
-
-
-
 
 
 ## Revolution and Reaction
 
-Ultimately, if we look at the pattern in the free-will debates
+Ultimately, if we look at the pattern of these debates about free will,
  we find a predictable cycle of [revolution and reaction](https://en.m.wikipedia.org/wiki/The_Anatomy_of_Revolution).
 From Pelagianism to Arminianism to the various councils/synods
  condeming them -- the pattern is as timeless as Christianity itself.
+Importantly, this confirms the
+ observation that Arminianism is
+ contained with Calvinism.
 These are clearly two sides of the same coin.
 The five points of Calvinism contain within their strict dogma
  a seed of semi-Pelagianism, be it Arminianism or Molinism or
  whatever the -ism.
 
-This is necessarily true because the five points of Calvinism (TULIP) are true from the divine will of God, that is, from the transcendent, and not the particular of human rationality.
-Rationality itself is contingent upon this same transcendent will of God, and while we can *make sense* of TULIP through transcendent categories, we cannot apply it to particulars, say, to your own prayer life (other than as a reminder of God's absolute sovereignty).
+This is necessarily true because the five points of Calvinism (TULIP) are true from the transcendent level of analysis, and not the particular level of human  behavior.
+Rationality itself is contingent upon this transcendent level of analysis, and while we can *make sense* of TULIP through transcendent categories, we cannot apply it to particulars, say, to your own prayer life (other than as a reminder of God's absolute sovereignty).
 
 This is in fact what it means for Christ to be the mediator between the high and the low, between fallen man and God the father -- because He is unifying the particular (man's will) with the transcendent (divine will).
 
-Resolving this reactionary cycle requires Christ.
-The revealed truth is the unification of the truths of monergism (e.g., of irresistable grace) acted out in the truths of synergism. Traditionally this is what is meant by orthodox synergism.
-
-
-
- imposing limits on God based on rationality.
-
-Influence of Platonism / Hellenism applied to the Bible (hence prevalent in the west in exactly those areas most
-influenced by Platonism)
+Resolving this ongoing reactionary cycle requires Christ.
+The revealed truth of Christ with His divine will and human will, is the unification of the truths of monergism (e.g., of irresistable grace) acted out in the truths of synergism. Traditionally this is what is meant by orthodox synergism.
 
 
 
