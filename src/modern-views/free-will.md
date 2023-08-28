@@ -380,7 +380,7 @@ These attempts at unification continue
  [to](https://orthodoxbridge.com/2012/08/12/plucking-the-tulip-1-an-orthodox-critique-of-the-reformed-doctrine-of-predestination/)
  [this](https://saintgeorgekearney.com/load.php?pageid=55)
  [day](https://classicalchristianity.com/2011/05/09/eastern-orthodox-view-of-calvinism/),
- and yet, orthodox synergism is already supported by scripture, e.g.,
+ and yet, orthodox synergism is well supported by scripture (and without falsification), e.g.,
 
 !!! quote "Acts 17:26-17"
     And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;
