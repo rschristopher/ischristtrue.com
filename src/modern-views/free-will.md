@@ -69,7 +69,7 @@ The *Pelagians* reacted to the perceived lack
 The Pelagian view
  was deemed heretic
  (see Canon V from the [Council of 418](https://en.m.wikipedia.org/wiki/Councils_of_Carthage)).
-However, the debate continued afterwards into various
+However, the debate continued afterwards in a reactionary cycle producing various
  [semi-Pelagian](https://en.wikipedia.org/wiki/Semi-Pelagianism) views.
 
 From these ongoing free will debates,
@@ -91,7 +91,7 @@ As time went on, this orthodox view of synergism
 For example,
  reformed theologians continue to debate this exact topic, resulting in
  [Arminianism vs Monergism](https://www.monergism.com/arminianisms), 
- which mimics the centuries old semi-Pelagian debates,
+ which mimics the centuries old Pelagian debates,
  including nuanced in-between views such as
  [Molinism](https://www.thoughtstheological.com/calvinism-molinism-arminianism-and-open-theism-monergismsynergism-at-the-macro-and-micro-levels/).
 
@@ -156,7 +156,8 @@ Slippery slopes aside,
  monergism
  and
  orthodox synergism.
-Ultimately, either John Calvin and the reformers were wrong,
+It sees as if
+ either John Calvin and the reformers were wrong,
  or John Chrysostom and all of the church fathers were wrong.
 And while both sides have plenty of scriptural support,
  all it takes is one counterexample to show an interpretation as false.
@@ -212,7 +213,7 @@ Instead, he speaks and teaches with authority to stubborn and fallen humans,
 !!! quote "Matthew 7:7-8"
      Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
 
-And perhaps the most egregious flaw of monergism is
+Perhaps the most egregious flaw of monergism is
  that it *necessitates* reprobation (double predestination),
  despite the fact that there is no direct support for
  double predestination in the Bible nor in any orthodox tradition.
@@ -224,14 +225,12 @@ One cannot preach nor pray in harmony with double predestination.
 As a consequence,
  monergism begets its own antithesis, 
  which in turn begets a classic cycle of revolution and reaction.
-We see the seeds of reaction 
- [continue](https://classicalchristianity.com/2011/02/21/on-depraved-nature
-/)
+We see the seeds of this reaction 
+ [continue](https://classicalchristianity.com/2011/02/21/on-depraved-nature/)
  [to](https://classicalchristianity.com/2011/03/29/on-the-perseverance-of-the-saints/)
  [this](https://classicalchristianity.com/2011/03/14/on-irrestible-grace-and-synergy/)
  [very](https://classicalchristianity.com/2011/04/03/on-election-foreknowledge)
  [day](https://people.cs.ksu.edu/~bbp9857/calvinism.html).
-This is a cycle that only Christ can successfully resolve as mediator.
 
 To the degree the reactions produce revealed truth they can be said to be good (as all truth is), but to the degree they create schisms and deception, including bad faith arguments and misrepresentations of the opposing view; this is the work of the adversary, the bad fruits of demonic influence. And unfortunately, one can find bad faith arguments and straw men on both sides of this debate. We ought to tread carefully here, and remember that if this issue was unimportant we likely wouldn't find such demonic interference.
 
@@ -239,7 +238,7 @@ To the degree the reactions produce revealed truth they can be said to be good (
      But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
 
 
-As such, it would be fair to 
+In the final analysis, it would be fair to 
  view Arminianism as a Calvinist
  dressing around rationalistic synergism, which
  can lead to semi-pelegianism and deism.
@@ -424,7 +423,7 @@ What about Catholicism?
 
 
 
-## Love and Free Will
+## Divine Love and Free Will
 
 Man cannot fathom omniscience nor the nature
  of God's will, His divine judgement,
@@ -446,10 +445,11 @@ Logically, His omniscience and divine
 And yet, His divine mercy and love
  are for all of creation, even
  the most wretched of sinners.
-
-What is human will if not an aspect
- of His divine will?
+And what is our human will if not an aspect
+ of His divine will
+ (albeit in a fallen state)?
 What has been revealed is that all, as in *all*,
+ of us sinners
  are so loved that He gave His only son.
 
 !!! quote "John 3:16"
@@ -464,12 +464,10 @@ Is saying *no* to this a slight to His
 Is saying *yes* to this a slight to His
  love and mercy?
 
-God calls us to participate in this His will, and thus we have free will sufficient to sin, sufficient to deny God.
-
-
-Man created in the image and likeness of God
-
-
+God calls us to participate in His divine will,
+ and thus we have free will sufficient to sin,
+ sufficient to deny God.
+For man is created in the image and likeness of God.
 
 
 Can one believe they lack free will?
@@ -500,7 +498,12 @@ Why tempt people?
 
 Or better, why would God not make salvation available
  to all, even those He knows won't be saved?
-This is the dangerous question that if left untempered by truth will result in the continuation of the heretical cycles of revolution and reaction that we have seen before. In the end, Christ has a divine and a human will, He is both, and thus through Christ do we affirm objective knowable truth of man's free will and of God's absolute sovereignty.
+This is the dangerous question that if left untempered by truth will result in the continuation of the heretical cycles of revolution and reaction that we have seen before. 
+In the end, Christ has a divine will and a human will,
+ He is both, and thus through Christ do we affirm the
+ objective knowable truth of man's free will **and** of God's absolute sovereignty.
+We affirm the *synergoi* between God and man,
+ made possible through Jesus Christ.
 
 
 
