@@ -327,19 +327,19 @@ This in effect is affirmed in the
  [fourth ecumenical council](https://orthodoxwiki.org/Fourth_Ecumenical_Council))
 that Christ has two wills and
 that Christ is both God and man.
-This necessarily implies that man's free
- will not only exists but that it
+This necessarily implies that man's *free
+ will* not only exists but that it
  can be redeemed in Christ.
 Note also how the human will of Christ
  not only was tempted by Satan, but also
  participates in the will of the father,
  with perfect obedience so as to glorify God (the father).
-Christ's human will participated harmoniously with His divine will, and in a way that makes it possible for us to do, participating harmoniously with the divine sovereign will.
+Christ's human will participated harmoniously with His divine will, and in a way that makes it possible for us to participate harmoniously with His divine sovereign will.
 By coming to Christ we find in Christ
- an answer to the free will 
+ an answer to the "free will*
  question;
  and we find affirmation that any interpretation
- that denies or compromises free will or that denies or compromises God's ultimate sovereignty, any such views are as heretical and false as denying that Christ is both God and man.
+ that denies or compromises free will or that denies or compromises God's ultimate sovereignty, any such compromised views are as heretical and false as denying that Christ is both God and man.
 Only by affirming that Christ is both God and man, such that man is both free and completely subject to God's sovereignty, can we make sense of the Bible.
 This is what is traditionally known as
  synergism
@@ -352,14 +352,14 @@ This is what is traditionally known as
     
     For we are **fellow workers** with God: ye are God's husbandry, ye are God's building.
 
-Orthodox synergism is notably different from Roman Catholic as well as rational Arminian synergism, in that the orthodox view affirms God's absolute sovereignty through Christ's divine will, while simultaneously affirming man's free will through Christ's human will.
+Orthodox synergism is notably different from Roman Catholic synergism as well as rational Arminian synergism, in that the orthodox view affirms God's absolute sovereignty through Christ's divine will, while simultaneously affirming man's free will through Christ's human will.
 This does not compromise on irresistible grace nor total depravity, nor any of the five points of Calvinism.
 In fact, it becomes clear that Calvinism speaks of Christ's divine will while making no claims about Christ's human will and the necessary implications to man's free will.
 
 Ultimately, the creator of the universe became flesh, became man -- the divine Logos incarnate. And as such lived with sinless perfection, participating in the divine will through His human will.
 
 While orthodox synergism has often been maligned and misrepresented
- (conflated with Roman Catholic or Arminian semi-Pelagian heresies),
+ (conflated with Roman Catholic synergism or Arminian semi-Pelagian heresies),
  the core doctrine of orthodox synergy remains crucial
  and necessary to the truth of the Biblical narrative.
  
@@ -372,15 +372,15 @@ Unfortunately this did not lead to unification,
  with respect to reformed theology more generally.
 This is particularly interesting in hindsight as we can
  see that the protestants were basing much of their
- theology on the reaction against heresies within
+ theology on reactions against heresies within
  the Roman Catholic church
  (of which there was generally agreement between Protestants and Orthodox Christians).
 
 These attempts at unification continue
  [to](https://orthodoxbridge.com/2012/08/12/plucking-the-tulip-1-an-orthodox-critique-of-the-reformed-doctrine-of-predestination/)
  [this](https://saintgeorgekearney.com/load.php?pageid=55)
- [day](https://classicalchristianity.com/2011/05/09/eastern-orthodox-view-of-calvinism/)
- ...
+ [day](https://classicalchristianity.com/2011/05/09/eastern-orthodox-view-of-calvinism/),
+ and yet, there is already scriptural support, and no known falsification.
 
 !!! quote "Acts 17:26-17"
     And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;
@@ -392,11 +392,6 @@ These attempts at unification continue
     
     But in every nation he that feareth him, and worketh righteousness, is accepted with him.
 
-
-
-How does EO avoid the dangers of
- synergism? Do they?
-What about Catholicism?
 
 
 
