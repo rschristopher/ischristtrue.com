@@ -445,7 +445,7 @@ Is saying *yes* to this a slight to His
 
 God calls us to participate in His divine will,
  and thus we have free will sufficient to sin,
- sufficient to delude ourselves into denying God.
+ sufficient to delude ourselves into a belief that we're denying God.
 For man is created in the image and likeness of God.
 
 
