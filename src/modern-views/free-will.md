@@ -277,7 +277,7 @@ The five points of Calvinism contain within their strict dogma
  a seed of semi-Pelagianism, be it Arminianism or Molinism or
  whatever the -ism.
 
-This is necessarily true because the five points of Calvinism (TULIP) are true from the transcendent level of analysis, and not the particular level of human  behavior.
+This is necessarily true because the five points of Calvinism (TULIP) are true from a transcendent level of analysis, and not the particular level of human  behavior.
 Rationality itself is contingent upon this transcendent level of analysis, and while we can *make sense* of TULIP through transcendent categories, we cannot apply it to particulars, say, to your own prayer life (other than as a reminder of God's absolute sovereignty).
 
 This is in fact what it means for Christ to be the mediator between the high and the low, between fallen man and God the father -- because He is unifying the particular (man's will) with the transcendent (divine will).
