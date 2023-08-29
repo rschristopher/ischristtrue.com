@@ -24,7 +24,7 @@ Pick any era in history in any culture
  and in any worldview and you will
  find this exact pattern 
  (albeit framed within the lexicon
- of the specific worldview).
+ of that specific worldview).
 
 
 
