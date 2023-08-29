@@ -67,7 +67,7 @@ The *Pelagians* reacted to the perceived lack
  (that original sin did not taint human nature)
  in order to allow for human free will.
 The Pelagian view
- was deemed heretic
+ was deemed heretical 
  (see Canon V from the [Council of 418](https://en.m.wikipedia.org/wiki/Councils_of_Carthage)).
 However, the debate continued afterwards in a reactionary cycle producing various
  [semi-Pelagian](https://en.wikipedia.org/wiki/Semi-Pelagianism) views.
