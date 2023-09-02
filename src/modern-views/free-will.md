@@ -468,7 +468,7 @@ Is it even possible?
 
 It's easy to say, but like a denial of
  [truth](../truth.md)
- it is self refuting and leads to absurdity.
+ it is self-refuting and leads to absurdity.
 
 Either God's sovereignty requires absurd
  conclusions for human consciousness,
