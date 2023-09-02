@@ -72,6 +72,11 @@ The Pelagian view
 However, the debate continued afterwards in a reactionary cycle producing various
  [semi-Pelagian](https://en.wikipedia.org/wiki/Semi-Pelagianism) views.
 
+!!! info "Semi-Pelegianism"
+    Broadly speaking, a *semi-Pelegian* view is any that grants man some ability for salvation independent of God's grace. Even in the most rationalistic terms, if the Pelagian view was 100% man choosing to be good, the semi-Pelegian view is anything greater than 0%. E.g., if one is to say man possesses some ability to do good and reach salvation independent of God, just 0.1% and 99.9% is God, then this a semi-Pelegian view. 
+    
+    The contrary view is not necessarily 0% for man (although that view exists), but rather an insistence that 100% of goodness and salvation is due to God.
+
 From these ongoing debates over free will,
  [synergism](https://crosstheology.wordpress.com/synergism/)
  became the agreed upon solution by *orthodox* Christians.
