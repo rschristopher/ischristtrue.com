@@ -73,7 +73,9 @@ However, the debate continued afterwards in a reactionary cycle producing variou
  [semi-Pelagian](https://en.wikipedia.org/wiki/Semi-Pelagianism) views.
 
 !!! info "Semi-Pelegianism"
-    Broadly speaking, a *semi-Pelegian* view is any that grants man some ability for salvation independent of God's grace. Even in the most rationalistic terms, if the Pelagian view was 100% man choosing to be good, the semi-Pelegian view is anything greater than 0%. E.g., if one is to say man possesses some ability to do good and reach salvation independent of God, just 0.1% and 99.9% is God, then this a semi-Pelegian view. 
+    Broadly speaking, a *semi-Pelegian* view is any that grants humans some ability for salvation independent of God's grace. Even in the most rationalistic terms, if the Pelagian view was 100% man choosing to be good, the semi-Pelegian view is anything greater than 0% 
+    
+    E.g., if one is to say that man possesses some small ability to do good and reach salvation independent of God, just 0.1% man and 99.9% is God, then this a semi-Pelegian view. 
     
     The contrary view is not necessarily 0% for man (although that view exists), but rather an insistence that 100% of goodness and salvation is due to God.
 
@@ -138,7 +140,7 @@ And exactly like the emergence of semi-Pelagianism, the condemnation
  of Remonstrant Arminianism
  led inevitably to a rationalistic Arminianism.
 Many of these views are
- superficially similar to the Roman Catholic view of synergism.
+ superficially similar to the Roman Catholic view of synergism (that man retains some ability to do good independent of God's grace, specifically to freely choose to accept grace).
 What followed in the century after Dort was a
  migration away from strict monergism but not
  stopping at rational Arminianism, instead leading inevitably towards
@@ -153,13 +155,20 @@ As a result, and as astute Calvinists have maintained,
  described as the death of God
  in the hearts of man.
 
+!!! info "Arminianism is semi-Pelegian"
+    In rationalistic terms, the Arminian view grants to man a small ability to choose good (a step towards salvation) that is independent of God. Even if we say this is only 0.01% man and 99.99% God, this is semi-Pelegian by definition.
+
+    Importantly this view emerges inevitably as a reaction to the strict monergistic doctrine of reprobation. In rationalistic terms, monergism insists that God is 100% responsible for man's salvation, but reprobation is to say God is 100% responsible for man's condemnation. Because man's will is not sufficient to participate in his own salvation, because all was predetermined.
+
+    The orthodox view of synergism is to say God is 100% responsible for man's salvation while conversely man is 100% responsible for his own condemnation. And thus man willfully participates in his own salvation.
+
 Slippery slopes aside,
  while we can easily dispense with the semi-Pelagian
  views of Arminianism,
  if we are truly concerned with truth,
  then we are left with an ongoing
  debate between 
- monergism
+ strict monergism
  and
  orthodox synergism.
 It seems as if
@@ -257,7 +266,7 @@ Yet the culprit, the cause, is the rigid
  create rationalistic Arminianism.
 
 We cannot condemn Arminianism while
- blamelessly clinging to monergism.
+ blamelessly clinging to strict monergism (a monergism that affirms reprobation).
 
  
 
@@ -283,7 +292,7 @@ The five points of Calvinism contain within their strict dogma
  whatever the -ism.
 
 This is necessarily true because the five points of Calvinism (TULIP) are true from a transcendent level of analysis, and not the particular level of human  behavior.
-Rationality itself is contingent upon this transcendent level of analysis, and while we can *make sense* of TULIP through transcendent categories, we cannot apply it to particulars, say, to your own prayer life (other than as a reminder of God's absolute sovereignty).
+Rationality itself is contingent upon this transcendent level of analysis, and while we can *make sense* of TULIP through transcendent categories, we cannot apply it to particulars, say, to your own prayer life (other than as a reminder of God's absolute sovereignty, which is also affirmed in orthodox synergism).
 
 This is in fact what it means for Christ to be the mediator between the high and the low, between fallen man and God the father -- because He is unifying the particular (man's will) with the transcendent (divine will).
 
@@ -341,7 +350,7 @@ Note also how the human will of Christ
  not only was tempted by Satan, but also
  participates in the will of the father,
  with perfect obedience so as to glorify God (the father).
-Christ's human will participated harmoniously with His divine will, and in a way that makes it possible for us to participate harmoniously with His divine sovereign will.
+Christ's human will participated harmoniously with His divine will, and did so in a way that makes it possible for us to participate harmoniously with His divine sovereign will.
 By coming to Christ we find in Christ
  an answer to the *free will*
  question;
@@ -361,8 +370,8 @@ This is what is traditionally known as
     For we are **fellow workers** with God: ye are God's husbandry, ye are God's building.
 
 Orthodox synergism is notably different from Roman Catholic synergism as well as rational Arminian synergism, in that the orthodox view affirms God's absolute sovereignty through Christ's divine will, while simultaneously affirming man's free will through Christ's human will.
-This does not compromise on irresistible grace nor total depravity, nor any of the five points of Calvinism.
-In fact, it becomes clear that Calvinism speaks of Christ's divine will while making no claims about Christ's human will and the necessary implications to man's free will.
+This does not compromise on irresistible grace nor total depravity, nor any of the five points of Calvinism (though it does disagree with reprobation).
+In fact, it becomes clear that Calvinism speaks of Christ's divine will while making no claims about Christ's human will and the necessary implications to man's free will. Or rather, this is why Calvinists find reprobation (double predestination) so controversial.
 
 Ultimately, the creator of the universe became flesh, became man -- the divine Logos incarnate. And as such lived with sinless perfection, participating in the divine will through His human will.
 
@@ -451,7 +460,7 @@ Is saying *yes* to this a slight to His
 God calls us to participate in His divine will,
  and thus we have free will sufficient to sin,
  sufficient to delude ourselves into a belief that we're denying God.
-For man is created in the image and likeness of God.
+Let all sides of this debate remember that man is created in the image and likeness of God.
 
 
 Can one believe they lack free will?
@@ -474,12 +483,12 @@ By falling away from Him,
 These are difficult and even dangerous questions
  that if left untempered by truth will result in
  the continuation of the heretical cycles of revolution and reaction
- that we have seen before. 
+ that we have seen before (and likely will continue to see till the end of time). 
 In the end, Christ has a divine will and a human will,
  He is both, and thus through Christ do we affirm the
  objective knowable truth of man's free will **and** of God's absolute sovereignty.
 We affirm the *synergoi* between God and man,
- made possible through Jesus Christ.
+ made possible through Christ Jesus.
 
 
 
