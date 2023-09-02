@@ -229,7 +229,7 @@ Instead, he speaks and teaches with authority to all of us,
 !!! quote "Matthew 7:7-8"
      Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
 
-Perhaps the most egregious flaw of monergism is
+Perhaps the most egregious flaw of strict monergism is
  that it *necessitates* reprobation (double predestination),
  despite the fact that there is no direct support for
  double predestination in the Bible nor in any orthodox tradition.
