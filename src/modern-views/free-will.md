@@ -158,7 +158,7 @@ As a result, and as astute Calvinists have maintained,
 !!! info "Arminianism is semi-Pelegian"
     In rationalistic terms, the Arminian view grants to man a small ability to choose good (a step towards salvation) that is independent of God. Even if we say this is only 0.01% man and 99.99% God, this is semi-Pelegian by definition.
 
-    Importantly this view emerges inevitably as a reaction to the strict monergistic doctrine of reprobation. In rationalistic terms, monergism insists that God is 100% responsible for man's salvation, but reprobation is to say God is 100% responsible for man's condemnation. Because man's will is not sufficient to participate in his own salvation, because all was predetermined.
+    Importantly this view emerges inevitably as a reaction to the strict monergistic doctrine of reprobation. In rationalistic terms, monergism insists that God is 100% responsible for man's salvation, but reprobation is to say God is 100% responsible for man's condemnation. Thus man's will is not sufficient to participate in his own salvation, because all was predetermined.
 
     The orthodox view of synergism is to say God is 100% responsible for man's salvation while conversely man is 100% responsible for his own condemnation. And thus man willfully participates in his own salvation.
 
