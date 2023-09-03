@@ -268,7 +268,12 @@ Yet the culprit, the cause, is the rigid
 We cannot condemn Arminianism while
  blamelessly clinging to strict monergism (a monergism that affirms reprobation).
 
- 
+ !!! info "Monergism Begets semi-Pelegian Reaction"
+     From a transcendent perspective of God's absolute sovereignty, monergism is impossible to deny, however, if we attempt to deduce reprobation (double-predestination) we must conclude that God is 100% responsible for the salvation of the elect, and 100% responsible for the condemnation of the unelect, making God the author of evil.
+
+     The traditional view of orthodox synergism strongly rejects any notion that God is or can be the author of evil, positing that God is 100% responsible for our salvation, and that man is 100% responsible for sin and condemnation.
+
+     Most all Christians agree with this, even the strict Calvinists will declare that God is never the author of evil -- and this demonstrates a deeper truth that is difficult (if not impossible) to properly articulate in rational terms. It is a truth that is lived, in particular a truth that was lived in the life of Jesus Christ.
 
 
 
