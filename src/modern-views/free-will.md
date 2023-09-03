@@ -337,7 +337,7 @@ He is the transcendent source of all creation.
 Even God hardening (strengthening)
  Pharoah's heart, 
  this is what allowed Pharoah
- to follow his own free will against
+ to follow his own free will into 
  certain destruction.
 
 These two revealed truths, of God's sovereignty and man's free will, create a potential dilemma, as effectively both sides of the *free will* debate are strongly affirmed in the Bible. And thus any interpretation of scripture which denies one side can be declared false. And the question of reconciling these seemingly contrary views is left as a divine mystery, one that parallels the life and character of Jesus Christ.
