@@ -368,6 +368,7 @@ In other words, that which
 And rather than a *what*,
  truth is better understood as a *who*.
 
+But let's first understand what we mean by "spirit".
 A spirit is any pattern of reality with 
  a consciousness.
 It has agency and 
@@ -597,6 +598,7 @@ All truth claims consist of
  morality, 
  meaning,
  and even beauty.
+And most fascinating, if you perceive one aspect of a truth claim, such as a moral intuition, you can from that infer the other attributes -- including the meaning of life.
 
 If you cannot understand the meaning
  of even the most basic of things,
@@ -650,11 +652,8 @@ A young student may go to such
  to the fundamental questions of life;
  and instead they will get nothing
  but a history of anti-Christian ideas.
-Here, young seeker,
- here is a list of ideas 
- that show how complicated 
- is the history of even the word
- truth.
+
+> Here, young seeker, here is a list of ideas that show how complicated is the history of even the word *truth*.
 
 "But what is the answer?"
  a young seeker might demand.
