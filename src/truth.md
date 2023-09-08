@@ -368,7 +368,7 @@ In other words, that which
 And rather than a *what*,
  truth is better understood as a *who*.
 
-### Spirits 
+### What is a Spirit? 
 Let's first understand what we mean by "spirit".
 A spirit is any pattern of reality with 
  a consciousness.
@@ -477,7 +477,7 @@ Your consciousness emerges from the
  from the complex interactions
  of water vapor, pressure, and electricity.
 
-### Who is Truth?
+### Who is the Spirit of Truth?
 
 The Spirit of Truth is the source
  of all things as they are,
@@ -516,6 +516,8 @@ Whoever this divine Spirit of Truth is,
  this universal pattern of reality,
  He grants us knowledge
  of ourselves and the world we live in.
+This is necessarily a personal God.
+
 Importantly, we are now
  at the limits of logic
  and reason.
@@ -531,7 +533,7 @@ The divine truth, this Spirit of Truth,
  must be the source of logic and reason
  (which are merely 
  the means given to us to *make sense*
- of the world).
+ of the world as it is revealed to us).
 
 
 
