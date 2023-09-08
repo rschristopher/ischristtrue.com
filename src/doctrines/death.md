@@ -1,2 +1,21 @@
 # Death
 
+The Christian doctrine of death is often ignored and neglected, especially in our modern views where we hide from death.
+
+Death and Evolution
+
+or rather, evolution is the divine response to death -- the two are intractable such that it's fair to categorize them as equivalent, that is, we cannot have evolution without death and vice versa.
+
+fitness for survival
+
+such as Christianity itself, and the fruits of its evolutionary fitness.
+
+
+
+
+
+
+
+
+
+
