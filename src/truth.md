@@ -353,7 +353,7 @@ In fact, as we shall see,
 
 ## Spirit of Truth
 
-Truth, or the spirit of truth,
+The spirit of truth,
  like any spirit,
  can be thought of as a
  pattern of reality.
@@ -368,6 +368,7 @@ In other words, that which
 And rather than a *what*,
  truth is better understood as a *who*.
 
+### Spirits 
 But let's first understand what we mean by "spirit".
 A spirit is any pattern of reality with 
  a consciousness.
@@ -476,9 +477,9 @@ Your consciousness emerges from the
  from the complex interactions
  of water vapor, pressure, and electricity.
 
-Who then is the Spirit of Truth?
+### Who is Truth?
 
-He is the source
+The Spirit of Truth is the source
  of all things as they are,
  all patterns, simple and complex,
  all that was, is, and will be --
