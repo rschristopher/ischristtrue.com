@@ -369,7 +369,7 @@ And rather than a *what*,
  truth is better understood as a *who*.
 
 ### Spirits 
-But let's first understand what we mean by "spirit".
+Let's first understand what we mean by "spirit".
 A spirit is any pattern of reality with 
  a consciousness.
 It has agency and 
