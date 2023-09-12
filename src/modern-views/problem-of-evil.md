@@ -4,14 +4,14 @@ In our modern conventional wisdom we sometimes hear about the philosopical probl
 
 > If God is all good, then why is there evil?
 
-Interestingly, despite all the debate, it is nonsensical and has no merit. There are in fact no religions with a philosophical problem of evil.
+This is, however, a nonsensical debate. There are in fact no religions with a philosophical problem of evil.
 
 Dualistic religions typically claim a precosmogonic schism between dark and light, or in gnostic Christian sects they imagine a demiurge that is the source of evil.
 
-Buddhism frames the entire cosmic drama in terms of suffering, illusion, and the cessation of suffering. There is no good or evil.
-Hinduism similarly frames things outside of objective moral truth, ...
+Buddhism frames the entire cosmic drama in terms of suffering, illusion, and nirvana. There is no good or evil.
+Hinduism similarly frames things outside of any objective moral truth.
 
-In fact, our entire notion of evil and good is based entirely on the God of the Bible. From Judaism it is revealed that there is good and evil, and that it is objectively knowable. And sin (missing the mark, turning away from God) is the source of evil.
+In fact, our entire notion of good and evil is based entirely on the God of the Bible. From Judaism it is revealed that there is a universal good and evil, and that it is objectively knowable. And sin (missing the mark, turning away from God) is the source of evil.
 In this view, evil has no substance, like darkness, it is merely the absence of light (absence of goodness).
 
 Man and angels both fell from grace through pride, trying to "be as gods".
