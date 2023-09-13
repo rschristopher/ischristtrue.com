@@ -33,3 +33,13 @@ The Son of God is there, and through
 
 
 
+
+
+... what is a mediator?
+What is a mediating principle?
+The necessary steps between your current fallen state, and the goal, the aim, in this case the being in the presence of God from within creation.
+
+
+
+
+
