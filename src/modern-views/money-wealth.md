@@ -14,7 +14,7 @@ good money, from God ... how to discern good money from sin? light vs darkness, 
 
 We are created to work. God could have created everything in a single instant with but a word, instead He worked for six days and on the seventh day He rested. The nature of work is fundamental to creation itself, including planning, ordering, and rest. That is the nature of reality as He created it. And He saw that it was good.
 
-Despite the fall of man, work itself is good. Man's purpose is to work, and to work in a way that glorifies God by willfully participating in His will.
+Despite the fall of man, work itself is good. Man's purpose is to work, to work in such a way as to glorify God, participating in His will.
 
 Money is a technology, a social technology that allows for one person to save and then use that saved money to direct the work of others. 
 
