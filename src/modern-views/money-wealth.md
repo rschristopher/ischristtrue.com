@@ -1,4 +1,4 @@
-# Money and Wealth
+p# Money and Wealth
 
 treasures in heaven
 
@@ -26,7 +26,7 @@ Good money must also be *produced* through good work. That is, money production 
 
 But it is God's sovereignty. It is His money. If you confuse it with yours then this is to give in to the serpent. This is where the rich man falls to pride, and the poor man to envy.
 
-Shoulder the burden responsibly, knowing it is God's money no matter where it goes, and that it is in your hands for a reason, that you have been tasked by God. If you find yourself with money, pray for wisdom sufficient for such a challenge.
+Shoulder the burden responsibly, knowing it is God's money no matter where it goes, and that it is in your hands for a reason, that you have been tasked by God. If you find yourself with money, pray for wisdom sufficient for such a challenge. Your salvation is on the line.
 
 
 work, proof of work 
