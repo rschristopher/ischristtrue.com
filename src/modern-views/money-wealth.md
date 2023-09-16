@@ -12,7 +12,7 @@ good stewardship
 
 good money, from God ... how to discern good money from sin? light vs darkness, know them by their fruits 
 
-We are created to work, for God could have created everything in a single instant with but a word, instead He worked for six days and on the seventh He rested. The nature of work is fundamental to creation, including planning, ordering, and rest. That is the nature of reality as He created it.
+We are created to work. God could have created everything in a single instant with but a word, instead He worked for six days and on the seventh day He rested. The nature of work is fundamental to creation itself, including planning, ordering, and rest. That is the nature of reality as He created it. And He saw that it was good.
 
 Despite the fall of man, work itself is good. Man's purpose is to work, and to work in a way that glorifies God by willfully participating in His will.
 
@@ -22,9 +22,11 @@ What makes a money good and not sinful? Money is good when it is produced throug
 
 Good money is the fruit of good work, and it belongs to God (as all things do). It is never your money, never your wealth, but it is in your possession as a steward; God has granted you the responsibility to lead and direct the work of others. Such an awesome responsibility is a blessing and a temptation -- a certain snake will whisper his familiar line, that "ye shall be as gods".
 
-But it is God's sovereignty. It is His money. If you confuse it with yours then this is to give in to the serpent. This is where the rich falls to pride, and the poor to envy.
+Good money must also be *produced* through good work. That is, money production must be good, must glorify God.
 
-Shoulder the burden responsibly, knowing it is God's money no matter where it goes, abd that it is in your hands for a reason, that you have been tasked by God. If you find yourself with money, pray for wisdom sufficient for such a challenge.
+But it is God's sovereignty. It is His money. If you confuse it with yours then this is to give in to the serpent. This is where the rich man falls to pride, and the poor man to envy.
+
+Shoulder the burden responsibly, knowing it is God's money no matter where it goes, and that it is in your hands for a reason, that you have been tasked by God. If you find yourself with money, pray for wisdom sufficient for such a challenge.
 
 
 work, proof of work 
