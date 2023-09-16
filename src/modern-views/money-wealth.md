@@ -1,10 +1,10 @@
-p# Money and Wealth
+# Money and Wealth
 
 treasures in heaven
 
 love of money
 
-abomination that is fiat money and credit
+the abomination that is fiat money and credit
 
 usury
 
