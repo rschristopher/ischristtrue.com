@@ -37,9 +37,11 @@ if Bitcoin is true we will know it (as Pharoah knew the truth of the Lord).
 
 good money is and can only be from God.
 
-Fiat money is not from God. It is from man, from systems of control, allowed by God but not from God, as all evil is. Even they will tell you that money is a shared illusion, and as such they imagine themselves as in control of the narratives that control the illusion. It is at best a deceptive spell.
+Fiat money is not from God. It is from man, from systems of control, allowed by God but not from God, as all evil is. Even fiat central bankers will tell you that money is a shared illusion, and as such they imagine themselves as in control of the narratives that control the illusion. It is at best a deceptive spell.
 
-Is Bitcoin from God? Is it more like God or like Fiat? Bitcoin is peculiar in that it is backed by cryptography, by mathematics, and requires proof of work for both issuance and transaction settlement. Gold requires work for issuance only, no work is required for transaction settlement. Fiat requires no work for either. Arguably, if we see that God is the author of this universe, and the Author of the mathematical laws that we can discover in order to better understand the universe, then Bitcoin is from God in the most profound sense.
+Is Bitcoin from God? Is it more like God or like Fiat? Bitcoin is peculiar in that it is backed by cryptography, by mathematics, and requires proof of work for both issuance and transaction settlement. Gold requires work for issuance only, no work is required for transaction settlement. Fiat requires no work for either. Arguably, if we see that God is the author of this universe, and the author of the mathematical laws that we can discover in order to better understand the universe, then Bitcoin is from God in the most profound sense.
+
+Another way to think about it, acts of God can cause the loss of gold, of Bitcoin, but not of fiat. After an act of God more fiat can be and is created. The supply of fiat is limited only by central planners, and not from God. That is, the rules of mathematics limit the supply of Bitcoin.
 
 Work is God-given and pure, existing before the fall. Proof of work for transaction settlement is a harder money than gold in every possible sense. The incentives for mining will be in part due to the desire for transaction settlement itself. Financial sovereigns will mine not just for profit, the margins will be too slim over time, but they will mine so that they can guarantee that their transactions can be settled and not whitelisted.
 
