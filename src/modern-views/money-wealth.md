@@ -4,11 +4,28 @@ treasures in heaven
 
 love of money
 
+https://www.johnsanidopoulos.com/2016/04/st-john-climacus-on-love-of-money-or.html?m=1
+
+
 the abomination that is fiat money and credit
 
 usury
 
 good stewardship
+
+https://publicorthodoxy.org/2022/11/01/christian-stewardship-and-wealth/
+
+> Ultimately, all of us act merely as stewards of God’s wealth. Thus, Jesus teaches us all to confess, “We are unprofitable servants. We have [only] done what was our duty to do” (Luke 17:10)
+
+https://www.oca.org/the-hub/the-church-on-current-issues/an-orthodox-understanding-of-stewardship
+
+> stewardship, literally refers to the management of a household. Stewardship is a task, a responsibility bestowed on one person by another - usually by a master.
+
+
+https://www.focusonthefamily.com/family-qa/biblical-principles-and-perspectives-about-money/
+
+> What does a good steward look like? We’d suggest that there are five key indicators of the faithfulness with which he’s carrying out his responsibilities. First, he gives generously in proportion with the level of his resources and abilities (2 Corinthians 8:12). Second, he exercises self-control by maintaining a debt-free lifestyle (Romans 13:8; Galatians 5:23. Third, he pays his taxes with integrity and an attitude of thanksgiving (Matthew 22:21; Romans 13:7). Fourth, he sets financial goals with an eye to the needs of his family and loved ones (1 Timothy 5:8). And fifth, he seeks the counsel of wise advisors and remains accountable to others in all his financial dealings (Proverbs 15:22).
+
 
 good money, from God ... how to discern good money from sin? light vs darkness, know them by their fruits 
 
