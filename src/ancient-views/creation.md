@@ -16,6 +16,11 @@ https://www.rocorstudies.org/2022/12/10/a-patristic-perspective-on-a-crucified-m
 
 > As Fr. Seraphim takes his cue from the Fathers, so the Fathers took their cue from Scripture itself which declares that God spoke to Moses, not in dark sayings and riddles but face-to-face as a friend (Num. 12:6-8)
 
+> Of course, no man has or can directly observe the creation of the world apart from spiritual vision, but it can only be guessed at by extrapolating from the modern world that we do experience. Only God Himself observed in real time the creation of the world and therefore only God can reveal the un-speculative truth of it to man.
+
+> as Fr. Seraphim himself would say, we cannot rely on our own rational understanding of the Holy Scriptures, but we must instead ask how the holy Fathers have understood the days of Creation.
+
+
 
 
 
