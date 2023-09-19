@@ -21,6 +21,21 @@ https://www.rocorstudies.org/2022/12/10/a-patristic-perspective-on-a-crucified-m
 > as Fr. Seraphim himself would say, we cannot rely on our own rational understanding of the Holy Scriptures, but we must instead ask how the holy Fathers have understood the days of Creation.
 
 
+> both the Fundamentalist view that the literal interpretation of Genesis rests on the length of the days being twenty-four hours, and the evolutionist view which rests upon the length of the “days” being millions or billions of years, and concludes: “I think we can safely say that both these views miss the mark,”
+
+
+cosmogony, origin and evolution of the universe
+
+> Only God Himself observed in real time the creation of the world and therefore only God can reveal the un-speculative truth of it to man.
+
+
+
+> St. Maximus the Confessor also presents a profound connection between time and eternity, “for eternity is time when it stops moving, and time is eternity when it is measured as it is borne by movement, so that I arrive at the all-embracing definition of eternity as being time deprived of movement, and time as eternity measured by movement.”
+
+> But he also teaches that when man is united to God, as was Adam before his Fall, he is freed from the subjection to change brought on by time
+
+> St. Theophilus of Antioch and the Christian father of chronography, Julius Africanus (c. 160 – c. 240), specifically argue against the pagan notions of an “old earth,” older than that given by the Old Testament genealogies
+
 
 
 
