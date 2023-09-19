@@ -14,6 +14,8 @@ https://www.rocorstudies.org/2022/12/10/a-patristic-perspective-on-a-crucified-m
 
 > and against those who reject the plain meaning of Genesis, St. John Chrysostom exhorts: “let us pay no heed to these people, let us stop up our hearing against them, and let us believe the Divine Scripture, and following what is written in it, let us strive to preserve in our souls sound dogmas.”
 
+> As Fr. Seraphim takes his cue from the Fathers, so the Fathers took their cue from Scripture itself which declares that God spoke to Moses, not in dark sayings and riddles but face-to-face as a friend (Num. 12:6-8)
+
 
 
 
