@@ -66,7 +66,9 @@ Another way to think about it, acts of God can cause the loss of gold, of Bitcoi
 
 Work is God-given and pure, existing before the fall. Proof of work for transaction settlement is a harder money than gold in every possible sense. The incentives for mining will be in part due to the desire for transaction settlement itself. Financial sovereigns will mine not just for profit, the margins will be too slim over time, but they will mine so that they can guarantee that their transactions can be settled and not whitelisted.
 
-
+Gold does not provide proof of work for transaction settlement (including the securing of wealth), hence the hidden cost of settlement is born out in physical security of a transaction.
+Bitcoin includes proof of work for transaction settlement, and in fact this is incorporated into issuance (money production). Should these have been separate? Would a separate proof of work for transaction settlement be beneficial? Or is it necessary to include them together? 
+By including them, it provides the minimum proof of work necessary for the monetary system to sustain.
 
 
 
