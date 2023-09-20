@@ -37,11 +37,11 @@ We are created to work. God could have created everything in a single instant wi
 
 Despite the fall of man, work itself is good. Man's purpose is to work, to work in such a way as to glorify God, participating in His will.
 
-Money is a technology, a social technology that allows for one person to save and then use that saved money to direct the work of others. 
+Money is a technology, a social technology that allows for one person to save and then use that saved money to direct and influence the work of others. Simply by participating in a market, one is valuing some goods and services over others. And it is in this influence that the morality of money and wealth can be seen, both in money production and usage.
 
 What makes a money good and not sinful? Money is good when it is produced through work, work that glorifies God. This means that money cannot be used as a system of control. God gave us free will so that we may come to him willfully, so that our God-given will can participate in His divine will.
 
-Good money is the fruit of good work, and it belongs to God (as all things do). It is never your money, never your wealth, but it is in your possession as a steward; God has granted you the responsibility to lead and direct the work of others. Such an awesome responsibility is a blessing and a temptation -- a certain snake will whisper his familiar line, that "ye shall be as gods".
+Good money is the fruit of good work, and it belongs to God (as all things do). It is never your money, never your wealth, but it is in your possession temporarily, and you are a steward for God's wealth; God has granted you the responsibility to lead and influence the work of others. Such an awesome responsibility is a blessing and a temptation -- where a certain snake will whisper his familiar line, that "ye shall be as gods".
 
 Good money must also be *produced* through good work. That is, money production must be good, must glorify God.
 
@@ -58,17 +58,19 @@ if Bitcoin is true we will know it (as Pharoah knew the truth of the Lord).
 
 good money is and can only be from God.
 
-Fiat money is not from God. It is from man, from systems of control, allowed by God but not from God, as all evil is. Even fiat central bankers will tell you that money is a shared illusion, and as such they imagine themselves as in control of the narratives that control the illusion. It is at best a deceptive spell.
+Fiat money is not from God. It is from man, from systems of control, allowed by God but not from God, as all evil is. It is money created ex-nihilo by man, confusing man with God. Even fiat central bankers will tell you that money is a shared illusion, and as such they imagine themselves as in control of the narratives that control the illusion. It is at best a deceptive spell.
 
-Is Bitcoin from God? Is it more like gold or like Fiat? Bitcoin is peculiar in that it is backed by cryptography, by mathematics, and requires proof of work for both issuance and transaction settlement. Gold requires work for issuance only, no work is required for transaction settlement. Fiat requires no work for either. Arguably, if we see that God is the author of this universe, and the author of the mathematical laws that we can discover in order to better understand the universe, then Bitcoin is from God in the most profound sense.
+Is Bitcoin from God? Is it more like gold or like Fiat? Bitcoin is peculiar in that it is backed by cryptography, by mathematics, and requires proof of work for both issuance and transaction settlement. Gold requires work for issuance only, no work is explicitly required for transaction settlement (though it implicitly requires massive work to secure any transfer and verification of gold). Fiat requires no work for either. 
+
+Arguably, if we see that God is the author of this universe, and the author of the mathematical laws that we can discover in order to better understand the universe, then Bitcoin is from God in the most profound sense.
 
 Another way to think about it, acts of God can cause the loss of gold, of Bitcoin, but not of fiat. After an act of God more fiat can be and is created. The supply of fiat is limited only by central planners, and not from God. That is, the rules of mathematics limit the supply of Bitcoin.
 
 Work is God-given and pure, existing before the fall. Proof of work for transaction settlement is a harder money than gold in every possible sense. The incentives for mining will be in part due to the desire for transaction settlement itself. Financial sovereigns will mine not just for profit, the margins will be too slim over time, but they will mine so that they can guarantee that their transactions can be settled and not whitelisted.
 
-Gold does not provide proof of work for transaction settlement (including the securing of wealth), hence the hidden cost of settlement is born out in physical security of a transaction.
-Bitcoin includes proof of work for transaction settlement, and in fact this is incorporated into issuance (money production). Should these have been separate? Would a separate proof of work for transaction settlement be beneficial? Or is it necessary to include them together? 
-By including them, it provides the minimum proof of work necessary for the monetary system to sustain.
+Gold does not provide proof of work for transaction settlement (including securing gold), hence the hidden cost of settlement is born out in physical security of transferring gold.
+Bitcoin includes proof of work for transaction settlement, and in fact this is incorporated into issuance (money production). The same work backs both. Should these have been separate? Would a separate proof of work for transaction settlement be beneficial? Or is it necessary to include them together? 
+By including them together, it provides the minimum proof of work necessary for the monetary system to sustain.
 
 
 
