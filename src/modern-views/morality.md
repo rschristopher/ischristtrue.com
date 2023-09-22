@@ -31,7 +31,7 @@ We're getting much better, and yet still there's a problem ...
 
 ## Conclusion
 
-Something is good *if and only if*
+Something is good *if, and only if,*
 
 1. it is beneficial for you, now and in the future, including to your children's children, and
 2. it is simultaneously beneficial for those around you, all of society, now and in the future, and
