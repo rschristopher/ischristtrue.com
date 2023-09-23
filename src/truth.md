@@ -558,79 +558,44 @@ And this revelation of truth can only
 What is our relationship to such a spirit?
 
 This we can only know by revelation.
-By asking and receiving an answer.
+By asking and receiving an answer, by paying attention to the world around us. And rather than presuppose we arrive at truth through reductionism, we can focus our attention on the other attributes of truth: meaning, morality, and beauty.
 
 
 
+### Meaning, Morality and Beauty
 
-
-
-### Meaning and Morality
-
-Just as knowledge depends
- on a firm foundation
- of objective *truth*, which as we have seen
- can only be revealed -- so too
- are morality as well as its cousin:
- meaning (as in, the meaning of life).
-In other words, we must necessarily
- believe that objective knowable 
- truths can be revealed,
- including moral truths.
-
-Truth claims, as revealed to us,
- contain not only the causal functions
- that materialists misattribute to
- "natural causes"
- (saying something is "natural"
- doesn't actually explain anything) --
- truth claims also contain meaning
- and morality, in other words, values
- of what is good, and what is not.
-This should not be surprising since
- revelatory truth came from a relationship
- with a spirit that is 
- (necessarily) the source of all
- that is.
-Just as we share truth claims with
- each other,
- so too does the Spirit of Truth
- share with us.
-
-What we understand as morality
- is intractable from a truth claim.
 All truth claims consist of
  causal functionality,
  morality, 
  meaning,
  and even beauty.
 E.g., even the leaf turning to face the sun; the functionality is obvious, the leaf is absorbing as much sunlight as possible. But what is the meaning and morality of a leaf turning to face the sun? The meaning is to use the sun's energy to convert water into energy for the tree. The morality is that the tree is good when it does this, it flourishes with sun, and dies otherwise.
-And most fascinating, if you perceive one aspect of a truth claim, such as a moral intuition, you can from that infer the other attributes -- including the meaning of life.
+And most fascinating, if you perceive one aspect of a truth claim, such as a moral intuition, you can from that grasp the other attributes, including meaning.
+Apply this to life itself, and examine the moral intuitions of what it means to live in a way that is good, and you'll simultaneously arrive at the meaning of life.
 
+In our modern reductionist worldview, we often blind ourselves to revealed truths, even while our attention is captivated by, say, the beauty of a sunset, we'll fall to see the meaning.
 If you cannot understand the meaning
  of even the most basic of things,
  such as a leaf on a tree,
  then how could you possibly 
  hope to understand the
- meaning of your own life?
+ meaning of life?
 Let alone the meaning of
  the suffering and death
  of life?
-Importantly, by denying knowable
- objective truth, you deny
- morality, meaning, and even beauty --
- you will be left with the inversion
- of beauty and morality,
- which is fashion and relativism.
 
 Seeking truth is then not an
  idle hobby of armchair philosophers.
 Seeking truth is to orient your entire
  life into a relationship with God,
  with the Spirit of Truth,
- imbuing your life with meaning
+ revealing meaning
  sufficient to endure the suffering
  of this world.
+
+Importantly, by denying objective morality and beauty -- that morality and beauty are objectively knowable -- you will be left with the inversion of beauty and morality, which is fashion and relativism.
+And you will find yourself in a meaning crises, as relativism does not provide meaning sufficient for the challenges of life.
+And fashion is transient and fleeting, which is very much the antithesis of beauty, and even to truth itself.
 
 
 
@@ -638,7 +603,7 @@ Seeking truth is to orient your entire
 
 ### Antithesis of Truth
 
-The alternative to truth,
+The alternative to objective truth,
  popular in all modern universities,
  and especially in philosophy classrooms,
  is relativism and apathy
@@ -649,10 +614,9 @@ The alternative to truth,
 
 Even the strong rationalists with their
  weapons of reason and empiricism,
- will shrink in their seats
- when confronted with a fundamental 
- question.
-A young student may go to such
+ will shrink in their seats when confronted with a fundamental 
+ question -- *what is the meaning of life?* --
+A young student may go to the 
  *experts* of philosophy
  (those proclaimed lovers of wisdom)
  looking for answers
@@ -662,7 +626,7 @@ A young student may go to such
 
 > Here, young seeker, here is a list of ideas that show how complicated is the history of even the word *truth*.
 
-"But what is the answer?"
+"But what is the meaning of life?"
  a young seeker might demand.
 
 > "Who am I to tell?"
@@ -690,27 +654,16 @@ You might object to the above
  attributes and answers -- 
  surely fundamental questions cannot
  have such ready answers!
-Yet the entire field of engineering
- sits atop
- an assumption of a knowable objective
- truth, a metaphysical claim,
- all is dependent on objective
- truth, and we all know this.
-It cannot, not even the math that
- explains aerodynamic lift, 
- exist independently without
- a foundation of knowable truth.
+Yet the entire field of engineering sits atop an *assumption* of a knowable objective truth (and implicit moral meaning), a metaphysical claim, a non-reductionist answer to the meaning of life -- and we all know this.
+Engineering cannot exist independently without a foundation of knowable truth (including the math that explains aerodynamic lift).
 How strange that 
  our [modern view](../modern-views)
  would only be confident in
  the fruits but not the tree
  from which they grow.
 
-Beware those who cannot answer
- the fundamental questions
- they proclaim to study.
-Beware even more those who do not
- live in accord to their proclaimed answers.
+Beware those who cannot answer the fundamental questions they proclaim to study.
+Beware even more those who do not live in accord to their proclaimed answers.
 
 Know them by their fruits.
 
@@ -789,9 +742,7 @@ The source of all that is,
 As outrageous as this can sound to
  modern ears, the alternative is
  absurdity and nihilism
- (and what better way to understand
-  modernity than the observation that
-  absurdity has become preferable to truth).
+ (and what better way to understand  modernity than the observation that absurdity has become preferable to truth).
 The very idea of knowable objective
  truth presupposes these seemingly
  outrageous claims -- that you are
@@ -813,6 +764,7 @@ You are an icon, a finite symbol
 And even in your fallen state,
  you will not, and cannot,
  return to nothingness.
+Beauty draws you to Him, revealing His design, beckoning you to return to a state of grace.
 To believe in objective
  knowable truth, is to 
  necessarily also believe that
