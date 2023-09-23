@@ -587,8 +587,9 @@ let alone the meaning of
 Seeking truth is then not an
  idle hobby of armchair philosophers.
 Seeking truth is to orient your entire
- life into a relationship with God,
+ life into a relationship
  with the Spirit of Truth,
+ with God,
  revealing meaning
  sufficient to endure the suffering
  of this world.
