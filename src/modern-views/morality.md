@@ -22,9 +22,9 @@ We should include,
 
 3. it is what you are called to do by your creator, that is, it is your purpose in life
 
-We're getting much better, and yet still there's a problem ...
+This is getting much better, and yet still there's a problem; it's not always clear what you are being called to do. However, we know our purpose is to glorify God, so we can conclude,
 
-4. it glorifies God, which is your purpose, as you are created in the image abd likeness of God
+4. it glorifies God, which is your purpose, as you are created in the image and likeness of God
 
 
 
