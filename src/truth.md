@@ -767,7 +767,7 @@ And even in your fallen state,
  return to nothingness.
 Beauty draws you to Him, revealing His design, beckoning you to return to a state of grace.
 To believe in objective
- knowable truth, is to 
+ knowable truth is to 
  necessarily also believe that
 your soul is eternal.
 To deny God,
