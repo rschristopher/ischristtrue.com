@@ -105,9 +105,10 @@ They may tell you about
  and many others.
 Or perhaps the absurdists like
  [Camus](https://en.wikipedia.org/wiki/Albert_Camus).
- Or postmodernists like
- [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault)
- if you have the temprament for it.
+ Or
+ if you have the temprament for it,
+ postmodernists like
+ [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault).
 And then, after a lot of study,
  all you'll know is that
  the mere concept of
