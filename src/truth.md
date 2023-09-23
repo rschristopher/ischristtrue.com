@@ -352,6 +352,9 @@ In fact, as we shall see,
 
 
 
+
+
+
 ## Spirit of Truth
 
 The spirit of truth,
@@ -369,13 +372,15 @@ In other words, that which
 And rather than a *what*,
  truth is better understood as a *who*.
 
+
+
 ### What is a Spirit? 
 Let's first understand what we mean by "spirit".
 A spirit is any pattern of reality with 
  a consciousness.
 It has agency and 
  self awareness.
-It has personal attributes.
+There is no visible body, other than as a pattern of reality over time.
 
 If you haven't thought of a spirit
  in this way, and instead
@@ -386,8 +391,7 @@ If you haven't thought of a spirit
  this is most certainly not a spirit,
  this is a childish caricature
  and it demonstrates the unquestioned
- nihilism that possesses our
- conventional wisdom.
+ nihilism that possesses our modern sensibilities.
 Anyone can "see" a spirit, if not directly
  through symbolism or iconography,
  but through patterns of reality
@@ -452,8 +456,7 @@ Spirits have implicit meaning, beauty,
  and functions
  that transcend the limits
  of a mechanistic worldview.
-Those trapped in a 
- mechanistic worldview are blind to
+Those trapped in a modern reductionist worldview are blind to
  the everpresent spirits in front of their
  own face, pretending with
  absurd pride that humans are the originators
@@ -485,9 +488,10 @@ The Spirit of Truth is the source
  all patterns, simple and complex,
  all that was, is, and will be --
  including our own bodies and minds --
- this is the Spirit of Truth.
+ this is the Spirit of Truth;
+the source, the creator, of all.
 What kind of being, what kind of spirit,
- could encompass all?
+ could be the source of all?
 
 Well, turns out there's only a handful of
  possible answers.
@@ -517,7 +521,7 @@ Whoever this divine Spirit of Truth is,
  this universal pattern of reality,
  He grants us knowledge
  of ourselves and the world we live in.
-This is necessarily a personal God.
+This is what people mean by God.
 
 Importantly, we are now
  at the limits of logic
@@ -533,7 +537,7 @@ They are but artifacts of our consciousness,
 The divine truth, this Spirit of Truth,
  must be the source of logic and reason
  (which are merely 
- the means given to us to *make sense*
+ the means given for us to *make sense*
  of the world as it is revealed to us).
 
 
