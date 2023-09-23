@@ -574,16 +574,15 @@ E.g., even the leaf turning to face the sun; the functionality is obvious, the l
 And most fascinating, if you perceive one aspect of a truth claim, such as a moral intuition, you can from that grasp the other attributes, including meaning.
 Apply this to life itself, and examine the moral intuitions of what it means to live in a way that is good, and you'll simultaneously arrive at the meaning of life.
 
-In our modern reductionist worldview, we often blind ourselves to revealed truths, even while our attention is captivated by, say, the beauty of a sunset, we'll fall to see the meaning.
+In our modern reductionist worldview, we often blind ourselves to revealed truths, even while our attention is captivated by, say, the beauty of a sunset, we'll fail to see the meaning.
 If you cannot understand the meaning
- of even the most basic of things,
+ of even the most basic things,
  such as a leaf on a tree,
  then how could you possibly 
- hope to understand the
- meaning of life?
-Let alone the meaning of
- the suffering and death
- of life?
+ understand the
+ meaning of life --
+let alone the meaning of
+ suffering and death?
 
 Seeking truth is then not an
  idle hobby of armchair philosophers.
