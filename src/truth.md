@@ -576,7 +576,7 @@ Apply this to life itself, and examine the moral intuitions of what it means to 
 
 In our modern reductionist worldview, we often blind ourselves to revealed truths, even while our attention is captivated by, say, the beauty of a sunset, we'll fail to see the meaning.
 If you cannot understand the meaning
- of even the most basic things,
+ of the most basic things,
  such as a leaf on a tree,
  then how could you possibly 
  understand the
