@@ -24,7 +24,7 @@ They believe they came from a
  that they unconsciously believe in God
  (for who else creates *ex nihilo*?)
 
-But is this really the end fate
+Is this really the end fate
  of a human soul? 
 To return to nothingness?
 Of course they yearn for this,
@@ -35,8 +35,7 @@ Of course they yearn for this,
 
 The naive half-educated *"intellectuals"*
  of our time imagine immortality
- to be a good and desirable thing, 
- but that it is just the
+ as just the
  fantasy of "less evolved"
  superstitious Christians.
 That they are more evolved and accept
@@ -77,13 +76,11 @@ A single human life is worth more to God
  than the entire cosmos.
 The essence of God cannot be contained
  in all of the stars in existence,
- let alone the person of the son.
+ let alone the person of God.
 And yet, there He was.
 The creator of all, born in a manger.
 
-The human being is immortal, and still
- retains even after the fall,
- an immortal soul.
+The human soul is immortal, and even after the fall, we retain an immortal soul.
 We once beheld the face of God,
  and we shone with His radiance,
  with no shame or vulnerability in
@@ -100,13 +97,11 @@ And so, what happens to such exalted
  creatures, made in the image and likeness
  of God, when we die?
 Nothingness?
-This is the desire of the atheist --
- because the alternative is to frightful
- to bear.
+This is the longing of the atheist -- because the alternative is too frightful to bear.
 For if God is real, then man's soul 
  is immortal,
  and by not accepting salvation,
- salvation that
+ salvation
  which is freely given, how will
  such a soul respond to eternity
  without God to sustain them?
@@ -120,8 +115,7 @@ They exist in meaningless darkness,
  burns their sin, their pride, yet they
  hold and cling to pride,
  to their resentment of God,
- the God who won't let them return
- to nothingness, for that is
+ for their desire is for God
  to erase their created soul as a mistake,
  which in their pride is what they would do.
 God's love is here, ready to
@@ -141,6 +135,7 @@ Remember that our souls are immortal,
  will not return to nothingness.
 A human soul is not destined for nirvana nor moksha --
  every soul is destined for truth, be it glorious, be it cold, be it fire.
+ 
 God have mercy on us.
 
 
