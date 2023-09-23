@@ -569,16 +569,14 @@ By asking and receiving an answer.
 
 Just as knowledge depends
  on a firm foundation
- of *the Truth*, which as we have seen
+ of objective *truth*, which as we have seen
  can only be revealed -- so too
  are morality as well as its cousin:
  meaning (as in, the meaning of life).
 In other words, we must necessarily
- believe that
- Truth exists
- in order that we can *know* anything,
- as well as know what is good,
- and know the meaning of anything.
+ believe that objective knowable 
+ truths can be revealed,
+ including moral truths.
 
 Truth claims, as revealed to us,
  contain not only the causal functions
@@ -606,14 +604,15 @@ All truth claims consist of
  morality, 
  meaning,
  and even beauty.
+E.g., even the leaf turning to face the sun; the functionality is obvious, the leaf is absorbing as much sunlight as possible. But what is the meaning and morality of a leaf turning to face the sun? The meaning is to use the sun's energy to convert water into energy for the tree. The morality is that the tree is good when it does this, it flourishes with sun, and dies otherwise.
 And most fascinating, if you perceive one aspect of a truth claim, such as a moral intuition, you can from that infer the other attributes -- including the meaning of life.
 
 If you cannot understand the meaning
  of even the most basic of things,
- such as a chair or a cup,
+ such as a leaf on a tree,
  then how could you possibly 
  hope to understand the
- meaning of your life?
+ meaning of your own life?
 Let alone the meaning of
  the suffering and death
  of life?
