@@ -662,6 +662,10 @@ How strange that
  would only be confident in
  the fruits but not the tree
  from which they grow.
+ 
+
+!!! quote "if we know the meaning of a plane while we fly, and a chair while we sit, then why are we confused about the meaning of life while we live?"
+
 
 Beware those who cannot answer the fundamental questions they proclaim to study.
 Beware even more those who do not live in accord to their proclaimed answers.
