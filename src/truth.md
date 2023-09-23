@@ -7,6 +7,7 @@ Our lives begin by
  seeking answers
  to the most fundamental questions:
 What is real?
+
 How do we know what is real?
 
 The philosophically-inclined
