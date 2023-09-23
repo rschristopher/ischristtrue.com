@@ -627,12 +627,12 @@ A young student may go to the
 
 > Here, young seeker, here is a list of ideas that show how complicated is the history of even the word *truth*.
 
-"But what is the meaning of life?"
+*"But what is the meaning of life?"*
  a young seeker might demand.
 
 > "Who am I to tell?"
 
-"I thought you were the expert!"
+*"I thought you were the expert!"*
 
 Imagine an engineering professor
  behaving this way.
