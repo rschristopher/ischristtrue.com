@@ -601,7 +601,7 @@ And fashion is transient and fleeting, which is very much the antithesis of beau
 
 
 
-### Antithesis of Truth
+## Antithesis of Truth
 
 The alternative to objective truth,
  popular in all modern universities,
