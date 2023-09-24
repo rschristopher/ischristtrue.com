@@ -375,112 +375,46 @@ And rather than a *what*,
 
 
 
-### What is a Spirit? 
-Let's first understand what we mean by "spirit".
-A spirit is any pattern of reality with 
- a consciousness.
-It has agency and 
- self awareness.
-There is no visible body, other than as a pattern of reality over time.
+??? question "What is a Spirit?"
+    A spirit is any pattern of reality with conscious agency.
 
-If you haven't thought of a spirit
- in this way, and instead
- think of spirits as
- translucent ghosts that don't 
- interact with our world but hover
- about --
- this is most certainly not a spirit,
- this is a childish caricature
- and it demonstrates the unquestioned
- nihilism that possesses our modern sensibilities.
-Anyone can "see" a spirit, if not directly
- through symbolism or iconography,
- but through patterns of reality
- over time.
-A spirit is just that, a pattern of
- reality that has conscious agency.
+    In a secular worldview we might refer
+     to "emergent" pattern and behavior
+     of a complex system or
+     ideology.
+    But the word "emergence" in that context is what if
+     not a spirit?
+    Think of the spirit of a city, or a forest, or even your own home.
+    It might make demands of us;
+     we might participate in or
+     be mere components of the
+     these spirits.
+    Understood properly, we can see *spirits*
+     everywhere, in all manner of systems 
+     that we interact with and participate in.
+    Anyone can "see" spirits, if not directly
+     through symbolism or iconography,
+     but through patterns of reality
+     over time.
 
-Think of the spirit of a city.
-A city over time will grow and
- move about like an amoeba
- (though we rarely think of it this way).
-Such an entity reacts to the outside
- world beyond its "body",
- with sense organs and means
- with which to actualize its will.
-In a secular worldview we might refer
- to the "emergent" patterns and behavior
- of a complex system or
- ideology.
-But the word "emergence" is what if
- not consciousness?
-It might make demands of us;
- we might participate in or
- be mere components of this 
- "emergent" consciousness --
- the same way the bacteria in your
- gut are an integral part of the
- emergent consciousness that is known
- as "you".
-And thankfully, those
- bacteria participate in the emergence
- (that we call consciousness)
- known as "you".
+    If you haven't thought of a spirit
+     in this way, and instead
+     think of spirits as
+     translucent ghosts that don't 
+     interact with our world but hover
+     about --
+     this is most certainly not a spirit,
+     this is a childish caricature
+     and it demonstrates the unquestioned
+     nihilism that possesses our modern sensibilities.
+    Those trapped in a modern reductionist worldview are blind to
+     the everpresent spirits that are everywhere, pretending with
+     absurd pride that humans are the originators
+     of all the beauty and meaning
+     they perceive.
+    
 
-Understood properly, we can see *spirits*
- everywhere, in all manner of systems 
- that we interact with and participate in.
-These are patterns of reality over time,
- plainly visible to all humans throughout
- the ages of ages -- and yet
- seemingly invisible to our modern
- biased mechanistic worldview,
- because we ignore
- the consciousness of anything other
- than ourselves and other human beings
- (if even that).
-But everywhere in nature, in our own
- interactions and what we observe around us,
- this "emergence" of consciousness is everywhere.
 
-Spirits are everywhere, even in the most simple
- systems, such as a leaf turning to face
- the sun.
-In our secular mechanistic presuppositions
- we imagine this as purely "natural causes",
- as if that explained anything.
-
-We often play word games with what are
- objectively spirits making themselves
- known to us.
-Spirits have implicit meaning, beauty,
- and functions
- that transcend the limits
- of a mechanistic worldview.
-Those trapped in a modern reductionist worldview are blind to
- the everpresent spirits in front of their
- own face, pretending with
- absurd pride that humans are the originators
- of all the beauty and meaning
- they perceive, that only the *functions*
- of the natural world are real
- (and some deny even that).
-
-But even so, even if only the causal functions
- of these complex emergent patterns are
- real, then is that itself not clear
- evidence of spirits that anyone can see?
-If you look upon a thunderstorm do you see
- the entirety of the storm all at once?
-No, it is a pattern over time, a spirit.
-And it is much like your own consciousness,
- a pattern of reality over time.
-Your consciousness emerges from the
- complex interactions from your 
- body and mind;
- much like the thunderstorm emerges
- from the complex interactions
- of water vapor, pressure, and electricity.
 
 ### Who is the Spirit of Truth?
 
@@ -494,7 +428,7 @@ the source, the creator, of all.
 What kind of being, what kind of spirit,
  could be the source of all?
 
-Well, turns out there's only a handful of
+Well, turns out there's only a few of
  possible answers.
 Either He exists, or He doesn't.
 And if He does exist,
@@ -512,34 +446,37 @@ If the Spirit of Truth does not exist,
  or is not knowable to us,
  then gone too is any hope of any defensible
  epistemology.
-In other words, we can't know anything and
+In other words, we cannot know anything and
  there cannot be knowable truth about ourselves,
  or the universe,
  without a Spirit of Truth 
  making knowledge available to us.
+Otherwise, any pretense of knowledge would be indistinguishable from illusion or deceit -- and any truth beyond the illusion would be inaccessible; there's either a foundation of truth made knowable to us, or it's *turtles all the way down* (an infinite regress of illusions).
 
 Whoever this divine Spirit of Truth is,
  this universal pattern of reality,
  He grants us knowledge
  of ourselves and the world we live in.
+
 This is what people mean by God.
 
-Importantly, we are now
- at the limits of logic
- and reason.
-For logic and reason cannot contain
- in themselves 
- that which gives rise to logic and reason.
-Logic and reason are not self-sustaining,
- they do not grant us knowledge of truth.
-They are but artifacts of our consciousness,
- the means with which we *make sense* of the
- world around us.
-The divine truth, this Spirit of Truth,
- must be the source of logic and reason
- (which are merely 
- the means given for us to *make sense*
- of the world as it is revealed to us).
+!!! warning ""
+    Importantly, we are now
+     at the limits of logic
+     and reason.
+    For logic and reason cannot contain
+     in themselves 
+     that which gives rise to logic and reason.
+    Logic and reason are not self-sustaining,
+     they do not grant us knowledge of truth.
+    They are but artifacts of our consciousness,
+     the means with which we *make sense* of the
+     world around us.
+    The divine truth, this Spirit of Truth,
+     must be the source of logic and reason
+     (which are merely 
+     the means given for us to *make sense*
+     of the world as it is revealed to us).
 
 
 
