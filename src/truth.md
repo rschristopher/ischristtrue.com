@@ -424,7 +424,7 @@ The Spirit of Truth is the source
  all that was, is, and will be --
  including our own bodies and minds --
  this is the Spirit of Truth;
-the source, the creator, of all.
+the source, the creator of all.
 What kind of being, what kind of spirit,
  could be the source of all?
 
