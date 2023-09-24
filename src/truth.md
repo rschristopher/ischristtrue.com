@@ -460,7 +460,7 @@ Whoever this divine Spirit of Truth is,
 
 This is what people mean by God.
 
-!!! warning "limits of logic"
+!!! warning "Limits of Logic and Reason"
     Importantly, we are now
      at the limits of logic
      and reason.
