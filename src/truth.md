@@ -379,7 +379,7 @@ And rather than a *what*,
     A spirit is any pattern of reality with conscious agency.
 
     In a secular worldview we might refer
-     to "emergent" pattern and behavior
+     to the "emergent" pattern and behavior
      of a complex system or
      ideology.
     But the word "emergence" in that context is what if
