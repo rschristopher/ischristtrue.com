@@ -550,7 +550,7 @@ The alternative to objective truth,
  which is the same as saying there is
  no such thing as truth.
 
-Even the strong rationalists with their
+Even the strong rationalists, with their
  weapons of reason and empiricism,
  will shrink in their seats when confronted with a fundamental 
  question -- *what is the meaning of life?* --
@@ -559,7 +559,7 @@ A young student may go to the
  (those proclaimed lovers of wisdom)
  looking for answers
  to the fundamental questions of life;
- and instead they will get nothing
+ and instead they will find nothing
  but a history of anti-Christian ideas.
 
 > Here, young seeker, here is a list of ideas that show how complicated is the history of even the word *truth*.
