@@ -40,7 +40,7 @@ When we seek truth,
 
 
 
-## Knowing what actually exists
+## Seeking Truth 
 
 It is tempting in our
  [modern](../modern-views/)
