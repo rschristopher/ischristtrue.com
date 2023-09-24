@@ -508,7 +508,7 @@ All truth claims consist of
  meaning,
  and even beauty.
 E.g., even the leaf turning to face the sun; the functionality is obvious, the leaf is absorbing as much sunlight as possible. But what is the meaning and morality of a leaf turning to face the sun? The meaning is to use the sun's energy to convert water into energy for the tree. The morality is that the tree is good when it does this, it flourishes with sun, and dies otherwise.
-And most fascinating, if you perceive one aspect of a truth claim, such as a moral intuition, you can from that grasp the other attributes, including meaning.
+And most fascinating, if you perceive one aspect of a truth claim, such as a moral intuition, you can then grasp the other attributes, including meaning.
 Apply this to life itself, and examine the moral intuitions of what it means to live in a way that is good, and you'll simultaneously arrive at the meaning of life.
 
 In our modern reductionist worldview, we often blind ourselves to revealed truths, even while our attention is captivated by, say, the beauty of a sunset, we'll fail to see the meaning.
@@ -531,9 +531,9 @@ Seeking truth is to orient your entire
  sufficient to endure the suffering
  of this world.
 
-Importantly, by denying objective morality and beauty -- that morality and beauty are objectively knowable -- you will be left with the inversion of beauty and morality, which is fashion and relativism.
+Importantly, by denying objective morality and beauty -- denying that morality and beauty are objectively knowable -- you will be left with the inversion of beauty and morality, which is fashion and relativism.
 And you will find yourself in a meaning crises, as relativism does not provide meaning sufficient for the challenges of life.
-And fashion is transient and fleeting, which is very much the antithesis of beauty, and even to truth itself.
+And fashion is transient and fleeting, which is very much the antithesis of beauty, and to truth itself.
 
 
 
