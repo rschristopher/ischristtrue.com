@@ -444,7 +444,7 @@ This somewhat crude classification
 
 If the Spirit of Truth does not exist,
  or is not knowable to us,
- then gone too is any hope of any defensible
+ then gone too is any hope of a defensible
  epistemology.
 In other words, we cannot know anything and
  there cannot be knowable truth about ourselves,
@@ -460,7 +460,7 @@ Whoever this divine Spirit of Truth is,
 
 This is what people mean by God.
 
-!!! warning ""
+!!! warning "limits of logic"
     Importantly, we are now
      at the limits of logic
      and reason.
