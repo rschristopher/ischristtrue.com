@@ -467,8 +467,8 @@ This is what people mean by God.
     For logic and reason cannot contain
      in themselves 
      that which gives rise to logic and reason.
-    Logic and reason are not self-sustaining,
-     they do not grant us knowledge of truth.
+    Logic and reason are not self-sustaining.
+     They do not grant us knowledge of truth.
     They are but artifacts of our consciousness,
      the means with which we *make sense* of the
      world around us.
