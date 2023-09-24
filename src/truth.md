@@ -375,7 +375,7 @@ And rather than a *what*,
 
 
 
-??? question "What is a Spirit?"
+???+ question "What is a Spirit?"
     A spirit is any pattern of reality with conscious agency.
 
     In a secular worldview we might refer
