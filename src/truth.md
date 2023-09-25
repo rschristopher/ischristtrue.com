@@ -46,7 +46,7 @@ It is tempting in our
  [modern](../modern-views/)
  worldview to imagine that
  objective truth can be
- attained merely through
+ found merely through
  logic and observation --
  that we can *know* what actually exists,
  that we can *know* the truth.
@@ -72,8 +72,8 @@ Unfortunately, what we
  is a nihilistic
  program of 
  dead ideas,
- a history of the failures
- of past philosophers to answer
+ a history of the failures 
+ to answer
  [any](https://plato.stanford.edu/entries/nothingness/#WhyTheSomRatThaNot)
  of the fundamental questions --
  and we're left with
@@ -81,9 +81,9 @@ Unfortunately, what we
  as if to
  desensitize honest seekers,
  to soothe them into
- accepting intellectual failures
- and the inevitable nihilism
- that follows.
+ accepting the inevitable nihilism
+ that follows from not answering
+ the fundamental questions of life.
 
 Find one of these so-called
  experts and ask them yourself --
@@ -110,7 +110,7 @@ Or perhaps the absurdists like
  if you have the temprament for it,
  postmodernists like
  [Foucault](https://en.wikipedia.org/wiki/Michel_Foucault).
-And then, after a lot of study,
+And then after a lot of study,
  all you'll know is that
  the mere concept of
  objective truth doesn't
@@ -130,8 +130,8 @@ And then like a pendulum
  we could swing the other way and
  embrace any of the esoteric
  spiritual systems that are competing
- for our attention.
-Transcendental
+ for our attention;
+ transcendental
  something-or-other.
 Maybe 
  Buddhists
@@ -153,12 +153,13 @@ For what is belief other than how
 What is it that we actually believe?
 And why do none of these
  modern belief systems
- have any foundational answers
+ offer any foundational answers
  and always seem to bring us
  further and further away
  from those fundamental questions
  we originally wanted to answer?
 
+The very nature of these questions presupposes that truth is not just facts about the way things are, but also meaning and morality about the way things should be.
 This is, afterall, the human condition.
 We ought to know *something*,
  anything, about
@@ -291,15 +292,13 @@ The postmodern "deconstructions" of
  but they are still apt critiques
  of the rationalism we see in
  secular culture.
-There is indeed a patriarchal hierarchy
+There does indeed appear to be a patriarchal hierarchy
  which is the foundation for any and all
- truth claims.
-There is a normative system of power
- and oppression.
+ objective truth claims.
 It indeed can't be otherwise.
-The patriarchy, it turns out, is real!
+The patriarchy, perhaps, is real!
 And yet it doesn't seem to be man-made,
- it is in the fabric of reality.
+ we're talking about the fabric of reality.
 It's everywhere the empiricists look.
 On some level the postmodernists
  know this, and still reject it
@@ -315,9 +314,6 @@ Hypocrisy would bother them if they
 But really, they are assaulting the very
  idea of knowable objective truth,
  reducing it to self worship.
-And even this moves them paradoxically
- closer to actual truth (that truth
- involves a person and a relationship).
 
 For truth to have any meaning,
  then truth must transcend all subjective
