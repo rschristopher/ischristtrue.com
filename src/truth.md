@@ -42,9 +42,9 @@ When we seek truth,
 
 ## Seeking Truth 
 
-It is tempting in our
+In our
  [modern](../modern-views/)
- worldview to imagine that
+ worldview we often imagine that
  objective truth can be
  found merely through
  logic and observation --
