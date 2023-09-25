@@ -174,7 +174,7 @@ As the old Maori prayer goes,
 
 
 
-## Knowing Truth
+### Knowing Truth
 
 This should be a simple question,
  is there objective knowable truth?
