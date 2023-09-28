@@ -33,6 +33,8 @@ https://www.focusonthefamily.com/family-qa/biblical-principles-and-perspectives-
 
 good money, from God ... how to discern good money from sin? light vs darkness, know them by their fruits 
 
+## Value of Work
+
 We are created to work. God could have created everything in a single instant with but a word, instead He worked for six days and on the seventh day He rested. The nature of work is fundamental to creation itself, including planning, ordering, and rest. That is the nature of reality as He created it. And He saw that it was good.
 
 Despite the fall of man, work itself is good. Man's purpose is to work, to work in such a way as to glorify God, participating in His will.
@@ -49,6 +51,13 @@ But it is God's sovereignty. It is His money. If you confuse it with yours then 
 
 Shoulder the burden responsibly, knowing it is God's money no matter where it goes, and that it is in your hands for a reason, that you have been tasked by God. If you find yourself with money, pray for wisdom sufficient for such a challenge. Your salvation is on the line.
 
+
+
+## Honest Money
+
+Godly money
+
+honest weights and measures
 
 work, proof of work 
 
