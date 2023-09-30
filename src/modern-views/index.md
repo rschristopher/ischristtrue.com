@@ -113,27 +113,26 @@ The Joachamites imagined that the new age is here, starting with Francis of Assi
 
 
 
-## Is it always like this?
+## Was it always like this?
 
-The short answer, no, not at all. In fact, this view was unheard of outside of western Europe and it's unique cultural influence. This was not the view of eastern Europe nor of eastern Christianity. This was and is not the view of the Byzantine Empire. This was not the view in the Ottoman empire. This was not the view in China in any of its historic dynasties. 
+The short answer, no, not at all. In fact, this view was unheard of outside of western Europe and it's unique cultural influence. This was not the view of eastern Europe nor of eastern Christianity. This was not the view of the Byzantine Empire. This was not the view in the Ottoman empire. This was not the view in any of the historic dynasties of China. 
 This was not the view of any native American culture prior to the arrival of western Europeans.
 None of the 
  [ancient views](../ancient-views/)
  resembled this nihilistic path of
  continuous revolution and relativism.
-This is a unique worldview born of western Christianity post schism, with notably anti-Christian roots. And yet today this view has been exported globally and has become the defacto modern global view.
+This is a unique worldview born of western Christianity post schism, with notably anti-Christian themes (as it emerged as an antithesis to Christianity). And yet today this view has been exported globally and has become the defacto modern globalist view.
 
-We can find hints of this view sprinkled throughout history, but it never materialized. To the degree it emerges in early Christianity it was also condemned and anathematized. It never actualized into a continuous (albeit parasitic) ethos until after the great schism, emerging from the early scholastic movement.
+We can find hints of this view sprinkled throughout history. To the degree it emerged in early Christianity it was also condemned and anathematized. It never actualized into a continuous (albeit parasitic) ethos until after the great schism, emerging from the early scholastic movement and into fruition in the enlightenment era.
 
 
-## anti-Christian 
+## Christian Antithesis 
 
-In a perverse and deceitful twist, this modern view audaciously claims credit for every scientific breakthrough, distancing itself from its own bad fruits -- the "revolution" is never the cause of its own genocides and famines -- all of which are the clear and inevitable consequences of this modern view, yet always we blame the former view, a disastrous and malevolent cycle.
+In a perverse and deceitful twist, this modern view audaciously claims credit for every scientific breakthrough, distancing itself from its own bad fruits -- the "revolution" is never the cause of its own genocides and famines -- all of which are the clear and inevitable consequences of this modern view, yet always we blame the former revolution, creating a disastrous and malevolent cycle.
 
 As the honest truth-seeking Christian gives glory and praise to God for all that is good, the modern view gives credit to man and perversely blames God for all that is evil.
-God is love to the Christian, but a tyrant to the modern view.
+God is love to the honest Christian, but a tyrant to the modern view.
 The modern view depicts man as heroically overcoming his creator, making himself into god.
-
 
 
 In the final analysis, we can trace the modern view all the way back
@@ -147,7 +146,7 @@ In the final analysis, we can trace the modern view all the way back
 
 Contrast this with Nietzsche's nihilistic reflections,
 
-> Shall we not ourselves have to become gods merely to seem worthy of it (the death of God)?
+> Shall we not ourselves have to become gods merely to seem worthy of it?
 
 For all his genius,
  Nietzsche's entire philosophical
