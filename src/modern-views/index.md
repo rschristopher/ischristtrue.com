@@ -136,7 +136,7 @@ In a perverse and deceitful twist, this modern view audaciously claims credit fo
 The honest truth-seeking Christian gives glory and praise to God for all that is good, yet the modern view gives credit to man and perversely blames God for all that is evil.
 God is love to the honest Christian, but a tyrant to the modern view.
 The modern view depicts man as heroically overcoming his creator, making himself into god.
-If you want to best understand the modern view, it is an inversion of orthodox Christian at every level.
+If you want to best understand the modern view, it is an inversion of orthodox Christianity at every level.
 
 
 In the final analysis, we can trace this anti-Christian view all the way back
@@ -161,7 +161,7 @@ Zarathustra's superman, der Ubermensch, is nothing but the echo of that snake wh
 
 > *"ye shall be as gods",*
 
-If we had to name the spirit of our times -- our modern view -- it is clearly the spirit of antichrist, a deceitful and malevolent cycle of death attacking the very spirit of truth that overcame death.
+If we had to name the spirit of our times -- our modern view -- it is clearly the spirit of antichrist, a deceitful and malevolent cycle of death, attacking the very spirit of truth that overcame death for our salvation.
 
 
 
