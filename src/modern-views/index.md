@@ -1,15 +1,16 @@
 # Modern Views
 
-What is the modern worldview, the spirit of our times?
+What is the spirit of our times, the so-called modern view?
 
-If you ask around you'll get different answers; some will talk of cultural "progress" and feel good political narratives, others of reactionary views to counter those same feel good narratives. And still others of nihilism and even aching despair, that something is clearly wrong with the modern world. Yet they all speak of the same spirit.
+If you ask around you'll get different answers; some will talk of secularism, humanism, cultural "progress" and feel good political narratives. Others will talk of reactionary views to counter the former. And still others will talk of aching despair, that something is clearly wrong with the modern world. Yet they all speak of the same spirit.
+
 We are at the verge of something new, a coming singularity, and life will never be the same.
 From transhumanism to the sovereign individual thesis, there is a coming revolution, an awakening, an emergence, a new age around the corner. We are nearing a pivotal moment in history -- if not *the* pivotal moment in history.
 We are witnessing the destruction of the old order, which is necessary for the "new" age to come.
 
 This is the modern view.
 
-The irony of course is that this "revolution" is not new. We've been at the dawning of a new age, the destruction of the old order, for quite some time now.
+The irony of course is that this modern "revolution" is not new. We've been at the dawning of a new age, the destruction of the old order, for quite some time now.
 The new age never seems to manifest, and yet it's always promised to be happening soon if not now.
 
 In truth, it is but the failure of every generation, the echoes of man's original sin reverberating through the ages. But let's trace this modern view back, and see if we can find where it started.
