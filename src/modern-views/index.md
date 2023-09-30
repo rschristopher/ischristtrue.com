@@ -97,6 +97,8 @@ Zarathustra says:
 
 And yet these exact ideas go back even further, into the reign of terror of the French Revolution.
 
+> The period before 1789 was called the “Old Regime,” and the period after that is the “Revolutionary Age” which is the same now as it was in the 1790’s.
+
 ...
 
 In fact, you'll find a clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then all the way forward to the present day to our nihilistic meaning crisis.
