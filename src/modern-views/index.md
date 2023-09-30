@@ -2,7 +2,7 @@
 
 What is the spirit of our times, the so-called modern view?
 
-If you ask around you'll get different answers; some will talk of secularism, humanism, cultural "progress" and feel good political narratives. Others will talk of reactionary views to counter the former views. And still others will talk of aching despair, that something is clearly wrong with the modern world. 
+If you ask around you'll get different answers; some will talk of secularism, humanism, cultural "progress" and various feel-good political narratives. Others will talk of reactionary views to counter the former views. And still others will talk of despair, that something is clearly wrong with the modern world. 
 
 Yet they all speak of the same spirit:
 We are at the verge of something new, a coming singularity, and life will never be the same.
