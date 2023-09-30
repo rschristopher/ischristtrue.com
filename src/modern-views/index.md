@@ -115,7 +115,7 @@ The Joachamites imagined that the new age is here, starting with Francis of Assi
 
 ## Was it always like this?
 
-The short answer, no, not at all. In fact, this view was unheard of outside of western Europe and it's unique cultural influence. This was not the view of eastern Europe nor of eastern Christianity. This was not the view of the Byzantine Empire. This was not the view in the Ottoman empire. This was not the view in any of the historic dynasties of China. 
+The short answer, no, not at all. In fact, this view was unheard of outside of western Europe and it's unique cultural influence. This was not the view of eastern Europe nor of eastern Christianity nor any major religion. This was not the view of the Byzantine Empire. This was not the view in the Ottoman empire. This was not the view in any of the historic dynasties of China. 
 This was not the view of any native American culture prior to the arrival of western Europeans.
 None of the 
  [ancient views](../ancient-views/)
@@ -123,7 +123,7 @@ None of the
  continuous revolution and relativism.
 This is a unique worldview born of western Christianity post schism, with notably anti-Christian themes (as it emerged as an antithesis to Christianity). And yet today this view has been exported globally and has become the defacto modern globalist view.
 
-We can find hints of this view sprinkled throughout history. To the degree it emerged in early Christianity it was also condemned and anathematized. It never actualized into a continuous (albeit parasitic) ethos until after the great schism, emerging from the early scholastic movement and into fruition in the enlightenment era.
+We can find hints of this view sprinkled throughout history. To the degree it emerged in early Christianity it was also condemned and anathematized. It only actualized into a continuous (albeit parasitic) ethos after the great schism, emerging from the early scholastic movement and into fruition by the enlightenment era.
 
 
 ## Christian Antithesis 
