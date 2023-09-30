@@ -1,8 +1,8 @@
 # Modern Views
 
-What is the spirit of our times?
+What is the modern view, the spirit of our time -- or rather, *who* is the spirit of our time?
 
-If you ask around you'll get different answers; some will talk of secularism, humanism, cultural "progress" and various political narratives. Others will talk of reactionary views to counter the former views. And still others will talk of despair, that something is clearly wrong with the modern world. 
+If you ask around you'll get different answers; some will talk of secularism, humanism, cultural "progress" and various political narratives. Others will talk of reactionary views to counter the revolutionary views. And still others will talk of despair, that something is clearly wrong with the modern world. 
 
 Yet they all speak of the same spirit:
 that we are at the verge of something new, a coming singularity, and life will never be the same.
