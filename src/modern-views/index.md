@@ -1,8 +1,8 @@
 # Modern Views
 
-What is the spirit of our times, the so-called modern view?
+What is the spirit of our times?
 
-If you ask around you'll get different answers; some will talk of secularism, humanism, cultural "progress" and various feel-good political narratives. Others will talk of reactionary views to counter the former views. And still others will talk of despair, that something is clearly wrong with the modern world. 
+If you ask around you'll get different answers; some will talk of secularism, humanism, cultural "progress" and various political narratives. Others will talk of reactionary views to counter the former views. And still others will talk of despair, that something is clearly wrong with the modern world. 
 
 Yet they all speak of the same spirit:
 We are at the verge of something new, a coming singularity, and life will never be the same.
@@ -14,35 +14,39 @@ This is the modern view.
 The irony of course is that this modern "revolution" is not new. We've been at the dawning of a new age, the destruction of the old order, for quite some time now.
 The new age never seems to fully manifest, and to the degree it does it's quickly the old and all attention switches to the truly "new", the real revolution. It's always promised to be happening soon if not now.
 
-In truth, it is but the failure of every generation, the echoes of man's original sin reverberating through the ages. But let's trace this modern view back, and see if we can find where it started.
+In truth, it is but the failure of every generation, the echoes of man's original sin reverberating through the ages. But let's trace this modern revolutionary view back, and see if we can find where it started.
 
 
 
 
 ## Where did this start?
 
-Modern intellectuals will tell you this view started in the 1960s. When the culture wars kicked off.
+Conventional wisdom will tell you this view started in the 1960s, the counterculture revolution When the culture wars kicked off.
 That's the story we often hear, especially in the United States.
-And there seems to be something to this, as there was a seismic shift in western culture, a rejection of rigid social norms, the start of the civil rights movement, Roe v Wade, Woodstock!
+And there seems to be something to this, as there was a seismic shift in western culture, a rejection of past social norms, the start of the civil rights movement, Roe v Wade, Woodstock!
 Certainly it seems as if the culture prior to the famed hippy generation was distinctly different from everything that came afterwards.
 
 And yet, hindsight being 20-20, the fruits of that generation can be known. There was an Altamont to every Woodstock, reactions to every revolution. The few years of the late 1960s counterculture gave way to the decadence and degeneracy that marked the following decades.
 And despite the abysmal failures on every front, what we can see clearly is that the 1960s were the start of a parasitism in institutions starting with academia and then into political and corporate entities. We now see the normalization of relativism, an assault on truth itself.
 In fact, since the 1960s this parasitism has spread globally, and noticeably accelerated. Every generation now feels they are at the verge of a new revolution, where their struggles will be the ones that mark the coming of something new. 
 
-"Be on the right side of history", they'll tell you, as they imagine they are making the world a better place, right at this pivotal moment in history. And yet the consequences of their actions prove the opposite even by their own naive moral standards.
+"Be on the right side of history", they'll tell you, as they imagine they are making the world a better place, right at this "pivotal" moment in history. And yet the consequences of their actions prove the opposite even by their own naive moral standards.
 This is very much the modern view, and while it has now festered into a global parasitism, we can go even further back to find the root cause.
 
 Let's consider the second world war, with concentration camps and genocide. Without a doubt this completely reshaped the world and was a definitive end of the old world, the beginning of the new.
 Hundreds of millions of dead, more death than the world had ever seen in just a handful of years.
 An atomic bomb, the beginning of a nuclear arms race.
 
-? death of the old order, death of the aristocracy and monarchs.
-
 The entirety of the 1960s counterculture seems rather insignificant compared to the second world war.
 Perhaps this is the better starting point of our modern view, a post war view.
 
-And yet, Hitler did not happen in a vacuum. The bloodshed of the 20th century was clearly the consequence of socialist experiments, from national socialism to communism, as well as reactionary fascism. And thus we can trace the modern view back further; and it is here we find the mad prophet Nietzsche,
+And yet, Hitler did not happen in a vacuum. The bloodshed of the 20th century was clearly the consequence of socialist experiments, from national socialism to communism.
+? death of the old order, death of the aristocracy and monarchs.
+Even at the end of the short-lived Nazi reign, Goebbels himself viewed this in familiar Marxist revolutionary terms,
+
+> Together with the monuments of culture there crumble also the last obstacles to the fulfillment of our revolutionary task. Now that everything is in ruins, we are forced to rebuild Europe. In the past, private possessions tied us to a bourgeous restraint. Now the bombs, instead of killing all Europeans have only smashed the prison walls which kept them captive. In trying to destroy Europe’s future, the enemy has only succeeded in smashing its past; and with that, everything old and outworn has gone.
+
+And thus we can trace the modern view back further; at least to Marxism, and it is here we find the mad prophet Nietzsche,
 
 > It may be that I am the first
 > to light upon an idea which will
