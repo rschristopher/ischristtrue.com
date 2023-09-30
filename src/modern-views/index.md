@@ -21,7 +21,7 @@ In truth, it is but the failure of every generation, the echoes of man's origina
 
 ## Where did this start?
 
-Modern intellectuals will tell you this started in the 1960s. Where the culture wars kicked off.
+Modern intellectuals will tell you this started in the 1960s. When the culture wars kicked off.
 That's the story in the west, especially in the United States.
 And there seems to be something to this, as there was a seismic shift in western culture, a rejection of rigid social norms, the start of the civil rights movement, Roe v Wade, Woodstock!
 Certainly it seems as if the culture prior to the famed hippy generation was distinctly different from everything that came afterwards.
@@ -30,16 +30,16 @@ And yet, hindsight being 20-20, the fruits of that generation can be known. Ther
 And despite the abysmal failures on every front, what we can see clearly is that the 1960s were the start of a parasitism in institutions starting with academia and then into political and corporate entities. We now see the normalization of relativism, an assault on truth itself.
 In fact, since the 1960s this parasitism has spread globally, and noticeably accelerated. Every generation now feels they are at the verge of a new revolution, where their struggles will be the ones that mark the coming of something new. 
 
-"Be on the right side of history", they'll tell you, as they imagine they are making the world a better place. And yet the consequences of their actions prove the opposite even by their own naive moral standards.
-This is very much the modern view, and while it has now festered into a global parasitism, we can go even further back to find the root cause.
+"Be on the right side of history", they'll tell you, as they imagine they are making the world a better place, right at this pivotal moment in history. And yet the consequences of their actions prove the opposite even by their own naive moral standards.
+This is very much the modern view, and while it has now festered into aglobal parasitism, we can go even further back to find the root cause.
 
-Let's consider the second world war, with concentration camps and genocide. Without a doubt this completely reshaped the world and was the definitive end of the old world, the beginning of the new.
+Let's consider the second world war, with concentration camps and genocide. Without a doubt this completely reshaped the world and was a definitive end of the old world, the beginning of the new.
 Hundreds of millions of dead, more death than the world had ever seen in just a handful of years.
 An atomic bomb, the beginning of a nuclear arms race.
 The entirety of the 1960s counterculture seems rather insignificant compared to the second world war.
-Perhaps this is the better starting point of our modern view.
+Perhaps this is the better starting point of our modern view, a post war view.
 
-And yet, Hitler did not happen in a vacuum. The bloodshed of the 20th century was the consequence of the socialist experiments, from national socialism to communism. And thus we can trace the modern view back further; and it is here where the mad prophet Nietzsche is most apt.
+And yet, Hitler did not happen in a vacuum. The bloodshed of the 20th century was clearly the consequence of socialist experiments, from national socialism to communism, as well as reactionary fascism. And thus we can trace the modern view back further; and it is here where the mad prophet Nietzsche is most apt.
 
 > It may be that I am the first
 > to light upon an idea which will
@@ -53,7 +53,6 @@ And yet, Hitler did not happen in a vacuum. The bloodshed of the 20th century wa
 
 You'll be hard pressed to find a better articulation of the modern view than this. And yet Dostoyevsky manages it beautifully, and prior to Nietzsche.
 
-
 > Everything will be new... 
 > then they will divide history
 > into two parts:
@@ -66,11 +65,9 @@ You'll be hard pressed to find a better articulation of the modern view than thi
 ~ Krillov in The Possessed
 by Dostoyevsky
 
+Very clearly, we can trace the origin of the modern view back to the 1800s, to the prescience of Dostoyevsky in the east and Nietzsche in the west.
 
 
-
-
-## Ubermensch 
 
 https://en.m.wikipedia.org/wiki/%C3%9Cbermensch
 
@@ -95,7 +92,7 @@ Zarathustra says:
 
 And yet these exact ideas go back even further, into the reign of terror or the French Revolution.
 
-In fact, you'll find a clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then all the way to the present day to our nihilistic meaning crisis.
+In fact, you'll find a clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then all the way forward to the present day to our nihilistic meaning crisis.
 all marching in lockstep through 
  the Nihilist program.
 
@@ -107,9 +104,20 @@ We can further trace the modern view back
  and even to the
  great schism
  that preceded.
-For at least a thousand years every generation has been trying to destroy the old and usher in a revolution, a final revolution.
+For at least a thousand years every generation has been trying to destroy the old and usher in a revolution, a final revolution. A decided pivot in history.
 
-As the Joachamites imagined that the new age is here, starting with Francis of Assisi, the final age before the end of time.
+The Joachamites imagined that the new age is here, starting with Francis of Assisi, ushering in the new age.
+
+
+
+## Is it always like this?
+
+The short answer, no, not at all. In fact, this view was unheard of outside of western Europe and it's unique cultural influence. This was not the view eastern Europe nor of eastern Christianity. This was and is not the view in China. This was not the view in the Ottoman empire, nor of the Byzantine Empire, nor of any native American culture prior to the arrival of western Europeans.
+
+We can find traces of this view sprinkled throughout history, but it never materialized. To the degree it emerges in early Christianity it was also condemned and anathematized. It never actualized into a continuous (albeit parasitic) ethos until after the great schism, emerging from the scholastic movement.
+
+And in a perverse and deceitful twist, this modern view audaciously claims credit for every scientific breakthrough, distancing itself from its bad fruits -- the "revolution" is never the cause of the genocides, of child sacrifices, of famines -- all of which are the clear and inevitable consequences of this modern view, yet always we blame the former view, a disastrous and malevolent cycle.
+
 
 
 In the final analysis, we can trace the modern view all the way back
