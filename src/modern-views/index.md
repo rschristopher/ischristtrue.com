@@ -5,9 +5,9 @@ What is the spirit of our times?
 If you ask around you'll get different answers; some will talk of secularism, humanism, cultural "progress" and various political narratives. Others will talk of reactionary views to counter the former views. And still others will talk of despair, that something is clearly wrong with the modern world. 
 
 Yet they all speak of the same spirit:
-We are at the verge of something new, a coming singularity, and life will never be the same.
-From transhumanism to the sovereign individual thesis, there is a coming revolution, an awakening, an emergence, a new age. We are nearing a pivotal moment in history -- if not *the* pivotal moment in history, redefining what it even means to have a history.
-We are witnessing the destruction of the old order, which is necessary for the "new" age to come.
+that we are at the verge of something new, a coming singularity, and life will never be the same.
+From transhumanism to the sovereign individual thesis to the age of Aquarius, there is apparently a coming revolution, an awakening, an emergence, a new age. We are nearing a pivotal moment in history -- if not *the* pivotal moment in history, redefining what it even means to have a history.
+We are apparently witnessing the destruction of the old order, which is necessary for the "new" age to come.
 
 This is the modern view.
 
@@ -31,7 +31,7 @@ And despite the abysmal failures on every front, what we can see clearly is that
 In fact, since the 1960s this parasitism has spread globally, and noticeably accelerated. Every generation now feels they are at the verge of a new revolution, where their struggles will be the ones that mark the coming of something new. 
 
 "Be on the right side of history", they'll tell you, as they imagine they are making the world a better place, right at this "pivotal" moment in history. And yet the consequences of their actions prove the opposite even by their own naive moral standards.
-This is very much the modern view, and while it has now festered into a global parasitism, we can go even further back to find the root cause.
+This is the spirit of our time, and while it has now festered into a global parasitism, we can go even further back to find where it began.
 
 Let's consider the second world war, with concentration camps and genocide. Without a doubt this completely reshaped the world and was a definitive end of the old world, the beginning of the new.
 Hundreds of millions of dead, more death than the world had ever seen in just a handful of years.
@@ -46,7 +46,7 @@ Even at the end of the short-lived Nazi reign, Goebbels himself viewed this in f
 
 > Together with the monuments of culture there crumble also the last obstacles to the fulfillment of our revolutionary task. Now that everything is in ruins, we are forced to rebuild Europe. In the past, private possessions tied us to a bourgeous restraint. Now the bombs, instead of killing all Europeans have only smashed the prison walls which kept them captive. In trying to destroy Europe’s future, the enemy has only succeeded in smashing its past; and with that, everything old and outworn has gone.
 
-And thus we can trace the modern view back further; at least to Marxism, and it is here we find the mad prophet Nietzsche,
+And thus we can trace the modern view back further; to Marx in the 1800s, and it is here we find the mad prophet Nietzsche,
 
 > It may be that I am the first
 > to light upon an idea which will
@@ -108,9 +108,8 @@ We can further trace the modern view back
  to the Copernican revolution,
  and further 
  to the age of scholasticism,
- and even to the
- great schism
- that preceded.
+ all the way to the
+ great schism.
 Century after century, each generation has been trying to destroy the old and usher in a revolution, a final revolution. A decided pivot in history.
 
 The Joachamites imagined that the new age is here, starting with Francis of Assisi, ushering in the modern age.
@@ -127,19 +126,20 @@ None of the
  continuous revolution and relativism.
 This is a unique worldview born of western Christianity post schism, with notably anti-Christian themes (as it emerged as an antithesis to Christianity). And yet today this view has been exported globally and has become the defacto modern globalist view.
 
-We can find hints of this view sprinkled throughout history. To the degree it emerged in early Christianity it was also condemned and anathematized. It only actualized into a continuous (albeit parasitic) ethos after the great schism, emerging from the early scholastic movement and into fruition by the enlightenment era.
+We can find hints of this view sprinkled throughout history. To the degree it emerged in early Christianity it was also condemned and anathematized. It only actualized into a continuous (albeit parasitic) ethos after the great schism, emerging from the early scholastic movement and coming into fruition by the enlightenment era.
 
 
 ## Christian Antithesis 
 
-In a perverse and deceitful twist, this modern view audaciously claims credit for every scientific breakthrough, distancing itself from its own bad fruits -- the "revolution" is never the cause of its own genocides and famines -- all of which are the clear and inevitable consequences of this modern view, yet always we blame the former revolution, creating a disastrous and malevolent cycle.
+In a perverse and deceitful twist, this modern view audaciously claims credit for every scientific breakthrough, distancing itself from its own bad fruits -- the "revolution" is never the accountable for its own genocides and famines -- all of which are the clear and inevitable consequences of this modern "revolutionary" view, as always we blame the former revolution, creating a disastrous and malevolent cycle.
 
-As the honest truth-seeking Christian gives glory and praise to God for all that is good, the modern view gives credit to man and perversely blames God for all that is evil.
+The honest truth-seeking Christian gives glory and praise to God for all that is good, yet the modern view gives credit to man and perversely blames God for all that is evil.
 God is love to the honest Christian, but a tyrant to the modern view.
 The modern view depicts man as heroically overcoming his creator, making himself into god.
+If you want to best understand the modern view, it is an inversion of orthodox Christian at every level.
 
 
-In the final analysis, we can trace the modern view all the way back
+In the final analysis, we can trace this anti-Christian view all the way back
  to that serpent in the garden:
  
 > And the serpent said unto the woman, Ye shall not surely die:
@@ -161,7 +161,7 @@ Zarathustra's superman, der Ubermensch, is nothing but the echo of that snake wh
 
 > *"ye shall be as gods",*
 
-If we had to name the spirit of our times, our modern view, it is clearly the spirit of antichrist, a deceitful and malevolent cycle of death attacking the very spirit of truth that overcame death.
+If we had to name the spirit of our times -- our modern view -- it is clearly the spirit of antichrist, a deceitful and malevolent cycle of death attacking the very spirit of truth that overcame death.
 
 
 
