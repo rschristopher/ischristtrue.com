@@ -90,7 +90,7 @@ Zarathustra says:
 ... and Hitler believed himself to be so.
 
 
-And yet these exact ideas go back even further, into the reign of terror or the French Revolution.
+And yet these exact ideas go back even further, into the reign of terror of the French Revolution.
 
 In fact, you'll find a clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then all the way forward to the present day to our nihilistic meaning crisis.
 all marching in lockstep through 
@@ -106,17 +106,25 @@ We can further trace the modern view back
  that preceded.
 For at least a thousand years every generation has been trying to destroy the old and usher in a revolution, a final revolution. A decided pivot in history.
 
-The Joachamites imagined that the new age is here, starting with Francis of Assisi, ushering in the new age.
+The Joachamites imagined that the new age is here, starting with Francis of Assisi, ushering in the modern age.
 
 
 
 ## Is it always like this?
 
-The short answer, no, not at all. In fact, this view was unheard of outside of western Europe and it's unique cultural influence. This was not the view eastern Europe nor of eastern Christianity. This was and is not the view in China. This was not the view in the Ottoman empire, nor of the Byzantine Empire, nor of any native American culture prior to the arrival of western Europeans.
+The short answer, no, not at all. In fact, this view was unheard of outside of western Europe and it's unique cultural influence. This was not the view of eastern Europe nor of eastern Christianity. This was and is not the view in China. This was not the view in the Ottoman empire, nor of the Byzantine Empire, nor of any native American culture prior to the arrival of western Europeans.
+This is a unique worldview born of western Christianity post schism, with notably anti-Christian roots.
 
-We can find traces of this view sprinkled throughout history, but it never materialized. To the degree it emerges in early Christianity it was also condemned and anathematized. It never actualized into a continuous (albeit parasitic) ethos until after the great schism, emerging from the scholastic movement.
+We can find hints of this view sprinkled throughout history, but it never materialized. To the degree it emerges in early Christianity it was also condemned and anathematized. It never actualized into a continuous (albeit parasitic) ethos until after the great schism, emerging from the early scholastic movement.
 
-And in a perverse and deceitful twist, this modern view audaciously claims credit for every scientific breakthrough, distancing itself from its bad fruits -- the "revolution" is never the cause of the genocides, of child sacrifices, of famines -- all of which are the clear and inevitable consequences of this modern view, yet always we blame the former view, a disastrous and malevolent cycle.
+
+## anti-Christian 
+
+In a perverse and deceitful twist, this modern view audaciously claims credit for every scientific breakthrough, distancing itself from its iwn bad fruits -- the "revolution" is never the cause of its own genocides, of child sacrifices, of famines -- all of which are the clear and inevitable consequences of this modern view, yet always we blame the former view, a disastrous and malevolent cycle.
+
+As the honest truth-seeking Christian gives glory and praise to God for all that is good, the modern view gives credit to man and perversely blames God for all that is evil.
+God is love to the Christian, but a tyrant to the modern view.
+The modern depicts man as heroically overcoming his creator, making himself into god.
 
 
 
@@ -129,19 +137,23 @@ In the final analysis, we can trace the modern view all the way back
 
 ~ Genesis 3:4,5
 
+Contrast this with Nietzsche's nihilistic reflections,
+
+> Shall we not ourselves have to become gods merely to seem worthy of it (the death of God)?
+
 For all his genius,
  Nietzsche's entire philosophical
  journey takes us
  back to that same serpent 
  in the garden.
-Zaratustra's superman, der Ubermensch, is nothing but the echo of that snake whispering to Eve,
+Zarathustra's superman, der Ubermensch, is nothing but the echo of that snake whispering to Eve,
 
 > *"ye shall be as gods",*
 
+If we had to name the spirit of our times, our modern view, it is clearly the spirit of antichrist, a deceitful and malevolent cycle of death attacking the very spirit of truth that overcame death.
 
 
 
- 
 
 
 
