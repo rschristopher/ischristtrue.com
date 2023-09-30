@@ -12,7 +12,7 @@ We are witnessing the destruction of the old order, which is necessary for the "
 This is the modern view.
 
 The irony of course is that this modern "revolution" is not new. We've been at the dawning of a new age, the destruction of the old order, for quite some time now.
-The new age never seems to manifest, and yet it's always promised to be happening soon if not now.
+The new age never seems to manifest, or if it does it's quickly the old and all attention switches to the truly "new" the real revolution. It's always promised to be happening soon if not now.
 
 In truth, it is but the failure of every generation, the echoes of man's original sin reverberating through the ages. But let's trace this modern view back, and see if we can find where it started.
 
