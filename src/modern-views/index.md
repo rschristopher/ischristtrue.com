@@ -21,7 +21,7 @@ In truth, it is but the failure of every generation, the echoes of man's origina
 
 ## Where did this start?
 
-Conventional wisdom will tell you this view started in the 1960s, the counterculture revolution When the culture wars kicked off.
+Conventional wisdom will tell you this view started in the 1960s, the counterculture revolution, the start of the culture war.
 That's the story we often hear, especially in the United States.
 And there seems to be something to this, as there was a seismic shift in western culture, a rejection of past social norms, the start of the civil rights movement, Roe v Wade, Woodstock!
 Certainly it seems as if the culture prior to the famed hippy generation was distinctly different from everything that came afterwards.
