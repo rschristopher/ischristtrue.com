@@ -73,7 +73,8 @@ You'll be hard pressed to find a better articulation of the modern view than thi
 
 Very clearly, we can trace the origin of the modern view back to the 1800s, to the prescience of Dostoyevsky in the east and Nietzsche in the west.
 
-
+In Will to Power, Nietzsche writes,
+> What I am describing here is the history of the twentieth century, the triumph of Nihilism, because when the masses get the ideas which I am now proclaiming, there will be a revolution such as the world has never seen.
 
 
 
