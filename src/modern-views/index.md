@@ -131,7 +131,7 @@ We can find hints of this view sprinkled throughout history. To the degree it em
 
 ## Christian Antithesis 
 
-In a perverse and deceitful twist, this modern view audaciously claims credit for every scientific breakthrough, distancing itself from its own bad fruits -- the "revolution" is never the accountable for its own genocides and famines -- all of which are the clear and inevitable consequences of this modern "revolutionary" view, as always we blame the former revolution, creating a disastrous and malevolent cycle.
+In a perverse and deceitful twist, this modern view audaciously claims credit for every scientific breakthrough, distancing itself from its own bad fruits -- the "revolution" is never accountable for its own genocides and famines -- all of which are the clear and inevitable consequences of this modern "revolutionary" view. Always we blame the former revolution, creating a disastrous and malevolent cycle.
 
 The honest truth-seeking Christian gives glory and praise to God for all that is good, yet the modern view gives credit to man and perversely blames God for all that is evil.
 God is love to the honest Christian, but a tyrant to the modern view.
