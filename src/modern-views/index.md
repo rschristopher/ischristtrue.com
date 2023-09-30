@@ -40,7 +40,7 @@ An atomic bomb, the beginning of a nuclear arms race.
 The entirety of the 1960s counterculture seems rather insignificant compared to the second world war.
 Perhaps this is the better starting point of our modern view, a post war view.
 
-And yet, Hitler did not happen in a vacuum. The bloodshed of the 20th century was clearly the consequence of socialist experiments, from national socialism to communism.
+And yet, Stalin and Hitler did not happen in a vacuum. The bloodshed of the 20th century was clearly the consequence of socialist experiments, from national socialism to communism.
 ? death of the old order, death of the aristocracy and monarchs.
 Even at the end of the short-lived Nazi reign, Goebbels himself viewed this in familiar Marxist revolutionary terms,
 
