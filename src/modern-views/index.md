@@ -46,7 +46,7 @@ The entirety of the 1960s counterculture seems rather insignificant compared to 
 Perhaps this is the better starting point of our modern view, a post war view.
 
 And yet, Stalin and Hitler did not happen in a vacuum. The bloodshed of the 20th century was clearly the consequence of socialist revolutions, from national socialism to communism.
-Marxism precisely articulates this destructive revolutionary view, albeit in socio-economic terms.
+Marxism precisely articulates the destructive revolutionary view, albeit in socio-economic terms.
 Even at the end of the short-lived Nazi regime, Goebbels himself viewed this in familiar Marxist terms, a destructive revolution,
 
 > Together with the monuments of culture there crumble also the last obstacles to the fulfillment of our revolutionary task. Now that everything is in ruins, we are forced to rebuild Europe. In the past, private possessions tied us to a bourgeous restraint. Now the bombs, instead of killing all Europeans have only smashed the prison walls which kept them captive. In trying to destroy Europe’s future, the enemy has only succeeded in smashing its past; and with that, everything old and outworn has gone.
@@ -93,7 +93,7 @@ Hitler believed himself to be so, that he was aiming his people towards Nietzsch
 And as Kirillov in The Possessed says: 
 > If there is no God, then I am God.
 
-Dostoyevsky, with an insight from his eastern Christian view) distinguishes between the God-man Jesus Christ and the man-god, the new being who is coming up from the earth to become god.
+Dostoyevsky, with a profound insight from his eastern Christian view, distinguishes between the God-man Jesus Christ and the man-god, the new being who is coming up from the earth to become god.
 
 And even earlier than Nietzsche and Dostoyevsky, we find other prophetic voices such as Heinrich Heine. In *Religion and Philosophy in Germany* (1834) he writes,
 
@@ -109,7 +109,7 @@ Clearly the modern view traces back even further, into the reign of terror of th
 As Fr. Seraphim Rose writes,
 > The period before 1789 was called the “Old Regime,” and the period after that is the “Revolutionary Age” which is the same now as it was in the 1790’s.
 
-There is clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then all the way forward to the present day to our nihilistic meaning crisis. Always there is a destructive revolution in each generation.
+There is clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then forward to the present day, to our nihilistic meaning crisis. Always there is a destructive revolution in each generation.
 
 Was the "Old Regime" prior to 1789 free of destructive revolutionary views?
 Turns out no.
@@ -125,7 +125,7 @@ We can further trace the modern view back
  which divided Christianity east and west.
 Century after century in the west, each generation has been trying to destroy the old and usher in a revolution, a final revolution -- a decided pivot in history.
 
-We see this destructive revolutionary view in western Christianity through eschatological millennial views that grew especially popular in the early scholastic era.
+We see this destructive revolutionary view in the early scholastic period, articulated through eschatological millennialism that grew especially popular in the early scholastic era.
 
 https://theanarchistlibrary.org/library/norman-cohn-the-pursuit-of-the-millennium
 
@@ -133,22 +133,23 @@ For example the
 [Joachimites](https://en.m.wikipedia.org/wiki/Joachimites)
 in the 13th century imagined three ages, and that they were entering the 3rd and final age.
 
-As Fr. Seraphim Rose notes,
+... these views were (perhaps unconsciously) reflected in Nazism, the 3rd Reich that will rule for a thousand years.
 
+As Fr. Seraphim Rose notes,
 > revolutionary conclusions were drawn later by men of the thirteenth and fourteenth centuries, by the Franciscan Spirituals, who recognized in Joachim the new John the Baptist, heralding St. Francis at the novus dux of the last dispensation, even as the "new Christ".
 
 Any such view of a "new Christ" was anathema to orthodox Christianity, yet this corruption in the west was one of many that led inevitably to the
 Protestant Reformation,
-itself another outburst of destructive revolutionary views.
+itself another outburst of the destructive revolutionary spirit.
 
-Our conventional wisdom tells us that protestantism was merely a consequence of the printing press -- which would be true if not for the glaring counterexample of eastern Christianity not having an equivalent protestant reformation despite the prevalence of a printing presses.
+Our conventional wisdom tells us that protestantism was merely a consequence of the printing press -- which would be true if not for the glaring counterexample of eastern Christianity not having an equivalent protestant reformation despite the prevalence of printing presses.
 
 
 
 
 ## Was it always like this?
 
-The short answer: no, not at all. A continuous destructive revolution was unheard of outside of western Europe and it's cultural influence. This was not the view of eastern Europe nor of eastern Christianity nor any major religion. This was not the view of the Byzantine Empire. This was not the view in the Ottoman empire. This was not the view in any of the historic dynasties of China. 
+The short answer: no, not at all. A continuous destructive revolution was unheard of outside of western Europe and it's cultural influence. This was not the view of eastern Europe nor of eastern Christianity nor of any major religion. This was not the view of the Byzantine Empire. This was not the view in the Ottoman empire. This was not the view in any of the historic dynasties of China. 
 This was not the view of any native American culture prior to the arrival of western Europeans.
 None of the 
  [ancient views](../ancient-views/)
@@ -156,7 +157,7 @@ None of the
  continuous revolution and relativism.
 This is a unique worldview born of western Christianity post schism, with notably anti-Christian themes (as it emerged as an antithesis to Christianity). And yet today this view has been exported globally and has become the defacto modern globalist view.
 
-We can find only hints of this view sprinkled throughout history. But to the degree it emerged in early Christianity it was also condemned and anathematized. It only actualized into a continuous (albeit parasitic) ethos after the great schism, emerging from the early scholastic movement and coming into fruition by the enlightenment era and into our present day.
+Outside of the western European cultural sphere, we can find only hints of this view sprinkled throughout history. But to the degree it emerged in early Christianity it was also condemned and anathematized. It only actualized into a continuous (albeit parasitic) ethos after the great schism, emerging from the early scholastic movement and coming into fruition by the enlightenment era and into our present day.
 
 
 
@@ -164,7 +165,7 @@ We can find only hints of this view sprinkled throughout history. But to the deg
 
 ## Christian Antithesis 
 
-In a perverse and deceitful twist, the modern view audaciously claims credit for every scientific breakthrough, distancing itself from its own bad fruits -- The destructive revolutions never seem accountable for their own genocides and famines -- all of which are the clear and inevitable consequences of this modern "revolutionary" view. Always we blame the former revolution,  because it is the old that must be destroyed, creating a disastrous and malevolent cycle.
+In a perverse and deceitful twist, the modern view audaciously claims credit for every scientific breakthrough, distancing itself from its own bad fruits -- the destructive revolutions never seem accountable for their own genocides and famines -- all of which are the clear and inevitable consequences of this modern "revolutionary" view. Always we blame the former revolution, because it is the old that must be destroyed, creating a disastrous and malevolent cycle.
 
 The honest truth-seeking Christian gives glory and praise to God for all that is good, yet the spirit of the times gives credit to man and perversely blames God for evil done by man.
 God is love to the honest Christian, but a tyrant to the modern view.
