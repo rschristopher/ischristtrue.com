@@ -106,14 +106,21 @@ In fact, you'll find a clear lineage from the time of Robespierre and the atroci
 
 We can further trace the modern view back
  before the enlightenment,
- to the Copernican revolution,
- and further 
- to the age of scholasticism,
+ tracing through the 
+ [Copernican revolution](https://en.m.wikipedia.org/wiki/Copernican_Revolution)
+ and further back into
+ the age of 
+ [scholasticism](https://en.m.wikipedia.org/wiki/Scholasticism),
  all the way to the
- great schism.
+ [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism).
 Century after century, each generation has been trying to destroy the old and usher in a revolution, a final revolution -- a decided pivot in history.
 
-The Joachamites imagined that the new age is here, starting with Francis of Assisi, ushering in the modern age.
+For example the 
+[Joachimites](https://en.m.wikipedia.org/wiki/Joachimites)
+in the 13th century imagined three ages, and that they were entering the 3rd and final age.
+
+> revolutionary conclusions were drawn later by men of the thirteenth and fourteenth centuries, by the Franciscan Spirituals, who recognized in Joachim the new John the Baptist, heralding St. Francis at the novus dux of the last dispensation, even as the >new Christ.’
+
 
 
 
