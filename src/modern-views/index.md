@@ -26,14 +26,14 @@ That's the story we often hear, especially in the United States.
 And there seems to be something to this, as there was a seismic shift in western culture, a rejection of past social norms, the start of the civil rights movement, Roe v Wade, Woodstock --
 certainly it seems as if the culture prior to the famed hippy generation was distinctly different from everything that came afterwards.
 
-And yet, hindsight being 20/20, the fruits of that generation can be known. There was an Altamont to every Woodstock, reactions to every revolution. The late 1960s counterculture gave way to the decadence and degeneracy that marked the following decades.
-And despite the abysmal failures on every front, what we can see clearly is that the 1960s were the start of a parasitism in institutions starting with academia and then into political and corporate entities, degrading and weakening families and undermining the foundations of civilization. We now see the normalization of relativism, an assault on truth itself.
+And yet, hindsight being 20/20, the fruits of that generation are known. There was an Altamont to every Woodstock, reactions to every revolution. The 1960s counterculture gave way to the decadence and degeneracy that marked the following decades.
+And despite the abysmal failures, what we can see clearly is that the 1960s were the start of a parasitism in institutions starting with academia and then into political and corporate entities, degrading and weakening families and undermining the foundations of civilization. We now see the normalization of relativism, an assault on truth itself.
 In fact, since the 1960s this parasitism has spread globally, and has noticeably accelerated. Every generation now feels they are at the verge of a new revolution, where their struggles will be the ones that mark the coming of something new. 
 
-"Be on the right side of history", we'll tell ourselves. We imagine we are making the world a better place, and at this "pivotal" moment in history.
-Whether it's a climate catastrophe, a population bomb, nuclear war -- it is always an existential crisis and the old world must die no matter the cost.
+"Be on the right side of history", we tell ourselves. We imagine we are making the world a better place. And that this is a "pivotal" moment in history.
+Whether it's a climate catastrophe, a population bomb, or fear of a nuclear war -- it is always an existential crisis and the old world must die no matter the cost.
 And yet the consequences of our actions prove the opposite effect by our own naive moral standards.
-This is the spirit of our time, and while it has now festered into global parasitism, we can go urther back if we want to find where this began.
+This is the spirit of our time, and it has now festered into global parasitism. And yet we can go further back in order to find where this began.
 
 Let's consider the second world war;  concentration camps and genocide. Without a doubt this completely reshaped the world and was a definitive end of the old world, the beginning of the new.
 The twentieth century witnessed 
@@ -44,8 +44,8 @@ The entirety of the 1960s counterculture seems rather insignificant compared to 
 Perhaps this is the better starting point of our modern view, a post war view.
 
 And yet, Stalin and Hitler did not happen in a vacuum. The bloodshed of the 20th century was clearly the consequence of socialist revolutions, from national socialism to communism.
-Marxism precisely articulates this destructive revolution, albeit in socio-economic terms.
-Even at the end of the short-lived Nazi regime, Goebbels himself viewed this in familiar Marxist revolutionary terms,
+Marxism precisely articulates this destructive revolutionary view, albeit in socio-economic terms.
+Even at the end of the short-lived Nazi regime, Goebbels himself viewed this in familiar Marxist terms, a destructive revolution,
 
 > Together with the monuments of culture there crumble also the last obstacles to the fulfillment of our revolutionary task. Now that everything is in ruins, we are forced to rebuild Europe. In the past, private possessions tied us to a bourgeous restraint. Now the bombs, instead of killing all Europeans have only smashed the prison walls which kept them captive. In trying to destroy Europe’s future, the enemy has only succeeded in smashing its past; and with that, everything old and outworn has gone.
 
@@ -73,7 +73,7 @@ In *The Possessed* by Dostoyevsky, the character Krillov says,
 >  to the transformation of the earth,
 >  and of man physically.
 
-Very clearly, we can trace the origin of the modern view back to the 1800s, to the prescience of Dostoyevsky in the east and Nietzsche in the west.
+Very clearly, we can trace the origin of the modern view back to the late 1800s, to the prescience of Dostoyevsky in the east and Nietzsche in the west.
 
 In a frightfully prophetic view, Nietzsche (in Will to Power) writes,
 
@@ -102,14 +102,14 @@ And even earlier than Nietzsche and Dostoyevsky, we find other prophetic voices 
 > And the hour will come. As on the steps of an amphitheatre, the nations will group themselves around Germany to witness the terrible combat.
 
 
-Clearly the modern view traces back even further, into the reign of terror of the French Revolution. One cannot talk of destructive revolution without tracing it back to the French Revolution. As Fr. Seraphim Rose writes,
+Clearly the modern view traces back even further, into the reign of terror of the French Revolution. In fact, one cannot talk of destructive revolution without the French Revolution. As Fr. Seraphim Rose writes,
 
 > The period before 1789 was called the “Old Regime,” and the period after that is the “Revolutionary Age” which is the same now as it was in the 1790’s.
 
-In fact, you'll find a clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then all the way forward to the present day to our nihilistic meaning crisis.
+You'll find a clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then all the way forward to the present day to our nihilistic meaning crisis. Always there is a destructive revolution.
 
-...
-
+Was the "Old Regime" prior to 1789 free of destructive revolutionary views?
+Turns out no.
 We can further trace the modern view back
  before the enlightenment,
  tracing through the 
@@ -119,7 +119,7 @@ We can further trace the modern view back
  [scholasticism](https://en.m.wikipedia.org/wiki/Scholasticism),
  all the way to the
  [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism).
-Century after century, each generation has been trying to destroy the old and usher in a revolution, a final revolution -- a decided pivot in history.
+Century after century in the west, each generation has been trying to destroy the old and usher in a revolution, a final revolution -- a decided pivot in history.
 
 https://theanarchistlibrary.org/library/norman-cohn-the-pursuit-of-the-millennium
 
@@ -144,7 +144,7 @@ None of the
  continuous revolution and relativism.
 This is a unique worldview born of western Christianity post schism, with notably anti-Christian themes (as it emerged as an antithesis to Christianity). And yet today this view has been exported globally and has become the defacto modern globalist view.
 
-We can find hints of this view sprinkled throughout history. But to the degree it emerged in early Christianity it was also condemned and anathematized. It only actualized into a continuous (albeit parasitic) ethos after the great schism, emerging from the early scholastic movement and coming into fruition by the enlightenment era and into our present day.
+We can find only hints of this view sprinkled throughout history. But to the degree it emerged in early Christianity it was also condemned and anathematized. It only actualized into a continuous (albeit parasitic) ethos after the great schism, emerging from the early scholastic movement and coming into fruition by the enlightenment era and into our present day.
 
 
 
@@ -183,7 +183,7 @@ Zarathustra's superman, [der Ubermensch](https://en.m.wikipedia.org/wiki/%C3%9Cb
 
 > *"ye shall be as gods",*
 
-If we had to name the spirit of our times -- our modern view -- it is clearly the spirit of antichrist, a deceitful and malevolent cycle of death, attacking the very spirit of truth that overcame death for our salvation.
+If we had to name the spirit of our times -- our modern view -- it is clearly the spirit of ***antichrist***, a deceitful and malevolent cycle of death, attacking Christ, the spirit of truth that overcame death for our salvation.
 
 
 
