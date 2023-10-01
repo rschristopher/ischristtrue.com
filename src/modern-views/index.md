@@ -154,7 +154,7 @@ We can find only hints of this view sprinkled throughout history. But to the deg
 
 In a perverse and deceitful twist, the modern view audaciously claims credit for every scientific breakthrough, distancing itself from its own bad fruits -- a destructive revolution is never accountable for its own genocides and famines -- all of which are the clear and inevitable consequences of this modern "revolutionary" view. Always we blame the former revolution,  because it is the old that must be destroyed, creating a disastrous and malevolent cycle.
 
-The honest truth-seeking Christian gives glory and praise to God for all that is good, yet the spirit of the times gives credit to man and perversely blames God for all that is evil.
+The honest truth-seeking Christian gives glory and praise to God for all that is good, yet the spirit of the times gives credit to man and perversely blames God for the evil done by man.
 God is love to the honest Christian, but a tyrant to the modern view.
 The modern view depicts man as heroically overcoming his creator, making himself into god.
 If you want to best understand the modern view, it is an inversion of orthodox Christianity at every level.
