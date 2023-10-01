@@ -161,13 +161,11 @@ If you want to best understand the modern view, it is an inversion of orthodox C
 
 
 In the final analysis, we can trace this anti-Christian view all the way back
- to the serpent in the garden:
+ to the serpent in the garden, to Genesis 3:4-5,
  
 > And the serpent said unto the woman, Ye shall not surely die:
 
 > For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
-
-~ Genesis 3:4,5
 
 Contrast this with Nietzsche's nihilistic reflections,
 
@@ -179,7 +177,6 @@ For all his genius,
  back to that same serpent 
  in the garden.
 Zarathustra's superman, [der Ubermensch](https://en.m.wikipedia.org/wiki/%C3%9Cbermensch), is nothing but the echo of that snake whispering to Eve,
-
 
 > *"ye shall be as gods",*
 
