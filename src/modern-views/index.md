@@ -117,6 +117,8 @@ We can further trace the modern view back
  [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism).
 Century after century, each generation has been trying to destroy the old and usher in a revolution, a final revolution -- a decided pivot in history.
 
+https://theanarchistlibrary.org/library/norman-cohn-the-pursuit-of-the-millennium
+
 For example the 
 [Joachimites](https://en.m.wikipedia.org/wiki/Joachimites)
 in the 13th century imagined three ages, and that they were entering the 3rd and final age.
