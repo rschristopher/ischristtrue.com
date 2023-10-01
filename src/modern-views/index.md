@@ -33,7 +33,7 @@ In fact, since the 1960s this parasitism has spread globally, and noticeably acc
 "Be on the right side of history", they'll tell you, as they imagine they are making the world a better place at this "pivotal" moment in history.
 Whether it's a climate catastrophe, a population bomb, nuclear war -- it is an existential crisis and the old world must die no matter the cost.
 And yet the consequences of their actions prove the opposite even by their own naive moral standards.
-This is the spirit of our time, and while it has now festered into a global parasitism, we can go even further back if we want to find where it began.
+This is the spirit of our time, and while it has now festered into a global parasitism, we can go urther back if we want to find where it began.
 
 Let's consider the second world war, with concentration camps and genocide. Without a doubt this completely reshaped the world and was a definitive end of the old world, the beginning of the new.
 Hundreds of millions of dead, more death than the world had ever seen in just a handful of years.
@@ -43,11 +43,13 @@ The entirety of the 1960s counterculture seems rather insignificant compared to 
 Perhaps this is the better starting point of our modern view, a post war view.
 
 And yet, Stalin and Hitler did not happen in a vacuum. The bloodshed of the 20th century was clearly the consequence of socialist experiments, from national socialism to communism.
+Marxism clearly articulates this destructive revolution, albeit in socio-economic terms.
 Even at the end of the short-lived Nazi regime, Goebbels himself viewed this in familiar Marxist revolutionary terms,
 
 > Together with the monuments of culture there crumble also the last obstacles to the fulfillment of our revolutionary task. Now that everything is in ruins, we are forced to rebuild Europe. In the past, private possessions tied us to a bourgeous restraint. Now the bombs, instead of killing all Europeans have only smashed the prison walls which kept them captive. In trying to destroy Europe’s future, the enemy has only succeeded in smashing its past; and with that, everything old and outworn has gone.
 
-And thus we can trace the modern view back further; to Marx in the 1800s, and it is here we find the mad prophet Nietzsche,
+Marxism is but one of the many outbursts of the modern view, the spirit of our time.
+And we can trace this back further; into the soil from which the socialist experiments grew; and it is here we find the mad prophet Nietzsche,
 
 > It may be that I am the first
 > to light upon an idea which will
@@ -73,7 +75,7 @@ You'll be hard pressed to find a better articulation of the modern view than thi
 
 Very clearly, we can trace the origin of the modern view back to the 1800s, to the prescience of Dostoyevsky in the east and Nietzsche in the west.
 
-In Will to Power, Nietzsche writes,
+In a frightfully prophetic view, Nietzsche (in Will to Power) writes,
 > What I am describing here is the history of the twentieth century, the triumph of Nihilism, because when the masses get the ideas which I am now proclaiming, there will be a revolution such as the world has never seen.
 
 
@@ -119,7 +121,7 @@ For example the
 [Joachimites](https://en.m.wikipedia.org/wiki/Joachimites)
 in the 13th century imagined three ages, and that they were entering the 3rd and final age.
 
-> revolutionary conclusions were drawn later by men of the thirteenth and fourteenth centuries, by the Franciscan Spirituals, who recognized in Joachim the new John the Baptist, heralding St. Francis at the novus dux of the last dispensation, even as the >new Christ.’
+> revolutionary conclusions were drawn later by men of the thirteenth and fourteenth centuries, by the Franciscan Spirituals, who recognized in Joachim the new John the Baptist, heralding St. Francis at the novus dux of the last dispensation, even as the "new Christ".
 
 
 
