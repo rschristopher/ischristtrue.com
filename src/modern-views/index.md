@@ -88,7 +88,7 @@ And in *Thus Spake Zarathustra*,
 
 ... and Hitler believed himself to be so.
 
-And Kirillov in The Possessed says: 
+And as Kirillov in The Possessed says: 
 > If there is no God, then I am God.
 
 Dostoyevsky distinguishes between the God-man Jesus Christ and the man-god, the new being who is coming up from the earth to become god.
