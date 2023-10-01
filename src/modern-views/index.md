@@ -32,8 +32,10 @@ In fact, since the 1960s this parasitism has spread globally, and has noticeably
 
 "Be on the right side of history", we tell ourselves. We imagine we are making the world a better place. And that this is a "pivotal" moment in history.
 Whether it's a climate catastrophe, a population bomb, or fear of a nuclear war -- it is always an existential crisis and the old world must die no matter the cost.
-And yet the consequences of our actions prove the opposite effect by our own naive moral standards.
-This is the spirit of our time, and it has now festered into global parasitism. And yet we can go further back in order to find where this began.
+And yet the consequences of our actions prove the opposite effect even by our own naive moral standards.
+This is the spirit of our time, and it has now festered into global parasitism. 
+
+We can go further back in order to find where this began.
 
 Let's consider the second world war;  concentration camps and genocide. Without a doubt this completely reshaped the world and was a definitive end of the old world, the beginning of the new.
 The twentieth century witnessed 
@@ -86,12 +88,12 @@ And in *The Gay Science* he writes,
 And in *Thus Spake Zarathustra*,
 > I bring you a goal; I preach to you the Superman. Man is something to be overcome. What have you done to overcome him? All things before you have produced something beyond themselves, and would you be the ebb of this great flood? Would you rather go back to the animal than transcend man? What is  the ape to man? A jest or a bitter shame. And just that shall man be to the Superman, a jest or a bitter shame. You have traveled the way from worm to man, and much in you is still worm.... Lo, I preach to you the Superman. The Superman is the meaning of the earth.
 
-... and Hitler believed himself to be so.
+Hitler believed himself to be so, that he was aiming his people towards Nietzsche's superman (ubermensch).
 
 And as Kirillov in The Possessed says: 
 > If there is no God, then I am God.
 
-Dostoyevsky distinguishes between the God-man Jesus Christ and the man-god, the new being who is coming up from the earth to become god.
+Dostoyevsky, with an insight from his eastern Christian view) distinguishes between the God-man Jesus Christ and the man-god, the new being who is coming up from the earth to become god.
 
 And even earlier than Nietzsche and Dostoyevsky, we find other prophetic voices such as Heinrich Heine. In *Religion and Philosophy in Germany* (1834) he writes,
 
@@ -102,11 +104,12 @@ And even earlier than Nietzsche and Dostoyevsky, we find other prophetic voices 
 > And the hour will come. As on the steps of an amphitheatre, the nations will group themselves around Germany to witness the terrible combat.
 
 
-Clearly the modern view traces back even further, into the reign of terror of the French Revolution. In fact, one cannot talk of destructive revolution without the French Revolution. As Fr. Seraphim Rose writes,
+Clearly the modern view traces back even further, into the reign of terror of the French Revolution. In fact, one cannot talk of destructive revolution without the French Revolution. 
 
+As Fr. Seraphim Rose writes,
 > The period before 1789 was called the “Old Regime,” and the period after that is the “Revolutionary Age” which is the same now as it was in the 1790’s.
 
-You'll find a clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then all the way forward to the present day to our nihilistic meaning crisis. Always there is a destructive revolution.
+There is clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then all the way forward to the present day to our nihilistic meaning crisis. Always there is a destructive revolution in each generation.
 
 Was the "Old Regime" prior to 1789 free of destructive revolutionary views?
 Turns out no.
@@ -119,10 +122,10 @@ We can further trace the modern view back
  [scholasticism](https://en.m.wikipedia.org/wiki/Scholasticism),
  all the way to the
  [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism)
- which divided Christianity into East and West.
+ which divided Christianity east and west.
 Century after century in the west, each generation has been trying to destroy the old and usher in a revolution, a final revolution -- a decided pivot in history.
 
-We see this destructive revolutionary view in western Christianity through eschatological millennial views that grew especially popular on the scholastic era.
+We see this destructive revolutionary view in western Christianity through eschatological millennial views that grew especially popular in the early scholastic era.
 
 https://theanarchistlibrary.org/library/norman-cohn-the-pursuit-of-the-millennium
 
@@ -134,9 +137,11 @@ As Fr. Seraphim Rose notes,
 
 > revolutionary conclusions were drawn later by men of the thirteenth and fourteenth centuries, by the Franciscan Spirituals, who recognized in Joachim the new John the Baptist, heralding St. Francis at the novus dux of the last dispensation, even as the "new Christ".
 
-Any such view of a "new Christ" was anathema to orthodox Christianity, yet this corruption in the west led inevitably to the Protestant Reformation, itself another outburst of destructive revolutionary views.
+Any such view of a "new Christ" was anathema to orthodox Christianity, yet this corruption in the west was one of many that led inevitably to the
+Protestant Reformation,
+itself another outburst of destructive revolutionary views.
 
-Our conventional wisdom tells us that protestantism was a consequence of the printing press -- which would be true if not for the glaring counterexample of eastern Christianity not having an equivalent protestant reformation.
+Our conventional wisdom tells us that protestantism was merely a consequence of the printing press -- which would be true if not for the glaring counterexample of eastern Christianity not having an equivalent protestant reformation despite the prevalence of a printing presses.
 
 
 
