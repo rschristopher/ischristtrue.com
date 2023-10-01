@@ -101,8 +101,8 @@ And even earlier than Nietzsche and Dostoyevsky, we find other prophetic voices 
 
 > ...
 > There will be played in Germany a drama compared to which the French Revolution will seem but an innocent idyll.
-> ...
 
+> ...
 > And the hour will come. As on the steps of an amphitheatre, the nations will group themselves around Germany to witness the terrible combat.
 
 
