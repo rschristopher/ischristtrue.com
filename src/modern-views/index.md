@@ -125,9 +125,10 @@ We can further trace the modern view back
  all the way to the
  [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism)
  which divided Christianity east and west.
+
 Century after century in the west, each generation has been trying to destroy the old and usher in a revolution, a final revolution -- a decided pivot in history.
 
-We see this destructive revolutionary view in the early scholastic period, articulated through eschatological millennialism that grew especially popular in the early scholastic era.
+We see this same destructive revolutionary view in the early scholastic period, articulated through eschatological millennialism that grew especially popular in that era.
 
 https://theanarchistlibrary.org/library/norman-cohn-the-pursuit-of-the-millennium
 
@@ -135,7 +136,7 @@ For example the
 [Joachimites](https://en.m.wikipedia.org/wiki/Joachimites)
 in the 13th century imagined three ages, and that they were entering the 3rd and final age.
 
-... these views were (perhaps unconsciously) reflected in Nazism, the 3rd Reich that will rule for a thousand years.
+... these views were (perhaps unconsciously) reflected in Nazism, that the 3rd Reich that will rule for a thousand years.
 
 As Fr. Seraphim Rose notes,
 > revolutionary conclusions were drawn later by men of the thirteenth and fourteenth centuries, by the Franciscan Spirituals, who recognized in Joachim the new John the Baptist, heralding St. Francis at the novus dux of the last dispensation, even as the "new Christ".
