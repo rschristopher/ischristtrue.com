@@ -98,9 +98,11 @@ Dostoyevsky, with a profound insight from his eastern Christian view, distinguis
 And even earlier than Nietzsche and Dostoyevsky, we find other prophetic voices such as Heinrich Heine. In *Religion and Philosophy in Germany* (1834) he writes,
 
 > Robespierre was merely the hand of Jean Jacques Rousseau, the bloody hand that drew from the womb of time the body whose soul Rousseau had created.
+
 > ...
 > There will be played in Germany a drama compared to which the French Revolution will seem but an innocent idyll.
 > ...
+
 > And the hour will come. As on the steps of an amphitheatre, the nations will group themselves around Germany to witness the terrible combat.
 
 
@@ -109,7 +111,7 @@ Clearly the modern view traces back even further, into the reign of terror of th
 As Fr. Seraphim Rose writes,
 > The period before 1789 was called the “Old Regime,” and the period after that is the “Revolutionary Age” which is the same now as it was in the 1790’s.
 
-There is clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then forward to the present day, to our nihilistic meaning crisis. Always there is a destructive revolution in each generation.
+There is a clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then forward to the present day, to our nihilistic meaning crisis. Always there is a destructive revolution in each generation.
 
 Was the "Old Regime" prior to 1789 free of destructive revolutionary views?
 Turns out no.
