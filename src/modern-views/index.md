@@ -6,7 +6,7 @@ If you ask around you'll get different answers; some will talk of secularism, hu
 
 Yet they all speak of the same spirit:
 that we are at the verge of something new, a coming singularity, and life will never be the same.
-From transhumanism to the sovereign individual thesis to the age of Aquarius, there is apparently a coming revolution, an awakening, an emergence, a new age. We are nearing a pivotal moment in history -- if not *the* pivotal moment in history, redefining what it even means to have a history.
+From transhumanism to the sovereign individual thesis to the age of Aquarius, there is apparently a coming revolution, an awakening, an emergence, a new age. We are nearing a pivotal moment in history -- if not *the* pivotal moment in history, redefining what it means to have a history.
 We are apparently witnessing the destruction of the old order, which is necessary for the "new" age to come.
 
 This destructive revolution is the modern view.
@@ -21,23 +21,20 @@ In truth, it is but the failure of every generation, the echoes of man's origina
 
 ## Where did this start?
 
-Conventional wisdom will tell you this view started in the 1960s, the counterculture revolution, the start of the culture war.
-That's the story we often hear, especially in the United States.
-And there seems to be something to this, as there was a seismic shift in western culture, a rejection of past social norms, the start of the civil rights movement, Roe v Wade, Woodstock --
+Conventional wisdom declares that this moden view started in the 1960s, in the counterculture revolution, the start of the culture war.
+And there seems to be something to this, especially in the United States, as there was a seismic shift in western culture, a rejection of past social norms, the start of the civil rights movement, Roe v Wade, Woodstock --
 certainly it seems as if the culture prior to the famed hippy generation was distinctly different from everything that came afterwards.
 
 And yet, hindsight being 20/20, the fruits of that generation are known. There was an Altamont to every Woodstock, reactions to every revolution. The 1960s counterculture gave way to the decadence and degeneracy that marked the following decades.
 And despite the abysmal failures, what we can see clearly is that the 1960s were the start of a parasitism in institutions starting with academia and then into political and corporate entities, degrading and weakening families and undermining the foundations of civilization. We now see the normalization of relativism, an assault on truth itself.
 In fact, since the 1960s this parasitism has spread globally, and has noticeably accelerated. Every generation now feels they are at the verge of a new revolution, where their struggles will be the ones that mark the coming of something new. 
 
-"Be on the right side of history", we tell ourselves. We imagine we are making the world a better place. And that this is a "pivotal" moment in history.
-Whether it's a climate catastrophe, a population bomb, or fear of a nuclear war -- it is always an existential crisis and the old world must die no matter the cost.
+"Be on the right side of history", we tell ourselves. We imagine we are making the world a better place; that this is a "pivotal" moment in history.
+Whether it's a pending climate catastrophe, a population bomb, or fear of a nuclear war -- it is always an existential crisis and the old world must die no matter the cost.
 And yet the consequences of our actions prove the opposite effect even by our own naive moral standards.
 This is the spirit of our time, and it has now festered into global parasitism. 
 
-We can go further back in order to find where this began.
-
-Let's consider the second world war;  concentration camps and genocide. Without a doubt this completely reshaped the world and was a definitive end of the old world, the beginning of the new.
+Where did these countercultural ideas of the 1960s emerge? Let's consider the second world war;  concentration camps and genocide. Without a doubt this completely reshaped the world and was a definitive end of the old world, the beginning of the new.
 The twentieth century witnessed 
 hundreds of millions of victims, more death than ever before seen on earth.
 An atomic bomb, the beginning of a nuclear arms race.
@@ -46,13 +43,13 @@ The entirety of the 1960s counterculture seems rather insignificant compared to 
 Perhaps this is the better starting point of our modern view, a post war view.
 
 And yet, Stalin and Hitler did not happen in a vacuum. The bloodshed of the 20th century was clearly the consequence of socialist revolutions, from national socialism to communism.
-Marxism precisely articulates the destructive revolutionary view, albeit in socio-economic terms.
-Even at the end of the short-lived Nazi regime, Goebbels himself viewed this in familiar Marxist terms, a destructive revolution,
+Marxism precisely articulates this destructive revolutionary view, albeit in socio-economic terms.
+Even at the end of the short-lived Nazi regime, Goebbels himself viewed this in Marxist language, a destructive revolution,
 
 > Together with the monuments of culture there crumble also the last obstacles to the fulfillment of our revolutionary task. Now that everything is in ruins, we are forced to rebuild Europe. In the past, private possessions tied us to a bourgeous restraint. Now the bombs, instead of killing all Europeans have only smashed the prison walls which kept them captive. In trying to destroy Europe’s future, the enemy has only succeeded in smashing its past; and with that, everything old and outworn has gone.
 
 Marxism is but one of the many outbursts of the modern view, the spirit of our time.
-As such we can trace this back further; into the soil from which the socialist experiments grew; and it is here we find the mad prophet Nietzsche,
+As such we can trace this back further; into the soil from which the socialist experiments grew; and it is here we find the mad prophet Nietzsche, who in 1884 said,
 
 > It may be that I am the first
 > to light upon an idea which will
@@ -64,7 +61,7 @@ As such we can trace this back further; into the soil from which the socialist e
 
 You'll be hard pressed to find a better articulation of the modern view than this. And yet Dostoyevsky manages it beautifully, and prior to Nietzsche.
 
-In *The Possessed* by Dostoyevsky, the character Krillov says,
+In *The Possessed* by Dostoyevsky, written in 1872, the character Krillov says,
 
 > Everything will be new... 
 > then they will divide history
@@ -106,12 +103,12 @@ And even earlier than Nietzsche and Dostoyevsky, we find other prophetic voices 
 > And the hour will come. As on the steps of an amphitheatre, the nations will group themselves around Germany to witness the terrible combat.
 
 
-Clearly the modern view traces back even further, into the reign of terror of the French Revolution. In fact, one cannot talk of destructive revolution without the French Revolution. 
+Clearly the modern view traces back even further, into the reign of terror of the French Revolution. In fact, one cannot talk of a destructive revolution without mention of the French Revolution. 
 
-As Fr. Seraphim Rose writes,
+As Father Seraphim Rose writes,
 > The period before 1789 was called the “Old Regime,” and the period after that is the “Revolutionary Age” which is the same now as it was in the 1790’s.
 
-There is a clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then forward to the present day, to our nihilistic meaning crisis, where always there is a destructive revolution in each generation.
+There is a clear lineage from the time of Robespierre and the atrocities of the French revolution, all the way to Hitler and the atrocities of the second world war, and then continuing forward to the present day, to our nihilistic meaning crisis -- where there is now a destructive revolution in each generation.
 
 Was the "Old Regime" prior to 1789 free of destructive revolutionary views?
 Turns out no.
@@ -127,21 +124,19 @@ We can further trace the modern view back
  which divided Christianity east and west.
 
 Century after century in the west, each generation has been trying to destroy the old and usher in a revolution, a final revolution -- a decided pivot in history.
-
-We see this same destructive revolutionary view in the early scholastic period, articulated through eschatological millennialism that grew especially popular in that era.
-
-https://theanarchistlibrary.org/library/norman-cohn-the-pursuit-of-the-millennium
+We see this same destructive revolutionary view in the early scholastic period, articulated through 
+[millenarianism](https://theanarchistlibrary.org/library/norman-cohn-the-pursuit-of-the-millennium)
+ that grew especially popular in that era.
 
 For example the 
 [Joachimites](https://en.m.wikipedia.org/wiki/Joachimites)
-in the 13th century imagined three ages, and that they were entering the 3rd and final age.
-
-... these views were (perhaps unconsciously) reflected in Nazism, that the 3rd Reich that will rule for a thousand years.
+in the 13th century imagined three ages (based on the trinity: Father, Son, Holy Spirit), and that they were entering the 3rd and final age. Joachim believed that the end of the Christian era would be in the year 1260, which would see the coming of the Antichrist, followed by a thousand year utopia (the age defined by the Holy Spirit).
+These views were (perhaps unconsciously) reflected in Nazism, that the 3rd Reich will rule for a thousand years.
 
 As Fr. Seraphim Rose notes,
 > revolutionary conclusions were drawn later by men of the thirteenth and fourteenth centuries, by the Franciscan Spirituals, who recognized in Joachim the new John the Baptist, heralding St. Francis at the novus dux of the last dispensation, even as the "new Christ".
 
-Any such view of a "new Christ" was anathema to orthodox Christianity, yet this corruption in the west was one of many that led inevitably to the
+Any such view of a "new Christ" was anathema to orthodox Christianity, yet this corruption in western Christianity was one of many that led inevitably to the
 Protestant Reformation,
 itself another outburst of the destructive revolutionary spirit.
 
@@ -157,8 +152,8 @@ This was not the view of any native American culture prior to the arrival of wes
 None of the 
  [ancient views](../ancient-views/)
  resembled this nihilistic path of
- continuous revolution and relativism.
-This is a unique worldview born of western Christianity post schism, with notably anti-Christian themes (as it emerged as an antithesis to Christianity). And yet today this view has been exported globally and has become the defacto modern globalist view.
+ destructive revolution and relativism.
+This is a unique worldview born of western Christianity post schism, with notably anti-Christian themes (as it emerged as an antithesis to Christianity). And yet today this destructive revolutionary view has been exported globally and has become the defacto modern globalist view (stripped of any Christian veneer and articulated in postmodern Marxist language).
 
 Outside of the western European cultural sphere, we can find only hints of this view sprinkled throughout history. But to the degree it emerged in early Christianity it was also condemned and anathematized. It only actualized into a continuous (albeit parasitic) ethos after the great schism, emerging from the early scholastic movement and coming into fruition by the enlightenment era and into our present day.
 
@@ -168,11 +163,11 @@ Outside of the western European cultural sphere, we can find only hints of this 
 
 ## Christian Antithesis 
 
-In a perverse and deceitful twist, the modern view audaciously claims credit for every scientific breakthrough, distancing itself from its own bad fruits -- the destructive revolutions never seem accountable for their own genocides and famines -- all of which are the clear and inevitable consequences of this modern "revolutionary" view. Always we blame the former revolution, because it is the old that must be destroyed, creating a disastrous and malevolent cycle.
+In a perverse and deceitful twist, the modern view audaciously claims credit for every scientific breakthrough, distancing itself from its own bad fruits -- the destructive revolutions never seem accountable for their own genocides and famines -- all of which are the clear and inevitable consequences of these modern "revolutionary" views. Always we blame the former revolution, because it is the old that must be perpetually destroyed, creating a disastrous and malevolent cycle.
 
-The honest truth-seeking Christian gives glory and praise to God for all that is good, yet the spirit of the times gives credit to man and perversely blames God for evil done by man.
+The honest truth-seeking Christian praises God for all that is good, yet the spirit of the times gives credit to man and perversely blames God for the evil done by man.
 God is love to the honest Christian, but a tyrant to the modern view.
-The modern view depicts man as heroically overcoming his tyrant creator, making himself into god.
+The modern view depicts man as heroically overcoming a tyrant creator, making himself into god.
 If you want to best understand the modern view, it is an inversion of orthodox Christianity at every level.
 
 
@@ -194,9 +189,9 @@ For all his genius,
  in the garden.
 Zarathustra's superman, [der Ubermensch](https://en.m.wikipedia.org/wiki/%C3%9Cbermensch), is nothing but the echo of that snake whispering to Eve,
 
-> *"ye shall be as gods",*
+> *ye shall be as gods*
 
-If we had to name the spirit of our times -- our modern view -- it is clearly the spirit of ***antichrist***, a deceitful and malevolent cycle of death, attacking Christ, the spirit of truth that overcame death for our salvation.
+If we had to name the spirit of our times -- our modern view -- it is clearly the spirit of ***antichrist***, a deceitful and malevolent spirit of death, attacking Christ, the spirit of truth that overcame death for our salvation.
 
 
 
