@@ -34,7 +34,7 @@ Whether it's a pending climate catastrophe, a population bomb, or fear of a nucl
 And yet the consequences of our actions prove the opposite effect even by our own naive moral standards.
 This is the spirit of our time, and it has now festered into global parasitism. 
 
-Where did these countercultural ideas of the 1960s emerge? Let's consider the second world war;  concentration camps and genocide. Without a doubt this completely reshaped the world and was a definitive end of the old world, the beginning of the new.
+From where did these countercultural ideas of the 1960s emerge? Let's consider the second world war;  concentration camps and genocide. Without a doubt this completely reshaped the world and was a definitive end of the old world, the beginning of the new.
 The twentieth century witnessed 
 hundreds of millions of victims, more death than ever before seen on earth.
 An atomic bomb, the beginning of a nuclear arms race.
