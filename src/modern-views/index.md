@@ -26,8 +26,8 @@ And there seems to be something to this, especially in the United States, as the
 certainly it seems as if the culture prior to the famed hippy generation was distinctly different from everything that came afterwards.
 
 And yet, hindsight being 20/20, the fruits of that generation are known. There was an Altamont to every Woodstock, reactions to every revolution. The 1960s counterculture gave way to the decadence and degeneracy that marked the following decades.
-And despite the abysmal failures, what we can see clearly is that the 1960s were the start of a parasitism in institutions starting with academia and then into political and corporate entities, degrading and weakening families and undermining the foundations of civilization. We now see the normalization of relativism, an assault on truth itself.
-In fact, since the 1960s this parasitism has spread globally, and has noticeably accelerated. Every generation now feels they are at the verge of a new revolution, where their struggles will be the ones that mark the coming of something new. 
+And despite many abysmal failures, what we can see clearly is that the 1960s were the start of a parasitism in institutions starting with academia and then into political and corporate institutions, all pushing to degrade and weaken families, undermining the foundations of civilization. We now see the normalization of relativism, an assault on truth itself.
+In fact, since the 1960s this parasitism has spread globally, and has noticeably accelerated. Every generation now feels they are at the verge of a new revolution, believing that their struggles will be the ones that mark the coming of something new. 
 
 "Be on the right side of history", we tell ourselves. We imagine we are making the world a better place; that this is a "pivotal" moment in history.
 Whether it's a pending climate catastrophe, a population bomb, or fear of a nuclear war -- it is always an existential crisis and the old world must die no matter the cost.
