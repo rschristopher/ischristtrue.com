@@ -2,11 +2,11 @@
 
 What is the modern view -- the spirit of our time?
 
-If you ask around you'll get different answers; some will talk of secularism, humanism, cultural "progress" and various political narratives. Others will talk of reactionary views to counter the revolutionary views. And still others will talk of despair, that something is clearly wrong with the modern world. 
+If you ask around you'll get different answers. Some will talk of secularism, humanism, cultural "progress" and various political narratives. Others will talk of reactionary views to counter what they see as a revolution gone too far. And still others will talk of despair, that something is clearly wrong with the modern world. 
 
 Yet they all speak of the same spirit:
-that we are at the verge of something new, a coming singularity, and life will never be the same.
-From transhumanism to the sovereign individual thesis to the age of Aquarius, there is apparently a coming revolution, an awakening, an emergence, a new age. We are nearing a pivotal moment in history -- if not *the* pivotal moment in history, redefining what it means to have a history.
+that we are at the verge of something new, maybe a coming singularity, and life will never be the same.
+From transhumanism to the sovereign individual thesis, or even the age of Aquarius, there is apparently a coming revolution, an awakening, an emergence, a new age. We are nearing a pivotal moment in history -- if not *the* pivotal moment in history, redefining what it means to have a history.
 We are apparently witnessing the destruction of the old order, which is necessary for the "new" age to come.
 
 This destructive revolution is the modern view.
@@ -14,7 +14,7 @@ This destructive revolution is the modern view.
 The irony of course is that this modern "revolution" is not new. We've been at the dawning of a new age, the destruction of the old order, for quite some time now.
 The new age never seems to fully manifest, and to the degree it does it quickly becomes the old and all attention switches to the truly "new", the real revolution. It's always promised to be happening soon if not now.
 
-In truth, it is but the failure of every generation, the echoes of man's original sin reverberating through the ages. But let's trace this destructive revolutionary view back, and see if we can find where it started.
+In truth, it is but the failure of every generation, the echoes of man's original sin reverberating through the ages. But let's trace this destructive revolutionary view back, and see if we can find where it began.
 
 
 
