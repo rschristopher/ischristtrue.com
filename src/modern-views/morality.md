@@ -41,7 +41,7 @@ This is getting much better, and yet still there's a problem; it's not always cl
 Something is good *if, and only if,*
 
 1. it glorifies God, which is our highest purpose, as we are made in the image and likeness of God, and
-2. it is what we are called to do by God, that is, it is our purpose in life, and
+2. it is what we are called to do by God, that is, it is our specific purpose in life, and
 3. it is beneficial for those around us, our neighbors and all of society, now and in the future, and
 4. it is beneficial for us individually, now and in the future, including and through to our children's children's children
 
