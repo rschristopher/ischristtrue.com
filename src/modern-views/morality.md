@@ -29,7 +29,7 @@ We should include,
 
 1. it is what you are called to do by your creator, that is, it is your purpose in life
 
-This is getting much better, and yet still there's a problem; it's not always clear what you are being called to do, what the purpose of your life is or ought to be. However, we know our purpose is to glorify God, as we werecreated in His image, so we can conclude that something is good if,
+This is getting much better, and yet still there's a problem; it's not always clear what you are being called to do, what the purpose of your life is or ought to be. However, we know our purpose is to glorify God, as we were created in His image, so we can conclude that something is good only if,
 
 4. it glorifies God, which is our purpose, as we are made in the image and likeness of God
 
