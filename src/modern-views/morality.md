@@ -1,12 +1,11 @@
 # Morality
 
-What is right, what is wrong.
-
 Let's examine the nature of good and evil, of progress, or even just the word *better*.
+Even the most nihilistic of secularists, the most cynical of modern views, will speak of progress and that which is *better*.
 There is an inescapable and undeniable moral law written in our hearts.
 We can't quite explain why, but some things really are better than others.
 
-But if there is no objective knowable truth, then there cannot be an objective knowable morality. In that case what's good for you may not be good for someone else.
+However, if there is no objective knowable truth, then there cannot be an objective knowable morality. In that case what's good for you may not be good for someone else.
 The word "better" would have no objective meaning without a universal moral truth at the foundation.
 
 By denying objective knowable truth, we inevitably seek to turn ourselves into gods worthy of the moral law written in our hearts. This is Nietzsche's superman. This is the snake in the garden promising *ye shall be as gods*.
