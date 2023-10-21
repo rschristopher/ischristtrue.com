@@ -90,7 +90,7 @@ Hitler believed himself to be so, that he was aiming his people towards Nietzsch
 And as Kirillov in The Possessed says: 
 > If there is no God, then I am God.
 
-Dostoyevsky, with a profound insight from orthodox Christianity, distinguishes between the God-man Jesus Christ and the man-god, the new being who is coming up from the earth to become god.
+Dostoyevsky, with a profound insight from orthodox Christianity, "distinguishes between the God-man Jesus Christ and the man-god, the new being who is coming up from the earth to become god" (Fr. Seraphim Rose).
 
 And even earlier than Nietzsche and Dostoyevsky, we find other prophetic voices such as Heinrich Heine. In his 1834 book, *Religion and Philosophy in Germany*, he writes,
 
