@@ -453,7 +453,7 @@ What has been revealed is that all, as in *all*,
 !!! quote "John 3:16"
      For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 
-The unelect, these are His children,
+The supposed unelect, these are His children,
  they suffer without Him, and He calls to them,
  and the angels rejoice when one is saved.
 Are they predestined to hell?
