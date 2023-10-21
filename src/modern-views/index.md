@@ -148,7 +148,7 @@ Our conventional wisdom tells us that protestantism was merely a consequence of 
 ## Was it always like this?
 
 The short answer: no, not at all. A continuous destructive revolution was unheard of outside of western Europe and it's cultural influence. This was not the view of eastern Europe nor of eastern Christianity nor of any major religion. This was not the view of the Byzantine Empire. This was not the view in the Ottoman empire. This was not the view in any of the historic dynasties of China. 
-This was not the view of any native American culture prior to the arrival of western Europeans.
+This was not the view of any native American culture prior to the arrival of western Europeans (where we find *Peyote Cults* and other destructive revolutionary views).
 None of the 
  [ancient views](../ancient-views/)
  resembled this nihilistic path of
