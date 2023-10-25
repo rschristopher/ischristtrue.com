@@ -35,11 +35,11 @@ imagine that there is a philosophical problem of evil?
 ## Modern Deception 
 
 Our modern worldview imagines a philosophical problem of evil when trying to rationalize God in the face of blatant sin, turning away from God and placing human reason in the place of God. 
-In this view, we imagine ourselves as gods knowing good and evil, and we want to keep our God-given abilities, our dominion over nature and all of creation -- we just want to dispense with God.
+In this view, we imagine ourselves as gods knowing good and evil. We want to keep our God-given abilities, our dominion over nature and all of creation -- we just want to dispense with God. Or as the snake in the garden promised,
 
 > ye shall be as gods
 
-There is no such thing as a philosophical problem of evil, there is though a philosophical problem of good. That is, why is there good? Why is there light and not complete darkness? To answer this question is to answer the nature of evil.
+In truth there is no such thing as a philosophical problem of evil, there is though a philosophical problem of good. That is, why is there good? Why is there light and not complete darkness? To answer this question is to answer the nature of evil.
 
 We exist with an intuitive sense of good and evil, objectively knowable good and evil.
 Secular humanists have to explain why there is good. Why there is a "better" or a "progress" anywhere in their vocabulary. What is their aim in life without a universal and objectively knowable good?
