@@ -6,8 +6,7 @@ In our modern conventional wisdom we sometimes hear about the philosopical probl
 
 This is, however, a nonsensical debate. There are in fact no religions with a philosophical problem of evil.
 For example,
-dualistic religions typically claim a precosmogonic schism between dark and light, or in gnostic Christian sects they imagine a demiurge that is the source of evil.
-
+dualistic religions typically claim a precosmogonic schism between dark and light, or even the gnostic sects they imagine a demiurge that is the source of evil.
 Buddhism frames the entire cosmic drama in terms of suffering, illusion, and nirvana. There is no good or evil.
 Hinduism similarly frames things outside of any objective moral truth.
 
