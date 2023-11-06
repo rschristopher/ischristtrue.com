@@ -9,7 +9,7 @@ Our modern view of writing has only two broad categories:
 1. fiction
 2. non-fiction
 
-We tend to assume these two categories are universal, existing in all cultures through all time; when in fact these are a modern invention exclusively from western Christianity. For every other culture and every other period of time, even prior to Christianity, we had three broad categories of writing.
+We tend to assume these two categories are universal, existing in all cultures through all of time; when in fact these are a modern invention exclusively from western Christianity. For every other culture and every other period of time, even prior to Christianity, we had three broad categories of writing:
 
 1. Canonical
 2. Apocryphal
@@ -24,7 +24,7 @@ The word "apocrypha" means hidden or private, not to be confused with "occult" w
 
 At a time when canonical texts were read publicly as part of liturgical worship, apocryphal texts were read in private with careful discernment.
 The closest we have today is the expression, "it's not for everybody".
-Like reading Dostoyevsky in order to better understand Christianity; this isn't something you'd see in liturgical worship, but this is something you'd read privately and with careful discernment.
+Like reading Dostoyevsky in order to better understand Christianity; this isn't something you'd see in liturgical worship, but this is something you'd read privately.
 
 And again this is different than "occult", which is a modern concept born from enlightenment era "secret societies" where something should stay "hidden".
 Apocryphal texts were never hidden nor banned, they are just simply not canonical nor heretical. This doesn't fit into our modern worldview, which is unfortunate as this is a very useful category. Much of today's fiction and non-fiction could be classified as heretical, but a surprising amount of it would best be classified as apocryphal. For example, Aleksandr Solzhenitsyn's Gulag Archipelago is not the divinely inspired word of God, but it's also not false nor misleading, it'd rightfully be in the Apocryphal section in an ancient library.
