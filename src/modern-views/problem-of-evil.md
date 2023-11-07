@@ -19,14 +19,14 @@ Hinduism similarly frames things outside of any objective moral truth.
 
 ## Presuppositions
 
-Articulating a philosophical problem of evil presupposes a mountain of claims, for example,
+Articulating a philosophical problem of evil presupposes a mountain of claims, let's examine only two of them,
 
 * *Good and Evil* -- obviously we must assume good and evil exist and are objectively knowable, not as mere subjective opinions but must exist as things in themselves.
 * *Truth and Falsity* -- we must further assume that moral claims of good and evil are knowable as true or false, that is, that we can discern true from false.
 
-There are of course countless more presupositions needed to make sense of a philosophical problem of evil, yet with just the two points just mentioned this requires a justifiable epistemology and an objectively knowable morality, a universal morality. In other words we're assuming there exists objectively knowable evil that is universally evil. A relativistic worldview wouldn't have knowable truth, nor a universal morality, and there would be no philosophical problem to debate.
+There are of course countless more presupositions needed to make sense of a philosophical problem of evil, yet just the two points necessitate a justifiable epistemology and an objectively knowable morality, a universal morality. In other words we're assuming there exists objectively knowable evil that is universally evil. Otherwise, a relativistic worldview wouldn't have a universal morality, and there would be no philosophical problem to debate.
 
-The entirety of the problem of evil presupposes God while attempting to  disprove God. We are forced to elevate logic and reason above God, above truth, above goodness, and above knowledge itself.
+The entirety of the "problem" of evil presupposes God while attempting to disprove God. We are forced to elevate logic and reason above God, above truth, above goodness, and above knowledge itself.
 
 
 ## Mistakes of Scholasticism
@@ -37,7 +37,7 @@ We might want to call this the *Thomistic mistake* as Aquinas's formulation of t
 
 Effectively all Aquinas has proven is that if we presuppose God and all the transcendent categories contingent upon God, then God exists. The Augustinian reference, while fascinating, is ultimately irrelevant to the "problem" of evil.
 
-The danger in the scholastic worldview (of which Aquinas exemplifies) is that we assume all the transcendent categories which are dependent on God, but without supposing God. We want the fruit without the tree. We want logic, reason, epistemology, and morality, all exactly *as if* there is a Christian God but without God. This is why the scholastic arguments for the existence of God are circular, and why the actual fruits of this movement yield postmodernism, relativism, and ultimately nihilism.
+The danger in the scholastic worldview (of which Aquinas exemplifies here) is that we assume all the transcendent categories which are dependent on God, but without supposing God. We want the fruit without the tree. We want logic, reason, epistemology, and morality, all exactly *as if* there is a Christian God but without God. This is why the scholastic arguments for the existence of God are circular, and why the actual fruits of [scholasticism](https://en.wikipedia.org/wiki/Scholasticism) yield postmodernism, relativism, and ultimately nihilism.
 
 
 ## Christian View
@@ -71,23 +71,19 @@ In this view, we imagine ourselves as gods knowing good and evil. We want to kee
 
 > ye shall be as gods
 
-In truth there is no such thing as a philosophical problem of evil, there is though a philosophical problem of good. That is, why is there good? Why is there light and not complete darkness? To answer this question is also to answer the nature of evil.
+And while there may not be a philosophical problem of evil, the modern view most certainly has a philosophical problem of good. That is, why is there good? Why is there light and not complete darkness? To answer this question is also to answer the nature of evil.
 
 We exist with an intuitive sense of good and evil, objectively knowable good and evil.
 Modern views must explain why there is good. Why there is a "better" or a "progress" anywhere in our vocabulary. What is our aim in life without a universal and objectively knowable good?
 Even Nietzsche, as brilliant as he was, completely missed this point (what makes the *Ubermensch* better, and with what criteria do we define "better"?)
 
-Truth is, only the modern rationalistic views have this philosophical problem, for they cannot explain goodness, let alone evil. They project this onto Christianity as a nihilistic attack. And winsome milquetoast Christians fall for this false framing, implicitly agreeing with an anti-Christian view of their own faith, imagining that they have to answer this philosophical riddle through various [theodicies](https://en.wikipedia.org/wiki/Theodicy), as if the burden of proof is on the Christian, rather than on the [modern view](../) to explain "good" as something objectively knowable.
+Truth is, only the modern rationalistic views have this philosophical problem, for they cannot explain goodness, let alone evil. They project this onto Christianity as a nihilistic attack. And winsome milquetoast Christians fall for this false framing, implicitly agreeing with an anti-Christian view of their own faith, imagining that they have to answer this philosophical riddle through various [theodicies](https://en.wikipedia.org/wiki/Theodicy), as if the burden of proof is on the Christian, rather than on the [modern view](../) to first explain "good" as something objectively knowable in their worldview.
 
 If there is no objectively knowable good and evil, e.g., if it's all relativistic, then there's no philosophical problem because there's no such thing as good and evil. Yet if there's no such thing as good and evil, then why are good and evil implicit in our every perception? We cannot think or even reason without a good to attract our attention, and to contrast that good with its absence, that is, evil.
 
+Any self-proclaimed Christian who believes there's a philosophical problem of evil is evidently not a believing Christian, or is not acting in accord with their claimed beliefs. The first few pages of the Bible provide a clear and profound philosophical understanding of the phenomena we call evil as well as its origin and the reason we are in this fallen state. We can agree or disagree with this Biblical view, and if we agree then there is no philosophhical "problem" of evil, and if we disagree then we face a philosophical problem of good (as well as epistemology and all other transcendent categories).
 
-
-Any self-proclaimed Christian who believes there's a philosophical problem of evil is evidently not a believing Christian. The first few pages of the Bible provide a clear and profound philosophical understanding of the phenomena we call evil as well as its origin and the reason we are in this fallen state.
-
-There is no philosophical problem. There is instead complete absurdity when and if we pretend there is such a philosophical problem.
-
-What we have instead is knowledge of good and evil, and a moral law written into our hearts. We exist in this fallen state and despite our sin we are offered salvation and forgiveness.
+In the final analysis, we clearly have knowledge of good and evil, and a moral law written into our hearts. We exist in this fallen state and despite our sin we are offered salvation and forgiveness through Christ.
 
 
 
