@@ -9,7 +9,7 @@ Our modern view of writing has only two broad categories:
 1. fiction
 2. non-fiction
 
-We tend to assume these two categories are universal, existing in all cultures through all of time; when in fact these are a modern invention exclusively from western Christianity. For every other culture and every other period of time, even prior to Christianity, we had three broad categories of writing:
+We tend to assume these two categories are universal, existing in all cultures through all of time; when in fact these are a modern invention exclusively from western secularism. For every other culture and every other period of time, even prior to Christianity, we had three broad categories of writing:
 
 1. Canonical
 2. Apocryphal
@@ -18,7 +18,7 @@ We tend to assume these two categories are universal, existing in all cultures t
 Canonical refers to texts that are accurate, true, and divinely inspired.
 We still have this understanding today, albeit mostly constrained to theology.
 Similarly, heretical refers to texts that are false or blatantly misleading.
-And yet apocryphal is a category that is completely absent in our modern view. An apocryphal text is not false nor misleading, for that would be classified as heretical. Yet it was also not necessary for salvation. So what is this mysterious 3rd category -- true yet not necessary for salvation?
+And yet apocryphal is a category that is completely absent in our modern view. An apocryphal text is not false nor misleading, for that would be classified as heretical.  So what is this mysterious 3rd category?
 
 The word "apocrypha" means hidden or private, not to be confused with "occult" which is better understood as "to be kept secret". 
 
