@@ -24,7 +24,7 @@ The word "apocrypha" means hidden or private, not to be confused with "occult" w
 
 At a time when canonical texts were read publicly as part of liturgical worship, apocryphal texts were read in private with careful discernment.
 The closest we have today is the expression, "it's not for everybody".
-Like reading Dostoyevsky in order to better understand Christianity; this isn't something you'd see in liturgical worship, but this is something you'd read privately.
+Like reading Dostoyevsky in order to better understand Christianity; this isn't something you'd see in liturgical worship, but this is something you'd read at home.
 
 And again this is different than "occult", which is a modern concept born from enlightenment era "secret societies" where something should stay "hidden".
 Apocryphal texts were never hidden nor banned, they are just simply not canonical nor heretical. This doesn't fit into our modern worldview, which is unfortunate as this is a very useful category. Much of today's fiction and non-fiction could be classified as heretical, but a surprising amount of it would best be classified as apocryphal. For example, Aleksandr Solzhenitsyn's Gulag Archipelago is not the divinely inspired word of God, but it's also not false nor misleading, it'd rightfully be in the Apocryphal section in an ancient library.
@@ -34,10 +34,10 @@ Apocryphal texts were never hidden nor banned, they are just simply not canonica
 
 ## Old Testament 
 
-Most protestants have an old testament that is strictly canon only, and *the apocrypha" usually refers to a set of books that were explicitly left out of the King James Bible, and yet remain in Catholic Bibles or in Orthodox Bibles.
+Most protestants have an old testament that is strictly canon only, and "the apocrypha" usually refers to a set of books that were explicitly left out of the King James Bible, and yet remain in Catholic Bibles or in Orthodox Bibles.
 
 These additional books are sometimes referred to as the "extended canon", which sounds like a misguided reaction to the modern misunderstanding of the word, apocryphal.
-Importantly, these books were never canonical. They were always apocryphal, and were included in the Bible for a reason.
+Importantly, these books were never really canonical. They were always apocryphal (with few exceptions), and yet were included in the Bible for a reason.
 
 For example, 1 Enoch was always apocryphal and has never been considered canonical even in the Ethiopian Orthodox Bibles that faithfully preserved 1 Enoch. Is this book false? No, in fact the canonical Bible, Genesis in particular, explicitly references the book of Enoch. For those wanting to understand the references, the apocryphal book of Enoch explains exactly who Enoch was, who the nephelim were, and this provides a deeper understanding of the flood, of angels, and of demons.
 
