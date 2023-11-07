@@ -24,7 +24,7 @@ Articulating a philosophical problem of evil presupposes a mountain of claims, l
 * *Good and Evil* -- obviously we must assume good and evil exist and are objectively knowable, not as mere subjective opinions but must exist as things in themselves.
 * *Truth and Falsity* -- we must further assume that moral claims of good and evil are knowable as true or false, that is, that we can discern true from false.
 
-There are of course countless more presupositions needed to make sense of a philosophical problem of evil, yet just the two points necessitate a justifiable epistemology and an objectively knowable morality, a universal morality. In other words we're assuming there exists objectively knowable evil that is universally evil. Otherwise, a relativistic worldview wouldn't have a universal morality, and there would be no philosophical problem to debate.
+There are of course countless more presupositions needed to make sense of a philosophical problem of evil, yet just these two points necessitate a justifiable epistemology and an objectively knowable morality, a universal morality. In other words we're assuming there exists objectively knowable evil that is universally evil. Otherwise, a relativistic worldview wouldn't have a universal morality, and there would be no philosophical problem to debate.
 
 The entirety of the "problem" of evil presupposes God while attempting to disprove God. We are forced to elevate logic and reason above God, above truth, above goodness, and above knowledge itself.
 
