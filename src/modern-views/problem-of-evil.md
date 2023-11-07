@@ -6,7 +6,7 @@ In our modern view we sometimes hear about the philosopical problem of evil, usu
 
 There are of course more dressed up versions of this argument, like the metaphysical variant from [St. Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas),
 
-> It seems that there is no God. For if one of two contraries were infinite, the other would be completely destroyed. But by the word ‘God’ we understand a certain infinite good. So, if God existed, nobody would ever encounter evil. But we do encounter evil in the world. So, God does not exist
+> It seems that there is no God. For if one of two contraries were infinite, the other would be completely destroyed. But by the word ‘God’ we understand a certain infinite good. So, if God existed, nobody would ever encounter evil. But we do encounter evil in the world. So, God does not exist.
 
 This is, as we shall see, a nonsensical debate. There are in fact no religions with a philosophical problem of evil as most worldviews lack an objective knowable good or evil.
 For example,
@@ -31,11 +31,16 @@ The entirety of the problem of evil presupposes God while attempting to  disprov
 
 ## Mistakes of Scholasticism
 
-We might want to call this the *Thomistic mistake* as Aquinas's formulation of this problem presupposes the Christian God, by assuming rationality, knowable truth, good and evil, all as independent of God. His response to the problem of evil is thus circular,
+We might want to call this the *Thomistic mistake* as Aquinas's formulation of this problem presupposes the Christian God by assuming rationality, knowable truth, good and evil. His response to the problem of evil, while interesting, is circular,
 
-> ..
+> As Augustine says (Enchiridion xi): "Since God is the highest good, He would not allow any evil to exist in His works, unless His omnipotence and goodness were such as to bring good even out of evil." This is part of the infinite goodness of God, that He should allow evil to exist, and out of it produce good.
 
-In fact, our entire concept of a knowable good and evil is based entirely on the God of the Bible. From Judaism it is revealed that there is a universal good and evil, and that it is objectively knowable. And sin (missing the mark, turning away from God) is the source of evil.
+Effectively all Aquinas has proven is that if we presuppose God and all the transcendent categories contingent upon God, then God exists. The Augustinian reference, while fascinating, is ultimately irrelevant to the "problem" of evil. The danger in this worldview
+
+
+## Christian View
+
+Our entire concept of a knowable good and evil is based entirely on the God of the Bible. From Judaism it is revealed that there is a universal good and evil, and that it is objectively knowable. And sin (missing the mark, turning away from God) is the source of evil.
 In this view, evil has no substance, like darkness, it is merely the absence of light (absence of goodness).
 
 Man and angels both fell from grace through pride, trying to "be as gods".
