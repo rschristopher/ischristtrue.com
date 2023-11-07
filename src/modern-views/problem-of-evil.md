@@ -4,11 +4,36 @@ In our modern view we sometimes hear about the philosopical problem of evil, usu
 
 > If God is so good, then why is there evil?
 
-This is, however, a nonsensical debate. There are in fact no religions with a philosophical problem of evil.
+There are of course more dressed up versions of this argument, like the metaphysical variant from [St. Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas),
+
+> It seems that there is no God. For if one of two contraries were infinite, the other would be completely destroyed. But by the word ‘God’ we understand a certain infinite good. So, if God existed, nobody would ever encounter evil. But we do encounter evil in the world. So, God does not exist
+
+This is, as we shall see, a nonsensical debate. There are in fact no religions with a philosophical problem of evil as most worldviews lack an objective knowable good or evil.
 For example,
-dualistic religions typically claim a precosmogonic schism between dark and light, or even the gnostic sects imagine a demiurge that is the source of evil.
-Buddhism frames the entire cosmic drama in terms of suffering, illusion, and nirvana. There is no good or evil.
+dualistic religions typically claim a precosmogonic schism between dark and light (order and chaos) and thus no objective good nor evil.
+Or the gnostic sects typically imagine a demiurge that is the source of suffering (a subjective evil).
+Buddhism frames the entire cosmic drama in terms of suffering, illusion, and nirvana. There is no good nor evil.
 Hinduism similarly frames things outside of any objective moral truth.
+
+
+
+## Presuppositions
+
+Articulating a philosophical problem of evil presupposes a mountain of claims, for example,
+
+* *Good and Evil* -- obviously we must assume good and evil exist and are objectively knowable, not as mere subjective opinions but must exist as things in themselves.
+* *Truth and Falsity* -- we must further assume that moral claims of good and evil are knowable as true or false, that is, that we can discern true from false.
+
+There are of course countless more presupositions needed to even make sense of a philosophical problem of evil, yet with the two points just mentioned this requires a justifiable epistemology and an objectively knowable morality, a universal morality. In other words we're assuming there exists objectively knowable evil that is universally evil. A relativistic worldview wouldn't have knowable truth, nor a universal morality, and then there would be no philosophical problem to debate.
+
+The entirety of the problem of evil presupposes God while attempting to  disprove God. We are forced to elevate logic and reason above God, truth, goodness, and knowledge itself.
+
+
+## Mistakes of Scholasticism
+
+We might want to call this the *Thomistic mistake* as Aquinas's formulation of this problem presupposes the Christian God, by assuming rationality, knowable truth, good and evil, all as independent of God. His response to the problem of evil is thus circular,
+
+> ..
 
 In fact, our entire concept of a knowable good and evil is based entirely on the God of the Bible. From Judaism it is revealed that there is a universal good and evil, and that it is objectively knowable. And sin (missing the mark, turning away from God) is the source of evil.
 In this view, evil has no substance, like darkness, it is merely the absence of light (absence of goodness).
