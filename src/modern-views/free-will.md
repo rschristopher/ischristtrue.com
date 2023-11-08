@@ -34,7 +34,7 @@ Christians (in all the various
  denominations) have debated
  this topic from the first century to the present day.
 They'll refer to *predestination*
- and often redefine *free will* to fit
+ and will often define *free will* to fit
  their nuanced theological interpretations.
 Yet even within the subtle nuances of
  the Greek word 
@@ -50,22 +50,15 @@ And if we detour back to our
 One of the earliest Christian free will
  debates was the
  [Pelagian Controversy](https://tabletalkmagazine.com/article/2020/09/augustine-and-the-pelagian-controversy/).
-And despite the conventional wisdom that 
- [St. Augustine](https://en.wikipedia.org/wiki/Saint_Augustine)
- was reacting to the writings of
- Pelagius, the opposite was true.
-Augustine's own writings were the catalyst
- that birthed a *reaction* known as
- [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism),
- a conflict which has arguably persisted through
- the ages and follows the aforementioned pattern
- of a schism over free will.
+[St. Pelagius](https://en.wikipedia.org/wiki/Pelagius_of_C%C3%B3rdoba) wrote against the predestinnation views of
+ [St. Augustine](https://en.wikipedia.org/wiki/Saint_Augustine), and these objectionns later became known as
+ [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism).
 The *Pelagians* reacted to the perceived lack
  of free will within
  St. Augustine's writings --
  this reaction introduced anti-Biblical views
- (that original sin did not taint human nature)
- in order to allow for human free will.
+ (that original sin did not taint human nature),
+ all in an effort to allow for human free will.
 The Pelagian view
  was deemed heretical 
  (see Canon V from the [Council of 418](https://en.m.wikipedia.org/wiki/Councils_of_Carthage)).
@@ -95,10 +88,13 @@ As time went on, this orthodox view of synergism
  into semi-Pelagian views,
  resulting in renewed debates
  that parallel those from early church history.
+
 For example,
- reformed theologians continue to debate this exact topic, resulting in
+ the protestant debates around 
+ [sola fide](https://en.wikipedia.org/wiki/Sola_fide)
+ or the Calvinist debates around
  [Arminianism vs Monergism](https://www.monergism.com/arminianisms), 
- which mimics the centuries old Pelagian debates,
+ these mimics the centuries old Pelagian debates,
  including nuanced in-between views such as
  [Molinism](https://www.thoughtstheological.com/calvinism-molinism-arminianism-and-open-theism-monergismsynergism-at-the-macro-and-micro-levels/).
 
