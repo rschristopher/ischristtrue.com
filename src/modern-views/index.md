@@ -1,43 +1,46 @@
 # Modern Views
 
-What is the modern view -- the spirit of our time?
+What are the modern views -- how we make sense of the world -- the spirit of our times?
 
-If you ask around you'll get many different answers. Some will talk of secularism, humanism, cultural "progress" and various political narratives. Others will talk of reactionary views to counter what they see as a revolution gone too far. And still others will talk of despair, that something is clearly wrong with the modern world. 
+If you ask around you'll get many different answers. Some will talk of secularism, humanism, cultural "progress" and various political narratives. Others will talk of revolutions, or a reactionary view to counter what they see as a revolution gone too far. And still others will talk of despair, that something is clearly wrong with the modern world. 
 
 Yet they all speak of the same spirit:
 that we are at the verge of something new, maybe a coming singularity, and life will never be the same.
-From transhumanism to the sovereign individual thesis, or even the age of Aquarius, there is apparently a coming revolution, an awakening, an emergence, a new age. We are nearing a pivotal moment in history -- if not *the* pivotal moment in history, redefining what it means to have a history.
+From transhumanism to the sovereign individual thesis, or even the age of Aquarius, there is apparently a coming revolution, an awakening, an emergence, a new age. Even Christians are talking about rapture. We are nearing a pivotal moment in history -- if not *the* pivotal moment in history, redefining what it means to have a history.
 We are apparently witnessing the destruction of the old order, which is necessary for the "new" age to come.
 
-This destructive revolution is the modern view.
+This destructive revolution *is* the modern view.
 
 The irony of course is that this modern "revolution" is not new. We've been at the dawning of a new age, the destruction of the old order, for quite some time now.
 The new age never seems to fully manifest, and to the degree it does it quickly becomes the old and all attention switches to the truly "new", the real revolution. It's always promised to be happening soon if not now.
 
-In truth, it is but the failure of every generation, the echoes of man's original sin reverberating through the ages. But let's trace this destructive revolutionary view back, and see if we can find where it began.
+In truth, this is the failure of every generation, the echoes of man's original sin reverberating through the ages. But let's investigate this modern view, this destructive revolutionary view, and see if we can find where it began.
 
 
 
 
 ## Where did this start?
 
-Conventional wisdom declares that this moden view started in the 1960s, in the counterculture revolution, the start of the culture war.
+Conventional wisdom declares that our moden view started in the 1960s, in the counterculture revolution, the start of the culture war.
 And there seems to be something to this, especially in the United States, as there was a seismic shift in western culture, a rejection of past social norms, the start of the civil rights movement, Roe v Wade, Woodstock --
 certainly it seems as if the culture prior to the famed hippy generation was distinctly different from everything that came afterwards.
 
-And yet, hindsight being 20/20, the fruits of that generation are known. There was an Altamont to every Woodstock, reactions to every revolution. The 1960s counterculture gave way to the decadence and degeneracy that marked the following decades.
+### Culture War
+
+Hindsight being 20/20, the fruits of the 1960s counterculture are known. There was an Altamont to every Woodstock, reactions to every revolution. The 1960s counterculture gave way to the decadence and degeneracy that marked every decade since.
 And despite many abysmal failures, what we can see clearly is that the 1960s were the start of a parasitism in institutions starting with academia and then into political and corporate institutions, all pushing to degrade and weaken families, undermining the foundations of civilization. We now see the normalization of relativism, an assault on truth itself.
-In fact, since the 1960s this parasitism has spread globally, and has noticeably accelerated. Every generation now feels they are at the verge of a new revolution, believing that their struggles will be the ones that mark the coming of something new. 
+In fact, since the 1960s this parasitism has spread globally, and has noticeably accelerated.
 
 "Be on the right side of history", we tell ourselves. We imagine we are making the world a better place; that this is a "pivotal" moment in history.
-Whether it's a pending climate catastrophe, a population bomb, or fear of a nuclear war -- it is always an existential crisis and the old world must die no matter the cost.
+Whether it's a pending climate catastrophe, a population bomb, or fear of a nuclear war -- it is always an existential crisis and the old world must die.
 And yet the consequences of our actions prove the opposite effect even by our own naive moral standards.
-This is the spirit of our time, and it has now festered into global parasitism. 
 
-From where did these countercultural ideas of the 1960s emerge? Let's consider the second world war;  concentration camps and genocide. Without a doubt this completely reshaped the world and was a definitive end of the old world, the beginning of the new.
+From where did these now global countercultural ideas of the 1960s emerge? Let's consider the second world war;  concentration camps and genocide. Without a doubt this completely reshaped the world and was a definitive end of the old world, the beginning of the new.
 The twentieth century witnessed 
 hundreds of millions of victims, more death than ever before seen on earth.
 An atomic bomb, the beginning of a nuclear arms race.
+
+### World Wars
 
 The entirety of the 1960s counterculture seems rather insignificant compared to the second world war.
 Perhaps this is the better starting point of our modern view, a post war view.
@@ -47,6 +50,9 @@ Marxism precisely articulates this destructive revolutionary view, albeit in soc
 Even at the end of the short-lived Nazi regime, Goebbels himself viewed this in Marxist language, a destructive revolution,
 
 > Together with the monuments of culture there crumble also the last obstacles to the fulfillment of our revolutionary task. Now that everything is in ruins, we are forced to rebuild Europe. In the past, private possessions tied us to a bourgeous restraint. Now the bombs, instead of killing all Europeans have only smashed the prison walls which kept them captive. In trying to destroy Europe’s future, the enemy has only succeeded in smashing its past; and with that, everything old and outworn has gone.
+
+
+### 19th Century
 
 Marxism is but one of the many outbursts of the modern view, the spirit of our time.
 As such we can trace this back further; into the soil from which the socialist experiments grew; and it is here we find the mad prophet Nietzsche, who in 1884 said,
@@ -105,6 +111,9 @@ And even earlier than Nietzsche and Dostoyevsky, we find other prophetic voices 
 
 Clearly the modern view traces back even further, into the reign of terror of the French Revolution. In fact, one cannot talk of a destructive revolution without mention of the French Revolution. 
 
+
+### Old Regime
+
 As Father Seraphim Rose writes,
 > The period before 1789 was called the “Old Regime,” and the period after that is the “Revolutionary Age” which is the same now as it was in the 1790’s.
 
@@ -139,7 +148,6 @@ As Fr. Seraphim Rose notes,
 Any such view of a "new Christ" was anathema to orthodox Christianity, yet this corruption in western Christianity was one of many that led inevitably to the
 Protestant Reformation,
 itself another outburst of the destructive revolutionary spirit.
-
 Our conventional wisdom tells us that protestantism was merely a consequence of the printing press -- which would be true if not for the glaring counterexample of eastern Christianity not having an equivalent protestant reformation despite the prevalence of printing presses.
 
 
