@@ -8,7 +8,10 @@ There are of course more dressed up versions of this argument, like the metaphys
 
 > It seems that there is no God. For if one of two contraries were infinite, the other would be completely destroyed. But by the word ‘God’ we understand a certain infinite good. So, if God existed, nobody would ever encounter evil. But we do encounter evil in the world. So, God does not exist.
 
-This is, as we shall see, a nonsensical debate. There are in fact no religions with a philosophical problem of evil as most worldviews lack an objective knowable good or evil.
+This is, as we shall see, a nonsensical debate. 
+
+There are in fact no religions with a philosophical problem of evil.
+Most worldviews lack an objective knowable good or evil.
 For example,
 dualistic religions typically claim a precosmogonic schism between dark and light (order and chaos) and thus no objective good nor evil.
 Or the gnostic sects typically imagine a demiurge that is the source of suffering (a subjective evil).
