@@ -50,7 +50,7 @@ And if we detour back to our
 One of the earliest Christian free will
  debates was the
  [Pelagian Controversy](https://tabletalkmagazine.com/article/2020/09/augustine-and-the-pelagian-controversy/).
-[St. Pelagius](https://en.wikipedia.org/wiki/Pelagius_of_C%C3%B3rdoba) wrote against the predestinnation views of
+[St. Pelagius](https://en.wikipedia.org/wiki/Pelagius_of_C%C3%B3rdoba) wrote against the predestination views of
  [St. Augustine](https://en.wikipedia.org/wiki/Saint_Augustine), and these objections later became known as
  [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism).
 The *Pelagians* reacted to the perceived lack
