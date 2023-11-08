@@ -94,7 +94,7 @@ For example,
  [sola fide](https://en.wikipedia.org/wiki/Sola_fide)
  or the Calvinist debates around
  [Arminianism vs Monergism](https://www.monergism.com/arminianisms), 
- these mimics the centuries old Pelagian debates,
+ these mimic the centuries old Pelagian debates,
  including nuanced in-between views such as
  [Molinism](https://www.thoughtstheological.com/calvinism-molinism-arminianism-and-open-theism-monergismsynergism-at-the-macro-and-micro-levels/).
 
