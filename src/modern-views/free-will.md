@@ -50,15 +50,16 @@ And if we detour back to our
 One of the earliest Christian free will
  debates was the
  [Pelagian Controversy](https://tabletalkmagazine.com/article/2020/09/augustine-and-the-pelagian-controversy/).
-[St. Pelagius](https://en.wikipedia.org/wiki/Pelagius_of_C%C3%B3rdoba) wrote against the predestination views of
+In this historic debate
+ [St. Pelagius](https://en.wikipedia.org/wiki/Pelagius_of_C%C3%B3rdoba) wrote against the predestination views of
  [St. Augustine](https://en.wikipedia.org/wiki/Saint_Augustine), and these objections later became known as
  [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism).
 The *Pelagians* reacted to the perceived lack
  of free will within
  St. Augustine's writings --
  this reaction introduced anti-Biblical views
- (that original sin did not taint human nature),
- all in an effort to allow for human free will.
+ (that original sin did not taint human nature).
+And all of this was an effort to allow for human free will.
 The Pelagian view
  was deemed heretical 
  (see Canon V from the [Council of 418](https://en.m.wikipedia.org/wiki/Councils_of_Carthage)).
