@@ -46,7 +46,7 @@ The entirety of the 1960s counterculture seems rather insignificant compared to 
 Perhaps this is the better starting point of our modern view, a post war view.
 
 And yet, Stalin and Hitler did not happen in a vacuum. The bloodshed of the 20th century was clearly the consequence of socialist revolutions, from national socialism to communism.
-Marxism precisely articulates this destructive revolutionary view, albeit in socio-economic terms.
+Marxism precisely articulates a destructive revolutionary view, albeit in socio-economic terms.
 Even at the end of the short-lived Nazi regime, Goebbels himself viewed this in Marxist language, a destructive revolution,
 
 > Together with the monuments of culture there crumble also the last obstacles to the fulfillment of our revolutionary task. Now that everything is in ruins, we are forced to rebuild Europe. In the past, private possessions tied us to a bourgeous restraint. Now the bombs, instead of killing all Europeans have only smashed the prison walls which kept them captive. In trying to destroy Europe’s future, the enemy has only succeeded in smashing its past; and with that, everything old and outworn has gone.
