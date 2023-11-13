@@ -16,7 +16,7 @@ Put all things in their place, even the sin crouching at your door.
 
 !!! quote "Luke 4:7-8"
     If thou therefore wilt worship me, all shall be thine.
-    And Jesus answered and said unto him, **Get thee behind me**, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
+    And Jesus answered and said unto him, **Get thee behind me, Satan**: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
 
 Sin in its right place is beneath us, as our worship is towards the highest ideal, God, not to the temptations that would attempt to enslave us.
 
