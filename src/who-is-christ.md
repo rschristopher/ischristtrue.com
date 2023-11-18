@@ -20,3 +20,11 @@ How easily tempted we are.
 
 see Dostoevsky,
 Brothers Karamazov 
+
+
+
+"There is no possible event in life for which His grace is not sufficient."
+Dr. Larry Crabb
+
+
+
