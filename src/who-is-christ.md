@@ -26,5 +26,18 @@ Brothers Karamazov
 "There is no possible event in life for which His grace is not sufficient."
 Dr. Larry Crabb
 
+"No situation is so desperate that God's grace is not sufficient."
+
+
+
+
+
+
+
+
+
+
+
+
 
 
