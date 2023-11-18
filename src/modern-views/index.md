@@ -1,12 +1,12 @@
 # Modern Views
 
-What are the modern views -- the spirit of our times -- how we make sense of the world?
+What is the modern view -- the spirit of our times -- how do we make sense of the world?
 
-If you ask around you'll get many different answers. Some will talk of secularism, humanism, cultural "progress" and various political narratives. Others will talk of revolutions, or a reactionary view to counter what they see as a revolution gone too far. And still others will talk of despair, that something is clearly wrong with the modern world. 
+If you ask around you'll get many different answers. Some will talk of secularism, rationalism, humanism, cultural "progress" and various political narratives. Many will profess faith in God, while others view God as a delusion, a fantasy leftover from a bygone superstitious era. There will be talk be of revolutions, or maybe reactionary views to counter what they see as a revolution gone too far. And most will talk of despair, that something is clearly wrong with the modern world. 
 
-Yet they all speak of the same spirit:
-that we are at the verge of something new, maybe a coming singularity, and life will never be the same.
-From transhumanism to the sovereign individual thesis, or even the age of Aquarius, there is apparently a coming revolution, an awakening, an emergence, a new age. Even Christians are talking about rapture. We are nearing a pivotal moment in history -- if not *the* pivotal moment in history, redefining what it means to have a history.
+Yet despite the apparent aimless grasping for meaning, we are all witness to the same spirit:
+that we are at the verge of something new.
+From transhumanism to the sovereign individual thesis, or even the age of Aquarius, there is apparently a coming revolution, an awakening, an emergence, a new age. Many Christians are talking about rapture. We are nearing a pivotal moment in history -- if not *the* pivotal moment in history, perhaps redefining what it means to have a history.
 We are apparently witnessing the destruction of the old order, which is necessary for the "new" age to come.
 
 This destructive revolution *is* the modern view.
@@ -21,14 +21,14 @@ In truth, this is the failure of every generation, the echoes of man's original 
 
 ## Where did this start?
 
-Conventional wisdom declares that our moden view started in the 1960s, in the counterculture revolution, the start of the culture war.
+Conventional wisdom suggests that our moden view started in the 1960s, in the counterculture revolution, the start of the culture war.
 And there seems to be something to this, especially in the United States, as there was a seismic shift in western culture, a rejection of past social norms, the start of the civil rights movement, Roe v Wade, Woodstock --
 certainly it seems as if the culture prior to the famed hippy generation was distinctly different from everything that came afterwards.
 
 ### Culture War
 
 Hindsight being 20/20, the fruits of the 1960s counterculture are known. There was an Altamont to every Woodstock, reactions to every revolution. The 1960s counterculture gave way to the decadence and degeneracy that marked every decade since.
-And despite many abysmal failures, what we can see clearly is that the 1960s were the start of a parasitism in institutions starting with academia and then into political and corporate institutions, all pushing to degrade and weaken families, undermining the foundations of civilization. We now see the normalization of relativism, an assault on truth itself.
+And despite the abysmal failures, what we can see clearly is that the 1960s were the start of a parasitism in institutions starting with academia and then into political and corporate institutions, all pushing to degrade and weaken families, undermining the foundations of civilization. We now see the normalization of relativism, an assault on truth itself.
 In fact, since the 1960s this parasitism has spread globally, and has noticeably accelerated.
 
 "Be on the right side of history", we tell ourselves. We imagine we are making the world a better place; that this is a "pivotal" moment in history.
@@ -46,7 +46,7 @@ The entirety of the 1960s counterculture seems rather insignificant compared to 
 Perhaps this is the better starting point of our modern view, a post war view.
 
 And yet, Stalin and Hitler did not happen in a vacuum. The bloodshed of the 20th century was clearly the consequence of socialist revolutions, from national socialism to communism.
-Marxism precisely articulates a destructive revolutionary view, albeit in socio-economic terms.
+Marxism precisely articulates the destructive revolutionary view, albeit in socio-economic terms.
 Even at the end of the short-lived Nazi regime, Goebbels himself viewed this in Marxist language, a destructive revolution,
 
 > Together with the monuments of culture there crumble also the last obstacles to the fulfillment of our revolutionary task. Now that everything is in ruins, we are forced to rebuild Europe. In the past, private possessions tied us to a bourgeous restraint. Now the bombs, instead of killing all Europeans have only smashed the prison walls which kept them captive. In trying to destroy Europe’s future, the enemy has only succeeded in smashing its past; and with that, everything old and outworn has gone.
