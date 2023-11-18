@@ -1,8 +1,8 @@
 # Modern Views
 
-What is the modern view -- the spirit of our times -- how do we make sense of the world?
+What is the modern view -- the spirit of our time -- how do we make sense of the world?
 
-If you ask around you'll get many different answers. Some will talk of secularism, rationalism, humanism, cultural "progress" and various political narratives. Many will profess faith in God, while others view God as a delusion, a fantasy leftover from a bygone superstitious era. There will be talk be of revolutions, or maybe reactionary views to counter what they see as a revolution gone too far. And most will talk of despair, that something is clearly wrong with the modern world. 
+If you ask around you'll get many different answers. There is secularism, rationalism, humanism, cultural "progress" and various political narratives. Some will profess faith in God, while others view God as a delusion, a fantasy leftover from a bygone superstitious era. There will be talk of revolutions, or maybe reactionary views to counter whichever revolution has gone too far. And most will talk of despair, that something is clearly wrong with the modern world. 
 
 Yet despite the apparent aimless grasping for meaning, we are all witness to the same spirit:
 that we are at the verge of something new.
