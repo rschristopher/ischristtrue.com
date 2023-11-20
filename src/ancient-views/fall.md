@@ -6,7 +6,7 @@ Modern Christians may talk of *the fall* -- but in Genesis there is not one but 
 
 > Ye shall be as Gods
 
-The entire cosmos changed. A seraphim, one of the highest of the heavenly hosts, rebelled against God along with man. Death now exists, and as such natural laws and a striving of life in the face of death (what we call *evolution*).
+The entire cosmos changed. A seraphim, one of the highest of the heavenly hosts, rebelled against God along with man. Death entered the world, and there is now a striving of life in the face of death (what we call *evolution*).
 
 
 ## 2. The Great Flood
