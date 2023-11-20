@@ -1,6 +1,6 @@
 # Fall from Grace
 
-Modern Christians may talk of *the fall* -- but in Genesis there is not one but three falls; three distinct rebellions against God, each dramatically changing the nature of man and creation.
+Modern Christians may talk of *the fall* -- but in Genesis there is not one but three; three distinct rebellions against God, each dramatically changing the nature of man and creation.
 
 ## 1. Exile from Eden
 
