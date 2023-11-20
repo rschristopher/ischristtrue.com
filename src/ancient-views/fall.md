@@ -70,14 +70,14 @@ This is one of the most fascinating sections in the Bible. Our modern view has d
 > For You shall inherit all nations.
 
 
-2. Death and Resurrection of Christ
+## 2. Death and Resurrection of Christ
 
 The harrowing of Hades, Christ overcomes death. And it is here where all of the Dominions and Principalities begin to lose their authority.
 
-He is risen
+> He is risen
 
 
-3. Lord of Lords
+## 3. Lord of Lords
 
 !!! quote "Revelation 19:11-16
     Now I saw heaven opened, and behold, a white horse. And He who sat on him was called Faithful and True, and in righteousness He judges and makes war. His eyes were like a flame of fire, and on His head were many crowns. He had a name written that no one knew except Himself. He was clothed with a robe dipped in blood, and His name is called The Word of God. And the armies in heaven, clothed in fine linen, white and clean, followed Him on white horses. Now out of His mouth goes a sharp sword, that with it He should strike the nations. And He Himself will rule them with a rod of iron. He Himself treads the winepress of the fierceness and wrath of Almighty God. And He has on His robe and on His thigh a name written:
