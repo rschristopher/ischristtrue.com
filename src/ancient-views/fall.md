@@ -26,7 +26,7 @@ And His heavenly hosts were upon the earth.
 
 ## 2. The Great Flood
 
-It is here that the Lord withdrew His spirit such that it will no longer strive with man. The very nature of man and the cosmology of creation further degrades.
+It is here that the Lord withdrew His spirit such that it will no longer strive with man.
 
 !!! quote "Genesis 6:3-8"
     And the Lord said, “My Spirit shall not strive with man forever, for he is indeed flesh; yet his days shall be one hundred and twenty years.” There were giants on the earth in those days, and also afterward, when the sons of God came in to the daughters of men and they bore children to them. Those were the mighty men who were of old, men of renown.
@@ -75,14 +75,14 @@ Man has now fallen into depravity, placed beneath the created spirits of this wo
 ## Redemptions
 
 Similar to the three great rebellions, there is not one but three stages of redemption, restoring man to do God's will.
-And just as the rebellions were continual and ongoing, so too are the redemptions.
+And just as the rebellions were continual and ongoing, so too is the path of redemption.
 
 
 
 ## 3. Israel
 
 The earth had been divided amongst the pagan gods, each with varying degrees of rebellion from God.
-Yet the Lord of Spirits, the one true God, descends into the world to make a nation from His chosen people.
+Yet the Lord of Spirits, the one true God, descended into the world to make a nation from His chosen people.
 
 !!! quote "Psalm 82"
     God stands in the congregation of the mighty; He judges among the gods. How long will you judge unjustly, And show partiality to the wicked? Selah
@@ -98,8 +98,7 @@ Yet the Lord of Spirits, the one true God, descends into the world to make a nat
 This is one of the most fascinating sections in the Bible. Our modern view has difficulty interpreting this, but the ancient view had no issue interpreting passages like Psalm 82. 
 There were many gods (heavenly hosts), each given a territory to rule over. 
 These are the dominions and principalities. 
-And with Israel, the one true God now places himself directly into the world. 
-And it is from Israel's descendants that all redemption will be possible.
+And starting with Israel, the one true God placed himself directly into the world, making way for the messiah.
 
 > For You shall inherit all nations.
 
@@ -108,8 +107,7 @@ And it is from Israel's descendants that all redemption will be possible.
 ## 2. Messiah
 
 The harrowing of Hades, Christ overcomes death. And it is here where all of the Dominions and Principalities lose their authority. 
-Demons are now cast out by the disciples of Christ. 
-The world is no longer demon-haunted. 
+Demons are cast out by the disciples of Christ. 
 Mankind is offered salvation. 
 
 > He is risen
