@@ -30,7 +30,7 @@ And the spirits of dead Nephilim are what we refer to today as [demons](angels-d
 
 ## 3. Tower of Babel
 
-!!! quote "Genesis 11:1-9
+!!! quote "Genesis 11:1-9"
     Now the whole earth had one language and one speech. And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar, and they dwelt there. Then they said to one another, “Come, let us make bricks and bake them thoroughly.” They had brick for stone, and they had asphalt for mortar. And they said, “Come, let us build ourselves a city, and a tower whose top is in the heavens; let us make a name for ourselves, lest we be scattered abroad over the face of the whole earth.”
     
     But the Lord came down to see the city and the tower which the sons of men had built. And the Lord said, “Indeed the people are one and they all have one language, and this is what they begin to do; now nothing that they propose to do will be withheld from them. Come, let Us go down and there confuse their language, that they may not understand one another’s speech.” So the Lord scattered them abroad from there over the face of all the earth, and they ceased building the city. Therefore its name is called Babel, because there the Lord confused the language of all the earth; and from there the Lord scattered them abroad over the face of all the earth.
