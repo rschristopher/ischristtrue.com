@@ -6,7 +6,7 @@ Modern Christians tend to view ***the*** *fall* -- as a single act rebellion
 The full interpretation of these rebellions has been lost in our [modern views](../../modern-views/),
  but the ancient view still echoes truthfully from scripture and can be interpreted through the original and [apocryphal](apocrypha.md) texts. 
 E.g., we know there were Nephilim in scripture,
- but we can only know what the Nephilim actually are from the [apocrypha](apocrypha.md).
+ but we can only know what the Nephilim actually are from the [apocrypha](apocrypha.md) (specifically in *1 Enoch*).
 
 Below is an attempt to outline the ancient view as best as it can be understood today.
 
