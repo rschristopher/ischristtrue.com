@@ -4,9 +4,9 @@ Modern Christians tend to view ***the*** *fall* -- as a single act of rebellion
 -- but in Genesis there is not one but three distinct rebellions against God, each with dire consequences for man and the created order (the cosmos).
 
 The full interpretation of these rebellions has been lost in our [modern views](../../modern-views/),
- but the ancient view still echoes truthfully from scripture and can be interpreted through the original and [apocryphal](apocrypha.md) texts. 
+ but the ancient view echoes truthfully from scripture and can be interpreted through original and [apocryphal](apocrypha.md) texts. 
 E.g., we know there were Nephilim in scripture,
- but we can only know what the Nephilim actually are from the [apocrypha](apocrypha.md) (specifically in *1 Enoch*).
+ but we can only know *what* the Nephilim actually were from [apocryphal](apocrypha.md) (specifically in *1 Enoch*) sources.
 
 Below is an attempt to outline the ancient view as best as it can be understood today.
 
