@@ -13,7 +13,7 @@ Below is an attempt to outline the ancient view as best as it can be understood 
 
 ## 1. Exile from Eden
 
-> Ye shall be as Gods
+> Ye shall be as gods
 
 The entire cosmos changed. A serpent, most likely a seraphim (one of the highest of the heavenly hosts) rebelled against God along with man. 
 Death entered the world, and thus began a striving for life in the face of death, a game of evolutionary fitness.
