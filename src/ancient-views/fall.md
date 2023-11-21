@@ -1,15 +1,14 @@
 # Fall of Man
 
-Modern Christians sometimes talk of ***the*** *fall* -- as if the fall from God's grace was a single great rebellion 
--- but in Genesis there is not one but three; 
-three distinct rebellions against God, each dramatically changing the nature of man and of creation itself.
+Modern Christians tend to view ***the*** *fall* -- as a single act rebellion 
+-- but in Genesis there is not one but three distinct rebellions against God, each with dire consequences for man and the created order (the cosmos).
 
-The full interpretation of these rebellions has been lost in the [modern view](../../modern-views/),
- but the ancient view still echoes truthfully from scripture and can be interpreted through scripture and [apocryphal](apocrypha.md) texts. 
+The full interpretation of these rebellions has been lost in our [modern views](../../modern-views/),
+ but the ancient view still echoes truthfully from scripture and can be interpreted through the original and [apocryphal](apocrypha.md) texts. 
 E.g., we know there were Nephilim in scripture,
- but we can only know what the Nephilim are from the [apocrypha](apocrypha.md).
+ but we can only know what the Nephilim actually are from the [apocrypha](apocrypha.md).
 
-
+Below is an attempt to outline the ancient view as best as it can be understood today.
 
 
 ## 1. Exile from Eden
@@ -41,26 +40,26 @@ The cause of the great flood was the continuous evil of man, the same evil in th
 
 The sons of God -- in this case the watchers -- failed at their God-given duties and rebelled *along with man* against the Almighty.
  And to this day we are still engaged in this ongoing rebellion.
-In fact, the spirits of dead Nephilim are what we refer to today as [demons](angels-demons.md). From this point forward, men no longer live for centuries, and demons entered the world.
+In fact, the spirits of dead Nephilim were understood as [demons](angels-demons.md). From this point forward, men no longer live for centuries, and demons entered the world.
 
 
 
 ## 3. Tower of Babel
 
-This is the last of the great rebellions and it left man in a truly depraved state. Man is scattered across the earth, losing the divine language of God, and placed under the rule of territorial pagan gods.
+This is the last of the three great rebellions and it left man in a truly depraved state. Man was then scattered across the earth, losing the divine language of God, and placed under the rule of territorial spiriys (pagan gods).
 
 !!! quote "Genesis 11:1-9"
     Now the whole earth had one language and one speech. And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar, and they dwelt there. Then they said to one another, “Come, let us make bricks and bake them thoroughly.” They had brick for stone, and they had asphalt for mortar. And they said, “Come, let us build ourselves a city, and a tower whose top is in the heavens; let us make a name for ourselves, lest we be scattered abroad over the face of the whole earth.”
     
     But the Lord came down to see the city and the tower which the sons of men had built. And the Lord said, “Indeed the people are one and they all have one language, and this is what they begin to do; now nothing that they propose to do will be withheld from them. Come, let Us go down and there confuse their language, that they may not understand one another’s speech.” So the Lord scattered them abroad from there over the face of all the earth, and they ceased building the city. Therefore its name is called Babel, because there the Lord confused the language of all the earth; and from there the Lord scattered them abroad over the face of all the earth.
 
-This rebellion is multifaceted, the descendants of Noah ignored the command from the Lord to be fruitful and multiply over the face of the earth.
+This rebellion was multifaceted, the descendants of Noah ignored the command from the Lord to be fruitful and multiply over the face of the earth.
 As such they lost the divine tongue, the original language spoken by Adam to God, a language so powerful that,
 
 > nothing that they propose to do will be withheld from them
 
-This moment further changes cosmology, splitting up the world into nations, each with created spirits as overseers. Principalities and Dominions are now roles fulfilled by the heavenly hosts who become the pagan gods of the old and new testament.
-Man has now fallen into depravity, placed beneath the created spirits of this world. Mankind becomes nothing but the playthings of demons and pagan gods.
+The consequences of this rebellion further changed cosmology, splitting the world into nations, each with created spirits as overseers. Principalities and Dominions became roles fulfilled by the heavenly hosts, that is, the pagan gods of the old and new testament.
+Man has now fallen into depravity, placed as low as the animals, *beneath* the created spirits of this world. Mankind, originally created in the image and likeness of God, became nothing but the playthings of demons and pagan gods.
 
 
 
@@ -76,12 +75,13 @@ Man has now fallen into depravity, placed beneath the created spirits of this wo
 
 Similar to the three great rebellions, there is not one but three stages of redemption, restoring man to do God's will.
 And just as the rebellions were continual and ongoing, so too is the path of redemption.
+And just as the rebellions led to dramatic changes in cosmology, so too does redemption.
 
 
 
 ## 3. Israel
 
-The earth had been divided amongst the pagan gods, each with varying degrees of rebellion from God.
+The earth had been divided amongst the pagan gods, each with varying degrees of rebellion against God.
 Yet the Lord of Spirits, the one true God, descended into the world to make a nation from His chosen people.
 
 !!! quote "Psalm 82"
@@ -95,10 +95,10 @@ Yet the Lord of Spirits, the one true God, descended into the world to make a na
     
     Arise, O God, judge the earth; For You shall inherit all nations.
 
-This is one of the most fascinating sections in the Bible. Our modern view has difficulty interpreting this, but the ancient view had no issue interpreting passages like Psalm 82. 
+This is one of the most fascinating passages in the Bible. Our modern view has difficulty interpreting this and we often ignore it despite its obvious importance, but the ancient view had no issue interpreting passages like Psalm 82. 
 There were many gods (heavenly hosts), each given a territory to rule over. 
 These are the dominions and principalities. 
-And starting with Israel, the one true God placed himself directly into the world, making way for the messiah.
+And then starting with Israel, the one true God placed himself directly into the world, making way for the messiah.
 
 > For You shall inherit all nations.
 
@@ -112,6 +112,9 @@ Mankind is offered salvation.
 
 > He is risen
 
+The Holy Spirit is now with man, pointing us to Christ, to salvation. Man is no longer beneath the demons and dark powers, but with Christ we rise towards theosis (a return to our original cosmology).
+
+
 
 ## 1. Lord of Lords
 
@@ -119,9 +122,11 @@ Mankind is offered salvation.
     Now I saw heaven opened, and behold, a white horse. And He who sat on him was called Faithful and True, and in righteousness He judges and makes war. His eyes were like a flame of fire, and on His head were many crowns. He had a name written that no one knew except Himself. He was clothed with a robe dipped in blood, and His name is called The Word of God. And the armies in heaven, clothed in fine linen, white and clean, followed Him on white horses. Now out of His mouth goes a sharp sword, that with it He should strike the nations. And He Himself will rule them with a rod of iron. He Himself treads the winepress of the fierceness and wrath of Almighty God. And He has on His robe and on His thigh a name written:
     
     KING OF KINGS AND
+    
     LORD OF LORDS.
 
-In the end, death is defeated, man is redeemed and has dominion over all of creation, including the angels.
+In the end, death is defeated, man has dominion over all of creation, including the angels.
+The right cosmic order is restored, such that man is *very good* in the sight of God.
 
 > thy will be done on earth as it is in heaven.
 
