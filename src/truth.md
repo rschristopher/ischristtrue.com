@@ -43,7 +43,7 @@ When we seek truth,
 ## Seeking Truth 
 
 In our
- [modern](../modern-views/)
+ [modern](modern-views/index.md)
  worldview we often imagine that
  objective truth can be
  found merely through
@@ -181,7 +181,7 @@ This should be a simple question,
  is there objective knowable truth?
 Does truth exist?
 
-In the [modern view](../modern-views/),
+In the [modern view](modern-views/index.md),
  there is no objective knowable truth.
 There are word games.
 There is a cascade of unconsciously 
@@ -288,7 +288,7 @@ And you certainly don't live in a
  universe.
 
 The postmodern "deconstructions" of
- [modern views](../modern-views/)
+ [modern views](modern-views/index.md)
  will yield absurdity,
  but they are still apt critiques
  of the rationalism we see in
@@ -323,7 +323,7 @@ Something is true if it is objectively true,
  and knowledge of this objectivity
  is what brings people to "the Truth".
 
-[Modern views](../modern-views/)
+[Modern views](modern-views/index.md)
  frame
  truth as an attribute,
  that something is either true or it is not.
@@ -333,7 +333,7 @@ But in practice,
 We once understood this in our culture,
  that truth is revealed to you personally.
 
-[Ancient views](../ancient-views/)
+[Ancient views](ancient-views/index.md)
  understood truth as a spirit,
  which means Truth was
  something akin to a person.
@@ -592,7 +592,7 @@ You might object to the above
 Yet the entire field of engineering sits atop an *assumption* of a knowable objective truth (and implicit moral meaning), a metaphysical claim, a non-reductionist answer to the meaning of life -- and we all know this.
 Engineering cannot exist independently without a foundation of knowable truth (including the math that explains aerodynamic lift).
 How strange that 
- our [modern view](../modern-views)
+ our [modern view](modern-views/index.md)
  would only be confident in
  the fruits but not the tree
  from which they grow.
