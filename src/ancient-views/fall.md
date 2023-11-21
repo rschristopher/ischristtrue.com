@@ -53,12 +53,12 @@ This is the last of the three great rebellions and it left man in a truly deprav
     
     But the Lord came down to see the city and the tower which the sons of men had built. And the Lord said, “Indeed the people are one and they all have one language, and this is what they begin to do; now nothing that they propose to do will be withheld from them. Come, let Us go down and there confuse their language, that they may not understand one another’s speech.” So the Lord scattered them abroad from there over the face of all the earth, and they ceased building the city. Therefore its name is called Babel, because there the Lord confused the language of all the earth; and from there the Lord scattered them abroad over the face of all the earth.
 
-This rebellion was multifaceted, the descendants of Noah ignored the command from the Lord to be fruitful and multiply over the face of the earth.
+The descendants of Noah ignored the command from the Lord to be fruitful and multiply over the face of the earth.
 As such they lost the divine tongue, the original language spoken by Adam to God, a language so powerful that,
 
 > nothing that they propose to do will be withheld from them
 
-The consequences of this rebellion further changed cosmology, splitting the world into nations, each with created spirits as overseers. Principalities and Dominions became roles fulfilled by the heavenly hosts, that is, the pagan gods of the old and new testament.
+The consequences of this rebellion further changed cosmology, splitting the world into nations, each with its own created spirits as overseers. Powers, Principalities and Dominions became roles fulfilled by the heavenly hosts, that is, the pagan gods of the old and new testament.
 Man has now fallen into depravity, placed as low as the animals, *beneath* the created spirits of this world. Mankind, originally created in the image and likeness of God, became nothing but the playthings of demons and pagan gods.
 
 
@@ -126,7 +126,7 @@ The Holy Spirit is now with man, pointing us to Christ, to salvation. Man is no 
     LORD OF LORDS.
 
 In the end, death is defeated, man has dominion over all of creation, including the angels.
-The right cosmic order is restored, such that man is *very good* in the sight of God.
+The right cosmic order is restored, such that man becomes *very good* in the sight of God.
 
 > thy will be done on earth as it is in heaven.
 
