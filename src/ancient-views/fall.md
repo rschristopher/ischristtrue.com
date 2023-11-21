@@ -46,7 +46,7 @@ In fact, the spirits of dead Nephilim were understood as [demons](angels-demons.
 
 ## 3. Tower of Babel
 
-This is the last of the three great rebellions and it left man in a truly depraved state. Man was then scattered across the earth, losing the divine language of God, and placed under the rule of territorial spiriys (pagan gods).
+This is the last of the three great rebellions and it left man in a truly depraved state. Man was then scattered across the earth, losing the divine language of God, and placed under the rule of territorial spirits (pagan gods).
 
 !!! quote "Genesis 11:1-9"
     Now the whole earth had one language and one speech. And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar, and they dwelt there. Then they said to one another, “Come, let us make bricks and bake them thoroughly.” They had brick for stone, and they had asphalt for mortar. And they said, “Come, let us build ourselves a city, and a tower whose top is in the heavens; let us make a name for ourselves, lest we be scattered abroad over the face of the whole earth.”
