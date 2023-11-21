@@ -1,6 +1,6 @@
 # Fall of Man
 
-Modern Christians tend to view ***the*** *fall* -- as a single act rebellion 
+Modern Christians tend to view ***the*** *fall* -- as a single act of rebellion 
 -- but in Genesis there is not one but three distinct rebellions against God, each with dire consequences for man and the created order (the cosmos).
 
 The full interpretation of these rebellions has been lost in our [modern views](../../modern-views/),
