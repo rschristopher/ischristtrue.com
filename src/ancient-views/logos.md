@@ -28,7 +28,7 @@ None of these make much sense, however, if we recognize the etymological root *l
 !!! info "Logia suffix"
     * trilogy -- 3 stories
     * technology -- techne (art, skill, technique) stories
-    * apology -- from/of the word/story, e.g., Christian apologetics
+    * apology -- from/of the word. We still have this same connotation with  "apologetics" as in Christian Apologetics.
     
     We can even get a better sese  of the supposed "study of" scholastic disciplines,
     
