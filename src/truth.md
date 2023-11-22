@@ -233,10 +233,9 @@ But aha, you may be asking,
  what about the ancient Romans
  and their concept of a divine truth,
  *veritas*?
+Or the stoics?
 Or the ancient Greek philosophers?
-Plato certainly had a lot to say
- on this
- matter.
+Plato and Aristotle certainly had a lot to say on this matter.
 Christianity might have copied 
  the concept of an objective
  knowable truth, but they did
@@ -247,14 +246,16 @@ Except that *veritas* was a
  of Prometheus --
  not exactly what we mean when
  talking about *truth*.
-And
+The stoics referred to the
+ [anima mundi](https://en.m.wikipedia.org/wiki/Anima_mundi) and a divine logos that brought the universe into being.
+And Plato referred to a
+ [demiurge](https://en.m.wikipedia.org/wiki/Demiurge) and
 *platonic forms*
- hardly bear a resemblance to
+ which hardly bear a resemblance to
  what we mean when talking
  about objective knowable truth.
-Whether we like it or not,
- Christianity is what brought us
- the very concept of
+Aristotle recognized that a first principle of *logos* is necessarily unexplainable (for if a first principle had a causal explanation than that cause would be the first principle).
+Ultimately, these concepts, especially of *logos* as *first principle* synthesized with equivalent Hebrew thought, and formed the basis of Christianity and what we mean today by 
  *objective knowable truth*.
 
 To be clear, if you claim to be a
@@ -284,22 +285,21 @@ You don't live in an absurdist universe --
  accepting absurdism is to
  abandon reason and will.
 And you certainly don't live in a 
- postmodern
+ postmodernist
  universe.
 
 The postmodern "deconstructions" of
  [modern views](modern-views/index.md)
  will yield absurdity,
  but they are still apt critiques
- of the rationalism we see in
+ of the prideful rationalism we see in
  secular culture.
 There does indeed appear to be a patriarchal hierarchy
  which is the foundation for any and all
  objective truth claims.
 It indeed can't be otherwise.
 The patriarchy, perhaps, is real!
-And yet it doesn't seem to be man-made,
- we're talking about the fabric of reality.
+And yet it doesn't seem to be man-made, in fact it's the fabric of reality.
 It's everywhere the empiricists look.
 On some level the postmodernists
  know this, and still reject it
