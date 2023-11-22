@@ -20,15 +20,15 @@ This can be demonstrated by the fact many -ology suffix words make no reference 
 
 !!! question "the study of?"
     * trilogy -- the study of 3?
-    * technology -- the study of techne?
-    * apology -- the study of what exactly?
+    * technology -- the study of techne (art, skill, technique)?
+    * apology -- the study of from/of?
 
-None of these make sense, however, if we recognize the ancient root *-logia* then these all make a lot more sense, e.g.,
+None of these make much sense, however, if we recognize the etymological root *logia* then these all make a lot more sense, e.g.,
 
 !!! info "Logia suffix"
     * trilogy -- 3 stories
     * technology -- techne (art, skill, technique) stories
-    * apology -- from/of the word, e.g., Christian apologetics
+    * apology -- from/of the word/story, e.g., Christian apologetics
     
     We can even get a better sese  of the supposed "study of" scholastic disciplines,
     
