@@ -136,7 +136,7 @@ And then like a pendulum
 Maybe 
  Buddhists
  have knowable objective truth.
-Or maybe any of the various
+Or maybe one of the various
  [gurus](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi)
  or 
  [antigurus](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti).
