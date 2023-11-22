@@ -26,20 +26,23 @@ This can be demonstrated by the fact many -ology suffix words make no reference 
 None of these make sense, however, if we recognize the ancient root *-logia* then these all make a lot more sense, e.g.,
 
 !!! info "Logia suffix"
-    * trilogy -- the 3 stories
-    * technology -- the stories of techne (art, skill, technique)
-    * apology -- "from" the word/story, e.g., Christian apologetics
+    * trilogy -- 3 stories
+    * technology -- techne (art, skill, technique) stories
+    * apology -- from/of the word, e.g., Christian apologetics
     
-    We can even get a better sence of the supposed "study of" disciplines,
+    We can even get a better sese  of the supposed "study of" scholastic disciplines,
     
-    * cosmology -- story of the universe (order)
-    * geology -- story of the ground/soil
-    * eschatology -- the story of the end
-    * etymology -- the story of the original meaning of words
+    * cosmology -- the universe (order) story
+    * geology -- the ground/soil story
+    * eschatology -- the end story
+    * etymology -- the original meaning of words
 
-The ancient view of *Logia* dispels much of the confusion found in the modern view.
-Specifically because "study of" is a vain attempt to remove God and all that is divine and sacred,
-which of course attempts to make man into God, or to make nothingness into God.
+The ancient understanding of *Logia* dispels much of the confusion found in the modern view.
+Specifically because "study of" is a vain attempt to remove God and His revelatory truth, replacing it with man making a "study of" nature as if man were God.
+Once again, echoes of that snake in the garden,
+
+> Ye shall be as gods
+
 
 
 
