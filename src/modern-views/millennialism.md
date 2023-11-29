@@ -1,8 +1,8 @@
 # Millennialism
 
-Millemmialism is a [modern view](index.md) concerning a future utopian period prior to the final eternal state  (last judgment).
+Millemmialism (or Chiliasm) is a [modern view](index.md) concerning a future utopian period prior to the final eternal state  (last judgment).
 This is a common view in modern Christian denominations (especially in the west).
-To be clear, this is not an [ancient view](../ancient-views/index.md) although there was traces of chiliastic ideology in the ancient world.
+To be clear, this is not an [ancient view](../ancient-views/index.md) although there were traces of chiliastic ideology in the ancient world.
 
 
 ## χίλια ἔτη (chilia etē)
@@ -77,11 +77,11 @@ it is at worst an eschatological error.
 
  # amillenialism
 
- like "partial preterism", we perhaps shouldn't dignify Millennialism as doctrine, but it's arguably not heretical...
+like "partial preterism", we perhaps shouldn't dignify Millennialism as doctrine, but it's arguably not heretical...
 
- e.g., we don't say apelagianism, anestorianism, or aarianism, or we don't call Calvinism aarminianism.
+e.g., we don't say apelagianism, anestorianism, or aarianism, or we don't call Calvinism aarminianism.
 
- amillenialism should perhaps just be called "biblical view" as it requires no eisegesis and can ve understood exegetically.
+amillenialism should perhaps just be called "biblical view" or the "orthodox view" as it requires no eisegesis and can ve understood exegetically.
 
 
 
