@@ -1,16 +1,16 @@
 # Millennialism
 
-Millennialism (or Chiliasm) is a [modern view](index.md) concerning a future utopian period, usually a thousand years (literal *millennium*).
-This is a view in modern Christian denominations (especially in the west).
+Millennialism is a [modern view](index.md) about a future utopian period, usually a thousand years (a literal *millennium*).
+This is a common view in modern Christian denominations (especially in the west).
 We also see echoes of millennialism through western culture, from the supposed "Third Reich" in Nazi Germany to various new age and transcendental utopian movements (e.g., the *age of Aquarius*).
-To be clear, these are not [ancient views](../ancient-views/index.md) although there were traces of chiliastic ideology in the ancient world.
+To be clear, these are not [ancient views](../ancient-views/index.md) although there were traces of this ideology in the ancient world.
 
 
 ## χίλια ἔτη (chilia etē)
 
 Literally, *thousand years*, hence millennialism is also known as *chiliasm* (pronounced kĭl′ē-ăz″əm) from the Greek "chilia" (thousand).
 Chiliastic views originated in the western scholastic period from interpretations of Revelation 20:1-10 (Apokalypsis).
-You'll notice **τὰ χίλια ἔτη** (the thousand years) several times in the original Greek Apokalypsis 20:1-10 (Revelation 20:1-10),
+You'll notice **τὰ χίλια ἔτη** (the thousand years) several times in the original Greek in Apokalypsis 20:1-10 (Revelation 20:1-10),
 
 
 ??? quote "Ἀποκάλυψις (Apokalypsis) 20:1-10"
@@ -30,7 +30,7 @@ You'll notice **τὰ χίλια ἔτη** (the thousand years) several times in
     And when **the thousand years** are expired, Satan shall be loosed out of his prison, And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom is as the sand of the sea.
 
 This relatively short passage has spawned countless chiliastic ideologies, social movements, and (false) predictions, including an entire genre of modern fantasy writing.
-This is all despite explicit warnings in that same original text not to add or remove anything, which is a clear warning against modern eisegesis,
+This is all despite explicit warnings in that same Book of Revelation not to add or remove anything, which is a clear warning against modern eisegesis,
 
 !!! warning "Revelation 22:18-19"
     I testify to everyone who hears the words of prophecy in this book: If anyone adds to them, God will add to him the plagues described in this book. And if anyone takes away from the words of this book of prophecy, God will take away his share in the tree of life and the holy city, which are described in this book.
@@ -39,18 +39,36 @@ This is all despite explicit warnings in that same original text not to add or r
 
 ## Modern Eisegesis
 
-While it's not surprising that non-Christians would ignore the warning in Revelation 22:18, it is unfortunate that many Christians similarly dispense with this warning and add to the words of the Book of Revelation with various moderm eisegesis, that is, interpreting the passage with concepts that simply did not exist in the ancient world
+While it's not surprising that non-Christians would ignore the warning from Revelation 22:18, it is unfortunate that many Christians dispense with this warning and add to the words of the Book of Revelation with various moderm eisegesis, that is, interpreting the passage using modern concepts that simply did not exist in the ancient world
 (specifically in the ancient Greek text from when this book was written).
 
-For example, the notion of a precise 1,000 years did not exist in the original passage. Zero as a number and a placeholder did not exist. And perhaps coincidentally, when zero was adopted in the west, that was about the same time that chiliasm emerged (both during the early scholastic period).
+For example, the notion of a precise 1,000 years did not exist in the original passage. Zero as a number and a placeholder did not exist. 
+And perhaps coincidentally, when zero was finally adopted in the west, that was about the same time that chiliasm emerged (during the early scholastic period).
 
-Prior to that, and through all of church history, "chilia etē" was understood symbolically as an age or an era.
-The same way we say "back in the day" as referring to a period of time and not a literal 1 day, "ta chilia etē" was referring to the messianic age.
+Prior to that, and through all of church history, ***chilia etē*** was understood symbolically as an age or an era.
+The same way we say "back in the day" to refer to a period of time and not a literal 1 day, ***ta chilia etē*** was referring to an age, specifically the *messianic age*.
 The interesting part of this passage was not the thousand years, but rather the tribulations, because it directly referenced old testament messianic prophecies (such as in the Book of Daniel) -- which would have been common knowledge to the people in the early church.
-To the early Christians, this era known as "ta chilia etē" was the messianic age, the penultimate age before final judgment, the time between the first and second coming of Christ.
+To the early Christians, this era known as *ta chilia etē* **was** the messianic age, the penultimate age before final judgment, the time between the first and second coming of Christ.
 
 
-There are many forms of millennialism, and all require a separation of the current age from the millennium, and hence chiliastic literature typically refers to a "church age" as our current age, rather than "messianic age".
+The earliest form of modern millennialism points back to the utopian views of 
+ [the Joachimites](https://en.wikipedia.org/wiki/Joachimites) 
+ which arose in the thirteenth century, proposing
+ a new "age of the Holy Spirit" heralded by 
+ [Francis of Assisi](https://en.wikipedia.org/wiki/Francis_of_Assisi)
+ such that in the year 1260 the Christian age would end and a utopian era would arrive.
+while condemned by the church this view influenced and continues to influence western culture, 
+ e.g.,
+ the modern new age movement and the so-called
+ [Age of Aquarius](https://en.wikipedia.org/wiki/Age_of_Aquarius).
+However, the most popular form of modern millennialism arose in the 19th century, both from the
+ [Bible Student movement](https://en.wikipedia.org/wiki/Bible_Student_movement),
+ a precursor to the [Jehovah's Witnesses](https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses),
+ as well as to the [dispensationalist](https://en.wikipedia.org/wiki/Dispensationalism)
+ views promoting a "pre-tribulation [rapture](https://en.wikipedia.org/wiki/Rapture)".
+
+
+, and all require a separation of the current age from the millennium, and hence chiliastic literature typically refers to a "church age" as our current age, rather than "messianic age".
 
 
 
