@@ -1,14 +1,16 @@
 # Millennialism
 
-Millemmialism (or Chiliasm) is a [modern view](index.md) concerning a future utopian period prior to the final eternal state  (last judgment).
+Millemmialism (or Chiliasm) is a [modern view](index.md) concerning a future utopian period, usually a thousand years (literal millennium).
 This is a common view in modern Christian denominations (especially in the west).
-To be clear, this is not an [ancient view](../ancient-views/index.md) although there were traces of chiliastic ideology in the ancient world.
+And this view echoes through western culture, from the supposed "Third Reich" in Nazi Germany to various new age and transcendental utopian movements (e.g., age of Aquarius).
+To be clear, these are not [ancient views](../ancient-views/index.md) although there were traces of chiliastic ideology in the ancient world.
 
 
 ## χίλια ἔτη (chilia etē)
 
-Literally, *thousand years*, hence millennialism is also known as *chiliasm* (pronounced kĭl′ē-ăz″əm).
-You'll notice **τὰ χίλια ἔτη** several times in the original Greek Apokalypsis 20 (Revelation 20),
+Literally, *thousand years*, hence millennialism is also known as *chiliasm* (pronounced kĭl′ē-ăz″əm) from the Greek "chilia" (thousand).
+Chiliastic views originate in western scholasticism from interpretations of a specific passage in the Book of Revelation (Apokalypsis), specifically passage 20:1-10.
+You'll notice **τὰ χίλια ἔτη** (the thousand years) several times in the original Greek Apokalypsis 20:1-10 (Revelation 20:1-10),
 
 
 ??? quote "Ἀποκάλυψις (Apokalypsis) 20:1-10"
@@ -18,7 +20,7 @@ You'll notice **τὰ χίλια ἔτη** several times in the original Greek A
 
     Καὶ ὅταν τελεσθῇ **τὰ χίλια ἔτη**, λυθήσεται ὁ Σατανᾶς ἐκ τῆς φυλακῆς αὐτοῦ, καὶ ἐξελεύσεται πλανῆσαι τὰ ἔθνη τὰ ἐν ταῖς τέσσαρσι γωνίαις τῆς γῆς, τὸν Γὼγ καὶ Μαγώγ, συναγαγεῖν αὐτοὺς εἰς τὸν πόλεμον, ὧν ὁ ἀριθμὸς αὐτῶν ὡς ἡ ἄμμος τῆς θαλάσσης.
 
-And this is typically translated as **the thousand years** in English,
+**τὰ χίλια ἔτη** is typically translated as **the thousand years** in English,
 
 ???+ quote "Revelation 20:1-10"
     And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand. And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a **thousand years**, And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till **the thousand years** should be fulfilled: and after that he must be loosed a little season.
@@ -27,10 +29,11 @@ And this is typically translated as **the thousand years** in English,
 
     And when **the thousand years** are expired, Satan shall be loosed out of his prison, And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom is as the sand of the sea.
 
-
+This relatively short passage has spawned countless chiliastic ideologies and fantasies, including an entire genre of story telling.
+This is all despite explicit warnings in that same original text not to 
 
 ancient chiliastic views were infrequent and we're condemned, most were a reaction to gnosticism in the ancient world. Specifically to defend the pharisaic incarnation view..
-The modern version of chiliasm is simily that it defends the secular mechanistic view.. that is, it embraces a literal mechanistic interpretation of the millennium and the messianic age.
+The modern version of chiliasm is similar in that it defends the secular mechanistic view.. that is, it embraces a literal mechanistic interpretation of the millennium and the messianic age.
 
 There are many forms of millennialism, and all require a separation of the messianic age from the millennium, and hence chiliastic literature refers to the "church age" as our current age, rather than "messianic age", which is the "millennium" usually taken literally from a modern worldview.
 
