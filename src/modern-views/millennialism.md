@@ -2,14 +2,14 @@
 
 Millennialism (or Chiliasm) is a [modern view](index.md) concerning a future utopian period, usually a thousand years (literal *millennium*).
 This is a view in modern Christian denominations (especially in the west).
-We also see Millennialism echo through modern western culture, from the supposed "Third Reich" in Nazi Germany to various new age and transcendental utopian movements (e.g., age of Aquarius).
+We also see millennialism echo through modern western culture, from the supposed "Third Reich" in Nazi Germany to various new age and transcendental utopian movements (e.g., age of Aquarius).
 To be clear, these are not [ancient views](../ancient-views/index.md) although there were traces of chiliastic ideology in the ancient world.
 
 
 ## χίλια ἔτη (chilia etē)
 
 Literally, *thousand years*, hence millennialism is also known as *chiliasm* (pronounced kĭl′ē-ăz″əm) from the Greek "chilia" (thousand).
-Chiliastic views originate in western scholasticism from interpretations of a specific passage in the Book of Revelation (Apokalypsis), specifically passage 20:1-10.
+Chiliastic views originated in the western scholastic period from interpretations of Revelation 20:1-10 (Apokalypsis).
 You'll notice **τὰ χίλια ἔτη** (the thousand years) several times in the original Greek Apokalypsis 20:1-10 (Revelation 20:1-10),
 
 
@@ -32,24 +32,25 @@ You'll notice **τὰ χίλια ἔτη** (the thousand years) several times in
 This relatively short passage has spawned countless chiliastic ideologies, social movements, and (false) predictions, including an entire genre of modern fantasy writing.
 This is all despite explicit warnings in that same original text not to add or remove anything, which is a clear warning against modern eisegesis,
 
-!!! quote "Revelation 22:18-19"
+!!! warning "Revelation 22:18-19"
     I testify to everyone who hears the words of prophecy in this book: If anyone adds to them, God will add to him the plagues described in this book. And if anyone takes away from the words of this book of prophecy, God will take away his share in the tree of life and the holy city, which are described in this book.
 
 
 
 ## Modern Eisegesis
 
-While it's not surprising that non-Christians would ignore the warning in Revelation 22:18, it is unfortunate that many Christians similarly dispense with this warning and add to the words of the Book of Revelation with various moderm eisegesis, that is, interpreting the passage with concepts that simply did not exist in the ancient world (in ancient Greek when this book was written).
+While it's not surprising that non-Christians would ignore the warning in Revelation 22:18, it is unfortunate that many Christians similarly dispense with this warning and add to the words of the Book of Revelation with various moderm eisegesis, that is, interpreting the passage with concepts that simply did not exist in the ancient world
+(specifically in the ancient Greek text from when this book was written).
 
-For example, the notion of a precise 1,000 years did not exist in that passage. Zero as a number and a placeholder did not exist. And perhaps coincidentally, whem zero was adopted in the west, that was about the same time that modern chiliasm emerged (in the early scholastic period).
+For example, the notion of a precise 1,000 years did not exist in the original passage. Zero as a number and a placeholder did not exist. And perhaps coincidentally, when zero was adopted in the west, that was about the same time that chiliasm emerged (both during the early scholastic period).
 
 Prior to that, and through all of church history, "chilia etē" was understood symbolically as an age or an era.
-The same way we say "back in the day" as referring to a period of time and not a literal 1 day, "chilia etē" was referring to a future age.
+The same way we say "back in the day" as referring to a period of time and not a literal 1 day, "ta chilia etē" was referring to the messianic age.
 The interesting part of this passage was not the thousand years, but rather the tribulations, because it directly referenced old testament messianic prophecies (such as in the Book of Daniel) -- which would have been common knowledge to the people in the early church.
 To the early Christians, this era known as "ta chilia etē" was the messianic age, the penultimate age before final judgment, the time between the first and second coming of Christ.
 
 
-There are many forms of millennialism, and all require a separation of the messianic age from the millennium, and hence chiliastic literature refers to the "church age" as our current age, rather than "messianic age".
+There are many forms of millennialism, and all require a separation of the current age from the millennium, and hence chiliastic literature typically refers to a "church age" as our current age, rather than "messianic age".
 
 
 
