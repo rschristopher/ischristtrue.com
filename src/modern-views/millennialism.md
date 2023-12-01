@@ -2,7 +2,7 @@
 
 Millennialism (or Chiliasm) is a [modern view](index.md) concerning a future utopian period, usually a thousand years (literal *millennium*).
 This is a view in modern Christian denominations (especially in the west).
-We also see millennialism echo through modern western culture, from the supposed "Third Reich" in Nazi Germany to various new age and transcendental utopian movements (e.g., age of Aquarius).
+We also see echoes of millennialism through western culture, from the supposed "Third Reich" in Nazi Germany to various new age and transcendental utopian movements (e.g., the *age of Aquarius*).
 To be clear, these are not [ancient views](../ancient-views/index.md) although there were traces of chiliastic ideology in the ancient world.
 
 
