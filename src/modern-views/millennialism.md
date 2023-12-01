@@ -47,6 +47,7 @@ And perhaps coincidentally, when zero was finally adopted in the west, that was 
 
 Prior to that, and through all of church history, ***chilia etē*** was understood symbolically as an age or an era.
 The same way we say "back in the day" to refer to a period of time and not a literal 1 day, ***ta chilia etē*** was referring to an age, specifically the *messianic age*.
+
 The interesting part of this passage was not the thousand years, but rather the tribulations, because it directly referenced old testament messianic prophecies (such as in the Book of Daniel) -- which would have been common knowledge to the people in the early church.
 To the early Christians, this era known as *ta chilia etē* **was** the messianic age, the penultimate age before final judgment, the time between the first and second coming of Christ.
 
