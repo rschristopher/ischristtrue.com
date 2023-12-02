@@ -1,7 +1,7 @@
 # Millennialism
 
-Millennialism is a [modern view](index.md) about a future utopian period, usually a thousand years (a literal *millennium*).
-This is a common view in modern Christian denominations (especially in the west).
+Millennialism is a [modern view](index.md) of a future utopian period, usually a thousand years (a literal *millennium*).
+This is a common view in modern Christian denominations (especially amongst protestants).
 We also see echoes of millennialism through western culture, from the supposed "Third Reich" in Nazi Germany to various new age and transcendental utopian movements (e.g., the *age of Aquarius*).
 To be clear, these are not [ancient views](../ancient-views/index.md) although there were traces of this ideology in the ancient world.
 
@@ -39,8 +39,8 @@ This is all despite explicit warnings in that same Book of Revelation not to add
 
 ## Modern Eisegesis
 
-While it's not surprising that non-Christians would ignore the warning from Revelation 22:18, it is unfortunate that many Christians dispense with this warning and add to the words of the Book of Revelation with various moderm eisegesis, that is, interpreting the passage using modern concepts that simply did not exist in the ancient world
-(specifically in the ancient Greek text from when this book was written).
+While it's not surprising that non-Christians would ignore the warning from Revelation 22:18, it is unfortunate that many Christians dispense with this warning and add to the words of the Book of Revelation with moderm eisegesis, that is, interpreting the passage using modern concepts that simply did not exist in the ancient world
+(specifically from when this book was written).
 
 For example, the notion of a precise 1,000 years did not exist in the original passage. Zero as a number and a placeholder did not exist. 
 And perhaps coincidentally, when zero was finally adopted in the west, that was about the same time that chiliasm emerged (during the early scholastic period).
@@ -48,10 +48,10 @@ And perhaps coincidentally, when zero was finally adopted in the west, that was 
 Prior to that, and through all of church history, ***chilia etē*** was understood symbolically as an age or an era.
 The same way we say "back in the day" to refer to a period of time and not a literal 1 day, ***ta chilia etē*** was referring to an age, specifically the *messianic age*.
 
-The interesting part of this passage was not the thousand years, but rather the tribulations, because it directly referenced old testament messianic prophecies (such as in the Book of Daniel) -- which would have been common knowledge to the people in the early church.
+The interesting part of this passage was not the thousand years, but rather the referenced old testament messianic prophecies (such as from the Book of Daniel) -- which would have been common knowledge to the people in the early church.
 To the early Christians, this era known as *ta chilia etē* **was** the messianic age, the penultimate age before final judgment, the time between the first and second coming of Christ.
 
-Contrast this with millennialist views which do not reference the *messianic age* at all, because they need a separate age from the literal millennium. In practice they'll refer to our current age as the *"church age"* which is separate from the *messianic age*.
+Contrast this with modern millennialist views which do not reference the *messianic age* at all, because they need a separate age from the millennium. In practice they'll refer to our current age as the *"church age"* which is separate from the *messianic age*.
 
 The earliest form of this kind of modern millennialism points back to the utopian views of 
  [the Joachimites](https://en.wikipedia.org/wiki/Joachimites) 
@@ -59,7 +59,7 @@ The earliest form of this kind of modern millennialism points back to the utopia
  a new "age of the Holy Spirit" heralded by 
  [Francis of Assisi](https://en.wikipedia.org/wiki/Francis_of_Assisi)
  such that in the year 1260 the Christian age would end and a utopian era would arrive.
-while condemned by the church this view influenced and continues to influence modern culture, 
+While condemned by the church this view influenced and continues to influence modern culture, 
  e.g., we see this clearly in
  the modern new age movement and the so-called
  [Age of Aquarius](https://en.wikipedia.org/wiki/Age_of_Aquarius).
@@ -70,13 +70,17 @@ However, the most prevalent form of millennialism arose in the 19th century, bot
  views promoting a "pre-tribulation [rapture](https://en.wikipedia.org/wiki/Rapture).
 
 
+These chiliastic views have increased in popularity and are typically categorized based on *when* Christ will return:
 
 
 
 
 ### premillennialism
 
-Christ will return before the millennium, after the 7 years of tribulation.
+This is considered the "historic premillennial" view, that Christ will return before the millennium, after the 7 years of tribulation.
+Believers and non-believers will suffer during the years of tribulation and afterwards believers will be resurrected in glorified bodies.
+Christ will reign on earth for a thousand years alongside the immortal resurrected believers, who will share the earth with non-believers.
+This will continue till the millennium is over, and then after a final rebellion amongst non-believers, believers will enter into a new earth.
 
 
 
@@ -84,7 +88,11 @@ Christ will return before the millennium, after the 7 years of tribulation.
 
 ### pre-tribulation rapture
 
-Christ will return before the millennium and before the 7 years of tribulation.
+This is the
+ dispensationalist
+ view that has become common in modern times.
+ It is similar to the classic premillennial view except that believers will not experience tribulation but will be caught up in the rapture.
+This view also holds that the millennium will be for Israel, to rule over the earth with Christ for a thousand years.
 
 
 
@@ -93,7 +101,7 @@ Christ will return before the millennium and before the 7 years of tribulation.
 
 ### postmillenialism
 
-Christ will return after the millennium, which is separate from the "church age".
+In this view, the millennium is separate from the "church age" and Christ will only return after the millennium. We may or may not be living in the millennium, and the difference between "church age" and millennium is that the millennium will see the gradual dominance of Christianity across the earth.
 
 
 
@@ -102,11 +110,11 @@ Christ will return after the millennium, which is separate from the "church age"
 
 ### amillenialism
 
-like "partial preterism", we perhaps shouldn't dignify Millennialism as doctrine, but it's arguably not heretical...
+like "partial preterism", we perhaps shouldn't dignify millennialism as a category.
 
 e.g., we don't say apelagianism, anestorianism, or aarianism, and we don't call Calvinism "aarminianism".
 
-amillenialism should perhaps just be called the "biblical view" or the "orthodox view" as it requires no eisegesis and can be understood exegetically.
+amillenialism should perhaps just be called the "biblical view" or the "orthodox view" as it requires no modern eisegesis and can be understood exegetically.
 
 
 
