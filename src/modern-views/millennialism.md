@@ -67,7 +67,7 @@ However, the most prevalent form of millennialism arose in the 19th century, bot
  [Bible Student movement](https://en.wikipedia.org/wiki/Bible_Student_movement),
  a precursor to the [Jehovah's Witnesses](https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses),
  as well as protestant [dispensationalist](https://en.wikipedia.org/wiki/Dispensationalism)
- views promoting a "pre-tribulation [rapture](https://en.wikipedia.org/wiki/Rapture).
+ views promoting a "pre-tribulation [rapture](https://en.wikipedia.org/wiki/Rapture)".
 
 
 These chiliastic views have increased in popularity and are typically categorized based on *when* Christ will return:
