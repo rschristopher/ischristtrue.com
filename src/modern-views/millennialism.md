@@ -32,7 +32,7 @@ You'll notice **τὰ χίλια ἔτη** (the thousand years) several times in
 This relatively short passage has spawned countless chiliastic ideologies, social movements, and (false) predictions, including an entire genre of modern fantasy writing.
 This is all despite explicit warnings in that same Book of Revelation not to add or remove anything, which is a clear warning against modern eisegesis,
 
-!!! warning "Revelation 22:18-19"
+!!! danger "Revelation 22:18-19"
     I testify to everyone who hears the words of prophecy in this book: If anyone adds to them, God will add to him the plagues described in this book. And if anyone takes away from the words of this book of prophecy, God will take away his share in the tree of life and the holy city, which are described in this book.
 
 
