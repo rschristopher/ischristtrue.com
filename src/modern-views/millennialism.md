@@ -51,25 +51,24 @@ The same way we say "back in the day" to refer to a period of time and not a lit
 The interesting part of this passage was not the thousand years, but rather the tribulations, because it directly referenced old testament messianic prophecies (such as in the Book of Daniel) -- which would have been common knowledge to the people in the early church.
 To the early Christians, this era known as *ta chilia etē* **was** the messianic age, the penultimate age before final judgment, the time between the first and second coming of Christ.
 
+Contrast this with millennialist views which do not reference the *messianic age* at all, because they need a separate age from the literal millennium. In practice they'll refer to our current age as the *"church age"* which is separate from the *messianic age*.
 
-The earliest form of modern millennialism points back to the utopian views of 
+The earliest form of this kind of modern millennialism points back to the utopian views of 
  [the Joachimites](https://en.wikipedia.org/wiki/Joachimites) 
  which arose in the thirteenth century, proposing
  a new "age of the Holy Spirit" heralded by 
  [Francis of Assisi](https://en.wikipedia.org/wiki/Francis_of_Assisi)
  such that in the year 1260 the Christian age would end and a utopian era would arrive.
-while condemned by the church this view influenced and continues to influence western culture, 
- e.g.,
+while condemned by the church this view influenced and continues to influence modern culture, 
+ e.g., we see this clearly in
  the modern new age movement and the so-called
  [Age of Aquarius](https://en.wikipedia.org/wiki/Age_of_Aquarius).
-However, the most popular form of modern millennialism arose in the 19th century, both from the
+However, the most prevalent form of millennialism arose in the 19th century, both from the
  [Bible Student movement](https://en.wikipedia.org/wiki/Bible_Student_movement),
  a precursor to the [Jehovah's Witnesses](https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses),
- as well as to the [dispensationalist](https://en.wikipedia.org/wiki/Dispensationalism)
- views promoting a "pre-tribulation [rapture](https://en.wikipedia.org/wiki/Rapture)".
+ as well as protestant [dispensationalist](https://en.wikipedia.org/wiki/Dispensationalism)
+ views promoting a "pre-tribulation [rapture](https://en.wikipedia.org/wiki/Rapture).
 
-
-, and all require a separation of the current age from the millennium, and hence chiliastic literature typically refers to a "church age" as our current age, rather than "messianic age".
 
 
 
