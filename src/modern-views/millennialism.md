@@ -1,6 +1,6 @@
 # Millennialism
 
-Millennialism is a [modern belief](index.md) of a future utopian period, usually a thousand years (a literal *millennium*).
+Millennialism is a [modern view](index.md), a belief in a future utopian period, usually a thousand years (a literal *millennium*).
 This is a common view in modern Christian denominations (especially amongst protestants).
 We've seen echoes of millennialism through western culture, from the supposed "Third Reich" in Nazi Germany to various new age and transcendental utopian movements (e.g., the *age of Aquarius*).
 
