@@ -9,9 +9,8 @@ To be clear, these are not [ancient views](../ancient-views/index.md) although t
 
 ## χίλια ἔτη (chilia etē)
 
-Literally, *thousand years*, hence millennialism is also known as *chiliasm* (pronounced kĭl′ē-ăz″əm) from the Greek "chilia" (thousand).
-Chiliastic views originated in the western scholastic period from interpretations of Revelation 20:1-10 (Apokalypsis).
-You'll notice **τὰ χίλια ἔτη** (the thousand years) several times in the original Greek in Apokalypsis 20:1-10 (Revelation 20:1-10),
+Millennialism originated in the western scholastic period from interpretations of Revelation 20:1-10 (Apokalypsis in Greek).
+You'll notice **τὰ χίλια ἔτη** *(ta chilia etē)* several times in the original Greek in Apokalypsis 20:1-10 (Revelation 20:1-10). *Chilia etē* literally translates as *thousand years*, hence millennialism is also known as chiliasm (pronounced kĭl′ē-ăz″əm) from the Greek "chilia" (thousand).
 
 
 ??? quote "Ἀποκάλυψις (Apokalypsis) 20:1-10"
@@ -21,7 +20,7 @@ You'll notice **τὰ χίλια ἔτη** (the thousand years) several times in
 
     Καὶ ὅταν τελεσθῇ **τὰ χίλια ἔτη**, λυθήσεται ὁ Σατανᾶς ἐκ τῆς φυλακῆς αὐτοῦ, καὶ ἐξελεύσεται πλανῆσαι τὰ ἔθνη τὰ ἐν ταῖς τέσσαρσι γωνίαις τῆς γῆς, τὸν Γὼγ καὶ Μαγώγ, συναγαγεῖν αὐτοὺς εἰς τὸν πόλεμον, ὧν ὁ ἀριθμὸς αὐτῶν ὡς ἡ ἄμμος τῆς θαλάσσης.
 
-**τὰ χίλια ἔτη** is typically translated as **the thousand years** in English,
+**τὰ χίλια ἔτη** *(ta chilia etē)* is translated literally as **the thousand years** in English,
 
 ???+ quote "Revelation 20:1-10"
     And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand. And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a **thousand years**, And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till **the thousand years** should be fulfilled: and after that he must be loosed a little season.
@@ -62,7 +61,7 @@ The earliest form of this modern millennialism points back to the utopian views 
  such that in the year 1260 the Christian age would end and a utopian era would arrive.
 While condemned by the church this view influenced and continues to influence modern culture, 
  e.g., we see this clearly in
- the modern new age movement and the so-called
+ the modern new age movement, such as the so-called
  [Age of Aquarius](https://en.wikipedia.org/wiki/Age_of_Aquarius).
 However, the most prevalent form of millennialism arose in the 19th century, both from the
  [Bible Student movement](https://en.wikipedia.org/wiki/Bible_Student_movement),
