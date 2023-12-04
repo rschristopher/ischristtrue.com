@@ -164,7 +164,7 @@ An "amillenium" view is by definition *not* millennial.
 And perhaps we shouldn't dignify millennialism as a theological category.
 E.g., we don't call Calvinists "aArminians", nor do we refer to Augustine as "aPelagian", and we never refer to Orthodox Christian doctrine as "aNestorian" or "[aArian](https://m.youtube.com/watch?v=Dd7FixvoKBw&t=2s)".
 
-An amillenium view should perhaps just be called the "biblical view" or the "orthodox view" as it requires no eisegesis and can be understood exegetically.
+The amillenium view should perhaps just be called the "biblical view" or the "orthodox view" as it requires no eisegesis and can be understood exegetically.
 
 
 
