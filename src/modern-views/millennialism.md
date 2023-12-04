@@ -76,11 +76,16 @@ These modern chiliastic views have increased in popularity and are typically cat
 
 ### premillennium
 
-Christ will return *before* a literal 1,000 year period. Believers will be resurrected into immortal glorified bodies, and they will rule with Christ over the world.
-This will be a physical kingdom, literally alongside mortal non-believers.
-At the end the 1,000 years there will be a final rebellion followed by a final judgment, and a second resurrection (for the believers born during the literal 1,000 years).
+Christ would return *before* a literal 1,000 year period. 
+There would be no rapture, both believers and non-believers would suffer during a period of tribulation.
+Believers would be resurrected into immortal glorified bodies, and they would rule alongside Christ.
+This would be a physical kingdom alongside mortal non-believers.
 
-There would be no rapture, both believers and non-believers will suffer during the tribulation before Christ's second coming.
+At the end of the 1,000 years there would be a final rebellion followed by a final judgment, and a second resurrection (for the believers born during the millennium).
+
+!!! warning "eisegesis"
+    While not necessarily heretical, this view takes an eisegetic interpretation of *Revelation 20:1-10*, and assumes that the "throne" and the references to "the beast" are not from the *Old Testament* prophecies, and instead the "millennium age* will be a worldly kingdom of immortal Christians ruling over mortal non-Christians.
+
 
 
 
