@@ -166,21 +166,66 @@ How was *Apokalypsis 20:1-10* understood by the early church fathers and through
 ancient chiliastic views were infrequent and were condemned. Most were a reaction to gnosticism in the ancient world. Specifically to defend a pharisaic incarnation view against gnosticism, effectively appealing to a false view to attack heretical gnostic views.
 Modern chiliasm is similar in that it often embraces a false secular mechanistic interpretation of *Revelation 20:1-10*.
 
-
-Matthew 12:29 
-bind the strong man
-
-
 ? St Iranaeus
  accused (or credited) with Chiliasm but there's no known writings affirming any such view, usually he's referring to bodily resurrection against the gnostics (which is a separate topic and he clearly wasn't arguing against modern amillenialists)
 
 
-Daniel 7
-Daniel 7:12 
+!!! quote "Psalm 82"
+    God standeth in the congregation of the mighty; he judgeth among the gods.
+    
+    How long will ye judge unjustly, and accept the persons of the wicked? Selah.
+    
+    Defend the poor and fatherless: do justice to the afflicted and needy.
+    
+    Deliver the poor and needy: rid them out of the hand of the wicked.
+    
+    They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
+    
+    I have said, Ye are gods; and all of you are children of the most High.
+    
+    But ye shall die like men, and fall like one of the princes.
+    
+    Arise, O God, judge the earth: for thou shalt inherit all nations.
+
+
+
+!!! quote "Daniel 7:7"
+    After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
+
+
+!!! quote "Daniel 7:15-19"
+    I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me. I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things. These great beasts, which are four, are four kings, which shall arise out of the earth. But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
+
+
+!!! quote "Daniel 7:9-10"
+    I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire. A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
+
+
+!!! quote "Matthew 12:29"
+    how can anyone enter a strong man’s house and steal his possessions, unless he first ties up the strong man? Then he can plunder his house.
+
+
+!!! quote "Daniel 7:11-12"
+    I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame. As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
+
+!!! quote "John 5:26-27"
+    For as the Father hath life in himself; so hath he given to the Son to have life in himself; And hath given him authority to execute judgment also, because he is the Son of man.
+
+
+!!! quote "Daniel 7:13-14"
+    I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him. And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
+
+
+!!! success "because he is the Son of man"
+
+
+
+!!! quote "Daniel 7:27"
+    And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
+
 
 Psalm 110
 
-Psalm 82
 
 
 
