@@ -67,10 +67,10 @@ However, the most prevalent form of millennialism arose in the 19th century, bot
  [Bible Student movement](https://en.wikipedia.org/wiki/Bible_Student_movement),
  a precursor to the [Jehovah's Witnesses](https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses),
  as well as protestant [dispensationalist](https://en.wikipedia.org/wiki/Dispensationalism)
- views promoting a "pre-tribulation [rapture](https://en.wikipedia.org/wiki/Rapture)".
+ views promoting what is known as a pre-tribulation [rapture](https://en.wikipedia.org/wiki/Rapture).
 
 
-These chiliastic views have increased in popularity and are typically categorized based on *when* Christ will return:
+These modern chiliastic views have increased in popularity and are typically categorized based on *when* Christ will return:
 
 
 
@@ -101,7 +101,7 @@ This view also holds that the millennium will be for Israel, to rule over the ea
 
 ### postmillenialism
 
-In this view, the millennium is separate from the "church age" and Christ will only return after the millennium. We may or may not be living in the millennium, and the difference between "church age" and millennium is that the millennium will see the gradual dominance of Christianity across the earth.
+In this view, the millennium is separate from the "church age" and Christ will only return after the millennium. We may or may not be living in the millennium, and the only difference between "church age" and the "millennium" is that the millennium will see the gradual dominance of Christianity across the earth.
 
 
 
