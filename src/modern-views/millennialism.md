@@ -170,6 +170,17 @@ Modern chiliasm is similar in that it often embraces a false secular mechanistic
  accused (or credited) with Chiliasm but there's no known writings affirming any such view, usually he's referring to bodily resurrection against the gnostics (which is a separate topic and he clearly wasn't arguing against modern amillenialists)
 
 
+
+
+
+
+!!! question "And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him"
+
+Satan, the adversary, the snake in the garden, was sealed in the bottomless pit. His dominion is no more, 'that he should deceive the nations no more".
+
+Let's be clear, he had complete dominion and it was taken away.
+
+
 !!! quote "Psalm 82"
     God standeth in the congregation of the mighty; he judgeth among the gods.
     
@@ -187,50 +198,91 @@ Modern chiliasm is similar in that it often embraces a false secular mechanistic
     
     Arise, O God, judge the earth: for thou shalt inherit all nations.
 
-
-
-!!! quote "Daniel 7:7"
-    After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
-
-
-!!! quote "Daniel 7:15-18"
-    I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me. I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things. These great beasts, which are four, are four kings, which shall arise out of the earth. But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
-
-
-!!! quote "Daniel 7:9-10"
-    I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire. A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
-
+On the cross, the serpent lost his dominion. His house was plundered,
 
 !!! quote "Matthew 12:29"
     how can anyone enter a strong man’s house and steal his possessions, unless he first ties up the strong man? Then he can plunder his house.
+
+
+Consider the power Christ had over evil spirits, and that their time of dominion would soon be over.
 
 
 !!! quote "Matthew 8:28-29"
     And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way. And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?
 
 
+And as St. Paul would remind us, it is only in Christ that Satan has no hold on us, the adversary's influence is still upon the world,
 
 !!! quote "Ephesians 6:12"
     For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
+And only through Christ do we overcome the adversary, to bruise its head,
 
 !!! quote "Genesis 3:15"
     And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
 
+For if we turn away from Christ, then the powers and principalities of the beasts are still upon us. It is only through Christ that we overcome,
+
+
+
+
+
+!!! question "worshipped the beast"
+
+Chiliastic views often fixate on the beast in Revelation, missing that this is a direct reference to *Old Testament" prophecies,
+
+!!! quote "Daniel 7:7"
+    After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
+
+And rather than interpret the beast and its mark literally through modern eisegesis, recognize that *Daniel 7" provides an exegetic interpretation,
+
+!!! quote "Daniel 7:15-18"
+    I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me. I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things. These great beasts, which are four, are four kings, which shall arise out of the earth. But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
+
+And here in Daniel we see the same fate of the beast as in Revelation,
 
 !!! quote "Daniel 7:11-12"
     I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame. As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
+
+This is critical,
+
+!!! info "their dominion taken away"
+
+The beasts had dominion, and it was taken away, yet they still live, their lives prolonged. They have no power over Christ, yet they tempt and deceive us.
+
+
+
+!!! question "And I saw thrones"
+
+!!! quote "Daniel 7:9-10"
+    I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire. A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
+
+
+
+
+
+
+
+The son of man,
 
 !!! quote "John 5:26-27"
     For as the Father hath life in himself; so hath he given to the Son to have life in himself; And hath given him authority to execute judgment also, because he is the Son of man.
 
 
 !!! quote "Daniel 7:13-14"
-    I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him. And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
+    I saw in the night visions, and, behold, one like the **Son of man** came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him. And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
 
 
 !!! success "because he is the Son of man"
 
+
+
+And there it is, through Christ we overcome the adversary, the principalities and powers, and through Christ do we reign, as the father willed, that we would have dominion over creation.
+
+
+
+
+!!! question "priests of God and of Christ, and shall reign with him"
 
 
 !!! quote "Daniel 7:27"
@@ -240,6 +292,12 @@ Modern chiliasm is similar in that it often embraces a false secular mechanistic
 !!! quote "Matthew 18:18"
     Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.
 
+
+Revelation is not describing a mere worldly battle of Christ vs antichrist, but rather a cosmological reordering. 
+
+Man, who was created in the image and likeness of God, fell from grace, not once but three times. And after being scattered across the earth, man lost all dominion over the earth. Man was put under the submission of the serpent and those principalities and powers.
+
+And it was Christ, the son of man, who redeemed creation. Christ bound the serpent. Christ destroyed the beast. And now, in this messianic age, we we look forward to His glorious return, and to the resurrection of the dead and the life of the world to come.
 
 
 !!! quote "Psalm 110"
@@ -256,6 +314,9 @@ Modern chiliasm is similar in that it often embraces a false secular mechanistic
     He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.
     
     He shall drink of the brook in the way: therefore shall he lift up the head.
+
+
+
 
 
 
