@@ -259,7 +259,7 @@ This changed first in Israel, where it was foretold that God would inherit all n
 
 !!! question "worshipped the beast"
 
-Chiliastic views often fixate on the beast in Revelation, missing that this is a direct reference to the *Old Testament* prophecies,
+Chiliastic views often fixate on the beast in Revelation, ignoring that this is a direct reference to the *Old Testament* prophecies,
  specifically the fourth beast in the vision of Daniel,
 
 !!! quote "Daniel 7:7"
@@ -270,7 +270,7 @@ And rather than interpret *the beast* and its mark through chiliastic eisegesis,
 !!! quote "Daniel 7:15-18"
     I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me. I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things. These great beasts, which are four, are four kings, which shall arise out of the earth. But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
 
-The early church understood that *the beast* in Revelation would be a king of the earth, the lawless one, the antichrist.
+As such, the early church understood that *the beast* in Revelation would be a king of the earth, the lawless one, the antichrist.
 This beast would be the final worldly manifestion of the dominion of Satan.
 
 !!! quote "Daniel 7:11-12"
@@ -283,6 +283,7 @@ Look what happens to the "rest of the beasts",
 Let's be clear, the beasts, the worldly kings of Satan, were not bound with Satan. 
 Their lives were prolonged into the *messianic age*.
 This is key to understanding our current age, that is, how is Satan bound and yet we still struggle amidst evil?
+
 Christ will rule amidst his enemies in the *messianic age* (our current age).
 
 !!! quote "Psalm 110:2"
@@ -293,11 +294,13 @@ And as St. Paul explains,
 !!! quote "1 Corinthians 15:25"
     For he must reign, till he hath put all enemies under his feet.
 
-These surviving beasts are counted amongst the enemies of Christ.
+Note the subtle reference to *Genesis 3:15*, for Christ is the promised seed of Eve that will bruise the head of the serpent's seed.
+
+These beasts, the seeds of the serpent, are counted amongst the enemies of Christ.
 The beasts once had dominion, but their wordly dominion was taken away. 
 And now in the *messianic age* they have no power over Christians. 
 Instead they tempt and deceive. 
-They are no longer worldly powers that oppress humans. 
+They are no longer worldly powers. 
 They are but powers of darkness, the absence of light and truth.
 
 
