@@ -195,11 +195,11 @@ The case of Irenaeus is illustrative here,
     
     Assuming Irenaeus gave a defense of Chiliasm is to blatantly misread what he actually wrote, or to conflate amillennialism with gnosticism, which is too absurd to comment on.
 
-If not chiliastic, then how was *Apokalypsis 20:1-10* understood by early Christians and throughout church history?
+If not chiliastic, then how exactly was *Apokalypsis 20:1-10* understood by early Christians and throughout church history?
 
 Importantly, Revelation was understood exegetically through  the *Old Testament* prophecies, the ground from which Apokalypsis/Revelation emerges. 
 Prior to the coming of Christ, man was in exile, in a fallen depraved state with no dominion or power over creation. 
-Man was instead subordinate to the powers and principalities governing the world as it was, which points all the way back to "that old serpent".
+We were subordinate to the powers and principalities governing the world as it was, which points all the way back to "that old serpent".
 
 
 
