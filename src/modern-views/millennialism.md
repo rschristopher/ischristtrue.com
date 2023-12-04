@@ -69,26 +69,23 @@ However, the most prevalent form of millennialism arose in the 19th century, bot
  as well as protestant [dispensationalist](https://en.wikipedia.org/wiki/Dispensationalism)
  views promoting what is known as a pre-tribulation [rapture](https://en.wikipedia.org/wiki/Rapture).
 
-
 These modern chiliastic views have increased in popularity and are typically categorized based on *when* Christ will return, e.g.,
 
 
 
 
-### premillennialism
+### premillennium
 
-This is considered the "historic premillennial" view, that Christ will return before the millennium, after the 7 years of tribulation.
-Believers and non-believers will suffer during the years of tribulation and afterwards believers will be resurrected in glorified bodies.
-Christ will reign on earth for a thousand years alongside the immortal resurrected believers, who will share the earth with non-believers.
-This will continue till the millennium is over, and then after a final rebellion amongst non-believers, believers will enter into a new earth.
+Christ will return *before* a literal 1,000 year period. Believers will be resurrected into immortal glorified bodies, and they will rule with Christ over the world.
+This will be a physical kingdom, literally alongside mortal non-believers.
+At the end the 1,000 years there will be a final rebellion followed by a final judgment, and a second resurrection (for the believers born during the literal 1,000 years).
 
-literal millennium
+There would be no rapture, both believers and non-believers will suffer during the tribulation before Christ's second coming.
 
-kingdom on earth, worldly
 
-two resurrections, believers and then non-believers after millennium
 
-resurrected Christians share the earth with non-believers
+
+
 
 
 
@@ -126,7 +123,12 @@ one resurrection
 
 
 
-### amillenialism
+### amillenium
+
+!!! quote "1 Thessalonians 5:1-3"
+    Now, brothers and sisters, about times and dates we do not need to write to you, for you know very well that the day of the Lord will come like a thief in the night. While people are saying, “Peace and safety,” destruction will come on them suddenly, as labor pains on a pregnant woman, and they will not escape.
+
+
 
 like "partial preterism", we perhaps shouldn't dignify millennialism as a category.
 
