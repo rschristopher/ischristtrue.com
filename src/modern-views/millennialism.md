@@ -55,7 +55,7 @@ To the early Christians, this era known as *ta chilia etē* **was** the messiani
 
 Contrast this with modern millennialist views which do not reference the *messianic age* at all, because they need a separate name to refer to our current age (which is messianic through the church). In practice they'll refer to our current age as the *"church age"*, which is separate from the future *millennium* -- effectively inventing a new age to match their eisegesis.
 
-The earliest form of this modern millennialism points back to the utopian views of 
+The earliest form of modern millennialism points back to the utopian views of 
  [the Joachimites](https://en.wikipedia.org/wiki/Joachimites) 
  which arose in the thirteenth century, proposing
  a new "age of the Holy Spirit" heralded by 
