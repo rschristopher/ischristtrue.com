@@ -84,7 +84,7 @@ This would be a physical kingdom alongside mortal non-believers.
 At the end of the 1,000 years there would be a final rebellion followed by a final judgment, and a second resurrection (for the believers born during the millennium).
 
 !!! warning "eisegesis"
-    While not necessarily heretical, this view takes an eisegetic interpretation of *Revelation 20:1-10*, and assumes that the "throne" and the references to "the beast" are not from the *Old Testament* prophecies, and instead the "millennium age* will be a worldly kingdom of immortal Christians ruling over mortal non-Christians.
+    While not necessarily heretical, this view takes an eisegetic interpretation of *Revelation 20:1-10*, and assumes that the "throne" and the references to "the beast" are not from the *Old Testament* prophecies, and instead the *millennium age* will be a worldly kingdom of immortal Christians ruling over mortal non-Christians.
 
 
 
@@ -100,13 +100,13 @@ At the end of the 1,000 years there would be a final rebellion followed by a fin
 
 Christ would return *before* a literal 1,000 year period *AND* before the tribulation.
 Believers would be caught up (raptured) leaving behind non-believers to suffer seven years of tribulation.
+
 This is the
  dispensationalist view that holds that Christ would return and rule over Israel for a literal 1,000 years.
-
-This involves *two* "second comings" of Christ and multiple resurrections; one at the rapture, another for believers after tribulation, another for Jews who accept Christ during the dispensation of Israel, and still others for non-believers at a final judgment.
+This involves *two* "second comings" of Christ and multiple resurrections; one at the rapture, another for believers after tribulation, another for Jews who accept Christ during the dispensation of Israel, and still another resurrection of non-believers at a final judgment.
 
 !!! danger "eisegesis"
-    This chiliastic view is the closest to heretical; not only taking an eisegetic interpretation of *Revelation 20:1-10*, but adding to the words of scripture to assert a rapture (despite explicit instructions from Christ in Revelation 2) and a worldly Jewish kingdom ruled by Christ.
+    This chiliastic view is the closest to heretical; not only taking an eisegetic interpretation of *Revelation 20:1-10*, but adding to that prophecy in order to assert a rapture and a worldly Jewish kingdom ruled by Christ.
 
 
 
@@ -114,15 +114,24 @@ This involves *two* "second comings" of Christ and multiple resurrections; one a
 
 
 
-### postmillenialism
 
-In this view, the millennium is separate from the "church age" and Christ will only return after the millennium. We may or may not be living in the millennium, and the only difference between "church age" and the "millennium" is that the millennium will see the gradual dominance of Christianity across the earth.
 
-non literal 1000 year
 
-human history will necessarily get better as earth is gradually transformed by Christ's heavenly reign
+### postmillenium
 
-one resurrection
+Christ would return *after* the millennium, which would not necessarily be a literal 1,000 years. In fact, we might be in the millennium now.
+This view differs from the amillenium position only in the assertion of a millennium which is separate from a *church age*.
+
+From a worldly perspective there wouldn't be a cosmological difference between the *church age* and the millennium.
+There would be no rapture, and only one resurrection of believers and non-believers.
+During the millennium, human history would necessarily improve as earth is gradually transformed by Christ's heavenly reign.
+
+!!! warning "eisegesis"
+    While not necessarily heretical, this view takes an eisegetic interpretation of *Revelation 20:1-10*, and assumes that the "throne" and the references to "the beast" are not from the *Old Testament* prophecies, and instead the *millennium age* will somehow be different from the *church age*.
+
+
+
+
 
 
 
