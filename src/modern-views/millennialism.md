@@ -205,6 +205,10 @@ Modern chiliasm is similar in that it often embraces a false secular mechanistic
     how can anyone enter a strong man’s house and steal his possessions, unless he first ties up the strong man? Then he can plunder his house.
 
 
+!!! quote "Ephesians 6:12"
+    For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
+
+
 !!! quote "Genesis 3:15"
     And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
 
