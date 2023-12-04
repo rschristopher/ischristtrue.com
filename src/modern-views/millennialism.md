@@ -193,7 +193,7 @@ Modern chiliasm is similar in that it often embraces a false secular mechanistic
     After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.
 
 
-!!! quote "Daniel 7:15-19"
+!!! quote "Daniel 7:15-18"
     I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me. I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things. These great beasts, which are four, are four kings, which shall arise out of the earth. But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
 
 
@@ -203,6 +203,11 @@ Modern chiliasm is similar in that it often embraces a false secular mechanistic
 
 !!! quote "Matthew 12:29"
     how can anyone enter a strong man’s house and steal his possessions, unless he first ties up the strong man? Then he can plunder his house.
+
+
+!!! quote "Matthew 8:28-29"
+    And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way. And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?
+
 
 
 !!! quote "Ephesians 6:12"
@@ -230,6 +235,11 @@ Modern chiliasm is similar in that it often embraces a false secular mechanistic
 
 !!! quote "Daniel 7:27"
     And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
+
+
+!!! quote "Matthew 18:18"
+    Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.
+
 
 
 !!! quote "Psalm 110"
