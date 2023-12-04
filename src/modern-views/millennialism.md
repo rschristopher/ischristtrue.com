@@ -98,17 +98,18 @@ At the end of the 1,000 years there would be a final rebellion followed by a fin
 
 ### pre-tribulation rapture
 
+Christ would return *before* a literal 1,000 year period *AND* before the tribulation.
+Believers would be caught up (raptured) leaving behind non-believers to suffer seven years of tribulation.
 This is the
- dispensationalist
- view that has become common in modern times.
- It is similar to the classic premillennial view except that believers will not experience tribulation but will be caught up in the rapture.
-This view also holds that the millennium will be for Israel, to rule over the earth with Christ for a thousand years.
+ dispensationalist view that holds that Christ would return and rule over Israel for a literal 1,000 years.
 
-literal 1000 year worldly kingdom of Israel
+This involves *two* "second comings" of Christ and multiple resurrections; one at the rapture, another for believers after tribulation, another for Jews who accept Christ during the dispensation of Israel, and still others for non-believers at a final judgment.
 
-two "second comings"
+!!! danger "eisegesis"
+    This chiliastic view is the closest to heretical; not only taking an eisegetic interpretation of *Revelation 20:1-10*, but adding to the words of scripture to assert a rapture (despite explicit instructions from Christ in Revelation 2) and a worldly Jewish kingdom ruled by Christ.
 
-four resurrections, rapture, believers, non-believers,..
+
+
 
 
 
