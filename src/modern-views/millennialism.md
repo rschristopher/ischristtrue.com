@@ -71,7 +71,7 @@ However, the most prevalent form of millennialism arose in the 19th century, bot
  as well as protestant [dispensationalist](https://en.wikipedia.org/wiki/Dispensationalism)
  views promoting what is known as a pre-tribulation [rapture](https://en.wikipedia.org/wiki/Rapture).
 
-These modern chiliastic views have increased in popularity and are typically categorized based on *when* Christ will return, e.g.,
+These modern chiliastic views have increased in popularity and are typically categorized based on *when* Christ would return, e.g.,
 
 
 
