@@ -140,14 +140,16 @@ During the millennium, human history would necessarily improve as earth is gradu
 
 ### amillenium
 
-!!! quote "1 Thessalonians 5:1-3"
-    Now, brothers and sisters, about times and dates we do not need to write to you, for you know very well that the day of the Lord will come like a thief in the night. While people are saying, “Peace and safety,” destruction will come on them suddenly, as labor pains on a pregnant woman, and they will not escape.
+Christ returns when he returns, and no one but the father knows when. As *St. Paul* would remind us,
 
+!!! quote "1 Thessalonians 5:1-2"
+    Now, brothers and sisters, about times and dates we do not need to write to you, for you know very well that the day of the Lord will come like a thief in the night. 
 
+This view is by definition *not* millennialist, it should probably not be categorized in terms of "millennium". Perhaps we shouldn't dignify millennialism as a theological category.
+
+We don't call Calvinists "aArminians", nor do we refer to Augustine as "aPelagian", and we never refer to Orthodox Christian beliefs as "aNestorian" or "aarianism
 
 like "partial preterism", we perhaps shouldn't dignify millennialism as a category.
-
-e.g., we don't say apelagianism, anestorianism, or aarianism, and we don't call Calvinism "aarminianism".
 
 amillenialism should perhaps just be called the "biblical view" or the "orthodox view" as it requires no modern eisegesis and can be understood exegetically.
 
