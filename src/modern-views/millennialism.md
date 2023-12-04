@@ -158,7 +158,7 @@ As *St. Paul* would remind us,
     Now, brothers and sisters, about times and dates we do not need to write to you, for you know very well that the day of the Lord will come like a thief in the night. 
 
 
-An "amillenium" view is by definition *not* millennial. 
+The "amillenium" view is by definition *not* millennial. 
 And perhaps we shouldn't dignify millennialism as a theological category.
 E.g., we don't call Calvinists "aArminians", nor do we refer to Augustine as "aPelagian", and we never refer to Orthodox Christian doctrine as "aNestorian" or "[aArian](https://m.youtube.com/watch?v=Dd7FixvoKBw&t=2s)".
 
@@ -188,16 +188,16 @@ Despite the prevalence of millennialism today, historically these views were inf
 In many cases supposed chiliastic views from church fathers were in fact reactions to gnosticism and not arguments in favor of a millennial kingdom prior to the final judgment. The case of Irenaeus is illustrative here,
 
 ???+ example "Premillennialism of Irenaeus?"
-    Irenaeus is often accused (or credited) with Chiliasm but there's no known writings where he affirms any such view. Instead we find he wrote arguments in favor of bodily resurrections and descriptions of a worldly heaven.
+    Irenaeus is often accused (or credited) with Chiliasm but there's no known writings where he affirms any such view. Instead we find he wrote detailed arguments in favor of bodily resurrections including descriptions of a worldly heaven.
     Irenaeus promoted the pharisaic "bodily incarnation" view and described the heavenly world in terms of both matter and spirit. These were arguments against the anti-materialism of the gnostics (who denied bodily resurrections any material reality to heaven).
     
     Assuming Irenaeus gave a defense of Chiliasm is to blatantly misread what he actually wrote, or to conflate amillennialism with gnosticism, which is too absurd to comment on.
 
-If not chiliastic, how was *Apokalypsis 20:1-10* understood by early Christians and throughout church history?
+If not chiliastic, then how was *Apokalypsis 20:1-10* understood by early Christians and throughout church history?
 
-It was understood exegetically through  the *Old Testament* prophecies, the ground from which Apokalypsis/Revelation emerges. 
+Importantly, Revelation was understood exegetically through  the *Old Testament* prophecies, the ground from which Apokalypsis/Revelation emerges. 
 Prior to the coming of Christ, man was in exile, in a fallen depraved state with no dominion or power over creation. 
-Man was instead subordinate to the powers and principalities governing the world, which points all the way back to "that old serpent".
+Man was instead subordinate to the powers and principalities governing the world as it was, which points all the way back to "that old serpent".
 
 
 
