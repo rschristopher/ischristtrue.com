@@ -189,7 +189,7 @@ In many cases supposed chiliastic views from church fathers were in fact reactio
 
 ???+ example "Premillennialism of Irenaeus?"
     Irenaeus is often accused (or credited) with Chiliasm but there's no known writings where he affirms any such view. Instead we find he wrote detailed arguments in favor of bodily resurrections including descriptions of a worldly heaven.
-    Irenaeus promoted the pharisaic "bodily incarnation" view and described the heavenly world in terms of both matter and spirit. These were arguments against the anti-materialism of the gnostics (who denied bodily resurrections any material reality to heaven).
+    Irenaeus promoted the pharisaic "bodily incarnation" view and described the heavenly world in terms of both matter and spirit. These were arguments against the anti-materialism of the gnostics (who denied bodily resurrections and any material reality to heaven).
     
     Assuming Irenaeus gave a defense of Chiliasm is to blatantly misread what he actually wrote, or to conflate amillennialism with gnosticism, which is too absurd to comment on.
 
