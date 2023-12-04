@@ -1,4 +1,4 @@
-p# Millennialism
+# Millennialism
 
 Millennialism is a [modern](index.md) belief in a future utopia, usually a thousand year period (a literal *millennium*).
 We've seen echoes of millennialism through western culture, from the supposed "Thousand-year Reich" in Nazi Germany to various new age and transcendental utopian movements (e.g., the *age of Aquarius*).
