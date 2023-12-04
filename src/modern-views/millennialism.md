@@ -152,8 +152,6 @@ Christ returns when he returns, and no one but the father knows when.
 !!! quote "Matthew 24:42-44"
     Watch therefore: for ye know not what hour your Lord doth come. But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up. Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.
 
-
-
 As *St. Paul* would remind us,
 
 !!! quote "1 Thessalonians 5:1-2"
@@ -186,21 +184,20 @@ The amillenium view should perhaps just be called the "biblical view" or the "or
 
 ## Orthodox Exegesis
 
-How was *Apokalypsis 20:1-10* understood by early Christians and throughout church history?
-
 Despite the prevalence of millennialism today, historically these views were infrequent and were universally condemned.
-In many cases supposed chiliastic views from church fathers were reactions to gnosticism and not arguments in favor of a millennial kingdom prior to the final judgment. 
+In many cases supposed chiliastic views from church fathers were in fact reactions to gnosticism and not arguments in favor of a millennial kingdom prior to the final judgment. The case of Irenaeus is illustrative here,
 
-???+ question "Premillennialism of Irenaeus?"
-    Irenaeus is often accused (or credited) with Chiliasm but there's no known writings where he affirms any such view. Instead we find arguments in favor of bodily resurrections and a worldly heaven against the anti-materialism of the gnostics.
-    Irenaeus promoted a pharisaic "bodily incarnation" view and described the heavenly world in terms of matter and not pure spirit.
+???+ example "Premillennialism of Irenaeus?"
+    Irenaeus is often accused (or credited) with Chiliasm but there's no known writings where he affirms any such view. Instead we find he wrote arguments in favor of bodily resurrections and descriptions of a worldly heaven.
+    Irenaeus promoted the pharisaic "bodily incarnation" view and described the heavenly world in terms of both matter and spirit. These were arguments against the anti-materialism of the gnostics (who denied bodily resurrections any material reality to heaven).
     
-    Assuming this is a defense of Chiliasm is to blatantly misread what Irenaeus actually wrote.
+    Assuming Irenaeus gave a defense of Chiliasm is to blatantly misread what he actually wrote, or to conflate amillennialism with gnosticism, which is too absurd to comment on.
 
+If not chiliastic, how was *Apokalypsis 20:1-10* understood by early Christians and throughout church history?
 
-Let us first understand the *Old Testament* view, the ground from which the prophecy of Apokalypsis/Revelation emerges. 
+It was understood exegetically through  the *Old Testament* prophecies, the ground from which Apokalypsis/Revelation emerges. 
 Prior to the coming of Christ, man was in exile, in a fallen depraved state with no dominion or power over creation. 
-Man was instead subordinate to the powers and principalities governing the world, which was "that old serpent".
+Man was instead subordinate to the powers and principalities governing the world, which points all the way back to "that old serpent".
 
 
 
