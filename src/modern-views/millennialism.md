@@ -10,7 +10,9 @@ To be clear, these are not [ancient views](../ancient-views/index.md) although t
 ## χίλια ἔτη (chilia etē)
 
 Millennialism originated in the western scholastic period from interpretations of Revelation 20:1-10 (Apokalypsis in Greek).
-You'll notice **τὰ χίλια ἔτη** *(ta chilia etē)* several times in the original Greek in Apokalypsis 20:1-10 (Revelation 20:1-10). *Chilia etē* literally translates as *thousand years*, hence millennialism is also known as chiliasm (pronounced kĭl′ē-ăz″əm) from the Greek "chilia" (thousand).
+You'll notice **τὰ χίλια ἔτη** *(ta chilia etē)* several times in the original Greek in Apokalypsis 20:1-10 (Revelation 20:1-10). 
+
+*Chilia etē* literally translates as *thousand years*, hence millennialism is also known as chiliasm (pronounced kĭl′ē-ăz″əm) from the Greek "chilia" (thousand).
 
 
 ??? quote "Ἀποκάλυψις (Apokalypsis) 20:1-10"
