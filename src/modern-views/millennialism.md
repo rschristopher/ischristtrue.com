@@ -40,7 +40,7 @@ This is all despite explicit warnings in that same Book of Revelation not to add
 ## Modern Eisegesis
 
 While it's not surprising that non-Christians would ignore the warning from Revelation 22:18, it is unfortunate that many Christians dispense with this warning and add to the words of the Book of Revelation with moderm eisegesis, that is, interpreting the passage using modern concepts that simply did not exist in the ancient world
-(specifically from when this book was written).
+(from when this book was written).
 
 For example, the notion of a precise 1,000 years did not exist in the original passage. Zero as a number and a placeholder did not exist. 
 And perhaps coincidentally, when zero was finally adopted in the west, that was about the same time that chiliasm emerged (during the early scholastic period).
