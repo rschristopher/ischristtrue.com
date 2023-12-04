@@ -186,16 +186,17 @@ The amillenium view should perhaps just be called the "biblical view" or the "or
 
 ## Orthodox Exegesis
 
-How was *Apokalypsis 20:1-10* understood by the early church fathers and throughout church history?
+How was *Apokalypsis 20:1-10* understood by early Christians and throughout church history?
 
-...
-ancient chiliastic views were infrequent and were condemned. 
-Most were a reaction to gnosticism in the ancient world. 
-Specifically to defend a pharisaic incarnation view against gnosticism, effectively appealing to a false view to attack heretical gnostic views.
-Modern chiliasm is similar in that it often embraces a false secular mechanistic interpretation of *Revelation*.
+Despite the prevalence of millennialism today, historically these views were infrequent and were universally condemned.
+In many cases supposed chiliastic views from church fathers were reactions to gnosticism and not arguments in favor of a millennial kingdom prior to the final judgment. 
 
-? St Iranaeus
- accused (or credited) with Chiliasm but there's no known writings affirming any such view, usually he's referring to bodily resurrection against the gnostics (which is a separate topic and he clearly wasn't arguing against modern amillenialists)
+???+ question "Premillennialism of Irenaeus?"
+    Irenaeus is often accused (or credited) with Chiliasm but there's no known writings where he affirms any such view. Instead we find arguments in favor of bodily resurrections and a worldly heaven against the anti-materialism of the gnostics.
+    Irenaeus promoted a pharisaic "bodily incarnation" view and described the heavenly world in terms of matter and not pure spirit.
+    
+    Assuming this is a defense of Chiliasm is to blatantly misread what Irenaeus actually wrote.
+
 
 Let us first understand the *Old Testament* view, the ground from which the prophecy of Apokalypsis/Revelation emerges. 
 Prior to the coming of Christ, man was in exile, in a fallen depraved state with no dominion or power over creation. 
