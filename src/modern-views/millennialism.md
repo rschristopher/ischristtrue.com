@@ -276,12 +276,14 @@ This beast would be the final worldly manifestion of the dominion of Satan.
 !!! quote "Daniel 7:11-12"
     I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame. As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
 
-This is critical,
+Look what happens to the "rest of the beasts",
 
 !!! quote "they had their dominion taken away: yet their lives were prolonged for a season and time."
 
-Let's be clear, they were not bound with Satan, and their lives were prolonged into the *messianic age*.
-Christ will rul amidst his enemies in the *messianic age* (our current age).
+Let's be clear, the beasts, the worldly kings of Satan, were not bound with Satan. 
+Their lives were prolonged into the *messianic age*.
+This is key to understanding our current age, that is, how is Satan bound and yet we still struggle amidst evil?
+Christ will rule amidst his enemies in the *messianic age* (our current age).
 
 !!! quote "Psalm 110:2"
     The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.
@@ -291,8 +293,9 @@ And as St. Paul explains,
 !!! quote "1 Corinthians 15:25"
     For he must reign, till he hath put all enemies under his feet.
 
-These beasts are counted amongst the enemies of Christ.
-The beasts once had dominion, but their wordly dominion was taken away. And now in the *messianic age* they have no power over Christians. 
+These surviving beasts are counted amongst the enemies of Christ.
+The beasts once had dominion, but their wordly dominion was taken away. 
+And now in the *messianic age* they have no power over Christians. 
 Instead they tempt and deceive. 
 They are no longer worldly powers that oppress humans. 
 They are but powers of darkness, the absence of light and truth.
@@ -403,7 +406,9 @@ And it was Christ, the son of man, who redeemed creation. Christ bound the serpe
     He shall drink of the brook in the way: therefore shall he lift up the head.
 
 
-Note the imagery that calls back to *Genesis 3:15*, "he shall wound the heads over many countries".
+Note the imagery that calls back to *Genesis 3:15*, 
+
+!!! quote "he shall wound the heads over many countries"
 
 
 
