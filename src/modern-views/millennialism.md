@@ -145,19 +145,14 @@ Christ returns when he returns, and no one but the father knows when. As *St. Pa
 !!! quote "1 Thessalonians 5:1-2"
     Now, brothers and sisters, about times and dates we do not need to write to you, for you know very well that the day of the Lord will come like a thief in the night. 
 
-This view is by definition *not* millennialist, it should probably not be categorized in terms of "millennium". Perhaps we shouldn't dignify millennialism as a theological category.
+This view is by definition *not* millennial. 
+Perhaps we shouldn't dignify millennialism as a theological category.
+E.g., we don't call Calvinists "aArminians", nor do we refer to Augustine as "aPelagian", and we never refer to Orthodox Christian doctrine as "aNestorian" or "aArian".
 
-We don't call Calvinists "aArminians", nor do we refer to Augustine as "aPelagian", and we never refer to Orthodox Christian beliefs as "aNestorian" or "aarianism
+The amillenium view should perhaps just be called the "biblical view" or the "orthodox view" as it requires n eisegesis and can be understood exegetically.
 
-like "partial preterism", we perhaps shouldn't dignify millennialism as a category.
 
-amillenialism should perhaps just be called the "biblical view" or the "orthodox view" as it requires no modern eisegesis and can be understood exegetically.
 
-not literal 1000 year
-
-one resurrection
-
-Jesus could come at any minute, "thief in the night"
 
 
 
