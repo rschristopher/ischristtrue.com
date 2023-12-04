@@ -72,7 +72,7 @@ However, the most prevalent form of millennialism arose in the 19th century, bot
  views promoting what is known as a pre-tribulation [rapture](https://en.wikipedia.org/wiki/Rapture).
 
 These modern chiliastic views have increased in popularity and are typically categorized based on *when* Christ would return.
-Note how each presumes knowledge of when this might occur, e.g.,
+Note how these all presumes some knowledge of when Christ's return might occur, e.g.,
 
 
 
