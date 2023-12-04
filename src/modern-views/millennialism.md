@@ -204,13 +204,14 @@ Our entire notion of universal human rights and dignity...
 
 ## Heretical or not?
 
-Chiliasm was consistently condemned by the early church. 
+Millennialism was consistently condemned by the early church. 
 It was not considered a Christological error and thus not directly heretical.
+
 E.g., denying the Trinity, denying the divinity of Christ -- these are heresies and anathema to orthodox Christianity.
 
 By itself, Chiliasm is usually considered an eschatological error.
 In other words, it may be fine to speculate on the end times, but making important life decisions based on a millennial belief may lead you away from Christ, away from truth.
-E.g., chosing not to have children, worrying about what happens if you are raptured and your children are not, insisting that the existing government must become "Christian" in order to prepare the way.
+E.g., choosing not to have children, worrying about what happens if you are raptured and your children are not, insisting that the existing government must become "Christian" in order to prepare the way.
 
 
 
