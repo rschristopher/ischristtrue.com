@@ -9,8 +9,8 @@ To be clear, these are not [ancient views](../ancient-views/index.md) although t
 
 ## χίλια ἔτη (chilia etē)
 
-Millennialism originated in the western scholastic period from interpretations of Revelation 20:1-10 (Apokalypsis in Greek).
-You'll notice **τὰ χίλια ἔτη** *(ta chilia etē)* several times in the original Greek in Apokalypsis 20:1-10 (Revelation 20:1-10). 
+Millennialism originated in the western scholastic period from interpretations of *Revelation 20:1-10* (*Apokalypsis* in Greek).
+You'll find **τὰ χίλια ἔτη** *(ta chilia etē)* several times in the original Apokalypsis 20:1-10 (Revelation 20:1-10). 
 
 *Chilia etē* literally translates as *thousand years*, hence millennialism is also known as chiliasm (pronounced kĭl′ē-ăz″əm) from the Greek "chilia" (thousand).
 
@@ -53,7 +53,7 @@ The same way we say "back in the day" to refer to a period of time and not a lit
 The interesting part of this passage was not the thousand years, but rather the references to old testament messianic prophecies (such as from the Book of Daniel) -- which would have been common knowledge to the people in the early church.
 To the early Christians, this era known as *ta chilia etē* **was** the messianic age, the penultimate age before final judgment, the time between the first and second coming of Christ.
 
-Contrast this with modern millennialist views which do not reference the *messianic age* at all, because they need a separate name to refer to our current age (which is messianic through the church). In practice they'll refer to our current age as the *"church age"*, which is separate from the future *millennium* -- effectively inventing a new age to match their eisegesis.
+Contrast this with modern millennialist views which do not reference the *messianic age* at all, because they need a separate name to refer to our current age. In practice they'll refer to our current age as the *"church age"*, which is separate from the future *millennium* -- effectively inventing a new age to match their eisegesis.
 
 The earliest form of modern millennialism is probably the utopian views of 
  [the Joachimites](https://en.wikipedia.org/wiki/Joachimites) 
@@ -81,7 +81,7 @@ These modern chiliastic views have increased in popularity and are typically cat
 Christ would return *before* a literal 1,000 year period. 
 There would be no rapture, both believers and non-believers would suffer during a period of tribulation.
 Believers would be resurrected into immortal glorified bodies, and they would rule alongside Christ.
-This would be a physical kingdom alongside mortal non-believers.
+This would be a physical kingdom ruling over mortal non-believers.
 
 At the end of the 1,000 years there would be a final rebellion followed by a final judgment, and a second resurrection (for the believers born during the millennium).
 
@@ -108,7 +108,7 @@ This is the
 This involves *two* "second comings" of Christ and multiple resurrections; one at the rapture, another for believers after tribulation, another for Jews who accept Christ during the dispensation of Israel, and still another resurrection of non-believers at a final judgment.
 
 !!! danger "eisegesis"
-    This chiliastic view is the closest to heretical; not only taking an eisegetic interpretation of *Revelation 20:1-10*, but adding to scripture in order to assert a rapture and a worldly Jewish kingdom ruled by Christ.
+    This chiliastic view diverges from scripture; not only taking an eisegetic interpretation of *Revelation 20:1-10*, but adding to scripture in order to assert a rapture and a worldly Jewish kingdom ruled by Christ.
 
 
 
@@ -149,7 +149,7 @@ Christ returns when he returns, and no one but the father knows when. As *St. Pa
 
 This view is by definition *not* millennial. 
 Perhaps we shouldn't dignify millennialism as a theological category.
-E.g., we don't call Calvinists "aArminians", nor do we refer to Augustine as "aPelagian", and we never refer to Orthodox Christian doctrine as "aNestorian" or "aArian".
+E.g., we don't call Calvinists "aArminians", nor do we refer to Augustine as "aPelagian", and we never refer to Orthodox Christian doctrine as "aNestorian" or "[aArian](https://m.youtube.com/watch?v=Dd7FixvoKBw&t=2s)".
 
 An amillenium view should perhaps just be called the "biblical view" or the "orthodox view" as it requires no eisegesis and can be understood exegetically.
 
