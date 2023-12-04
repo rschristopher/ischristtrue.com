@@ -82,6 +82,14 @@ Believers and non-believers will suffer during the years of tribulation and afte
 Christ will reign on earth for a thousand years alongside the immortal resurrected believers, who will share the earth with non-believers.
 This will continue till the millennium is over, and then after a final rebellion amongst non-believers, believers will enter into a new earth.
 
+literal millennium
+
+kingdom on earth, worldly
+
+two resurrections, believers and then non-believers after millennium
+
+resurrected Christians share the earth with non-believers
+
 
 
 
@@ -94,7 +102,11 @@ This is the
  It is similar to the classic premillennial view except that believers will not experience tribulation but will be caught up in the rapture.
 This view also holds that the millennium will be for Israel, to rule over the earth with Christ for a thousand years.
 
+literal 1000 year worldly kingdom of Israel
 
+two "second comings"
+
+four resurrections, rapture, believers, non-believers,..
 
 
 
@@ -102,6 +114,12 @@ This view also holds that the millennium will be for Israel, to rule over the ea
 ### postmillenialism
 
 In this view, the millennium is separate from the "church age" and Christ will only return after the millennium. We may or may not be living in the millennium, and the only difference between "church age" and the "millennium" is that the millennium will see the gradual dominance of Christianity across the earth.
+
+non literal 1000 year
+
+human history will necessarily get better as earth is gradually transformed by Christ's heavenly reign
+
+one resurrection
 
 
 
@@ -116,7 +134,11 @@ e.g., we don't say apelagianism, anestorianism, or aarianism, and we don't call 
 
 amillenialism should perhaps just be called the "biblical view" or the "orthodox view" as it requires no modern eisegesis and can be understood exegetically.
 
+not literal 1000 year
 
+one resurrection
+
+Jesus could come at any minute, "thief in the night"
 
 
 
