@@ -205,6 +205,10 @@ Modern chiliasm is similar in that it often embraces a false secular mechanistic
     how can anyone enter a strong man’s house and steal his possessions, unless he first ties up the strong man? Then he can plunder his house.
 
 
+!!! quote "Genesis 3:15"
+    And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
+
+
 !!! quote "Daniel 7:11-12"
     I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame. As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
 
@@ -224,7 +228,20 @@ Modern chiliasm is similar in that it often embraces a false secular mechanistic
     And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
 
 
-Psalm 110
+!!! quote "Psalm 110"
+    The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
+    
+    The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.
+    
+    Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.
+    
+    The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.
+    
+    The Lord at thy right hand shall strike through kings in the day of his wrath.
+    
+    He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.
+    
+    He shall drink of the brook in the way: therefore shall he lift up the head.
 
 
 
