@@ -185,7 +185,9 @@ The amillenium view should perhaps just be called the "biblical view" or the "or
 ## Orthodox Exegesis
 
 Despite the prevalence of millennialism today, historically these views were infrequent and were universally condemned.
-In many cases supposed chiliastic views from church fathers were in fact reactions to gnosticism and not arguments in favor of a millennial kingdom prior to the final judgment. The case of Irenaeus is illustrative here,
+In many cases supposed chiliastic views from church fathers were in fact reactions to gnosticism and not arguments in favor of a millennial kingdom prior to the final judgment. 
+
+The case of Irenaeus is illustrative here,
 
 ???+ example "Premillennialism of Irenaeus?"
     Irenaeus is often accused (or credited) with Chiliasm but there's no known writings where he affirms any such view. Instead we find he wrote detailed arguments in favor of bodily resurrections including descriptions of a worldly heaven.
