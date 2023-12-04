@@ -160,9 +160,9 @@ As *St. Paul* would remind us,
 
 The "amillenium" view is by definition *not* millennial. 
 And perhaps we shouldn't dignify millennialism as a theological category.
-E.g., we don't call Calvinists "aArminians", nor do we refer to Augustine as "aPelagian", and we never refer to Orthodox Christian doctrine as "aNestorian" or "[aArian](https://m.youtube.com/watch?v=Dd7FixvoKBw&t=2s)".
+E.g., we don't call Calvinists *aarminians*, nor do we refer to Augustine as *apelagian*, and we never refer to Orthodox Christian doctrine as *anestorian* or *aarian*<sup>[?](https://www.youtube.com/watch?app=desktop&v=Dd7FixvoKBw&t=1m43s)</sup>.
 
-The amillenium view should perhaps just be called the "biblical view" or the "orthodox view" as it requires no eisegesis and can be understood exegetically.
+A **not millenial** view should perhaps just be called the "biblical view" or the "orthodox view" as it requires no eisegesis and can be understood exegetically.
 
 
 
@@ -185,19 +185,11 @@ The amillenium view should perhaps just be called the "biblical view" or the "or
 ## Orthodox Exegesis
 
 Despite the prevalence of millennialism today, historically these views were infrequent and were universally condemned.
-In many cases supposed chiliastic views from church fathers were in fact reactions to gnosticism and not arguments in favor of a millennial kingdom prior to the final judgment. 
-
-The case of Irenaeus is illustrative here,
-
-???+ example "Premillennialism of Irenaeus?"
-    Irenaeus is often accused (or credited) with Chiliasm but there's no known writings where he affirms any such view. Instead we find he wrote detailed arguments in favor of bodily resurrections including descriptions of a worldly heaven.
-    Irenaeus promoted the pharisaic "bodily incarnation" view and described the heavenly world in terms of both matter and spirit. These were arguments against the anti-materialism of the gnostics (who denied bodily resurrections and any material reality to heaven).
-    
-    Assuming Irenaeus gave a defense of Chiliasm is to blatantly misread what he actually wrote, or to conflate amillennialism with gnosticism, which is too absurd to comment on.
+In many cases, such Irenaeus, supposed chiliastic views from church fathers were in fact reactions to gnosticism and not arguments in favor of a millennial kingdom prior to the final judgment. 
 
 If not chiliastic, then how exactly was *Apokalypsis 20:1-10* understood by early Christians and throughout church history?
 
-Importantly, Revelation was understood exegetically through  the *Old Testament* prophecies, the ground from which Apokalypsis/Revelation emerges. 
+Importantly, these passages were understood exegetically through the *Old Testament* prophecies, the ground from which Apokalypsis/Revelation emerges. 
 Prior to the coming of Christ, man was in exile, in a fallen depraved state with no dominion or power over creation. 
 We were subordinate to the powers and principalities governing the world as it was, which points all the way back to "that old serpent".
 
@@ -222,7 +214,7 @@ And note God's promise that the seed of Eve shall bruise *the head* of the serpe
 
 Let's be clear, Satan had earthly dominion, the nations *were* his to deceive.
 The age before Christ was the dominion of Satan.
-This changed first in Israel, where it was foretold that God would inherit all nations (ending the dominion of Satan).
+This changed first in Israel, in the age of the Mosaic law, where it was foretold that God would inherit all nations (ending the dominion of Satan).
 
 !!! quote "Psalm 82"
     God standeth in the congregation of the mighty; he judgeth among the gods.
@@ -255,7 +247,7 @@ This changed first in Israel, where it was foretold that God would inherit all n
 
 
 
-### Dominion of the Beasts
+### The Beast
 
 !!! question "worshipped the beast"
 
@@ -280,11 +272,12 @@ Look what happens to the "rest of the beasts",
 
 !!! quote "they had their dominion taken away: yet their lives were prolonged for a season and time."
 
-Let's be clear, the beasts, the worldly kings of Satan, were not bound with Satan. 
+Let's be clear, the beasts, worldly nations, the seeds of the serpent, were not bound with Satan. 
 Their lives were prolonged into the *messianic age*.
-This is key to understanding our current age, that is, how is Satan bound and yet we still struggle amidst evil?
+This is key to understanding our current age.
+That is, how is Satan bound and yet we still struggle amidst evil?
 
-Christ will rule amidst his enemies in the *messianic age* (our current age).
+The orthodox answer is clear: Christ will rule amidst his enemies in the *messianic age* (our current age).
 
 !!! quote "Psalm 110:2"
     The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.
@@ -298,7 +291,7 @@ Note the subtle reference to *Genesis 3:15*, for Christ is the promised seed of 
 
 These beasts, the seeds of the serpent, are counted amongst the enemies of Christ.
 The beasts once had dominion, but their wordly dominion was taken away. 
-And now in the *messianic age* they have no power over Christians. 
+And now in the *messianic age* they have no power over Christianity. 
 Instead they tempt and deceive. 
 They are no longer worldly powers. 
 They are but powers of darkness, the absence of light and truth.
@@ -318,23 +311,23 @@ They are but powers of darkness, the absence of light and truth.
 
 !!! question "priests of God and of Christ, and shall reign with him"
 
-On the cross, the serpent lost his dominion. His house was plundered,
+With Christ, the serpent lost his dominion. He was bound and his house (the nations of his dominion) was plundered,
 
 !!! quote "Matthew 12:29"
     how can anyone enter a strong man’s house and steal his possessions, unless he first ties up the strong man? Then he can plunder his house.
 
-
-Consider the power Christ had over evil spirits, and that in His life the devils knew their time of dominion would soon be over.
+This is the *messianic age*, our current age, where Christ rules in the midst of his enemies, and seated next to Christ are the saints, intercessors.
+Consider the power Christ displayed over evil spirits, and that prior to His resurrection the devils knew their time of dominion would soon be over.
 
 !!! quote "Matthew 8:28-29"
     And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way. And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?
 
-And as St. Paul would remind us, it is only in Christ that Satan has no hold on us, otherwise the adversary's influence is still upon the world,
+And as St. Paul would remind us, it is only in Christ that Satan has no hold on us, otherwise the adversary's influence is still upon the world (rulers of the darkness),
 
 !!! quote "Ephesians 6:12"
     For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
-For if we turn away from Christ, then the powers and principalities of the beasts are still upon us. It is only through Christ that we overcome,
+For if we turn away from Christ, then the powers and principalities of the beasts will be upon us. It is only through Christ that we overcome,
 
 !!! quote "Daniel 7:27"
     And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
@@ -357,9 +350,30 @@ For if we turn away from Christ, then the powers and principalities of the beast
 
 !!! question "And I saw thrones"
 
+!!! quote "Revelation 20:4"
+    And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.
+
+This passage, perhaps more than any other passage, has motivated chiliastic ideology.
+In part because it's referencing the mark of the beast, and it declares that the saints "reigned with Christ a thousand years".
+
+However, these thrones are once again a reference to *Daniel 7*,
+
 !!! quote "Daniel 7:9-10"
     I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire. A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
 
+This is the context in which we can fully understand *Revelation 20*.
+We can understand it exactly as it was understood by early Christians, as it is meant to be understood -- that it is not about a millenium, but it is about the final judgment; a prophecy of the final moments of our messianic age leading into the final judgment,
+
+!!! quote "Revelation 20:11-15"
+    And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
+
+    And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
+
+    And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
+
+    And death and hell were cast into the lake of fire. This is the second death.
+
+    And whosoever was not found written in the book of life was cast into the lake of fire.
 
 
 
@@ -373,7 +387,7 @@ For if we turn away from Christ, then the powers and principalities of the beast
 
 ### Son of man
 
-The very same *Old Testament* prophecies in *Daniel 7* which help us to understand *Revelation 20*, is also the very same prophecy Christ himself fulfilled when assuming the title, *the Son of man*.
+The very same prophecy in *Daniel 7* which is key to understand *Revelation 20*, is also the very same prophecy Christ fulfilled when declaring that he is *the Son of man*.
 
 !!! quote "Daniel 7:13-14"
     I saw in the night visions, and, behold, one like the **Son of man** came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him. And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
@@ -383,15 +397,26 @@ The very same *Old Testament* prophecies in *Daniel 7* which help us to understa
 
 !!! success "because he is the Son of man"
 
-And there it is, through Christ we overcome the adversary, the principalities and powers, and through Christ do we reign, as the father willed, that we would have dominion over creation.
-
-
-Revelation is not a mere worldly battle of Christ vs antichrist, but rather a complete cosmological reordering, restoring mankind to the exalted purpose for which we were created. 
+And there it is, Revelation/Apokalypsis is not a mere worldly battle of Christ vs antichrist, or a chiliastic rapture story, but rather a complete cosmological reordering, restoring mankind to the exalted purpose for which we were created. 
 
 Mankind, who was created in the image and likeness of God, fell from grace. And after being scattered across the earth, man lost all dominion over the earth. Man was put under the submission of the serpent and his principalities and powers.
 
-And it was Christ, the son of man, who redeemed creation. Christ bound the serpent. Christ destroyed the beasts. And now, in the messianic age, we look forward to His glorious return, and to the resurrection of the dead and the life of the world to come.
+And it was Christ, the son of man, who redeemed creation. Christ bound the serpent. Christ crushed the heads of the serpent's seeds, the beasts. 
+And at this moment now, in our messianic age, we look forward to His glorious return, and to the resurrection of the dead and the life of the world to come.
 
+
+
+
+
+
+
+
+
+
+
+
+
+## Messianic Age
 
 !!! quote "Psalm 110"
     The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
@@ -414,22 +439,18 @@ Note the imagery that calls back to *Genesis 3:15*,
 !!! quote "he shall wound the heads over many countries"
 
 
+There are actual effects today and clear evidence that we are -- right now -- living in the messianic age.
+Who doesn't know the name Christ? Or is unfamiliar with the story of the monotheistic God who spoke the world into being, and who so loved the world that He gave His only begotten Son?
+
+Even openly anti-Christian atheists use a Christian ethic to judge and criticize Christianity.
+Our entire notion of universal human rights and dignity is based entirely on Christianity.
+Perhaps the difficulty in accepting that we are living in the *messianic age* is that the evil we see around us is not due to Satan, but due to our sin, turning away from the Lord of this world.
+
+Is Christ ruling in the midst of His enemies, or not?
+Are we waiting for the second coming of Christ? Or are we waiting for the start of a future millenium?
 
 
 
-
-
-## Messianic Age
-
-there are actual effects today and clear evidence that we are living in the messianic age.
-who doesn't know the name Christ, or the name "Yahweh" referencing the concept of a creator, monotheistic God who spoke the world into being.
-is Christ ruling, or not?
-are we waiting for the second coming of Christ? or are we waiting for something else?
-
-we have heretics, which is different, arguably better, than pagans.
-
-even anti-Christians use a Christian ethic to judge and criticize Christianity.
-Our entire notion of universal human rights and dignity...
 
 
 
@@ -440,15 +461,26 @@ Our entire notion of universal human rights and dignity...
 
 ## Heretical or Apocryphal?
 
-Millennialism was consistently condemned by the early church. 
-It was not considered a Christological error and thus not directly heretical.
+While millennialism was consistently condemned by the early church, it is not a Christological error and thus not directly heretical.
 
-*E.g., denying the Trinity, denying the divinity of Christ -- these are heresies and anathema to orthodox Christianity.*
+*E.g., denying the Trinity, denying the divinity of Christ -- these are heresies and are anathema to orthodox Christianity.*
 
-By itself, Chiliasm is usually considered an eschatological error.
+By itself, Chiliasm is an eschatological error.
 In other words, it may be fine to speculate on the end times, but making important life decisions based on a millennial belief may lead you away from Christ, away from truth.
+*E.g., choosing not to have children or worrying about what happens if you are raptured and your children are not, or insisting that the existing government must become "Christian" in order to prepare for a  postmillenium return of Christ.*
 
-*E.g., choosing not to have children, worrying about what happens if you are raptured and your children are not, insisting that the existing government must become "Christian" in order to prepare the way.*
+In the traditional classification of [*canonical*, *apocryphal*, and *heretical*](../ancient-views/apocrypha.md) -- it is important to note that most chiliastic texts would be classified as apocyphal, such that it may be fruitful to read and research privately, but these views are not appropriate for public church service nor prayer.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
