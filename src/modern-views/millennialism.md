@@ -63,7 +63,7 @@ The earliest form of modern millennialism points back to the utopian views of
  such that in the year 1260 the Christian age would end and a utopian era would arrive.
 While condemned by the church this view influenced and continues to influence modern culture, 
  e.g., we see this clearly in
- the modern new age movement, such as the so-called
+ the modern *new age* movement, such as the so-called
  [Age of Aquarius](https://en.wikipedia.org/wiki/Age_of_Aquarius).
 However, the most prevalent form of millennialism arose in the 19th century, both from the
  [Bible Student movement](https://en.wikipedia.org/wiki/Bible_Student_movement),
