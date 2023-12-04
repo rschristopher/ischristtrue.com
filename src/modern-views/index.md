@@ -143,7 +143,7 @@ in the 13th century imagined three ages (based on the trinity: Father, Son, Holy
 These views were (perhaps unconsciously) reflected in Nazism, that the 3rd Reich will rule for a thousand years.
 
 As Fr. Seraphim Rose notes,
-> revolutionary conclusions were drawn later by men of the thirteenth and fourteenth centuries, by the Franciscan Spirituals, who recognized in Joachim the new John the Baptist, heralding St. Francis at the novus dux of the last dispensation, even as the "new Christ".
+> revolutionary conclusions were drawn later by men of the thirteenth and fourteenth centuries, by the Franciscan Spirituals, who recognized in Joachim the new John the Baptist, heralding St. Francis as the novus dux of the last dispensation, even as the "new Christ".
 
 Any such view of a "new Christ" was anathema to orthodox Christianity, yet this corruption in western Christianity was one of many that led inevitably to the
 Protestant Reformation,
