@@ -53,7 +53,7 @@ The same way we say "back in the day" to refer to a period of time and not a lit
 The interesting part of this passage was not the thousand years, but rather the references to old testament messianic prophecies (such as from the Book of Daniel) -- which would have been common knowledge to the people in the early church.
 To the early Christians, this era known as *ta chilia etē* **was** the messianic age, the penultimate age before final judgment, the time between the first and second coming of Christ.
 
-Contrast this with modern millennialist views which do not reference the *messianic age* at all, because they need a separate age from the millennium. In practice they'll refer to our current age as the *"church age"* which is separate from a future *messianic age* -- effectively inventing a new age to match their eisegesis.
+Contrast this with modern millennialist views which do not reference the *messianic age* at all, because they need a separate name to refer to our current age (which is messianic through the church). In practice they'll refer to our current age as the *"church age"*, which is separate from the future *millennium* -- effectively inventing a new age to match their eisegesis.
 
 The earliest form of this modern millennialism points back to the utopian views of 
  [the Joachimites](https://en.wikipedia.org/wiki/Joachimites) 
