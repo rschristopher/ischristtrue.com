@@ -40,15 +40,15 @@ This is all despite explicit warnings in that same Book of Revelation not to add
 ## Modern Eisegesis
 
 While it's not surprising that non-Christians would ignore the warning from Revelation 22:18, it is unfortunate that many Christians dispense with this warning and add to the words of the Book of Revelation with moderm eisegesis, that is, interpreting the passage using modern concepts that simply did not exist in the ancient world
-(from when this book was written).
+(from when Apokalypsis/Revelation was written).
 
-For example, the notion of a precise 1,000 years did not exist in the original passage. Zero as a number and a placeholder did not exist. 
+For example, the notion of a precise 1,000 years did not exist in the original text. Zero as a number and a placeholder did not exist. 
 And perhaps coincidentally, when zero was finally adopted in the west, that was about the same time that chiliasm emerged (during the early scholastic period).
 
 Prior to that, and through all of church history, ***chilia etē*** was understood symbolically as an age or an era.
 The same way we say "back in the day" to refer to a period of time and not a literal 1 day, ***ta chilia etē*** was referring to an age, specifically the *messianic age*.
 
-The interesting part of this passage was not the thousand years, but rather the referenced old testament messianic prophecies (such as from the Book of Daniel) -- which would have been common knowledge to the people in the early church.
+The interesting part of this passage was not the thousand years, but rather the references to old testament messianic prophecies (such as from the Book of Daniel) -- which would have been common knowledge to the people in the early church.
 To the early Christians, this era known as *ta chilia etē* **was** the messianic age, the penultimate age before final judgment, the time between the first and second coming of Christ.
 
 Contrast this with modern millennialist views which do not reference the *messianic age* at all, because they need a separate age from the millennium. In practice they'll refer to our current age as the *"church age"* which is separate from a future *messianic age* -- effectively inventing a new age to match their eisegesis.
@@ -106,7 +106,7 @@ This is the
 This involves *two* "second comings" of Christ and multiple resurrections; one at the rapture, another for believers after tribulation, another for Jews who accept Christ during the dispensation of Israel, and still another resurrection of non-believers at a final judgment.
 
 !!! danger "eisegesis"
-    This chiliastic view is the closest to heretical; not only taking an eisegetic interpretation of *Revelation 20:1-10*, but adding to that prophecy in order to assert a rapture and a worldly Jewish kingdom ruled by Christ.
+    This chiliastic view is the closest to heretical; not only taking an eisegetic interpretation of *Revelation 20:1-10*, but adding to scripture in order to assert a rapture and a worldly Jewish kingdom ruled by Christ.
 
 
 
@@ -120,7 +120,7 @@ This involves *two* "second comings" of Christ and multiple resurrections; one a
 ### postmillenium
 
 Christ would return *after* the millennium, which would not necessarily be a literal 1,000 years. In fact, we might be in the millennium now.
-This view differs from the amillenium position only in the assertion of a millennium which is separate from a *church age*.
+This view differs from the *amillenium* position only in the assertion of a millennium which is separate from a *church age*.
 
 From a worldly perspective there wouldn't be a cosmological difference between the *church age* and the millennium.
 There would be no rapture, and only one resurrection of believers and non-believers.
@@ -149,7 +149,7 @@ This view is by definition *not* millennial.
 Perhaps we shouldn't dignify millennialism as a theological category.
 E.g., we don't call Calvinists "aArminians", nor do we refer to Augustine as "aPelagian", and we never refer to Orthodox Christian doctrine as "aNestorian" or "aArian".
 
-The amillenium view should perhaps just be called the "biblical view" or the "orthodox view" as it requires n eisegesis and can be understood exegetically.
+Am amillenium view should perhaps just be called the "biblical view" or the "orthodox view" as it requires no eisegesis and can be understood exegetically.
 
 
 
@@ -158,33 +158,20 @@ The amillenium view should perhaps just be called the "biblical view" or the "or
 
 ## Orthodox Exegesis
 
-How was this obscure passage, Apokalypsis 20, understood by the early church fathers and throughout church history?
+How was *Apokalypsis 20:1-10* understood by the early church fathers and throughout church history?
 
 ...
-ancient chiliastic views were infrequent and we're condemned. Most were a reaction to gnosticism in the ancient world. Specifically to defend the pharisaic incarnation view against gnosticism, effectively appealing to a false view to attack heretical gnostic views.
-Modern chiliasm is similar in that it often embraces a false secular mechanistic interpretation of Revelation 20.
-
-
-... Rev. 2, do not fear
+ancient chiliastic views were infrequent and were condemned. Most were a reaction to gnosticism in the ancient world. Specifically to defend a pharisaic incarnation view against gnosticism, effectively appealing to a false view to attack heretical gnostic views.
+Modern chiliasm is similar in that it often embraces a false secular mechanistic interpretation of *Revelation 20:1-10*.
 
 
 Matthew 12:29 
 bind the strong man
 
 
-historic uses
-
-year 1000
-Joachim, joachamites
-3rd Reich
-etc
-
-
 ? St Iranaeus
  accused (or credited) with Chiliasm but there's no known writings affirming any such view, usually he's referring to bodily resurrection against the gnostics (which is a separate topic and he clearly wasn't arguing against modern amillenialists)
 
-
-mil, age, aions, eons, etc
 
 Daniel 7
 Daniel 7:12 
@@ -215,9 +202,13 @@ Our entire notion of universal human rights and dignity...
 
 ## Heretical or not?
 
-chiliasm was condemned by the early church. It was not considered a christological error and thus not heretical, although many heretical views are related to chiliasm.
-By itself, t is an eschatological error, and not necessarily heretical.
+Chiliasm was consistently condemned by the early church. 
+It was not considered a Christological error and thus not directly heretical.
+E.g., denying the Trinity, denying the divinity of Christ -- these are heresies and anathema to orthodox Christianity.
 
+By itself, Chiliasm is usually considered an eschatological error.
+In other words, it may be fine to speculate on the end times, but making important life decisions based on a millennial belief may lead you away from Christ, away from truth.
+E.g., chosing not to have children, worrying about what happens if you are raptured and your children are not, insisting that the existing government must become "Christian" in order to prepare the way.
 
 
 
