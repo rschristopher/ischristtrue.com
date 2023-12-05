@@ -1,6 +1,6 @@
 # Logos
 
-Literally *the word*, in a Christian context the logos is the word of God; and Christ is the word made flesh. The plural is *logoi*.
+Literally *the word*. In a Christian context the logos is the word of God; and Christ is the word made flesh. The plural of logos is *logoi*.
 
 
 
@@ -38,10 +38,16 @@ None of these make much sense, however, if we recognize the etymological root *l
     * etymology -- the original meaning of the word
 
 The ancient understanding of *Logia* dispels much of the confusion found in the modern view.
-It would seem that "study of" is a vain attempt to remove God and revelatory truth, replacing it with man making a "study of" nature as if man were God.
+It would seem that "study of" is a vain attempt to remove God and revelatory truth, replacing it with man, making a "study of" nature as if man were God.
 Once again, echoes of that same snake in the garden,
 
 > Ye shall be as gods
+
+Let us no longer use our God-given mind to worship our self, but instead to worshiip and glorify God, our creator.
+
+
+
+
 
 
 

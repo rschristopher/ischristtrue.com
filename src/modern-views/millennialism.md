@@ -322,7 +322,7 @@ Consider the power Christ displayed over evil spirits, and that prior to His res
 !!! quote "Matthew 8:28-29"
     And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way. And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?
 
-And as St. Paul would remind us, it is only in Christ that Satan has no hold on us, otherwise the adversary's influence is still upon the world (rulers of the darkness),
+And as St. Paul would remind us, it is only in Christ that the beasts (seeds of the serpent) have no hold on us, otherwise the adversary's influence is still upon the world (rulers of the darkness),
 
 !!! quote "Ephesians 6:12"
     For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
@@ -440,7 +440,7 @@ Note the imagery that calls back to *Genesis 3:15*,
 
 
 There are actual effects today and clear evidence that we are -- right now -- living in the messianic age.
-Who doesn't know the name Christ? Or is unfamiliar with the story of the monotheistic God who spoke the world into being, and who so loved the world that He gave His only begotten Son?
+Who doesn't know the name Christ Jesus? Or is unfamiliar with the story of the monotheistic God who spoke the world into being, and who so loved the world that He gave His only begotten Son?
 
 Even openly anti-Christian atheists use a Christian ethic to judge and criticize Christianity.
 Our entire notion of universal human rights and dignity is based entirely on Christianity and its universality.
