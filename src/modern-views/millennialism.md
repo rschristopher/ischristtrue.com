@@ -311,7 +311,7 @@ They are but powers of darkness, the absence of light and truth.
 
 !!! question "priests of God and of Christ, and shall reign with him"
 
-With Christ, the serpent lost his dominion. He was bound and his house (the nations of his dominion) was plundered,
+With Christ, the serpent lost his dominion. He was bound, and his house (the nations of his dominion) was plundered,
 
 !!! quote "Matthew 12:29"
     how can anyone enter a strong man’s house and steal his possessions, unless he first ties up the strong man? Then he can plunder his house.
@@ -443,12 +443,14 @@ There are actual effects today and clear evidence that we are -- right now -- li
 Who doesn't know the name Christ? Or is unfamiliar with the story of the monotheistic God who spoke the world into being, and who so loved the world that He gave His only begotten Son?
 
 Even openly anti-Christian atheists use a Christian ethic to judge and criticize Christianity.
-Our entire notion of universal human rights and dignity is based entirely on Christianity.
-Perhaps the difficulty in accepting that we are living in the *messianic age* is that the evil we see around us is not due to Satan, but due to our sin, turning away from the Lord of this world.
+Our entire notion of universal human rights and dignity is based entirely on Christianity and its universality.
+Perhaps the difficulty in accepting that we are living in the *messianic age* is that the evil we see around us is not due to Satan, but due to our sin, turning away from the true Lord.
 
 Is Christ ruling in the midst of His enemies, or not?
 Are we waiting for the second coming of Christ? Or are we waiting for the start of a future millenium?
 
+!!! quote "1 Corinthians 15:20-28"
+    But now is Christ risen from the dead, and become the firstfruits of them that slept. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive. But every man in his own order: Christ the firstfruits; afterward they that are Christ's at his coming. Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power. For he must reign, till he hath put all enemies under his feet. The last enemy that shall be destroyed is death. For he hath put all things under his feet. But when he saith, all things are put under him, it is manifest that he is excepted, which did put all things under him. And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.
 
 
 
@@ -469,7 +471,7 @@ By itself, Chiliasm is an eschatological error.
 In other words, it may be fine to speculate on the end times, but making important life decisions based on a millennial belief may lead you away from Christ, away from truth.
 *E.g., choosing not to have children or worrying about what happens if you are raptured and your children are not, or insisting that the existing government must become "Christian" in order to prepare for a  postmillenium return of Christ.*
 
-In the traditional classification of [*canonical*, *apocryphal*, and *heretical*](../ancient-views/apocrypha.md) -- it is important to note that most chiliastic texts would be classified as apocyphal, such that it may be fruitful to read and research privately, but these views are not appropriate for public prayer and church service.
+In the traditional classification of [*canonical*, *apocryphal*, and *heretical*](../ancient-views/apocrypha.md) -- it is important to note that most chiliastic texts would be classified as apocyphal, such that it may be fruitful to read and research privately, but these views were not (and arguably are not) appropriate for public prayer and church service.
 
 
 
