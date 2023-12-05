@@ -185,7 +185,7 @@ A **not millenial** view should perhaps just be called the "biblical view" or th
 ## Orthodox Exegesis
 
 Despite the prevalence of millennialism today, historically these views were infrequent and were universally condemned.
-In many cases, such Irenaeus, supposed chiliastic views from church fathers were in fact reactions to gnosticism and not arguments in favor of a millennial kingdom prior to the final judgment. 
+In many cases, supposed chiliastic views from church fathers (such as Irenaeus) were in fact reactions to gnosticism and not arguments in favor of a millennial kingdom prior to the final judgment. 
 
 If not chiliastic, then how exactly was *Apokalypsis 20:1-10* understood by early Christians and throughout church history?
 
@@ -401,7 +401,7 @@ And there it is, Revelation/Apokalypsis is not a mere worldly battle of Christ v
 
 Mankind, who was created in the image and likeness of God, fell from grace. And after being scattered across the earth, man lost all dominion over the earth. Man was put under the submission of the serpent and his principalities and powers.
 
-And it was Christ, the son of man, who redeemed creation. Christ bound the serpent. Christ crushed the heads of the serpent's seeds, the beasts. 
+And it was Christ, the son of man, who redeemed creation. Christ bound the serpent. Christ crushed the heads of the serpent's seeds, the nations of the earth, the beasts. 
 And at this moment now, in our messianic age, we look forward to His glorious return, and to the resurrection of the dead and the life of the world to come.
 
 
@@ -469,7 +469,7 @@ By itself, Chiliasm is an eschatological error.
 In other words, it may be fine to speculate on the end times, but making important life decisions based on a millennial belief may lead you away from Christ, away from truth.
 *E.g., choosing not to have children or worrying about what happens if you are raptured and your children are not, or insisting that the existing government must become "Christian" in order to prepare for a  postmillenium return of Christ.*
 
-In the traditional classification of [*canonical*, *apocryphal*, and *heretical*](../ancient-views/apocrypha.md) -- it is important to note that most chiliastic texts would be classified as apocyphal, such that it may be fruitful to read and research privately, but these views are not appropriate for public church service nor prayer.
+In the traditional classification of [*canonical*, *apocryphal*, and *heretical*](../ancient-views/apocrypha.md) -- it is important to note that most chiliastic texts would be classified as apocyphal, such that it may be fruitful to read and research privately, but these views are not appropriate for public prayer and church service.
 
 
 
