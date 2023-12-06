@@ -111,6 +111,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ischristtrue.com/modern-views/enlightenment/</loc>
+         <lastmod>2023-12-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ischristtrue.com/modern-views/free-will/</loc>
          <lastmod>2023-12-06</lastmod>
          <changefreq>daily</changefreq>
@@ -132,11 +137,6 @@
     </url>
     <url>
          <loc>https://ischristtrue.com/modern-views/problem-of-evil/</loc>
-         <lastmod>2023-12-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ischristtrue.com/modern-views/rationalism/</loc>
          <lastmod>2023-12-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
