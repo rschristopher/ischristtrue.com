@@ -123,11 +123,11 @@ This involves *two* "second comings" of Christ and multiple resurrections; one a
 ### postmillenium
 
 Christ would return *after* the millennium, which would not necessarily be a literal 1,000 years. In fact, we might be in the millennium now.
-This view differs from the *amillenium* position only in the assertion of a millennium which is separate from a *church age*.
+This view differs from the *amillenium* position only in the assertion of a *millennium age* and a separate a *church age*.
 
-From a worldly perspective there wouldn't be a cosmological difference between the *church age* and the millennium.
+From a worldly perspective there wouldn't be a cosmological difference between the *church age* and the "millennium*.
 There would be no rapture, and only one resurrection of believers and non-believers.
-During the millennium, human history would necessarily improve as earth is gradually transformed by Christ's heavenly reign.
+During the millennium age, human history would necessarily improve as earth is gradually transformed by Christ's heavenly reign.
 
 !!! warning "eisegesis"
     While not necessarily heretical, this view takes an eisegetic interpretation of *Revelation 20:1-10*, and assumes that the "throne" and the references to "the beast" are not from the *Old Testament* prophecies, and instead the *millennium age* will somehow be different from the *church age*.
