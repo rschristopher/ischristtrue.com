@@ -53,7 +53,8 @@ Christ offers a third way, that of love, giving glory to God.
 
 
 
-
+!!! quote "St. Joseph the Hesychast"
+    Whatever we do not give to God to use in our ascetic struggles will be used by the other one (i.e., Satan). Our Lord gives us the commandment to love Him with all our souls and all our heart [Matthew 22:37], so that the evil one cannot find a place to rest within us.
 
 
 
