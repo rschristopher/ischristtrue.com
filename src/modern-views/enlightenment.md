@@ -1,5 +1,10 @@
 # Age of Enlightenment
 
+To be enlightened means to be "*a light onto oneself*".
+It is shine the light of reason out into the unknown.
+
+It is sleight of hand -- reason does not shine from us, but from God.
+
 Worshipping Reason
 
 Rationalism as a supreme authority.
