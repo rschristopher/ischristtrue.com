@@ -1,5 +1,8 @@
 # Angels, Demons, and Antichrist
 
+
+
+
 https://orthochristian.com/106805.html
 
 Despite the nihilism of our modern age, many people still hold a vague belief in angels and demons. Even non-believers flirt with the idea. 
@@ -89,6 +92,9 @@ We are made in the image and likeness of God. It is no wonder the demons hate us
 
 
 ## Satan
+
+!!! quote "Job 1:6"
+    Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.
 
 adversary
 
