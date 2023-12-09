@@ -5,6 +5,9 @@
 Christology 
 
 
+"Life in Christ means joining Him and His angels as He defeats His demonic enemies"
+~ Lord of Spirits, by Fr. Andrew Stephen Damick
+
 
 ## Temptations
 
