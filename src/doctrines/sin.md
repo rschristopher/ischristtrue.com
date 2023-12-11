@@ -34,7 +34,7 @@ All evil is born of ignorance and lies.
 And the original sin was to turn away 
  from God.
 
-Thosw who sin, are slaves to sin,
+Those who sin, are slaves to sin,
  which means they lack free will,
  that is, no ability to actualize
  one's will.
@@ -47,7 +47,9 @@ Free will begins with choosing God,
 
 
 
+## Sin is weakness
 
+Sin is weakness. This is why honesty will always overcome deceit.
 
 
 
