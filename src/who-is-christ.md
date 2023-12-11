@@ -34,7 +34,7 @@ As such we can ascend with Him, and by looking upon Him do we see the father.
 !!! quote "John 14:9"
     he that hath seen me hath seen the Father
 
-
+... ineffable being of God
 
 
 
@@ -152,6 +152,11 @@ We sometimes refer to this relationship to God as familial, as a toddler to pare
 While similar, this is radically inverted from our relationship with God. A parent guides their child so that the child will become self reliant, and no longer need their parent in order to walk.
 
 Yet our relationship with God means to ask and receive His help, and to let His will and our will become one. We are not aiming at growing stronger ourselves independent of God (as would our children), we are growing stronger due to a closer relationship with God, such that all things, our sins, our joys, everything -- are offered up to God and we receive His grace. Theosis, becoming like Christ, means necessarily to become more and more willfully dependent on God.
+
+
+
+The life of Christ is not a series of miracles that Christians believe, nor is it a series of parables and moral advice, but it is a personal story that makes truth knowable to you, the story of your life as it was intended to be lived.
+
 
 
 
