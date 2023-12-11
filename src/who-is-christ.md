@@ -55,6 +55,8 @@ Our very existence is an act of love, and through Christ can we understand the n
     Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me. To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.
 
 
+!!! quote "John 8:12"
+    I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.
 
 
 ...
