@@ -4,10 +4,13 @@ If we first understand the nature of
  [truth](truth.md)
  then we should be asking who is this  *Spirit of Truth*, the creator of all, and how is such a transcendent source knowable to us?
 The person of Christ is both *man* and *God*.
-Without Christ then God would remain forever out of reach, too distant and too transcendent for our meager minds to dare approach.
+Without Christ then God would remain forever out of our reach, too distant and too transcendent for our meager minds to dare approach.
 
-The very creator of the universe, of time and space, of reason itself, the source of all, can only be made knowable to us if God would condescend down to us in our sorrowful state.
+The very creator of the universe, of time and space, of reason itself, the source of all, can only be made knowable to us if the creator would condescend down to us in our sorrowful state.
+In order to lift us up, He must come down to us.
 The story of Christ and His life is exactly that story. From the fall of man to our redemption through the life and death of Christ.
+
+And in this story of Christ do we also learn the nature of man and our created purpose. For God condescended down to us, the creator of all, born in a manger. A child like any other -- for we are created in the image and likeness of God. He could not be contained in all the galaxies in the universe, but instead as a human child born in Bethlehem.
 
 ...
 
