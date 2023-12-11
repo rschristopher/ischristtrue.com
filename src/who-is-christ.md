@@ -3,7 +3,7 @@
 If we first understand the nature of
  [truth](truth.md)
  then we should be asking who is this  *Spirit of Truth*, the creator of all, and how is such a transcendent source knowable to us?
-The person is Christ, and He is both *man* and *God*.
+The Spirit of Truth *is* Christ, and He is necessarily both *man* and *God*.
 Without Christ then God would remain forever out of our reach, too distant and too transcendent for our meager minds to dare approach.
 For who are we to know God?
 
@@ -11,9 +11,17 @@ The very creator of the universe, of time and space, of reason itself, the sourc
 In order to lift us up, He must come down to us.
 The story of Christ and His life is exactly that story. It is our story. From the fall of man to our redemption through the life and death of Christ.
 
-And in this story do we also learn the nature of ourselves and our purpose. For the God of all condescended down to us, the Almighty, born in a manger. A child like any other -- for we are created in the image and likeness of God. God could not be contained in all the stars and all the galaxies in the universe, but was born as a mere human child in Bethlehem.
+And in this story do we also learn the nature of ourselves and our purpose in life. For the God of all condescended down to us -- the Almighty, born in a manger. A child like any other -- for we are created in the image and likeness of God. God could not be contained in all the stars and all the galaxies in the universe, but was born as a mere human child in Bethlehem.
 The condescension by the Almighty is then followed by Christ's ascension, which reveals the terrifying truth of our created purpose. For man is now lifted up beyond the holy of holies. And we begin to understand what it means to be made in the image and likeness of God.
 
+Christ is out alpha and omega, our begining and end -- the power that completes our life in God.
+
+!!! quote "Hebrews 2:8-10"
+    Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him.
+    
+    But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man.
+     
+    For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.
 
 
 
