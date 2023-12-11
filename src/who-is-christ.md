@@ -38,6 +38,17 @@ As such we can ascend with Him, and by looking upon Him do we see the father.
 
 
 
+## Father, Son, Holy Spirit
+
+We learn from the life of Jesus that He is the Son of God, that the very word of God is itself a distinct person from God the Father. And that the bond between the Father and the Son, which proceeds from the Father to the Son, the very love of the Father to the Son, is the Holy Spirit, which is itself a distinct person.
+
+The trinity is revealed to us in the life of Christ, that God Almighty is three persons -- which allows us to understand the transcendent source of all that is through relationships of eternal love. All fatherhood springs from God the Father, all sonship from Christ the word of God, and all life springs from the Holy Spirit -- which is the love from the Father to the Son.
+
+Our very existence is an act of love, and through Christ can we understand the nature of the transcendent God, to understand the nature of love, the uncreated energy of God.
+
+
+
+
 ...
 
 The Spirit of Truth, The Lord of Spirits, God of gods, King of kings, Alpha and Omega, the Son of Man, the Son of God, the Messiah
