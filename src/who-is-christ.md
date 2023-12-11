@@ -25,6 +25,17 @@ Christ is our alpha and omega, our begining and end -- the power that completes 
 
 
 
+## The word made flesh
+
+Christ is not a messenger from God, He is the message itself.
+He is the logos, the divine word of God, in the form of man.
+As such we can ascend with Him, and by looking upon Him do we see the father.
+
+!!! quote "John 14:9"
+    he that hath seen me hath seen the Father
+
+
+
 
 
 ...
