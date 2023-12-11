@@ -7,9 +7,24 @@ Have mercy on me, a sinner
 -->
 
 
-[Metanoia](https://en.wikipedia.org/wiki/Metanoia_%28theology%29)
+[Metanoia](https://en.wikipedia.org/wiki/Metanoia_%28theology%29) is a change of heart or a spiritual conversion. Or at least that's how it's referred to in our [modern](../../modern-views/index.md) secular view, which can feel a bit dry and lifeless unless we really think about it what is actually happening.
+Closer approximations in modern vernacular might be something "that blew my mind" or a "raising of consciousness" amongst the new age folks who like to read Carl Jung. But really nothing in our modern speech comes close to the true meaning of *metanoia*.
 
-[etymology](https://www.etymonline.com/word/metanoia)
+The etymology points to the Greek, *meta-* meaning *change*, and -noia from *nous* which is best understood as *the faculty of mind that determines what is true or real*. Thus it is a *change of mind* in the deepest possible sense, not just what you think is true, but a change to the very faculty of how you know what is true.
+
+Perhaps the closest we have today is *the matrix* or any state of waking up from a false worldview into something irrefutably true, such that the old worldview dissolves like a bad dream.
+
+If you have had a dream where you wake up and yet you're still dreaming, and only later, when you wake up for real do you finally *come to your senses* -- such an experience is metanoia.
+It is radical transformation in one's person.
+To get the beam out of your own eye, that is metanoia.
+
+Ancient Christians (and modern orthodox Christians) use this word to describe conversion.
+And this is because conversion to Christianity involves a radical change in one's heart, soul, and mind.
+One's *nous* opens into a relationship with the creator of the universe , the sprit of truth, which is Christ, and one develops an orthodox Christian [phronema](https://en.m.wikipedia.org/wiki/Phronema), the first step to theosis, of becoming like Christ.
+
+
+
+
 
 
 axiom
