@@ -3,11 +3,14 @@
 If we first understand the nature of
  [truth](truth.md)
  then we should be asking who is this  *Spirit of Truth*, the creator of all, and how is such a transcendent source knowable to us?
-The Spirit of Truth *is* Christ, and He is necessarily both *man* and *God*.
+The Spirit of Truth *is* Christ Jesus, and He is necessarily both *man* and *God*.
 Without Christ then God would remain forever out of our reach, too distant and too transcendent for our meager minds to dare approach.
 For who are we to know God?
 
-The very creator of the universe, of time and space, of reason itself, the source of all, can only be made knowable to us if the God of all would condescend down to us in our sorrowful state.
+
+## Revelation 
+
+The very creator of the universe, of time and space, of reason itself, the source of all, can only be made knowable to us if God would condescend down to us in our sorrowful state.
 In order to lift us up, He must come down to us.
 The story of Christ and His life is exactly that story. It is our story. From the fall of man to our redemption through the life and death of Christ.
 
@@ -28,13 +31,16 @@ Christ is our alpha and omega, our begining and end -- the power that completes 
 ## The word made flesh
 
 Christ is not a messenger from God, He is the message itself.
+He is the revelation of divine truth.
+He is revelation itself.
 He is the logos, the divine word of God, in the form of man.
-As such we can ascend with Him, and by looking upon Him do we see the father.
+As such we can ascend with Him, and by looking upon Him do we see the face of God.
 
 !!! quote "John 14:9"
     he that hath seen me hath seen the Father
 
 ... ineffable being of God
+
 
 
 
