@@ -41,6 +41,9 @@ As such we can ascend with Him, and by looking upon Him do we see the face of Go
 
 ... ineffable being of God
 
+!!! quote "Matthew the Poor"
+    Christ descends into His creation in order to raise it up to Himself
+
 
 
 
