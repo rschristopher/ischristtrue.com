@@ -42,7 +42,7 @@ As such we can ascend with Him, and by looking upon Him do we see the face of Go
 ... ineffable being of God
 
 !!! quote "Matthew the Poor"
-    Christ descends into His creation in order to raise it up to Himself
+    Christ descends into His creation in order to raise it up to Himself. He does not transform into it but redeems it from within. He purposely takes His body from creation in order to unite with it, so that with that body, He may become partaker of creation's travails and death; but through the power of His divinity, He pulls it up from death by His resurrection and makes it co-heir with Him in glory.
 
 
 
