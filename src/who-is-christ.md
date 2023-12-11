@@ -82,6 +82,23 @@ We become the actuality of His triumph over sin and death.
 
 
 
+## Theosis
+
+To become like Christ
+
+[metanoia](ancient-views/metanoia.md)
+
+We sometimes refer to this relationship to God as familial, as a toddler to parent. A parent let's their toddler stumble about on its own will, while simultaneously being guided about by the parent's will, as they're the one's holding up their child as it tries to take its first few steps.
+
+While similar, this is radically inverted from our relationship with God. A parent guides their child so that the child will become self reliant, and no longer need their parent in order to walk.
+
+Yet our relationship with God means to ask and receive His help, and to let His will and our will become one. We are not aiming at growing stronger ourselves independent of God (as would our children), we are growing stronger due to a closer relationship with God, such that all things, our sins, our joys, everything -- are offered up to God and we receive His grace. Theosis, becoming like Christ, means necessarily to become more and more willfully dependent on God.
+
+
+
+
+
+
 
 
 
