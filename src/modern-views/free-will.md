@@ -102,21 +102,26 @@ For example,
 
 
 
-### Arminianism and Monergism
+### Calvinism
 
 As if to parallel the early Pelagian controversy,
- Arminianism arose as a *reaction* to the writings of 
+ there arose in the 16th century a *reaction* to the writings of 
  [John Calvin](https://en.wikipedia.org/wiki/John_Calvin)
  who was heavily influenced by 
  the writings of St. Augustine 
  on predestination.
-The Arminian reaction was especially concerned with Calvin's views of
+This reaction -- known as Arminianism -- was especially concerned with Calvin's views of
  *reprobation*
  (or what is otherwise known as 
   [double predestination](https://history.hanover.edu/courses/excerpts/346cal2.html)),
  which is a logical conclusion to the denial of human free will,
  that the non-elect were effectively chosen for damnation
  (that God "adjudges others to eternal death").
+
+???+ warning "Calvin's continued influece"
+    While it's tempting to think that Calvinism is only a matter for reformed theology classrooms, this notion of the *elect* and the *unelect* has persisted to this very day inside and outside of Christianity, and is very much alive in the spirit of modern academia and the postmodern intellectual class. The belief in a chosen elect, with an unquestioned moral *rightness* continues to pervade political discource, including every catastrophic socialist utopian regime -- all the way to the present era of social justice activists who are assured of their own moral supiority over the *unelect* masses. While the nomenclature changes, the spirit of this divisive and Luciferian sin have been with this since the serpent in the garden.
+    
+    ... Hobbes
 
 These strict Calvinist views are known as
  [monergism](https://en.wikipedia.org/wiki/Monergism).

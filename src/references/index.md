@@ -16,3 +16,34 @@
  <br />
   by Fr. Seraphim Rose
 
+* [The Story of Jesus - A History and Theology of Christ](https://store.ancientfaith.com/the-story-of-jesus-a-history-and-theology-of-christ/)
+  <br />
+  by Matthew the Poor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

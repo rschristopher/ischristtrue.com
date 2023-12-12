@@ -8,15 +8,15 @@ Without Christ as a man then God would remain forever out of our reach, too dist
 For who are we to know God?
 
 
-## Revelation 
+## Revealed Truth 
 
-The very creator of the universe, of time and space, of reason itself, the source of all, can only be made knowable to us if God would condescend down to us in our sorrowful state.
+The very creator of the universe, of time and space, of reason itself, the source of all, can only be made knowable to us if that creator would condescend down to us -- to meet us, as it were, in our sorrowful state.
 In order to lift us up, He must come down to us.
-The story of Christ and His life is exactly that story. It is our story. From the fall of man to our redemption through the life and death of Christ.
+The story of Christ and His life is exactly that story. It is our story. From the fall of man to our redemption through Christ.
 
-And in this story do we also learn the nature of ourselves and our purpose in life. For the God of all condescended down to us -- the Almighty, born in a manger. A child like any other -- for we are created in the image and likeness of God. God could not be contained in all the stars and all the galaxies in the universe, but was born as a mere human child in Bethlehem.
+And in this story we also learn the nature of ourselves and our purpose in life. For God condescended down to us -- the Almighty, born in a manger -- a child like any other. How is this possible? God could not be contained in all the stars and all the galaxies in the universe, but He was born as a mere human child in Bethlehem. The profundity of this is beyond words; for we are created in the image and likeness of God, and so too is our created purpose.
 
-The condescension by the Almighty is then followed by Christ's ascension, which reveals the terrifying truth of our created purpose. For man is now lifted up beyond the holy of holies. And we begin to understand what it means to be made in the image and likeness of God.
+The condescension by the Almighty is followed by Christ's ascension, which reveals the terrifying truth of our created purpose. For man is now lifted up beyond the holy of holies. And we begin to understand what it means to be made in the image and likeness of God.
 Christ is our alpha and omega, our begining and end -- the power that completes our life in God.
 
 !!! quote "Hebrews 2:8-10"
@@ -33,8 +33,8 @@ Christ is our alpha and omega, our begining and end -- the power that completes 
 Christ is not a messenger from God, He is the message itself.
 He is the revelation of divine truth.
 He is revelation itself.
-He is the logos, the divine word of God, in the form of man.
-As such we can ascend with Him, and by looking upon Him do we see the face of God.
+He is the *logos*, the divine word of God in the form of man.
+As such we can ascend with Him. We are made to ascend with Him. And by looking upon Him do we see the face of God.
 
 !!! quote "John 14:9"
     he that hath seen me hath seen the Father
@@ -51,7 +51,7 @@ As such we can ascend with Him, and by looking upon Him do we see the face of Go
 
 We learn from the life of Jesus that He is the Son of God, that the very word of God is itself a distinct person from God the Father. And that the bond between the Father and the Son, which proceeds from the Father to the Son, the very love of the Father to the Son, is the Holy Spirit, which is itself a distinct person.
 
-The trinity is revealed to us in the life of Christ, that God Almighty is three persons -- which allows us to understand the transcendent source of all that is through relationships of eternal love. All fatherhood springs from God the Father, all sonship from Christ the word of God, and all life springs from the Holy Spirit -- which is the love from the Father to the Son.
+The trinity is revealed to us in the life of Christ, that God Almighty is three persons -- which allows us to understand the transcendent source of all that is through relationships of eternal love. The ineffable being of God becomes somehow knowable to us through these relationships. All fatherhood springs from God the Father, all sonship from Christ the word of God, and all life springs from the Holy Spirit -- which is the love from the Father to the Son.
 
 Our very existence is an act of love, and through Christ can we understand the nature of the transcendent God, to understand the nature of love, the uncreated energy of God.
 
@@ -82,19 +82,6 @@ Christology
 ~ The Lord of Spirits, by Fr. Andrew Stephen Damick
 
 
-## Temptations
-
-three temptations, and we fall for them
- even today.
-
-
-miracles, mystery, authority
-
-We worship miracles, not God.
-How easily tempted we are.
-
-see Dostoevsky,
-Brothers Karamazov 
 
 
 

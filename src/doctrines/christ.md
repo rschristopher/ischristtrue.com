@@ -5,14 +5,49 @@ Christology
 https://www.britannica.com/topic/Eastern-Orthodoxy/Doctrine
 
 
-## before nativity
+## Nativity
 
 !!! quote "John 1:1-5"
     In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made. In him was life; and the life was the light of men. And the light shineth in darkness; and the darkness comprehended it not.
 
+!!! quote "Galatians 4:4"
+    But when the fulness of the time was come, God sent forth his Son
+
+In the many centuries before Christ, the Roman Empire rose to power.
+In this era, we see the stability of trade routes -- culture and art spread from one end of the empire to the other.
+We see the proliferation of the Greek Language, the flourishing of a Jewish diaspora, and a synthesis of Greek philosophy and Judaism (see the [Septuagint](https://en.wikipedia.org/wiki/Septuagint)).
+
 
 !!! quote "John 1:14"
     And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+
+
+
+
+
+
+
+
+
+
+
+
+## Temptations
+
+three temptations, and we fall for them
+ even today.
+
+
+miracles, mystery, authority
+
+We worship miracles, not God.
+How easily tempted we are.
+
+see Dostoevsky,
+Brothers Karamazov 
+
+
+
 
 
 
