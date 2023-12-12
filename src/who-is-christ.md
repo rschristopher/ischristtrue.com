@@ -4,7 +4,7 @@ If we first understand the nature of
  [truth](truth.md)
  then we should be asking who is this  *Spirit of Truth*, the creator of all, and how is such a transcendent source knowable to us?
 The Spirit of Truth *is* Christ Jesus, and He is necessarily both *man* and *God*.
-Without Christ then God would remain forever out of our reach, too distant and too transcendent for our meager minds to dare approach.
+Without Christ as a man then God would remain forever out of our reach, too distant and too transcendent for our meager minds to dare approach.
 For who are we to know God?
 
 
@@ -106,7 +106,7 @@ Dr. Larry Crabb
 
 
 
-## Meaning and Motivation
+## Meaning of Life
 
 meaning in life is inescapable, and can be observed in three ways,
 
@@ -118,7 +118,7 @@ In other words, we can operate out of fear, fear of suffering, fear of death, fe
 
 And we can similarly operate out of reward, the mercenary mindset. We will seek reward and look for the shortest path to reward within the bounds of our fear of suffering.
 
-Christ offers a third way, that of love, giving glory to God.
+Christ offers a higher way, that of love, giving glory to God.
 
 
 
