@@ -91,6 +91,54 @@ By including them together, it provides the minimum proof of work necessary for 
 
 
 
+## Tithing
+
+Tithing means literally one tenth, and in our modern view we view this as 10% of ones gross income given to the church.
+
+In the early church, tithing was adopted from Jewish tradition which involved three tithes,
+
+1. annual tithe to the priests
+2. annual feast tithe to the temple 
+3. 3rd year tithe to the poor
+
+These practices and the history of tithing goes back centuries before the mosaic law, with the earliest biblical references of Abraham giving a tithe to Melchizedek,
+
+!!! quote "Genesis 14:18-20"
+    And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God.
+    
+    And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:
+    
+    And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all.
+
+In this context Abram gives a tenth of all he possessed, an offering to the God most high. It is a callback to Abel's offering of the firstlings of his flock,
+
+!!! quote "Genesis 4:4"
+    And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering
+
+Meanwhile Cain offered "of the fruit of the ground" and the Lord "had no respect". We can discern that Cain did not offer the firstfruits.
+
+This sets a pattern of setting aside the finest of our work to give to God. And then in the time of Israel tithings were codified in law.
+
+And while it is tempting to treat these laws as prophecies fulfilled and no longer applicable, the truth from the apostles and early church fathers is contrary, rather than a tithe (tenth) all was given, for we are but stewards of the wealth and all must be given up to God.
+
+In the history of the early church tithing went from common to non-existent, and at different periods in history re-emerged. Tithing became more common in the west, especially by the time of the reformation.
+
+The truth, the sprit is to be good stewards, to offer up to Christ all that you have: your work, your wealth, everything. All is from God and the Christian gives gladly all.
+
+In practical terms this seems impossible, but this impossibility should speak not of an error in the Biblical understanding of giving and stewardship, but of a lack of true faith in one's church. Either you are holding your wealth away from God, or you do not believe your church is the true church of Christ.
+
+If we met Christ resurrected, would we not sell everything we own and give to his church? What if it was the apostle Paul? And what does it mean to offer up everything we own to Christ?
+
+Does it mean we trust the priests to manage wealth and meet our needs? Or do we manage that ourselves? What is expected of us?
+
+!!! quote "Luke 12:48"
+    For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.
+
+
+
+
+
+
 
 
 
