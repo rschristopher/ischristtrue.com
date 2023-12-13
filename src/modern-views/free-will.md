@@ -119,7 +119,7 @@ This reaction -- known as [Arminianism](https://en.m.wikipedia.org/wiki/Arminian
   [double predestination](https://history.hanover.edu/courses/excerpts/346cal2.html)),
  which is a logical conclusion to the denial of human free will, that the non-elect were chosen for damnation (that God "adjudges others to eternal death").
 
-??? warning "Calvin's continued influece"
+???+ warning "Calvin's continued influece"
     While it's tempting to think that Calvinism is only a topic for theology classrooms, the idea of moral determinism, of the *elect* / *unelect*, is very much alive in modern academia and amongst postmodern "intellectuals". 
     
     The belief in a predestined elect, with an unquestioned moral *rightness* continues to pervade today's political discource -- including every social justice activist, critical race theorist, and so on -- all are assured of their own moral supiority over the uneducated (*unelect*).
@@ -134,8 +134,8 @@ The antithetical reaction to monergism came from the writings of
  whose views led (inevitably) to a schism
  within the Dutch Reformed Church, such that the
  [Remonstrant Brotherhood](https://en.wikipedia.org/wiki/Remonstrants)
- split from the Dutch Reformed Church.
-The Remonstrant Arminian view was explicitly condemned 
+ split from their parent church.
+Later, the Remonstrant Arminian view was explicitly condemned 
  at the 
  [Synod of Dort](https://en.wikipedia.org/wiki/Synod_of_Dort)
  which is what led to the articulation of the
