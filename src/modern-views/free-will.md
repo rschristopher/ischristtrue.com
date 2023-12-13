@@ -174,7 +174,7 @@ And while both sides have plenty of scriptural support,
 
 
 
-## Arminianism
+### Arminianism
 
 Arminian synergism, which is similar to the Roman Catholic view of synergism, contains plenty of scriptural support. 
 However, there are many passages that must bend or break with this interpretation, e.g.,
