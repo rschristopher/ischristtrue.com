@@ -47,20 +47,23 @@ And if we detour back to our
  [divided the
  Pharisees, Sadducees, and Essenes](https://classicalchristianity.com/2011/02/15/on-predestination/).
 
+
+### Early Church
+
 One of the earliest Christian free will
  debates was the
  [Pelagian Controversy](https://tabletalkmagazine.com/article/2020/09/augustine-and-the-pelagian-controversy/).
 In this historic debate
- [St. Pelagius](https://en.wikipedia.org/wiki/Pelagius_of_C%C3%B3rdoba) wrote against the predestination views of
- [St. Augustine](https://en.wikipedia.org/wiki/Saint_Augustine), and these objections later became known as
+ [Pelagius](https://en.wikipedia.org/wiki/Pelagius_of_C%C3%B3rdoba) wrote against the predestination views of
+ [Augustine](https://en.wikipedia.org/wiki/Saint_Augustine), and these objections later became known as
  [Pelagianism](https://en.wikipedia.org/wiki/Pelagianism).
 The *Pelagians* reacted to the perceived lack
  of free will within
- St. Augustine's writings --
+ Augustine's writings --
  this reaction introduced anti-Biblical views
  (that original sin did not taint human nature).
-And all of this was an effort to allow for human free will.
-The Pelagian view
+And all of this was an attempt to allow for human free will in a Christian context.
+In the end, the Pelagian view
  was deemed heretical 
  (see Canon V from the [Council of 418](https://en.m.wikipedia.org/wiki/Councils_of_Carthage)).
 However, the debate continued afterwards in a reactionary cycle producing various
@@ -73,7 +76,7 @@ However, the debate continued afterwards in a reactionary cycle producing variou
     
     The contrary view is not necessarily 0% for man (although that view exists), but rather an insistence that 100% of goodness and salvation is due to God.
 
-From these ongoing debates over free will,
+From these semi-Pelagian debates over free will,
  [synergism](https://crosstheology.wordpress.com/synergism/)
  became the agreed upon solution by *orthodox* Christians.
 This view was reinforced in the
