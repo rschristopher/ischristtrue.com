@@ -111,7 +111,7 @@ As if to re-tell the early Pelagian controversy,
  there arose in the 16th century a *reaction* to the writings of 
  [John Calvin](https://en.wikipedia.org/wiki/John_Calvin)
  who was heavily influenced by 
- the writings of St. Augustine 
+ the writings of Augustine 
  on predestination.
 This reaction -- known as [Arminianism](https://en.m.wikipedia.org/wiki/Arminianism) -- was especially concerned with Calvin's views of
  *reprobation*
@@ -124,7 +124,7 @@ This reaction -- known as [Arminianism](https://en.m.wikipedia.org/wiki/Arminian
     
     The belief in a predestined elect, with an unquestioned moral *rightness* continues to pervade today's political discource -- including every social justice activist, critical race theorist, and so on -- all are assured of their own moral supiority over the uneducated (*unelect*).
     
-    While the nomenclature changes, and this is definitely a perversion of theological Calvinism, the spirit is the same. These are the inevitable consequences of moral determinism, and the practical problem of denying human free will.
+    While the nomenclature changes, and this is definitely a perversion of theological Calvinism, the spirit is the same. These are the inevitable consequences of moral determinism, of denying human free will.
 
 
 These strict Calvinist views are known as
@@ -143,7 +143,7 @@ The Remonstrant Arminian view was explicitly condemned
  (known by the mnemonic acronym TULIP).
 
 And exactly as the condemnation of Pelagianism resulted in the emergence of semi-Pelagianism, the condemnation of Remonstrant Arminianism led inevitably to a rationalistic Arminianism.
-Im the century after Dort there was a migration away from strict monergism but not stopping at rational Arminianism, instead it inevitably produced
+In the century after Dort there was a migration away from strict monergism but not stopping at rational Arminianism, instead it inevitably produced
  [deism](https://en.wikipedia.org/wiki/Deism),
  itself a stepping stone into the postmodern malaise and meaning crisis.
 As a result, and as astute Calvinists have maintained, any view that takes away from the complete sovereignty of God (and irresistable grace) inevitably leads to  deism, naturalism, and ultimately to what
