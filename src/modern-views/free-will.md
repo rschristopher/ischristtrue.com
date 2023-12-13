@@ -104,24 +104,24 @@ For example,
 
 ### Calvinism
 
-As if to parallel the early Pelagian controversy,
+As if to re-tell the early Pelagian controversy,
  there arose in the 16th century a *reaction* to the writings of 
  [John Calvin](https://en.wikipedia.org/wiki/John_Calvin)
  who was heavily influenced by 
  the writings of St. Augustine 
  on predestination.
-This reaction -- known as Arminianism -- was especially concerned with Calvin's views of
+This reaction -- known as [Arminianism](https://en.m.wikipedia.org/wiki/Arminianism) -- was especially concerned with Calvin's views of
  *reprobation*
  (or what is otherwise known as 
   [double predestination](https://history.hanover.edu/courses/excerpts/346cal2.html)),
- which is a logical conclusion to the denial of human free will,
- that the non-elect were effectively chosen for damnation
- (that God "adjudges others to eternal death").
+ which is a logical conclusion to the denial of human free will, that the non-elect were chosen for damnation (that God "adjudges others to eternal death").
 
 ??? warning "Calvin's continued influece"
-    While it's tempting to think that Calvinism is only a topic for theology classrooms, the idea of moral determinism, of the *elect* / *unelect*, is very much alive in modern academia and amongst postmodern "intellectuals". The belief in a predestined elect, with an unquestioned moral *rightness* continues to pervade today's political discource -- including every social justice activist, critical race theorist, and so on -- all are assured of their own moral supiority over the *unelect*.
+    While it's tempting to think that Calvinism is only a topic for theology classrooms, the idea of moral determinism, of the *elect* / *unelect*, is very much alive in modern academia and amongst postmodern "intellectuals". 
     
-    While the nomenclature changes, and this is definitely a perversion of theological Calvinism, these are all the inevitable consequences of moral determinism, and the practical problem of denying free will.
+    The belief in a predestined elect, with an unquestioned moral *rightness* continues to pervade today's political discource -- including every social justice activist, critical race theorist, and so on -- all are assured of their own moral supiority over the uneducated (*unelect*).
+    
+    While the nomenclature changes, and this is definitely a perversion of theological Calvinism, the spirit is the same. These are the inevitable consequences of moral determinism, and the practical problem of denying human free will.
 
 
 These strict Calvinist views are known as
@@ -129,7 +129,7 @@ These strict Calvinist views are known as
 The antithetical reaction to monergism came from the writings of
  [Jacobus Arminius](https://en.wikipedia.org/wiki/Jacobus_Arminius)
  whose views led (inevitably) to a schism
- within the Calvinist churches, such that the
+ within the Dutch Reformed Church, such that the
  [Remonstrant Brotherhood](https://en.wikipedia.org/wiki/Remonstrants)
  split from the Dutch Reformed Church.
 The Remonstrant Arminian view was explicitly condemned 
@@ -139,24 +139,14 @@ The Remonstrant Arminian view was explicitly condemned
  [five points of Calvinism](https://en.wikipedia.org/wiki/Calvinism#Five_Points_of_Calvinism)
  (known by the mnemonic acronym TULIP).
 
-And exactly like the emergence of semi-Pelagianism, the condemnation
- of Remonstrant Arminianism
- led inevitably to a rationalistic Arminianism.
-Many of these views are
- superficially similar to the Roman Catholic view of synergism (that man retains some ability to do good independent of God's grace, specifically to freely choose to accept grace).
-What followed in the century after Dort was a
- migration away from strict monergism but not
- stopping at rational Arminianism, instead leading inevitably towards
+And exactly as the condemnation of Pelagianism resulted in the emergence of semi-Pelagianism, the condemnation of Remonstrant Arminianism led inevitably to a rationalistic Arminianism.
+Im the century after Dort there was a migration away from strict monergism but not stopping at rational Arminianism, instead it inevitably produced
  [deism](https://en.wikipedia.org/wiki/Deism),
- itself a stepping stone into the postmodern
- malaise and meaning crisis.
-As a result, and as astute Calvinists have maintained,
- any view that takes away from the complete
- sovereignty of God (and irresistable grace) inevitably leads to 
- deism, naturalism, and ultimately to what
+ itself a stepping stone into the postmodern malaise and meaning crisis.
+As a result, and as astute Calvinists have maintained, any view that takes away from the complete sovereignty of God (and irresistable grace) inevitably leads to  deism, naturalism, and ultimately to what
  [Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
- described as the death of God
- in the hearts of man.
+ described as the death of God in the hearts of man.
+
 
 !!! info "Arminianism is semi-Pelegian"
     In rationalistic terms, the Arminian view grants to man a small ability to choose good (a step towards salvation) that is independent of God. Even if we say this is only 0.01% man and 99.99% God, this is semi-Pelegian by definition.
@@ -165,8 +155,8 @@ As a result, and as astute Calvinists have maintained,
 
     The orthodox view of synergism is to say God is 100% responsible for man's salvation while conversely man is 100% responsible for his own condemnation. And thus man willfully participates in his own salvation.
 
-Slippery slopes aside,
- while we can easily dispense with the semi-Pelagian
+
+While we can easily dispense with the semi-Pelagian
  views of Arminianism,
  if we are truly concerned with truth,
  then we are left with an ongoing
@@ -183,7 +173,8 @@ And while both sides have plenty of scriptural support,
 
 
 
-### Weakness of Arminianism
+
+## Arminianism
 
 Arminian synergism, which is similar to the Roman Catholic view of synergism, contains plenty of scriptural support. 
 However, there are many passages that must bend or break with this interpretation, e.g.,
@@ -201,7 +192,9 @@ In particular the risks of deism (which is simply a logical conclusion of semi-P
 
 
 
-### Weakness of Monergism
+
+
+### Monergism
 
 There is plenty of scriptural support for monergism and all five points of Calvinism. 
 However, as with Arminianism, all it takes is one counterexample in order to falsify, e.g.,
@@ -226,8 +219,7 @@ And more troubling, we must bend the very words of our Lord,
 Without any actionable free will on the part of man,
  Christ could have simply said "follow your heart, for God has absolute sovereignty."
 
-Instead, he speaks and teaches with authority to all of us,
- as if we were creatures possessing a God-given free will.
+Instead, he speaks and teaches with authority to all of us, as if we were creatures possessing a God-given free will.
 
 !!! quote "Matthew 7:7-8"
      Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you: For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
