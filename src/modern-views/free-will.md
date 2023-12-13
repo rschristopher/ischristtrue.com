@@ -118,10 +118,11 @@ This reaction -- known as Arminianism -- was especially concerned with Calvin's 
  that the non-elect were effectively chosen for damnation
  (that God "adjudges others to eternal death").
 
-???+ warning "Calvin's continued influece"
-    While it's tempting to think that Calvinism is only a matter for reformed theology classrooms, this notion of the *elect* and the *unelect* has persisted to this very day inside and outside of Christianity, and is very much alive in the spirit of modern academia and the postmodern intellectual class. The belief in a chosen elect, with an unquestioned moral *rightness* continues to pervade political discource, including every catastrophic socialist utopian regime -- all the way to the present era of social justice activists who are assured of their own moral supiority over the *unelect* masses. While the nomenclature changes, the spirit of this divisive and Luciferian sin have been with this since the serpent in the garden.
+??? warning "Calvin's continued influece"
+    While it's tempting to think that Calvinism is only a topic for theology classrooms, the idea of moral determinism, of the *elect* and the *unelect*, is very much alive in modern academia and in the postmodern intellectual class. The belief in a predestined elect, with an unquestioned moral *rightness* continues to pervade political discource -- including every catastrophic socialist utopian regime, every social justice activist, critical race theorist, and so on -- all are assured of their own moral supiority over the *unelect*.
     
-    ... Hobbes
+    While the nomenclature changes, and this is definitely a perversion of theological Calvinism, these are all the inevitable consequences of moral determinism, and the practical problems of denying free will.
+
 
 These strict Calvinist views are known as
  [monergism](https://en.wikipedia.org/wiki/Monergism).
