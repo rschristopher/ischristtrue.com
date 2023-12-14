@@ -1,9 +1,8 @@
 # Who is Christ?
 
-If we first understand the nature of
- [truth](truth.md)
- then we should be asking who is this  *Spirit of Truth*, the creator of all, and how is such a transcendent source knowable to us?
-The Spirit of Truth *is* Christ Jesus, and He is necessarily both *man* and *God*.
+Once we understand the nature of
+ [truth](truth.md) and the absurdity of the [moderm view](modern-views/index.md), then the next step is to ask: who is this  *Spirit of Truth*, the creator of all, and how is such a transcendent source knowable to us?
+The Spirit of Truth *is* necessarily  Christ Jesus, and He is necessarily both *man* and *God*.
 Without Christ as a man then God would remain forever out of our reach, too distant and too transcendent for our meager minds to dare approach.
 For who are we to know God?
 
@@ -14,7 +13,7 @@ The very creator of the universe, of time and space, of reason itself, the sourc
 In order to lift us up, He must come down to us.
 The story of Christ and His life is exactly that story. It is our story. From the fall of man to our redemption through Christ.
 
-And in this story we also learn the nature of ourselves and our purpose in life. For God condescended down to us -- the Almighty, born in a manger -- a child like any other. How is this possible? God could not be contained in all the stars and all the galaxies in the universe, but He was born as a mere human child in Bethlehem. The profundity of this is beyond words; for we are created in the image and likeness of God, and so too is our created purpose.
+In this ancient story we learn about ourselves and our purpose in life. For God condescended down to us -- the Almighty, born in a manger -- a child like any other. How is this possible? God could not be contained in all the stars and all the galaxies in the universe, but He was born as a mere human child in Bethlehem. The profundity of this is beyond words; for we are created in the image and likeness of God, and so too is our created purpose.
 
 The condescension by the Almighty is followed by Christ's ascension, which reveals the terrifying truth of our created purpose. For man is now lifted up beyond the holy of holies. And we begin to understand what it means to be made in the image and likeness of God.
 Christ is our alpha and omega, our begining and end -- the power that completes our life in God.
