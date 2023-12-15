@@ -4,7 +4,7 @@ Once we understand the nature of
  [truth](truth.md) and the absurdity of [modern views](modern-views/index.md), then we must ask: who is this *Spirit of Truth*, this person of Christ, this first principle upon which all truth rests, and how is such a transcendent source knowable to us?
 
 The Spirit of Truth *is* necessarily Christ Jesus, as He is necessarily both *man* and *God*.
-Without Christ as a man then God would remain forever out of our reach, too distant and too transcendent for our meager minds to dare approach.
+Without Christ as a man then God would remain forever out of our reach, too distant and too transcendent for our meager minds to dare approach. And so too would objective remain beyond our reach.
 
 For who are we to know God?
 
