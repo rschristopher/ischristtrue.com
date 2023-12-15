@@ -17,6 +17,10 @@ In the many centuries before Christ, the Roman Empire rose to power.
 In this era, we see the stability of trade routes -- culture and art spread from one end of the empire to the other.
 We see the proliferation of the Greek Language, the flourishing of a Jewish diaspora, and a synthesis of Greek philosophy and Judaism (see the [Septuagint](https://en.wikipedia.org/wiki/Septuagint)).
 
+In this synthesis the heathens began to recognize the necessity of a first principle of *logos* ... Anima mundi... stoicism
+
+In a very profound sense the world (both Jew and Gentile) began to understand the nature of man's fallen state and their very real need for the Messiah.
+There was a reason the Magi came with gifts..
 
 !!! quote "John 1:14"
     And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
