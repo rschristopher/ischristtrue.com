@@ -6,7 +6,7 @@ Once we understand the nature of
 The Spirit of Truth *is* necessarily Christ Jesus, as He is necessarily both *man* and *God*.
 Without Christ as a man then God would remain forever out of our reach, too distant and too transcendent for our meager minds to dare approach. And so too would objective remain beyond our reach.
 
-For who are we to know God?
+For who are we to know the Spirit of Truth? Who are we to know God?
 
 
 
