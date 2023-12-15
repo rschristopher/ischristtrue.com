@@ -76,7 +76,7 @@ Our very existence is an act of love, and through Christ can we understand the n
 ## Christ is Knocking
 
 
-The message that is Christ Jesus is incompatible with [modern views](modern-views/index.md), but so too is [truth](truth.md) itself incompatible with our modern view. And only to the degree that one earnestly and humbly seeks truth can one realize the nature of truth and the presence of Christ in their life.
+The message that is Christ Jesus is incompatible with [modern views](modern-views/index.md), but so too is [truth](truth.md) itself incompatible with modern views. And only to the degree that one earnestly and humbly seeks truth can one realize the nature of truth and the presence of Christ in their life.
 
 !!! quote "Revelation 3:20-21"
     Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me. To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.
