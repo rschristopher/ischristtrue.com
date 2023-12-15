@@ -7,7 +7,7 @@ Have mercy on me, a sinner
 -->
 
 
-[Metanoia](https://en.wikipedia.org/wiki/Metanoia_%28theology%29) is a change of heart or a spiritual conversion. Or at least that's how it's referred to in our [modern](../../modern-views/index.md) secular view, which can feel a bit dry and lifeless unless we really think about it what is actually happening.
+[Metanoia](https://en.wikipedia.org/wiki/Metanoia_%28theology%29) is a change of heart or a spiritual conversion. Or at least that's how it's referred to in our [modern](../modern-views/index.md) secular view, which can feel a bit dry and lifeless unless we really think about it what is actually happening.
 Closer approximations in modern vernacular might be something "that blew my mind" or a "raising of consciousness" amongst the new age folks who like to read Carl Jung. But really nothing in our modern speech comes close to the true meaning of *metanoia*.
 
 The etymology points to the Greek, *meta-* meaning *change*, and -noia from *nous* which is best understood as *the faculty of mind that determines what is true or real*. Thus it is a *change of mind* in the deepest possible sense, not just what you think is true, but a change to the very faculty of how you know what is true.

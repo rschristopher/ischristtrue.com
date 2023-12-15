@@ -158,7 +158,7 @@ Our conventional wisdom tells us that protestantism was merely a consequence of 
 The short answer: no, not at all. A continuous destructive revolution was unheard of outside of western Europe and it's cultural influence. This was not the view of eastern Europe nor of eastern Christianity nor of any major religion. This was not the view of the Byzantine Empire. This was not the view in the Ottoman empire. This was not the view in any of the historic dynasties of China. 
 This was not the view of any native American culture prior to the arrival of western Europeans (where we find *Peyote Cults* and other destructive revolutionary views).
 None of the 
- [ancient views](../ancient-views/)
+ [ancient views](../ancient-views/index.md)
  resembled this nihilistic path of
  destructive revolution and relativism.
 This is a unique worldview born of western Christianity post schism, with notably anti-Christian themes (as it emerged as an antithesis to Christianity). And yet today this destructive revolutionary view has been exported globally and has become the defacto modern globalist view (stripped of any Christian veneer and articulated in postmodern Marxist language).
