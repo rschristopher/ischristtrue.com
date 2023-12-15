@@ -61,7 +61,7 @@ Christ is both creator and created, allowing the ineffable being of God to be kn
 
 ## Father, Son, Holy Spirit
 
-We learn from the life of Jesus that He is the Son of God, that the very word of God is itself a distinct person from God the Father. And that the bond between the Father and the Son, which proceeds from the Father to the Son, the very love of the Father to the Son, is the Holy Spirit, which is itself a distinct person.
+We learn from the life of Jesus that He is the Son of God, that the very word of God is itself a distinct person from God the Father. And that the bond between the Father and the Son, which proceeds from the Father to the Son -- the very love of the Father to the Son -- is the Holy Spirit, which is itself a distinct person.
 
 The trinity is revealed to us in the life of Christ, that God Almighty is three persons -- which allows us to understand the transcendent source of all that is through relationships of eternal love. The ineffable being of God becomes knowable to us through these relationships. All fatherhood springs from God the Father, all sonship from Christ the word of God, and all life springs from the Holy Spirit -- which is the love from the Father to the Son.
 
@@ -144,8 +144,8 @@ And even how we relate to others, we are to love our neighbors as ourselves.
     Whatever we do not give to God to use in our ascetic struggles will be used by the other one (i.e., Satan). Our Lord gives us the commandment to love Him with all our souls and all our heart [Matthew 22:37], so that the evil one cannot find a place to rest within us.
 
 
-This may seem impossible, and that's the point, we are called to something greater than ourselves. We are called to Christ, and by giving everything to Christ we become aware of the God-given grace that sustains us. We become aware of our part in His will, for His will be done.
-We become the actuality of His triumph over sin and death.
+This may seem impossible, and that's the point, we are called to something greater than ourselves. We are called to Christ, and by giving everything to Christ we become aware of the God-given grace that sustains us. We become aware of our part in God's will, for His will be done.
+We become the actuality of God's triumph over sin and death.
 
 
 
@@ -169,7 +169,7 @@ Imagine a parent holding up their baby so that the baby may one day learn to wal
 
 The right relationship with God means to ask and receive His grace, and to let His will and our will become one. 
 We are not aiming at growing stronger in order to be independent of God. 
-We are instead to become closer to God.
+We are instead aiming to become closer to God.
 All things -- our sins, our joys, everything -- are to be offered up to Christ Jesus that we may receive God's grace. 
 
 *Theosis*, becoming like Christ, means necessarily to become more and more willfully dependent on God.
