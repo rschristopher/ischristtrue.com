@@ -59,6 +59,15 @@ Modern Christianity is often maligned, including by Christians.
 
 
 
+## Desert/Wilderness
+
+!!! quote "Revelation 13:17"
+    And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child. And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent. And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood. And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth. And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.
+
+!!! quote "Exodus 19:3-6"
+    And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel; Ye have seen what I did unto the Egyptians, and how **I bare you on eagles' wings**, and brought you unto myself. Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine: And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.
+
+The true home is the desert, the wilderness...
 
 
 
