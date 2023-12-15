@@ -57,6 +57,18 @@ Shoulder the burden responsibly, knowing it is God's money no matter where it go
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Honest Money
 
 Godly money
@@ -84,6 +96,10 @@ Work is God-given and pure, existing before the fall. Proof of work for transact
 Gold does not provide proof of work for transaction settlement (including securing gold), hence the hidden cost of settlement is born out in physical security of transferring gold.
 Bitcoin includes proof of work for transaction settlement, and in fact this is incorporated into issuance (money production). The same work backs both. Should these have been separate? Would a separate proof of work for transaction settlement be beneficial? Or is it necessary to include them together? 
 By including them together, it provides the minimum proof of work necessary for the monetary system to sustain.
+
+
+
+
 
 
 
@@ -133,6 +149,19 @@ Does it mean we trust the priests to manage wealth and meet our needs? Or do we 
 
 !!! quote "Luke 12:48"
     For unto whomsoever much is given, of him shall be much required: and to whom men have committed much, of him they will ask the more.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
