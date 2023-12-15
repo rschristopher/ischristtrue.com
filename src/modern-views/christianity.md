@@ -87,7 +87,7 @@ It is no wonder that cults emerge and people give everything to some charismatic
 
 For if you found the true church and believed it was indeed the true church, you would give them everything, you would follow exactly as Christ instructed.
 
-I submit that we are all in search for the true church, and we give according to our faith in such -- and as weak as it may be, we pray to find the true church of Christ.
+I submit that we are all in search for the true church, and we give according to our faith in such -- and as weak as our faith may be, we pray to find the true church of Christ.
 
 
 
