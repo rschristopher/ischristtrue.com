@@ -194,7 +194,7 @@ Anything less is clear evidence that we are dealing with the prophecied Laodicea
 
 ## Christ is Knocking 
 
-If we are in a church where Christ is knocking, then we are to answer -- we are to repent as the spirit commanded.
+If we are in a church where Christ is knocking, then we are to answer -- we are to repent as the Spirit commanded.
 Recognize that the rebuke against our modern church is done out of love.
 We are to cover our nakedness and annoint our eyes that we may see.
 In practice this means discerning truth, speaking against heresies, and growing closer to Christ who is there with us.
@@ -202,7 +202,7 @@ In practice this means discerning truth, speaking against heresies, and growing 
 !!! danger "Tongues and other Demonic Deceit"
     If we are serious about the gifts of the Holy Spirit, then we should contrast the gutteral nonsense of modern charasmatic churches and instead ask: ***why are you not learning ancient Greek or Hebrew?***
 
-    The ancient Greek language was *the* language chosen for the revealed truth that is Christ. 
+    The ancient Greek language was the language chosen for the revealed truth that is Christ. 
     Likewise ancient Hebrew was the language of God's chosen people, the language of the old testament.
     The synthesis between Greek and Hebrew gave us the revelation and the fulfillment of prophecy that is Christ Jesus.
 
@@ -217,7 +217,7 @@ In practice this means discerning truth, speaking against heresies, and growing 
 
 I submit that we are all in need and desperately searching for the true church.
 A church where we would gladly give everything -- where there is healing, speaking revealed truth, and language learning.
-Instead we give according to our faith in such -- and, as weak as our faith may be, we pray to find the true church of Christ.
+Instead we give according to our weak faith in such -- and, as weak as our faith may be, we pray to find the true church of Christ.
 
 If we cannot find the true church, or anywhere that Christ is knocking, then where should we go?
 
