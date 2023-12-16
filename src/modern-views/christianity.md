@@ -67,7 +67,7 @@ Modern Christianity is often maligned, including by Christians.
 !!! quote "Exodus 19:3-6"
     And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel; Ye have seen what I did unto the Egyptians, and how **I bare you on eagles' wings**, and brought you unto myself. Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine: And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.
 
-The true home is the desert, the wilderness...
+The true home of the church is the desert, the wilderness... 
 
 
 
@@ -92,12 +92,12 @@ They would certainly ask for a tithing, but why only 10% and not everything? If 
 
 Is not such fear and uncertaintly evidence that you most likely do not believe your church is the true church of Christ? And by asking for only a tithing is that not evidence that they themselves do not believe they are the true church of Christ?
 
-It is no wonder that cults emerge and people give everything to some charismatic leader, for we are all worshipping something, and how many modern Christians are worshipping the state and mammon over Christ Jesus?
+It is no wonder that cults emerge and people give everything to some charismatic leader, for we are all worshipping something, and how many modern Christians are worshipping the state or mammon or nothingness over Christ Jesus?
 
-For if you found the true church and believed it was indeed the true church, you would give them everything, you would follow exactly as Christ instructed.
+For if you found the true church and believed it was indeed the true church, you would give them everything, you would follow exactly as Peter followed Jesus.
 
 I submit that we are all in search for the true church, and we give according to our faith in such -- and as weak as our faith may be, we pray to find the true church of Christ.
-
+And where we do not find the true church, then we go to the desert.
 
 
 
