@@ -1,6 +1,45 @@
 # Modern Christianity
 
-Modern Christianity is often maligned, including by Christians.
+Modern Christianity is often maligned, including by Christians themselves. 
+The more sincere you are in your faith, the further you will feel from the sinless perfection that we are called to. 
+And yet we often see boastful Christians, convinced of their status as one of the *elect", that they already are *saved*.
+
+It is said that if there were a perfect church, it would cease being perfect the moment you joined -- and this is of course true as we are all sinners deserving death.
+And while there can be no perfect church, it is clear that there are false and heretical churches claiming to be Christian.
+These are -- to be clear -- churches in the spirit of antichrist.
+
+In other words, if we take the gospel seriously, it becomes clear that many modern Christian churches are preaching heretical messages contrary to the teachings of Christ.
+And not just the obvious transgender Marxist ideologues masquerading as Christians, but more subtly with female pastors or political messaging from the pulpit.
+Heresies come in many forms, as do temptations.
+
+
+
+
+
+
+
+
+
+## The True Church?
+
+Many will claim to be the true church of Christ.
+Many will claim that other churches are, in fact, not the true church of Christ. It is wise to be skeptical of both accounts.
+
+Many will claim that the true church is invisible.
+Their physical buildings then are not the true church.
+And usually that shows.
+
+And while we may never find a perfect church, how can we at least find a non-heretical church, a church of Christ and not antichrist?
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -72,6 +111,11 @@ The true home of the church is the desert, the wilderness...
 
 
 
+
+
+
+
+
 ## Modern Churches
 
 Imagine a man who sold everything and went to his local church, showing up at the door and telling the church staff, "I have sold everything I own, and now I am here to follow Christ".
@@ -83,20 +127,18 @@ How many would call the police or social services? For clearly by our [modern vi
 
 By doing so is this not clear evidence of where such a church places God in their hierarchy of belief, beneath the power of the state? 
 
-
-
 And here's an easier question: would you give everything you own to your church and trust that they would look after you, distributing your money to all according to need?
 Or do you fear they would mismanage your money?
 Even if you recognized that you are but a steward of any wealth acquired, and that it is God's wealth at the end of the day -- would you then trust your church with this wealth?
-They would certainly ask for a tithing, but why only 10% and not everything? If they are the true church of Christ do they not deserve everything? If they are not the true church of Christ then why does a false church deserve anything?
+They might certainly ask for a tithing, but why only 10% and not everything? If they are the true church of Christ do they not deserve everything? If they are *not* the true church of Christ then they are a false church -- why does a false church deserve anything?
 
 Is not such fear and uncertaintly evidence that you most likely do not believe your church is the true church of Christ? And by asking for only a tithing is that not evidence that they themselves do not believe they are the true church of Christ?
 
-It is no wonder that cults emerge and people give everything to some charismatic leader, for we are all worshipping something, and how many modern Christians are worshipping the state or mammon or nothingness over Christ Jesus?
+It is no wonder that cults emerge and people give everything to some charismatic leader, for we are all worshipping something, and how many modern Christians are worshipping the state or mammon or nothingness instead of worshipping Christ Jesus?
 
-For if you found the true church and believed it was indeed the true church, you would give them everything, you would follow exactly as Peter followed Jesus.
+For if you found the true church and believed it was indeed the true church, you would give them everything. You would follow exactly as Peter followed Jesus.
 
-I submit that we are all in search for the true church, and we give according to our faith in such -- and as weak as our faith may be, we pray to find the true church of Christ.
+I submit that we are all in search for the true church, and we give according to our faith in such -- and, as weak as our faith may be, we pray to find the true church of Christ.
 And where we do not find the true church, then we go to the desert.
 
 
@@ -107,14 +149,6 @@ And where we do not find the true church, then we go to the desert.
 
 
 
-## The True Church?
-
-Many will claim to be the true church of Christ.
-Many will claim that other churches are in fact, not the true church of Christ.
-
-Many will claim that the true church is invisible.
-The physical buildings then are not the true church.
-And usually that shows.
 
 
 
