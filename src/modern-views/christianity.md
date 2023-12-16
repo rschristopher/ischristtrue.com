@@ -1,9 +1,12 @@
 # Modern Christianity
 
 Modern Christianity is often maligned, including by Christians themselves. 
-The more sincere you are in your faith, the further you will feel from the sinless perfection to which we are called -- in other words, supremely humbled before God.
+The more sincere you are in your faith, the further you will feel from the sinless perfection to which we are called -- in other words, to be supremely *humbled" before God.
 
-And yet we often see boastful Christians, convinced of their status as one of the *elect*, that they already are *saved*, predestined even -- which is very much the antithesis of humility.
+And yet we often see proud Christians, convinced of their status as one of the *elect*, that they already are *saved*, predestined even -- which is very much the antithesis of humility.
+
+
+
 
 
 
@@ -16,8 +19,8 @@ It is said that if there were a perfect church, it would cease being perfect the
 And while there can be no perfect church, it is clear that there exists false and heretical churches claiming to be Christian, actively promoting heresies.
 These are -- to be clear -- churches in the spirit of antichrist.
 
-In other words, if we take the gospel seriously, it becomes clear that many modern Christian churches are preaching heretical messages contrary to the Biblical teachings of Christ.
-And not just the obvious transgender Marxist ideologues masquerading as Christians, but more subtly with female pastors and [moderm](index.md) political messaging from the pulpit.
+In other words, if we take the gospel to heart, it becomes clear that many modern Christian churches are preaching heretical messages contrary to the Biblical teachings of Christ.
+And not just the obvious transgender Marxist ideologues masquerading as Christians, but more subtly with female pastors and [moderm](index.md) political messaging from the pulpit, trying to modernize the church.
 
 *Heresies come in many forms, as do temptations.*
 
@@ -33,11 +36,11 @@ And not just the obvious transgender Marxist ideologues masquerading as Christia
 
 ## The True Church?
 
-Many will claim there's to be the true church of Christ.
-Many will claim that other churches are, in fact, not the true church of Christ. It is wise to be skeptical.
+Many will claim theirs to be the true church of Christ.
+Many will claim that other churches are not the true church of Christ. It is wise to be skeptical of any such claims.
 
-Many will claim that the true church is invisible.
-Their physical buildings then are not the true church.
+Others will claim that the true church is invisible.
+The physical buildings then are not the true church.
 And usually that shows.
 The banality and lack of sacredness of modern churches is self evident, where even shopping malls have more beauty and reverence in their aesthetic.
 
@@ -48,9 +51,9 @@ None of this is an accident nor is it unprecedented in scripture. The many rebuk
     
     Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me. To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne. He that hath an ear, let him hear what the Spirit saith unto the churches.
 
+In our modern age of division and continuous destructive revolution we may never find the true church of Christ. How can we at least find a non-heretical church, a church where Christ is knocking, and not antichrist? 
 
-And while we may never find a perfect church, how can we at least find a non-heretical church, a church of Christ and not antichrist? And do we overcome as the Spirit has commanded?
-
+*How do we overcome?*
 
 
 
@@ -68,6 +71,8 @@ And while we may never find a perfect church, how can we at least find a non-her
 
 ## They Followed Him
 
+We are not the first to be lost, for all our ancestors before Christ were more lost. And look how they followed when he called,
+
 !!! quote "Matthew 4:18-22"
     And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
     And he saith unto them, Follow me, and I will make you fishers of men.
@@ -78,6 +83,7 @@ And while we may never find a perfect church, how can we at least find a non-her
 
     And they immediately left the ship and their father, and **followed him**.
 
+Many followed, but note carefully those that did not -- and let us reflect *honestly* and *humbly* upon the story of the rich young man,
 
 !!! quote "Matthew 19:16-24"
     And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
@@ -95,6 +101,11 @@ And while we may never find a perfect church, how can we at least find a non-her
     Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.
     And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
 
+The rich young man is perfectly endemic to our modern age, to modern Christians, who are like this rich young man. By any account, the young man is being honest when he says he is fulfilling the mosaic law, we can imagine he was giving his tithing gladly and generously, was honest and kind with everyone, yet still he knew something was missing. 
+
+Without understanding, he was violating the first commandment, and had placed his possessions -- his worldly status -- above God.
+
+Likewise, many modern Christians want the worldly benefits of the Christian lifestyle, and like this young man are fulfiling the worldly commandments, but they have not known God. And as we see in the gospel of Luke, it is not just wealth but any worldly concern, even those nearest and dear to our hearts,
 
 !!! quote "Luke 9:57-62"
     And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest.
@@ -106,6 +117,7 @@ And while we may never find a perfect church, how can we at least find a non-her
     And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house.
     And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.
 
+Contrast that to the apostles who dropped their fishing nets and followed Jesus. And lest one believe this was only due to Jesus walking among us prior to His death and resurrection, we can see that afterwards the faith in believers only grew,
 
 !!! quote "Acts 2:44-47"
     And all that believed were together, and had all things common; 
@@ -113,7 +125,38 @@ And while we may never find a perfect church, how can we at least find a non-her
     And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with gladness and singleness of heart, 
     Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved.
 
+Imagine such faith, not only answering when Jesus knocks, but selling all possessions and devoting their lives to Christ and His church. These followers of Christ succeeded where the rich young man failed, and where we in our modern view fail. It is difficult to imagine such faith today.
 
+
+
+
+
+
+
+## Finding the Way
+
+Imagine a man who sold everything and went to his local church, showing up at the door and telling the church staff, *"I have sold everything I own, and now I am here to follow Christ"*.
+
+It's easy to imagine a modern church would happily take this man's money, but would they open their doors to this man outside of Sunday? 
+If he refused to leave and stayed in the parking lot, praying day and night, begging for alms, what would the staff of a modern Christian church do? 
+
+How many would call the police or social services? For clearly by our [modern view](index.md) such a man would not be in his right mind. 
+
+By doing so is this not clear evidence of where such a church places God in their hierarchy of belief, beneath the power of the state? 
+
+And here's an easier question: would you give everything you own to your church and trust that they would look after you, distributing your money to all according to need?
+Or do you fear they would mismanage your money? And leave you in the cold begging for alms.
+Even if you recognized that you are but a steward of any wealth acquired, and that it is God's wealth at the end of the day -- would you then trust your church with this wealth?
+They might certainly ask for a tithing, but why only 10% and not everything? If they are *the true church of Christ* do they not deserve everything? If they are *not* the true church of Christ then they are a false church -- why does a false church deserve anything?
+
+Is not such fear and uncertaintly evidence that you most likely do not believe your church is the true church of Christ? And by asking for only a tithing is that not evidence that they themselves do not believe that they are the true church of Christ?
+
+It is no wonder that cults emerge and followers give everything to some charismatic leader, for we are all worshipping something, and how many modern Christians are worshipping the state or mammon or nothingness instead of worshipping Christ Jesus? We are made to worship, and our modern churches are worshipping what exactly?
+
+For if you found the true church and believed it was indeed the true church, you would give them everything. You would follow exactly as Peter followed Jesus. Anything less is clear evidence that we are the prophecied Laodicean church.
+
+I submit that we are all in need and desperately searching for the true church, and we give according to our faith in such -- and, as weak as our faith may be, we pray to find the true church of Christ.
+And where we do not find the true church, or any where Christ is knocking, then where do we go?
 
 
 
@@ -136,30 +179,6 @@ The true home of the church is the desert, the wilderness...
 
 
 
-## Finding the Way
-
-Imagine a man who sold everything and went to his local church, showing up at the door and telling the church staff, "I have sold everything I own, and now I am here to follow Christ".
-
-It's easy to imagine a modern church would happily take this man's money, but would they open their doors to this man outside of Sunday? 
-If he refused to leave and stayed in the parking lot, praying day and night, what would the staff of a modern Christian church do? 
-
-How many would call the police or social services? For clearly by our [modern view](index.md) such a man would not be in his right mind. 
-
-By doing so is this not clear evidence of where such a church places God in their hierarchy of belief, beneath the power of the state? 
-
-And here's an easier question: would you give everything you own to your church and trust that they would look after you, distributing your money to all according to need?
-Or do you fear they would mismanage your money?
-Even if you recognized that you are but a steward of any wealth acquired, and that it is God's wealth at the end of the day -- would you then trust your church with this wealth?
-They might certainly ask for a tithing, but why only 10% and not everything? If they are the true church of Christ do they not deserve everything? If they are *not* the true church of Christ then they are a false church -- why does a false church deserve anything?
-
-Is not such fear and uncertaintly evidence that you most likely do not believe your church is the true church of Christ? And by asking for only a tithing is that not evidence that they themselves do not believe they are the true church of Christ?
-
-It is no wonder that cults emerge and people give everything to some charismatic leader, for we are all worshipping something, and how many modern Christians are worshipping the state or mammon or nothingness instead of worshipping Christ Jesus?
-
-For if you found the true church and believed it was indeed the true church, you would give them everything. You would follow exactly as Peter followed Jesus.
-
-I submit that we are all in search for the true church, and we give according to our faith in such -- and, as weak as our faith may be, we pray to find the true church of Christ.
-And where we do not find the true church, then we go to the desert.
 
 
 
