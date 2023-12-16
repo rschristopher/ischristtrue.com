@@ -174,11 +174,11 @@ If they are *the true church of Christ* do they not deserve everything?
 If they are *not* the true church of Christ then they are a false church -- why does a false church deserve anything?
 
 Is not such fear and uncertaintly evidence that you most likely do not believe your church is the true church of Christ? 
-And by asking for only a tithing is that not evidence that they themselves do not believe that they themselves are the true church of Christ?
+And by asking for only a tithing is that not evidence that they do not believe that they themselves are the true church of Christ?
 Perhaps they are only 10% truth, and your tithe confirms your 10% faith?
 
-It is no wonder that cults emerge in our confused modern age, and cult followers give everything to a charismatic leader.
-How desperate are we for truth?
+It is no wonder that demonic cults emerge in our confused modern age, and cult followers give everything to a charismatic leader.
+How desperate are we for truth and meaning?
 For we are all worshipping something, 
    and how many modern Christians are worshipping the state or mammon or nothingness instead of worshipping Christ Jesus? 
 We are made to worship, and our modern churches are worshipping what exactly?
