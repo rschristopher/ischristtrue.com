@@ -185,22 +185,16 @@ We are made to worship, and our modern churches are worshipping what exactly?
 
 For if you found the *true* church and believed it was indeed the *true* church, you would give them everything. 
 You would follow exactly as Peter followed Jesus. 
-Anything less is clear evidence that we are dealing with the prophecied Laodicean church.
-
-I submit that we are all in need and desperately searching for the true church.
-And we give according to our faith in such -- and, as weak as our faith may be, we pray to find the true church of Christ.
-
-If we cannot find the true church, or anywhere that Christ is knocking, then where should we go?
+Anything less is clear evidence that we are dealing with the prophecied Laodicean church -- where Christ will be knocking.
 
 
 
 
 
 
+## Christ is Knocking 
 
-## Desert Wilderness
-
-If we are in a church where Christ is knocking, then we are only to answer -- we are to repent as the spirit commanded.
+If we are in a church where Christ is knocking, then we are to answer -- we are to repent as the spirit commanded.
 Recognize that the rebuke against our modern church is done out of love.
 We are to cover our nakedness and annoint our eyes that we may see.
 In practice this means discerning truth, speaking against heresies, and growing closer to Christ who is there with us.
@@ -220,10 +214,28 @@ In practice this means discerning truth, speaking against heresies, and growing 
 
     A simple test of a faithful church is thus, do they study ancient Greek and Hebrew? Do they reject the heresies of ecstasy and ecumenism?
 
-Where this is not available, and for many this will be our calling -- we are to return where the true church will always be found, in the desert, in the wilderness.
+
+I submit that we are all in need and desperately searching for the true church.
+A church where we would gladly give everything -- where there is healing, speaking revealed truth, and language learning.
+Instead we give according to our faith in such -- and, as weak as our faith may be, we pray to find the true church of Christ.
+
+If we cannot find the true church, or anywhere that Christ is knocking, then where should we go?
+
+
+
+
+
+
+
+## Desert Wilderness
+
+If Christ is not knocking, and the churches are nothing but heresy -- and for many this will be our calling -- we are to return where the true church will always be found, to the desert, to the wilderness. And we will be carried there by the Holy Spirit.
 
 !!! quote "Exodus 19:3-6"
     And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel; Ye have seen what I did unto the Egyptians, and how **I bare you on eagles' wings**, and brought you unto myself. Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine: And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.
+
+Note the symbolism of *eagles' wings*.
+That same symbolism is in the Book of Revelation as the true church escapes into the wilderness,
 
 !!! quote "Revelation 13:17"
     And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child. And to the woman were given **two wings of a great eagle**, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent. And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood. And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth. And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.
