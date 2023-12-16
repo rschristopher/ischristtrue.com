@@ -178,9 +178,9 @@ And by asking for only a tithing is that not evidence that they do not believe t
 Perhaps they are only 10% truth, and your tithe confirms your 10% faith?
 
 It is no wonder that demonic cults emerge in our confused modern age, and cult followers give everything to a charismatic leader.
-How desperate are we for truth and meaning?
-For we are all worshipping something, 
-   and how many modern Christians are worshipping the state or mammon or nothingness instead of worshipping Christ Jesus? 
+How desperate are we for truth and purpose in life?
+For we are all worshipping something. 
+How many modern Christians are worshipping the state or mammon or nothingness instead of worshipping Christ Jesus? 
 We are made to worship, and our modern churches are worshipping what exactly?
 
 For if you found the *true* church and believed it was indeed the *true* church, you would give them everything. 
