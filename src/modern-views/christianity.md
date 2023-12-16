@@ -1,16 +1,27 @@
 # Modern Christianity
 
 Modern Christianity is often maligned, including by Christians themselves. 
-The more sincere you are in your faith, the further you will feel from the sinless perfection that we are called to. 
-And yet we often see boastful Christians, convinced of their status as one of the *elect", that they already are *saved*.
+The more sincere you are in your faith, the further you will feel from the sinless perfection to which we are called -- in other words, supremely humbled before God.
 
-It is said that if there were a perfect church, it would cease being perfect the moment you joined -- and this is of course true as we are all sinners deserving death.
-And while there can be no perfect church, it is clear that there are false and heretical churches claiming to be Christian.
+And yet we often see boastful Christians, convinced of their status as one of the *elect", that they already are *saved*, predestined even -- which is very much the antithesis of humility.
+
+
+
+
+
+
+## Modern Church
+
+It is said that if there were a perfect church, it would cease being perfect the moment you joined -- and this is of course true as we are all sinners, irredeemable by our own actions.
+And while there can be no perfect church, it is clear that there exists false and heretical churches claiming to be Christian, actively promoting heresies.
 These are -- to be clear -- churches in the spirit of antichrist.
 
-In other words, if we take the gospel seriously, it becomes clear that many modern Christian churches are preaching heretical messages contrary to the teachings of Christ.
-And not just the obvious transgender Marxist ideologues masquerading as Christians, but more subtly with female pastors or political messaging from the pulpit.
-Heresies come in many forms, as do temptations.
+In other words, if we take the gospel seriously, it becomes clear that many modern Christian churches are preaching heretical messages contrary to the Biblical teachings of Christ.
+And not just the obvious transgender Marxist ideologues masquerading as Christians, but more subtly with female pastors and [moderm](index.md) political messaging from the pulpit.
+
+*Heresies come in many forms, as do temptations.*
+
+
 
 
 
@@ -22,12 +33,16 @@ Heresies come in many forms, as do temptations.
 
 ## The True Church?
 
-Many will claim to be the true church of Christ.
-Many will claim that other churches are, in fact, not the true church of Christ. It is wise to be skeptical of both accounts.
+Many will claim there's to be the true church of Christ.
+Many will claim that other churches are, in fact, not the true church of Christ. It is wise to be skeptical.
 
 Many will claim that the true church is invisible.
 Their physical buildings then are not the true church.
 And usually that shows.
+The banality and lack of sacredness of modern churches is self evident, where even shopping malls have more beauty and reverence in their aesthetic.
+
+None of this is an accident nor is it unprecedented in scripture.
+...
 
 And while we may never find a perfect church, how can we at least find a non-heretical church, a church of Christ and not antichrist?
 
@@ -98,7 +113,7 @@ And while we may never find a perfect church, how can we at least find a non-her
 
 
 
-## Desert/Wilderness
+## Desert Wilderness
 
 !!! quote "Revelation 13:17"
     And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child. And to the woman were given **two wings of a great eagle**, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent. And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood. And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth. And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.
@@ -116,7 +131,7 @@ The true home of the church is the desert, the wilderness...
 
 
 
-## Modern Churches
+## Finding the Way
 
 Imagine a man who sold everything and went to his local church, showing up at the door and telling the church staff, "I have sold everything I own, and now I am here to follow Christ".
 
