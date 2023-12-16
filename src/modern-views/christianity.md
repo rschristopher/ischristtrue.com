@@ -200,7 +200,7 @@ We are to cover our nakedness and annoint our eyes that we may see.
 In practice this means discerning truth, speaking against heresies, and growing closer to Christ who is there with us.
 
 !!! danger "Tongues and other Demonic Deceit"
-    If we are serious about the gifts of the Holy Spirit, then we should contrast the gutteral nonsense of modern charasmatic churches and instead ask: ***why are you not learning ancient Greek or Hebrew?***
+    If we are serious about the gifts of the Holy Spirit, then we should contrast the gutteral nonsense of modern charasmatic churches, so-called "speaking in tongues" and instead ask: ***why are you not learning ancient Greek or Hebrew?***
 
     The ancient Greek language was the language chosen for the revealed truth that is the new testament. 
     Likewise ancient Hebrew was the language of God's chosen people, the language of the old testament.
