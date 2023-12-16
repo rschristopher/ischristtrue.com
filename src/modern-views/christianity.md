@@ -202,7 +202,7 @@ In practice this means discerning truth, speaking against heresies, and growing 
 !!! danger "Tongues and other Demonic Deceit"
     If we are serious about the gifts of the Holy Spirit, then we should contrast the gutteral nonsense of modern charasmatic churches and instead ask: ***why are you not learning ancient Greek or Hebrew?***
 
-    The ancient Greek language was the language chosen for the revealed truth that is Christ. 
+    The ancient Greek language was the language chosen for the revealed truth that is the new testament. 
     Likewise ancient Hebrew was the language of God's chosen people, the language of the old testament.
     The synthesis between Greek and Hebrew gave us the revelation and the fulfillment of prophecy that is Christ Jesus.
 
@@ -210,14 +210,15 @@ In practice this means discerning truth, speaking against heresies, and growing 
     This includes prophecy (speaking revealed truth), as well as the gift of tongues, that is, learning and speaking other languages. 
     We are called by the Holy Spirit to use these gifts, and our Laodicean churches are called to repent. 
     Our modern churches are called to cease the heresies of ecstasy (speaking nonsense and calling it "tongues"),
-    and to cease the heresies of ecumenism (vain unity over truth) -- we are called to language learning, to prophecy (speaking revealed truth).
+    and to cease the heresies of ecumenism (vain unity over truth) -- we are called to language learning, to prophecy (speaking revealed truth), to healing.
 
-    A simple test of a faithful church is thus, do they study ancient Greek and Hebrew? Do they reject the heresies of ecstasy and ecumenism?
+    A simple test of a faithful church is thus, do they help you study ancient Greek and Hebrew? Do they reject the heresies of ecstasy and ecumenism?
 
 
 I submit that we are all in need and desperately searching for the true church.
 A church where we would gladly give everything -- where there is healing, speaking revealed truth, and language learning.
 Instead we give according to our weak faith in such -- and, as weak as our faith may be, we pray to find the true church of Christ.
+Our modern churches are a sad inversion of the true church (where we worship the state and materialism, placing the church beneath both).
 
 If we cannot find the true church, or anywhere that Christ is knocking, then where should we go?
 
