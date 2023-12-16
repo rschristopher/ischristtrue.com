@@ -229,7 +229,7 @@ If we cannot find the true church, or anywhere that Christ is knocking, then whe
 
 ## Desert Wilderness
 
-If Christ is not knocking, and the churches are nothing but heresy -- and for many this will be our calling -- we are to return where the true church will always be found, to the desert, to the wilderness. And we will be carried there by the Holy Spirit.
+If Christ is not knocking, and the churches are nothing but heresy -- and for many this will be their calling -- we are to go to where the true church will always be found, to the desert, to the wilderness. And we will be carried there by the Holy Spirit.
 
 !!! quote "Exodus 19:3-6"
     And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel; Ye have seen what I did unto the Egyptians, and how **I bare you on eagles' wings**, and brought you unto myself. Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine: And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.
