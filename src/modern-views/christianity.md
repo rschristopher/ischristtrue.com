@@ -183,7 +183,7 @@ For we are all worshipping something.
 How many modern Christians are worshipping the state or mammon or nothingness instead of worshipping Christ Jesus? 
 We are made to worship, and our modern churches are worshipping what exactly?
 
-For if you found the *true* church and believed it was indeed the *true* church, you would give them everything. 
+If you found the *true* church and believed it was indeed the *true* church, you would give them everything. 
 You would follow exactly as Peter followed Jesus. 
 Anything less is clear evidence that we are dealing with the prophecied Laodicean church -- where Christ will be knocking.
 
