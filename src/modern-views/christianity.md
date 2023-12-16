@@ -155,7 +155,7 @@ It is difficult to imagine such faith today.
 
 Imagine a man who sold everything and went to a modern church, showing up at the door and telling the church staff, *"I have sold everything I own, and now I am here to follow Christ"*.
 
-It's easy to imagine a modern church would greedily take this man's money, but would they open their doors to this man outside of Sunday? 
+It's easy to imagine that a modern church would greedily take this man's money, but would they open their doors to this man outside of Sunday? 
 If he refused to leave and stayed in the parking lot, praying day and night, begging for alms, what would the staff of a modern Christian church do? 
 
 How many would call the police or social services? For clearly by our [modern view](index.md) such a man would not be in his right mind. 
