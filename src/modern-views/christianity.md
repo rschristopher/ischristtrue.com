@@ -3,7 +3,7 @@
 Modern Christianity is often maligned, including by Christians themselves. 
 The more sincere you are in your faith, the further away you will feel from the sinless perfection to which we are called -- in other words, we are to be supremely *humbled* before God.
 
-And yet we often see proud Christians, convinced of their status as members of the *elect*, convinced that they already are *saved*, predestined even -- which is very much the antithesis of humility.
+And yet we often see proud Christians, convinced of their status as members of the *elect*, convinced that they are already *saved*, predestined even -- which is very much the antithesis of humility.
 
 
 
