@@ -118,7 +118,7 @@ Yet still he knew something was missing.
 
 Without understanding, he was violating the first commandment, and had placed his possessions -- his worldly status -- above God.
 
-Likewise, many modern Christians want the worldly benefits of the Christian lifestyle, and like this young man are fulfiling the worldly commandments, but they have not known God. They are not following the greatest commandment: *to love God with all their heart, mind, and soul*. And as we see in the gospel of Luke, it is not just wealth that we place above God,
+Likewise, many modern Christians want the worldly benefits of the Christian lifestyle, and like this young man are fulfiling the worldly commandments, but they have not yet known God. They are not following the greatest commandment: *to love God with all your heart, mind, and soul*. And as we see in the gospel of Luke, it is not just wealth that we place above God,
 
 !!! quote "Luke 9:57-62"
     And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest.
