@@ -200,7 +200,7 @@ We are to cover our nakedness and annoint our eyes that we may see.
 In practice this means discerning truth, speaking against heresies, and growing closer to Christ who is there with us.
 
 !!! danger "Tongues and other Demonic Deceit"
-    If we are serious about the gifts of the Holy Spirit, then we should contrast the gutteral nonsense of modern charasmatic churches, so-called "speaking in tongues" and instead ask: ***why are you not learning ancient Greek or Hebrew?***
+    If we are serious about the gifts of the Holy Spirit, then we should question the gutteral nonsense of modern charasmatic churches, so-called "speaking in tongues", and ask: ***why are you not learning ancient Greek or Hebrew?***
 
     The ancient Greek language was the language chosen for the revealed truth that is the new testament. 
     Likewise ancient Hebrew was the language of God's chosen people, the language of the old testament.
@@ -212,7 +212,7 @@ In practice this means discerning truth, speaking against heresies, and growing 
     Our modern churches are called to cease the heresies of ecstasy (speaking nonsense and calling it "tongues"),
     and to cease the heresies of ecumenism (vain unity over truth) -- we are called to language learning, to prophecy (speaking revealed truth), to healing.
 
-    A simple test of a faithful church is thus, do they help you study ancient Greek and Hebrew? Do they reject the heresies of ecstasy and ecumenism?
+    A simple test of a faithful church is thus, do they help you study ancient Biblical languages? Do they reject the heresies of ecstasy and ecumenism?
 
 
 I submit that we are all in need and desperately searching for the true church.
