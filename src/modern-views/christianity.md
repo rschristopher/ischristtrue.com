@@ -1,7 +1,8 @@
 # Modern Christianity
 
 Modern Christianity is often maligned, including by Christians themselves. 
-The more sincere you are in your faith, the further away you will feel from the sinless perfection to which we are called -- in other words, we are to be supremely *humbled* before God.
+The more sincere you are in your faith, the further away you will feel from the sinless perfection to which we are called. 
+In other words, to be supremely humbled before God.
 
 And yet we often see proud Christians, convinced of their status as members of the *elect*, convinced that they are already *saved*, predestined even -- which is very much the antithesis of humility.
 
@@ -58,7 +59,7 @@ The many rebukes and the prophetic warning to the church in *Laodicea* are extre
 
 In our modern age of division and continuous destructive revolutions we may never find the *true* church of Christ. 
 How can we at least find a non-heretical church, a church where Christ is knocking, and not antichrist? 
-As always, we are called to repent -- for Christ is knocking -- and we need only to follow.
+As always, we are called to repent -- for Christ is knocking -- and we need to follow.
 This may be difficult for many modern Christians and modern churches, but if we are serious in seeking truth and answering the call, then what choice do we have?
 
 
@@ -163,7 +164,8 @@ Is this not clear evidence of where we and our churches place God in the hierarc
 
 And here's an easier question: would you personally give everything you own to your church and trust that they would look after you, distributing the money to all according to need?
 Or do you fear they would mismanage the money? 
-And perhaps leave you in the cold begging for alms.
+And perhaps leave you in the cold begging for alms?
+
 Even if you recognized that you are but a steward of any wealth acquired
  -- that it is God's wealth at the end of the day -- 
  do you trust any modern church with the wealth of which you are a steward? 
@@ -200,7 +202,7 @@ We are to cover our nakedness and annoint our eyes that we may see.
 In practice this means discerning truth, speaking against heresies, and growing closer to Christ who is there with us.
 
 !!! danger "Tongues and other Demonic Deceit"
-    If we are serious about the gifts of the Holy Spirit, then we should question the gutteral nonsense of modern charasmatic churches, so-called "speaking in tongues", and ask: ***why are you not learning ancient Greek or Hebrew?***
+    If we are serious about the gifts of the Holy Spirit, then we should question the gutteral nonsense of modern charasmatic churches, so-called "speaking in tongues", and ask: ***why are you not speaking ancient Greek or Hebrew?***
 
     The ancient Greek language was the language chosen for the revealed truth that is the new testament. 
     Likewise ancient Hebrew was the language of God's chosen people, the language of the old testament.
@@ -212,10 +214,10 @@ In practice this means discerning truth, speaking against heresies, and growing 
     Our modern churches are called to cease the heresies of ecstasy (speaking nonsense and calling it "tongues"),
     and to cease the heresies of ecumenism (vain unity over truth) -- we are called to language learning, to prophecy (speaking revealed truth), to healing.
 
-    A simple test of a faithful church is thus, do they help you study ancient Biblical languages? Do they reject the heresies of ecstasy and ecumenism?
+    A simple test of a faithful church is thus, do they help you study languages (Biblical or otherwise)? Do they reject the heresies of ecstasy and ecumenism?
 
 
-I submit that we are all in need and desperately searching for the true church.
+I submit that we are all in need and desperately seeking for the true church.
 A church where we would gladly give everything -- where there is healing, speaking revealed truth, and language learning.
 Instead we give according to our weak faith in such -- and, as weak as our faith may be, we pray to find the true church of Christ.
 Our modern churches are a sad inversion of the true church (where we worship the state and materialism, placing the church beneath both).
@@ -236,13 +238,13 @@ If Christ is not knocking, and the churches are nothing but heresy -- and for ma
     And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel; Ye have seen what I did unto the Egyptians, and how **I bare you on eagles' wings**, and brought you unto myself. Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine: And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.
 
 Note the symbolism of *eagles' wings*.
-That same symbolism is in the Book of Revelation as the true church escapes into the wilderness,
+That same symbolism is in the Book of Revelation as the prophecied church escapes into the wilderness,
 
 !!! quote "Revelation 13:17"
     And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child. And to the woman were given **two wings of a great eagle**, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent. And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood. And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth. And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.
 
 
-The true home of the church is the desert, the wilderness. And like the [desert fathers](https://earlychurchhistory.org/who-were-the-desert-fathers/) we are called by Christ -- whether that be in the apostolic church where we sell everything we own, or in a modern Laodicean church where we repent, or in the true church of the desert -- in all we are all called to follow Him.
+The true home of the church is the desert, the wilderness. And like the [desert fathers](https://earlychurchhistory.org/who-were-the-desert-fathers/) we are called by Christ -- whether that be in the apostolic church where we sell everything we own, or in a modern Laodicean church where we repent, or in the true church of the desert -- in all ages we are all called to follow Him.
 
 
 
