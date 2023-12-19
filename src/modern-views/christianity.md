@@ -168,8 +168,8 @@ And perhaps leave you in the cold begging for alms?
 
 Even if you recognized that you are but a steward of any wealth acquired
  -- that it is God's wealth at the end of the day -- 
- do you trust any modern church with the wealth of which you are a steward? 
-And is this belief itself not a subtle form of self-worship?
+ do you trust any modern church more than your own stewardship? 
+And is this not a subtle form of self-worship?
 
 A modern church may certainly ask for a tithing, but why only 10% and not everything? 
 If they are *the true church of Christ* do they not deserve everything? 
