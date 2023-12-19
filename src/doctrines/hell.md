@@ -22,7 +22,7 @@ They believe they came from a
  -- and they wonder why the
  astute theists will point out
  that they unconsciously believe in God
- (for who else creates *ex nihilo*?)
+ (for who else creates *ex nihilo*?).
 
 Is this really the end fate
  of a human soul? 
