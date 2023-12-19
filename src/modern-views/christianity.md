@@ -206,15 +206,15 @@ In practice this means discerning truth, speaking against heresies, and growing 
 
     The ancient Greek language was the language chosen for the revealed truth that is the new testament. 
     Likewise ancient Hebrew was the language of God's chosen people, the language of the old testament.
-    The synthesis between Greek and Hebrew gave us the revelation and the fulfillment of prophecy that is Christ Jesus.
+    The synthesis between these extraordinary languages gave us the revelation and the fulfillment of prophecy that is Christ Jesus.
 
     Gifts of the Holy Spirit are real.
     This includes prophecy (speaking revealed truth), as well as the gift of tongues, that is, learning and speaking other languages. 
     We are called by the Holy Spirit to use these gifts, and our Laodicean churches are called to repent. 
     Our modern churches are called to cease the heresies of ecstasy (speaking nonsense and calling it "tongues"),
-    and to cease the heresies of ecumenism (vain unity over truth) -- we are called to language learning, to prophecy (speaking revealed truth), to healing.
+    and to cease the heresies of ecumenism (vain unity over truth) -- we are called to language learning, to prophecy (speaking revealed truth), to healing -- we are called to Christ.
 
-    A simple test of a faithful church is thus, do they help you study languages (Biblical or otherwise)? Do they reject the heresies of ecstasy and ecumenism?
+    A simple test of a faithful church is thus, do they help you study languages (Biblical or otherwise)? Do they reject the heresies of ecstasy and ecumenism? Is it Christ or antichrist that is knocking?
 
 
 I submit that we are all in need and desperately seeking for the true church.
