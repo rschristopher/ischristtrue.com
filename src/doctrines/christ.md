@@ -20,14 +20,23 @@ In this era, we see the stability of trade routes -- culture and art spread from
 We see the proliferation of the Greek Language, the flourishing of a Jewish diaspora, and a synthesis of Greek philosophy and Judaism (see the [Septuagint](https://en.wikipedia.org/wiki/Septuagint)).
 
 In this synthesis the heathens began to recognize the necessity of a first principle of *logos* ... Anima mundi... stoicism
+Meanwhile the remnants of the Babylonian and Medo-Persian empires had similarly been seeded with Jewish religious thought.
+From east to west the gentile world was infused with Jewish monotheism; the innovative idea that there was one and only one God, and that we are made in His image;
+ moreover that our suffering was not due to the whims of careless gods who are otherwise indifferent us, but that there was a fall from grace, an original sin,
+ that through pride man turned away from his created purposee, turning away from the one true God.
 
-In a very profound sense the world (both Jew and Gentile) began to understand the nature of man's fallen state and their very real need for the Messiah.
+the more nuanced understanding of this was not just fallen man living in a depraved state -- but that there were several rebellions, the last of which left man scattered across the earth, speaking in foreign languages, and ruled over by principalities aand powers; the false (or fallen) gods. 
+While the Romans attempted to shove every local god into their pantheon from which they were the head,
+ it was understood that the God of Israel was the one true God, and that there would be a coming Messiah who would rule in the midst of his enemies.
+In other words, the Romans offered a worldly kingdom of man, and the Jewish prophecy spoke of redemption and a Kingdoom of God.
+
+In a very profound sense, the world (both Jew and Gentile) began to understand the nature of man's fallen state and their very real need for the Messiah.
 
 !!! quote "John 1:14"
-    And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
+    And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father) full of grace and truth.
 
 
-### The Angel Gabriel
+### Angel Gabriel
 
 !!! quote "Luke 1:30-38"
     And the angel said unto her, Fear not, Mary: for thou hast found favour with God. 
@@ -171,12 +180,34 @@ It was here that Herod learns of the Messiah. Importantly, not from the shepherd
 
 
 
-### Herod Slaughters Infants
+### New Covenant Prophecy
 
-... a callback to Exodus, just aas Pharoah attempts to slaughter Moses.
+From great mourning into joy...
 
+!!! quote "Matthew 2:16"
+    Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, 
+    and in all the coasts thereof, from two years old and under, according to the time which he had diligently inquired of the wise men.
 
-### New Covenant
+... a reference back to Exodus, just as Pharoah attempts to slaughter all of the Hebrew infant males.
+
+!!! quote "Exodus 1:22"
+    And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.
+
+As stated in Matthew, Herod's massacre of the innocents fulfills the prophecy of Jeremiah,
+
+!!! quote "Matthew 2:17-18"
+    Then was fulfilled that which was spoken by Jeremiah the prophet, saying:
+
+    “A voice was heard in Ramah,
+    Lamentation, weeping, and great mourning,
+    Rachel weeping for her children,
+    Refusing to be comforted,
+    Because they are no more.”
+
+!!! quote "Jeremiah 31:15"
+    Thus saith the LORD; A voice was heard in Ramah, lamentation, and bitter weeping; Rachel weeping for her children refused to be comforted for her children, because they were not.
+
+The prophecy of *Jeremiah 31* is fulfilled, where we have the promise of a new covenant,
 
 !!! quote "Jeremiah 31:31-34"
     Behold, the days come, saith the LORD, that I will make a **new covenant** with the house of Israel, and with the house of Judah: 
