@@ -120,10 +120,10 @@ This involves *two* "second comings" of Christ and multiple resurrections; one a
 
 
 
-### postmillenium
+### postmillennium
 
 Christ would return *after* the millennium, which would not necessarily be a literal 1,000 years. In fact, we might be in the millennium now.
-This view differs from the *amillenium* position only in the assertion of a *millennium age* and a separate a *church age*.
+This view differs from the *amillennium* position only in the assertion of a *millennium age* and a separate a *church age*.
 
 From a worldly perspective there wouldn't be a cosmological difference between the *church age* and the "millennium*.
 There would be no rapture, and only one resurrection of believers and non-believers.
@@ -141,7 +141,7 @@ During the millennium age, human history would necessarily improve as earth is g
 
 
 
-### amillenium
+### amillennium 
 
 Christ returns when he returns, and no one but the father knows when. 
 
@@ -158,11 +158,11 @@ As *St. Paul* would remind us,
     Now, brothers and sisters, about times and dates we do not need to write to you, for you know very well that the day of the Lord will come like a thief in the night. 
 
 
-The "amillenium" view is by definition *not* millennial. 
+The "amillennium" view is by definition *not* millennial. 
 And perhaps we shouldn't dignify millennialism as a theological category.
 E.g., we don't call Calvinists *aarminians*, nor do we refer to Augustine as *apelagian*, and we never refer to Orthodox Christian doctrine as *anestorian* or *aarian*<sup>[?](https://www.youtube.com/watch?app=desktop&v=Dd7FixvoKBw&t=1m43s)</sup>.
 
-A **not millenial** view should perhaps just be called the "biblical view" or the "orthodox view" as it requires no eisegesis and can be understood exegetically.
+A **not millennial** view should perhaps just be called the "biblical view" or the "orthodox view" as it requires no eisegesis and can be understood exegetically.
 
 
 
