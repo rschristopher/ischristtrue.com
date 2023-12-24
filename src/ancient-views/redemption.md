@@ -3,7 +3,7 @@
 To redeem is to buy back, from the Latin *redimere*, literally *again-buy*.
 In the ancient Greek, it is *apolytrōsis* meaning to ransom in full.
 
-!!! Titus 11:14"
+!!! quote "Titus 11:14"
     For the grace of God that bringeth salvation hath appeared to all men, 
     Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world; 
     Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ; 
