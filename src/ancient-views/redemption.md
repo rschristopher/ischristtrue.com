@@ -26,12 +26,17 @@ Redemption effectively undoes the three cosmological rebellions against God:
 Importantly, each of these moments resulted in a change in cosmology, that is, the very nature of reality and the order of creation shifted.
 It is thus a mistake when we imagine our modern cosmology applied to earlier eras -- in truth the very fabric of reality was different.
 
-The most extreme example was life without death. But even in the days after Noah and prior to Babel, all men spoke the same language and "nothing was impossible" to man. There was no "language learning" or even such a concept. There was no miscommunication. Language conveyed unambiguous meaning to all.
-Additionally, this was prior to the *new covenant* and as such the moral law was not written into the hearts of man.
+The most extreme example was life without death. But even in the days after Noah and prior to Babel, all men spoke the same language and "nothing was impossible" to man. 
+There was no "language learning" nor even such a concept. 
+There was no miscommunication. 
+Language conveyed unambiguous meaning to all.
+Additionally, this was prior to the *new covenant* and as such God's moral law was not yet written into the hearts of man.
 We cannot imagine what life was like in this era, as our entire conscious mind is based on a different cosmology.
+We can only infer from ancient text (canonical and apocryphal) what this was like -- e.g., to be placed beneath the gods (spirits), to be subject to demons, playthings of devils.
+For better or worse, our [modern](../modern-views/index.md) age is increasingly providing a taste of exactly this ungodly state.
 
-The redemption of man is thus an extreme cosmological shift, a paradigm shift in consciousness, restoring man into a state resembling Eden.
-And for others this is [hell](hell.md), which is God's mercy for the unrepentant.
+The redemption of man is thus an extreme cosmological shift, a paradigm shift in consciousness, restoring man into a state last seen in Eden.
+For others this is [hell](hell.md), which is God's mercy for the unrepentant.
 
 In other words, all are *bought back*, and while this is good news for those who bear their cross so that the old man may die, this exact redemption (buying back) is a lake of fire for those that refuse to let the old man die.
 This means there is no more rebellion, that time as we know it is over, and we return to our created state -- glorified, or thrown into the lake of fire.
