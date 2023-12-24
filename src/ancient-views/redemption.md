@@ -15,9 +15,9 @@ In the ancient Greek, it is *apolytrōsis* meaning to ransom in full.
 
 While our modern view of redemption is that Christ died for our sins, for the wages of sin are death -- the ancient view went far deeper.
 In the [fall](fall.md) of man, there were multiple rebellions where man turned away from God, his creator.
-Our redemption is the act of God that buys us back, bringing us back under God, back into the glorified state, fulfilling what we were created to fulfill -- that is, to glorify God.
+Redemption is the act of God that buys us back, bringing us back under God, fulfilling what we were created to fulfill -- that is, to glorify God.
 
-This effectively undoes the three cosmological rebellions against God:
+Redemption effectively undoes the three cosmological rebellions against God:
 
 1. exile from Eden, introducing death to creation 
 2. the flood, taking the Spirit away from man, limiting our lives to no more than a hundred and twenty years
@@ -26,12 +26,14 @@ This effectively undoes the three cosmological rebellions against God:
 Importantly, each of these moments resulted in a change in cosmology, that is, the very nature of reality and the order of creation shifted.
 It is thus a mistake when we imagine our modern cosmology applied to earlier eras -- in truth the very fabric of reality was different.
 
-The most extreme example was life without death. But even in the days after Noah and prior to Babel, all men spoke the same language and "nothing was impossible" to us. There was no "language learning" or even such a concept. There was no miscommunication. Language conveyed unambiguous meaning to all.
+The most extreme example was life without death. But even in the days after Noah and prior to Babel, all men spoke the same language and "nothing was impossible" to man. There was no "language learning" or even such a concept. There was no miscommunication. Language conveyed unambiguous meaning to all.
+Additionally, this was prior to the *new covenant* and as such the moral law was not written into the hearts of man.
+We cannot imagine what life was like in this era, as our entire conscious mind is based on a different cosmology.
 
-The redemption of man is thus an extreme cosmological shift, a paradigm shift in cosmology, restoring man into a state resembling Eden.
-And the alternative is [hell](hell.md), which is God's mercy for the unrepentant.
+The redemption of man is thus an extreme cosmological shift, a paradigm shift in consciousness, restoring man into a state resembling Eden.
+And for others this is [hell](hell.md), which is God's mercy for the unrepentant.
 
-In other words, all are *bought back*, and while this is good news for those who bear their cross so that the old man may die, this is a lake of fire for those that refuse to let the old man die.
+In other words, all are *bought back*, and while this is good news for those who bear their cross so that the old man may die, this exact redemption (buying back) is a lake of fire for those that refuse to let the old man die.
 This means there is no more rebellion, that time as we know it is over, and we return to our created state -- glorified, or thrown into the lake of fire.
 Importantly, this was understood as the exact same phenomena -- to the repentant it is divine glory, beholding the face of God, to the unrepentant it is fire, it is weeping and gnashing of teeth.
 
