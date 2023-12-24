@@ -79,7 +79,7 @@ And just as the rebellions led to dramatic changes in cosmology, so too does red
 
 
 
-## 3. Israel
+## 3. Covenant with Israel
 
 The earth had been divided amongst the pagan gods, each with varying degrees of rebellion against God.
 Yet the Lord of Spirits, the one true God, descended into the world to make a nation from His chosen people.
@@ -104,7 +104,9 @@ And then starting with Israel, the one true God placed himself directly into the
 
 
 
-## 2. Messiah
+## 2. New Covenant
+
+Jeremiah... moral law now written in our hearts 
 
 The harrowing of Hades, Christ overcomes death. And it is here where all of the Dominions and Principalities lose their authority. 
 Demons are cast out by the disciples of Christ. 
@@ -116,7 +118,9 @@ The Holy Spirit is now with man, pointing us to Christ, to salvation. Man is no 
 
 
 
-## 1. Lord of Lords
+
+
+## 1. Christ the King
 
 !!! quote "Revelation 19:11-16"
     Now I saw heaven opened, and behold, a white horse. And He who sat on him was called Faithful and True, and in righteousness He judges and makes war. His eyes were like a flame of fire, and on His head were many crowns. He had a name written that no one knew except Himself. He was clothed with a robe dipped in blood, and His name is called The Word of God. And the armies in heaven, clothed in fine linen, white and clean, followed Him on white horses. Now out of His mouth goes a sharp sword, that with it He should strike the nations. And He Himself will rule them with a rod of iron. He Himself treads the winepress of the fierceness and wrath of Almighty God. And He has on His robe and on His thigh a name written:
@@ -127,6 +131,7 @@ The Holy Spirit is now with man, pointing us to Christ, to salvation. Man is no 
 
 In the end, death is defeated, man has dominion over all of creation, including the angels.
 The right cosmic order is restored, such that man becomes *very good* in the sight of God.
+For God the Father sees Christ in us, and is well pleased.
 
 > thy will be done on earth as it is in heaven.
 
