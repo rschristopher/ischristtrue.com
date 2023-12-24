@@ -1,23 +1,26 @@
 # Cosmology 
 
-In our modern usage, cosmology is the study of the universe in terms of time and space. This is a secular view that presupposes time and space as first principles, as well as reason, logic, truth, and so on.
+In our modern usage, cosmology is the study of the universe in terms of time and space. This is a secular view that presupposes time and space as first principles, as well as reason as a first principle, logic as a first principle, knowledge as a first principle, and so on. It is very much a cascade of unquestioned presupositions that yield absurdity under any proper scrutiny.
 
-The more accurate etymology of cosmology is *kosmos* as in the natural order of the universe (as opposed to *chaos*) and *logia* the divine word. That is, the word or story of the natural order of the universe.
+The etymology of cosmology is from *kosmos* as in the natural order of the universe (*cosmos* as opposed to *chaos*) and from *logia* as in the divine word. The more accurate understanding of *cosmology* is the word or story of the natural order of the universe. This presupposes the Christian God, the first principle from which all transcendent categories arise.
 
 
 
-https://biblehub.com/timeline/#complete
 
 
 ## Chronology
+
+If we lay out the chronological order of the Biblical cannon we are presented with a grand story of our origins, of sin, of death, and ultimately of redemption. It is our story.
+
+!!! warning "These are approximate dates based on ordering of scripture"
+
 
 ### Before Time
 In the Beginning was the Word	John 1
 
 
 
-### Before 4000 BC	
-
+### ~4000 BC	
 The Creation	Genesis 1
 
 The Garden of Eden	Genesis 2
@@ -25,14 +28,14 @@ The Garden of Eden	Genesis 2
 The Fall of Man	Genesis 3
 
 
-### Before 3000 BC	
+### ~ 3000 BC	
 
 Cain kills Abel	Genesis 4
 
 From Adam to Noah	Genesis 5
 
 
-### Before 2500 BC	
+### ~ 2500 BC	
 
 Wickedness Provokes God's wrath	Genesis 6
 
@@ -46,7 +49,7 @@ Shem, Ham and Japheth	Genesis 10
 
 
 
-### Before 2100 BC
+### ~ 2100 BC
 
 Job's Suffering and Faith	Job 1 - 42
 
@@ -54,18 +57,18 @@ The Tower of Babel	Genesis 11
 
 
 
-### 2091 BC	
+### ~ 2091 BC	
 
 God Sends Abram to Egypt	Genesis 12
 
 
 
-### 2090 BC	
+### ~ 2090 BC	
 The Famine in Canaan	Genesis 12:10
 
 
 
-### 2085 BC
+### ~ 2085 BC
 Abram and Lot Part Ways	Genesis 13
 
 Abram Promised Many Descendants	Genesis 13:14
@@ -73,12 +76,12 @@ Abram Promised Many Descendants	Genesis 13:14
 
 
 
-### 2084 BC	
+### ~ 2084 BC	
 Abram Rescues Lot	Genesis 14
 
 
 
-### 2081 BC
+### ~ 2081 BC
 God's Covenant with Abram	Genesis 15
 
 Sarai and Hagar	Genesis 16
@@ -86,12 +89,12 @@ Sarai and Hagar	Genesis 16
 
 
 
-### 2080 BC	
+### ~ 2080 BC	
 Ishmael Born	Genesis 16:15
 
 
 
-#$# 2067 BC	
+### ~ 2067 BC	
 The Covenant of Circumcision	Genesis 17
 
 God Promises the Birth of Isaac	Genesis 18
@@ -104,64 +107,64 @@ Abraham, Sarah and Abimelech	Genesis 20
 
 
 
-### 2066 BC	
+### ~ 2066 BC	
 Isaac Born	Genesis 21
 
 
 
-### 2064 BC	
+### ~ 2064 BC	
 Hagar and Ishmael Sent Away	Genesis 21:8
 
 
 
 
-### 2057 BC	
+### ~ 2057 BC	
 The Treaty at Beersheba	Genesis 21:22
 
 
 
 
-### 2054 BC	
+### ~ 2054 BC	
 The Offering of Isaac	Genesis 22
 
 
 
-### 2030 BC	
+### ~ 2030 BC	
 Death and Burial of Sarah	Genesis 23
 
 
 
-### 2026 BC	
+### ~ 2026 BC	
 Isaac Marries Rebekah	Genesis 24
 
 
 
-### 2006 BC	
+### ~ 2006 BC	
 Birth of Jacob and Esau	Genesis 25
 
 
 
-### 1991 BC	
+### ~ 1991 BC	
 Death of Abraham	Genesis 25:5
 
 
 
-### 1978 BC	
+### ~ 1978 BC	
 Esau sells his birthright	Genesis 25:29
 
 
 
-### 1977 BC	
+### ~ 1977 BC	
 Isaac and Abimelech	Genesis 26
 
 
 
-### 1929 BC	
+### ~ 1929 BC	
 Jacob Gets Isaac's Blessing	Genesis 27
 
 
 
-### 1928 BC	
+### ~ 1928 BC	
 Jacob Flees to Laban	Genesis 28
 
 Jacob's vision of a ladder	Genesis 28:10
@@ -170,27 +173,27 @@ Jacob Serves Laban	Genesis 29
 
 
 
-### 1921 BC	
+### ~ 1921 BC	
 Jacob Marries Rachel	Genesis 29:28
 
 
 
-### 1921 BC	
+### ~ 1921 BC	
 Jacob and His Sons	Genesis 30
 
 
 
-### 1916 BC	
+### ~ 1916 BC	
 Rachel Bears Joseph	Genesis 30:22
 
 
 
-### 1908 BC	
+### ~ 1908 BC	
 Jacob Leaves for Canaan	Genesis 31
 
 
 
-### 1906 BC	
+### ~ 1906 BC	
 Jacob Wrestles with God	Genesis 32
 
 Jacob Meets Esau	Genesis 33
@@ -208,12 +211,12 @@ Descendants of Esau	Genesis 36
 
 
 
-### 1903 BC	
+### ~ 1903 BC	
 Rachel Dies	Genesis 35:18
 
 
 
-### 1898 BC	
+### ~ 1898 BC	
 Joseph's Dreams and Betrayal	Genesis 37
 
 Joseph Sold into Slavery	Genesis 37:25
@@ -225,18 +228,18 @@ Joseph Prospers Under Potiphar	Genesis 39
 
 
 
-### 1889 BC	
+### ~ 1889 BC	
 Potiphar's Wife Accuses Joseph	Genesis 39:7
 
 Joseph Imprisoned	Genesis 39:20
 
 
 
-### 1887 BC	
+### ~ 1887 BC	
 The Cupbearer and the Baker's Dreams	Genesis 40
 
 
-### 1886 BC	
+### ~ 1886 BC	
 Joseph Interprets Pharaoh's Dreams	Genesis 41
 
 Joseph Put in Charge	Genesis 41:33
@@ -246,7 +249,7 @@ Seven Years of Plenty Begin	Genesis 41:47
 
 
 
-### 1875 BC	
+### ~ 1875 BC	
 Famine Begins	Genesis 41:53
 
 Joseph's Brothers Sent to Egypt	Genesis 42
@@ -267,7 +270,7 @@ Jacob to Goshen	Genesis 47
 
 
 
-### 1859 BC	
+### ~ 1859 BC	
 Jacob's Illness	Genesis 48
 
 Jacob's Blessing and Death	Genesis 49
@@ -275,38 +278,38 @@ Jacob's Blessing and Death	Genesis 49
 The Burial of Jacob	Genesis 50
 
 
-### 1806 BC	
+### ~ 1806 BC	
 The Death of Joseph	Genesis 50:26
 
 
 
-#$# 1800 BC	
+### ~ 1800 BC	
 Jacob's Family Stays in Egypt	Exodus 1
 
 
-### 1700 BC	
+### ~ 1700 BC	
 Israelites Multiply in Egypt	Exodus 1:6
 
 
-### 1600 BC	
+### ~ 1600 BC	
 Israelites Oppressed by New King	Exodus 1:8
 
 
-### 1539 BC	
+### ~ 1539 BC	
 Pharaoh's Order to Kill Firstborn	Exodus 1:22
 
 
-### 1525 BC	
+### ~ 1525 BC	
 The Birth and Adoption of Moses	Exodus 2
 
 
 
-### 1486 BC	
+### ~ 1486 BC	
 Moses Flees into Midian	Exodus 2:11
 
 
 
-### 1446 BC	
+### ~ 1446 BC	
 Israelites Groan in Slavery	Exodus 2:23
 
 Moses Sent to Deliver Israel	Exodus 3 - 6
@@ -329,7 +332,7 @@ The Journey Resumes	Exodus 33 - 39
 
 
 
-### 1445 BC	
+### ~ 1445 BC	
 The Tabernacle is Erected and Filled	Exodus 40
 
 Laws for Sacrifices and Offerings	Leviticus 1 - 7
@@ -356,7 +359,7 @@ People Murmur at the Spies' Report	Numbers 14, 15
 
 
 
-### 1426 BC	
+### ~ 1426 BC	
 Korah's Rebellion	Numbers 16
 
 Aaron's Staff Buds	Numbers 17
@@ -364,7 +367,7 @@ Aaron's Staff Buds	Numbers 17
 Priests, Red Heifer, Cleansing 	Numbers 18, 19
 
 
-### 1407 BC	
+### ~ 1407 BC	
 Water from the Rock at Meribah	Numbers 20
 
 Aaron's Death	Numbers 20:22
@@ -401,7 +404,7 @@ Moses' Summary of Israel's History	Deuteronomy 1 - 4
 
 
 
-### 1406 BC	
+### ~ 1406 BC	
 Recapitulation of the Law	Deuteronomy 4:44 - 31
 
 The Song of Moses	Deuteronomy 32
@@ -422,7 +425,7 @@ Conquer of Jericho and Ai	Joshua 6 - 8
 
 
 
-### 1405 BC	
+### ~ 1405 BC	
 Kings Join against Israel	Joshua 9
 
 The Sun Stands Still	Joshua 10
@@ -431,12 +434,12 @@ Northern Palestine Defeated	Joshua 11, 12
 
 
 
-### 1399 BC	
+### ~ 1399 BC	
 Land allotted among the Tribes	Joshua 13 - 22
 
 
 
-### 1375 BC	
+### ~ 1375 BC	
 Joshua's Farewell Address	Joshua 23, 24
 
 Micah's Idolatry	Judges 17
@@ -452,7 +455,7 @@ Wives for the Benjamites	Judges 21
 
 
 
-### 1374 BC	
+### ~ 1374 BC	
 Israelites Capture Jerusalem, Hebron	Judges 1
 
 Israel Rebuked and Defeated	Judges 2
@@ -461,69 +464,69 @@ Israel's idolatry and Servitude; Othniel	Judges 3
 
 
 
-### 1334 BC	
+### ~ 1334 BC	
 Eglon	Judges 3:12
 
 
 
-### 1316 BC	
+### ~ 1316 BC	
 Ehud	Judges 3:15
 
 
 
-### 1235 BC	
+### ~ 1235 BC	
 Deborah and Barak	Judges 4
 
 The Song of Deborah and Barak	Judges 5
 
 
 
-### 1169 BC	
+### ~ 1169 BC	
 Gideon and the Midianites	Judges 6 - 8
 
 
 
-### 1140 BC	
+### ~ 1140 BC	
 Naomi, Ruth and Boaz	Ruth 1 - 4
 
 
 
-### 1129 BC	
+### ~ 1129 BC	
 Abimelech Conspires to Become King	Judges 9
 
 
-### 1126 BC	
+### ~ 1126 BC	
 Plot against Abimelech	Judges 9:22
 
 Abimelech is Slain	Judges 9:50
 
 
 
-### 1118 BC	
+### ~ 1118 BC	
 Tola, Jair	Judges 10
 
 
 
-### 1100 BC	
+### ~ 1100 BC	
 Birth of Samuel	1 Samuel 1
 
 Hannah's Song	1 Samuel 2
 
 
 
-### 1097 BC	
+### ~ 1097 BC	
 Jephthah's Covenant with the Gileadites	Judges 11
 
 
 
-### 1090 BC	
+### ~ 1090 BC	
 Jephthah, Ephraim, Ibzan, Elon, Abdon	Judges 12
 
 Israel Oppressed by the Philistines	Judges 13
 
 
 
-### 1075 BC	
+### ~ 1075 BC	
 Samson's Marriage and Riddle	Judges 14
 
 Samson Burns the Philistine Crops	Judges 15
@@ -532,7 +535,7 @@ Samson and Delilah	Judges 16
 
 
 
-### 1070 BC	
+### ~ 1070 BC	
 Battle of Shiloh	1 Samuel 3
 
 Philistines Take the Ark	1 Samuel 4, 5
@@ -544,33 +547,33 @@ Ark brought to Abinadab's House	1 Samuel 7
 
 
 
-### 1050 BC	
+### ~ 1050 BC	
 Israelites Repent at Mizpeh	1 Samuel 7:3
 
 
 
-### 1043 BC	
+### ~ 1043 BC	
 Saul Becomes King	1 Samuel 8 - 10
 
 
 
-### 1042 BC	
+### ~ 1042 BC	
 Saul Defeats the Ammonites 	1 Samuel 11, 12
 
 
 
-### 1041 BC	
+### ~ 1041 BC	
 Saul's War with the Philistines	1 Samuel 13
 
 Jonathan's Miraculous Victory	1 Samuel 14
 
 
 
-### 1028 BC	
+### ~ 1028 BC	
 Saul's Disobedience and Samuel's Rebuke	1 Samuel 15
 
 
-### 1024 BC	
+### ~ 1024 BC	
 Samuel Anoints David at Bethlehem	1 Samuel 16
 
 David Kills Goliath	1 Samuel 17
@@ -578,46 +581,111 @@ David Kills Goliath	1 Samuel 17
 
 
 
-### 1015 BC	
+### ~ 1015 BC	
 Jonathan's Friendship with David	1 Samuel 18
 
 
 
-1014 BC	David Protected from Saul	1 Samuel 19
-1013 BC	David and Jonathan's Covenant	1 Samuel 20
-1013 BC	David's Psalm of Deliverance (1Sa 20)	Psalm 59
-1012 BC	David at Nob and Gath	1 Samuel 21
-1012 BC	David's Psalm Fleeing Saul (1Sa 21)	Psalm 52
-1012 BC	David's Psalm Before Ahimelech (1Sa 21)	Psalm 34
-1011 BC	David's Psalm at Gath (1Sa 21)	Psalm 56
-1011 BC	Saul Slays the Priests of Nob	1 Samuel 22
-1011 BC	David's Psalms in the Cave (1Sa 22)	Psalms 57, 142
-1011 BC	David Flees Saul	1 Samuel 23
-1011 BC	David's Psalm at Keilah (1Sa 23)	Psalm 54
-1011 BC	David Spares Saul's Life	1 Samuel 24
-1011 BC	Samuel Dies	1 Samuel 25
-1011 BC	David Spares Saul a Second Time	1 Samuel 26
-1010 BC	David Flees to the Philistines	1 Samuel 27
-1010 BC	Saul and the Witch of Endor	1 Samuel 28
-1010 BC	Achish Sends David Away	1 Samuel 29
-1010 BC	David Destroys the Amalekites	1 Samuel 30
-1010 BC	Saul and His Sons Killed	1 Samuel 31
-1010 BC	David Mourns for Saul and Jonathan	2 Samuel 1
-1010 BC	David Made King over Judah	2 Samuel 2
-1008 BC	Civil War Between Abner and Joab	2 Samuel 2:12
-1006 BC	House of David Strengthened	2 Samuel 3
-1005 BC	Joab murders Abner	2 Samuel 3:22
-1004 BC	The Murder of Ish-bosheth	2 Samuel 4
-1003 BC	Genealogies of the Israelites	1 Chronicles 1 - 9
-1003 BC	Saul's Overthrow and Defeat	1 Chronicles 10
-1003 BC	David Reigns over All Israel	2 Samuel 5,
+### ~ 1014 BC	
+David Protected from Saul	1 Samuel 19
+
+
+
+### ~ 1013 BC	
+David and Jonathan's Covenant	1 Samuel 20
+
+David's Psalm of Deliverance (1Sa 20)	Psalm 59
+
+
+
+### ~ 1012 BC	
+David at Nob and Gath	1 Samuel 21
+
+David's Psalm Fleeing Saul (1Sa 21)	Psalm 52
+
+David's Psalm Before Ahimelech (1Sa 21)	Psalm 34
+
+
+
+### ~ 1011 BC	
+David's Psalm at Gath (1Sa 21)	Psalm 56
+
+Saul Slays the Priests of Nob	1 Samuel 22
+
+David's Psalms in the Cave (1Sa 22)	Psalms 57, 142
+
+David Flees Saul	1 Samuel 23
+
+David's Psalm at Keilah (1Sa 23)	Psalm 54
+
+David Spares Saul's Life	1 Samuel 24
+
+Samuel Dies	1 Samuel 25
+
+David Spares Saul a Second Time	1 Samuel 26
+
+
+
+### ~ 1010 BC	
+David Flees to the Philistines	1 Samuel 27
+
+Saul and the Witch of Endor	1 Samuel 28
+
+Achish Sends David Away	1 Samuel 29
+
+David Destroys the Amalekites	1 Samuel 30
+
+Saul and His Sons Killed	1 Samuel 31
+
+David Mourns for Saul and Jonathan	2 Samuel 1
+
+David Made King over Judah	2 Samuel 2
+
+
+
+### ~ 1008 BC	
+Civil War Between Abner and Joab	2 Samuel 2:12
+
+
+
+### ~ 1006 BC	
+House of David Strengthened	2 Samuel 3
+
+
+### ~ 1005 BC	
+Joab murders Abner	2 Samuel 3:22
+
+
+### ~ 1004 BC	
+The Murder of Ish-bosheth	2 Samuel 4
+
+
+
+### ~ 1003 BC	
+Genealogies of the Israelites	1 Chronicles 1 - 9
+
+Saul's Overthrow and Defeat	1 Chronicles 10
+
+David Reigns over All Israel	2 Samuel 5,
 1 Chronicles 11
-1002 BC	David's Army Grows	1 Chronicles 12
-1000 BC	David fetches the ark	1 Chronicles 13
-1000 BC	David's Family Grows	1 Chronicles 14
-1000 BC	The Ark is Brought to Jerusalem	2 Samuel 6,
-1 Chronicles 15
-1000 BC	David Plans a Temple	2 Samuel 7
+
+
+
+### ~ 1002 BC	
+David's Army Grows	1 Chronicles 12
+
+
+### ~ 1000 BC	
+David fetches the ark	1 Chronicles 13
+
+David's Family Grows	1 Chronicles 14
+
+The Ark is Brought to Jerusalem	2 Samuel 6, 1 Chronicles 15
+
+David Plans a Temple	2 Samuel 7
+
+
+
 998 BC	David Defeats the Philistines	2 Samuel 8
 998 BC	David's Psalm of Victory (2Sa 8)	Psalm 60
 998 BC	David's Psalm of Zion	Psalm 15
