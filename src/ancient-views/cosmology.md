@@ -1453,26 +1453,37 @@ Haman Seeks Revenge on the Jews	Esther 3
 
 
 
-473 BC	Mordecai Informs Esther of Haman's Plot	Esther 4
-473 BC	Esther Prepares a Banquet	Esther 5
-473 BC	The King Honors Mordecai	Esther 6
-473 BC	Haman Is Hanged	Esther 7
-473 BC	Xerxes' Edict on Behalf of Esther and Jews	Esther 8
+### ~473 BC	
+Mordecai Informs Esther of Haman's Plot	Esther 4
+
+Esther Prepares a Banquet	Esther 5
+
+The King Honors Mordecai	Esther 6
+
+Haman Is Hanged	Esther 7
+
+Xerxes' Edict on Behalf of Esther and Jews	Esther 8
 
 
 
-472 BC	Purim Instituted	Esther 9
-472 BC	Xerxes' Tribute to Mordecai	Esther 10
+### ~472 BC	
+Purim Instituted	Esther 9
+
+Xerxes' Tribute to Mordecai	Esther 10
 
 
 
-458 BC	Ezra Journeys to Jerusalem	Ezra 7
-458 BC	Ezra Commissioned by Artaxerxes	Ezra 7:11
+### ~458 BC	
+Ezra Journeys to Jerusalem	Ezra 7
+
+Ezra Commissioned by Artaxerxes	Ezra 7:11
 
 
 
-457 BC	Families Return to Jerusalem with Ezra	Ezra 8
-457 BC	Ezra's reforms	Ezra 9
+### ~457 BC	
+Families Return to Jerusalem with Ezra	Ezra 8
+
+Ezra's reforms	Ezra 9
 
 
 
