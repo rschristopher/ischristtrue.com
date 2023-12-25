@@ -8,7 +8,7 @@ The etymology of cosmology is from *kosmos* as in the natural order of the unive
 
 
 
-## Chronology
+## Precosmogonic 
 
 If we lay out the chronological order of the Biblical cannon we are presented with a grand story of our origins, of sin, of death, and ultimately of redemption. It is our story.
 
@@ -20,6 +20,8 @@ In the Beginning was the Word	John 1
 
 
 
+## Adamic Age
+
 ### ~4000 BC	
 The Creation	Genesis 1
 
@@ -28,12 +30,18 @@ The Garden of Eden	Genesis 2
 The Fall of Man	Genesis 3
 
 
+
+## Antediluvian Age
+
 ### ~3000 BC	
 
 Cain kills Abel	Genesis 4
 
 From Adam to Noah	Genesis 5
 
+
+
+## Noahchian Age
 
 ### ~2500 BC	
 
@@ -49,6 +57,9 @@ Shem, Ham and Japheth	Genesis 10
 
 
 
+## Babel (Rebellion)
+
+
 ### ~2100 BC
 
 Job's Suffering and Faith	Job 1 - 42
@@ -56,6 +67,16 @@ Job's Suffering and Faith	Job 1 - 42
 The Tower of Babel	Genesis 11
 
 
+
+
+
+
+
+
+
+
+
+## Abrahamic Age
 
 ### ~2091 BC	
 
@@ -283,6 +304,14 @@ The Death of Joseph	Genesis 50:26
 ### ~1800 BC	
 Jacob's Family Stays in Egypt	Exodus 1
 
+
+
+
+
+
+
+
+## Mosaic Age
 
 ### ~1700 BC	
 Israelites Multiply in Egypt	Exodus 1:6
@@ -569,6 +598,13 @@ Jonathan's Miraculous Victory	1 Samuel 14
 ### ~1028 BC	
 Saul's Disobedience and Samuel's Rebuke	1 Samuel 15
 
+
+
+
+
+
+
+## Davidic Age
 
 ### ~1024 BC	
 Samuel Anoints David at Bethlehem	1 Samuel 16
@@ -1033,8 +1069,8 @@ Elisha Promises Plenty in Samaria	2 Kings 7
 
 
 
-### ~847 BC	T
-he Shunammite's Land	2 Kings 8
+### ~847 BC	
+The Shunammite's Land	2 Kings 8
 
 
 
@@ -1400,6 +1436,14 @@ Daniel Prophesies Deliverance for Israel	Daniel 12
 
 
 
+
+
+
+
+
+## Ezraitic Age
+
+
 ### ~537 BC	
 The Proclamation of Cyrus	Ezra 1
 
@@ -1527,6 +1571,13 @@ Nehemiah Restores Laws	Nehemiah 13
 
 ### ~430 BC	
 The Word of the LORD by Malachi	Malachi 1 - 4
+
+
+
+
+
+
+
 
  
 
