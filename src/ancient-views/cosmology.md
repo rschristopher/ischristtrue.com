@@ -1281,7 +1281,8 @@ Rebellion of Jehoiakim	2 Kings 24
 
 
 
-### ~597 BC	Jehoiachim exiled	2 Kings 24:10
+### ~597 BC	
+Jehoiachim exiled	2 Kings 24:10
 
 Zedekiah reigns in Judah	2 Kings 24:18
 
@@ -1293,7 +1294,7 @@ Jeremiah Prophesies against Moab	Jeremiah 48
 Jeremiah Prophesies against Ammon	Jeremiah 49
 
 
-### ~ ~583 BC
+### ~583 BC
 Ezekiel's Prophecy at Chebar	Ezekiel 1
 
 Ezekiel's Calling and Instruction	Ezekiel 2
@@ -1306,102 +1307,149 @@ Ezekiel's Vision of the End	Ezekiel 6, 7
 
 
 
-592 BC	Ezekiel's First Temple Vision	Ezekiel 8 - 19
+### ~592 BC	
+Ezekiel's First Temple Vision	Ezekiel 8 - 19
 
 
 
-591 BC	Ezekiel Sees God Refuse the Elders	Ezekiel 20
-591 BC	Ezekiel Prophesies against Jerusalem	Ezekiel 21, 22
-591 BC	Ezekiel Prophesies against two Sisters	Ezekiel 23
+### ~591 BC	
+Ezekiel Sees God Refuse the Elders	Ezekiel 20
+
+Ezekiel Prophesies against Jerusalem	Ezekiel 21, 22
+
+Ezekiel Prophesies against two Sisters	Ezekiel 23
 
 
 
-588 BC	Siege of Jerusalem Begins	2 Kings 25
-588 BC	Jeremiah's Conflicts	Jeremiah 21 - 33
-588 BC	Jeremiah Prophesies Judgment on Judah	Jeremiah 34 - 45
-588 BC	Siege of Jerusalem Begins	Ezekiel 24
+### ~588 BC	
+Siege of Jerusalem Begins	2 Kings 25
+
+Jeremiah's Conflicts	Jeremiah 21 - 33
+
+Jeremiah Prophesies Judgment on Judah	Jeremiah 34 - 45
+
+Siege of Jerusalem Begins	Ezekiel 24
 
 
 
-587 BC	God's Vengeance on Ammon and Edom	Ezekiel 25
+### ~587 BC	
+God's Vengeance on Ammon and Edom	Ezekiel 25
 
 
 
-586 BC	The Fall of Jerusalem	2 Kings 25, Jeremiah 52
-586 BC	Psalms of Desolation (Jer. 52)	Psalms 74, 79
-586 BC	Jeremiah Prophesies against Babylon	Jeremiah 50, 51
-586 BC	Jeremiah's Lamentations	Lamentations 1 - 5
-586 BC	Ezekiel Pronounces Judgment on Tyre	Ezekiel 26 - 28
-586 BC	Ezekiel Prophesies against Egypt	Ezekiel 29 - 32
-586 BC	Ezekiel the Watchman	Ezekiel 33
+### ~586 BC	
+The Fall of Jerusalem	2 Kings 25, Jeremiah 52
+
+Psalms of Desolation (Jer. 52)	Psalms 74, 79
+
+Jeremiah Prophesies against Babylon	Jeremiah 50, 51
+
+Jeremiah's Lamentations	Lamentations 1 - 5
+
+Ezekiel Pronounces Judgment on Tyre	Ezekiel 26 - 28
+
+Ezekiel Prophesies against Egypt	Ezekiel 29 - 32
+
+Ezekiel the Watchman	Ezekiel 33
 
 
 
-585 BC	Ezekiel Explains Jerusalem's Fall	Ezekiel 33:21
-585 BC	Ezekiel Foresees Reproof and Restoration	Ezekiel 34 - 36
-585 BC	Ezekiel Sees Resurrection of Dry Bones	Ezekiel 37
-585 BC	Ezekiel Sees Future battle	Ezekiel 38
-585 BC	Ezekiel Sees God's judgment upon Gog	Ezekiel 39
-585 BC	Shadrach, Meshach, and Abednego	Daniel 3
+### ~585 BC	
+Ezekiel Explains Jerusalem's Fall	Ezekiel 33:21
+
+Ezekiel Foresees Reproof and Restoration	Ezekiel 34 - 36
+
+Ezekiel Sees Resurrection of Dry Bones	Ezekiel 37
+
+Ezekiel Sees Future battle	Ezekiel 38
+
+Ezekiel Sees God's judgment upon Gog	Ezekiel 39
+
+Shadrach, Meshach, and Abednego	Daniel 3
 
 
 
-582 BC	Nebuchadnezzar’s Dream	Daniel 4
-582 BC	Daniel Interprets Nebuchadnezzar’s Dream	Daniel 4:19
+### ~582 BC	
+Nebuchadnezzar’s Dream	Daniel 4
+
+Daniel Interprets Nebuchadnezzar’s Dream	Daniel 4:19
 
 
 
-573 BC	Ezekiel's Second Temple Vision	Ezekiel 40 - 48
+### ~573 BC	
+Ezekiel's Second Temple Vision	Ezekiel 40 - 48
 
 
 
-539 BC	Daniel Interprets Handwriting on the Wall	Daniel 5
-539 BC	Daniel Survives the Lions' Den	Daniel 6
-539 BC	Daniel's Vision of Four Beasts	Daniel 7
-539 BC	Daniel's Vision of the Ram and Goat	Daniel 8
-539 BC	Daniel's Prayer and Gabriel's Answer	Daniel 9
-539 BC	Daniel Comforted by the Angel	Daniel 10
-539 BC	Daniel Prophesies Overthrow of Persia	Daniel 11
-539 BC	Daniel Prophesies Deliverance for Israel	Daniel 12
+### ~539 BC	
+Daniel Interprets Handwriting on the Wall	Daniel 5
+
+Daniel Survives the Lions' Den	Daniel 6
+
+Daniel's Vision of Four Beasts	Daniel 7
+
+Daniel's Vision of the Ram and Goat	Daniel 8
+
+Daniel's Prayer and Gabriel's Answer	Daniel 9
+
+Daniel Comforted by the Angel	Daniel 10
+
+Daniel Prophesies Overthrow of Persia	Daniel 11
+
+Daniel Prophesies Deliverance for Israel	Daniel 12
 
 
 
-537 BC	The Proclamation of Cyrus	Ezra 1
-537 BC	The Exiles Return	Ezra 2
+### ~537 BC	
+The Proclamation of Cyrus	Ezra 1
+
+The Exiles Return	Ezra 2
 
 
 
 
-535 BC	Temple Work Begins	Ezra 3
+### ~535 BC	
+Temple Work Begins	Ezra 3
 
 
 
-534 BC	Adversaries Hinder Temple Work	Ezra 4
-534 BC	Artaxerxes Orders Work Stopped	Ezra 4:17
+### ~534 BC	
+Adversaries Hinder Temple Work	Ezra 4
+
+Artaxerxes Orders Work Stopped	Ezra 4:17
 
 
 
-520 BC	Tattenai's Letter to Darius	Ezra 5
-520 BC	The Word of the LORD by Haggai	Haggai 1, 2
-520 BC	The Word of the LORD to Zechariah	Zechariah 1 - 14
-520 BC	Temple Work Resumed by Darius' Decree 	Ezra 6
+### ~520 BC	
+Tattenai's Letter to Darius	Ezra 5
+
+The Word of the LORD by Haggai	Haggai 1, 2
+
+The Word of the LORD to Zechariah	Zechariah 1 - 14
+
+Temple Work Resumed by Darius' Decree 	Ezra 6
 
 
 
-515 BC	Completion and Dedication of the Temple	Ezra 6:16
+### ~515 BC	
+Completion and Dedication of the Temple	Ezra 6:16
 
 
 
-483 BC	Queen Vashti Deposed	Esther 1
+### ~483 BC	
+Queen Vashti Deposed	Esther 1
 
 
 
-478 BC	Esther Becomes Queen	Esther 2
-478 BC	Mordecai Thwarts a Conspiracy	Esther 2:21
+### ~478 BC	
+Esther Becomes Queen	Esther 2
+
+Mordecai Thwarts a Conspiracy	Esther 2:21
 
 
 
-474 BC	Haman Seeks Revenge on the Jews	Esther 3
+### ~474 BC	
+Haman Seeks Revenge on the Jews	Esther 3
 
 
 
