@@ -12,7 +12,7 @@ The etymology of cosmology is from *kosmos* as in the natural order of the unive
 
 If we lay out the chronological order of the Biblical cannon we are presented with a grand story of our origins, of sin, of death, and ultimately of redemption. It is our story.
 
-!!! warning "These are approximate dates based on ordering of scripture"
+!!! warning "These are approximate dates based on a chronological ordering of scripture -- the importance is not the date but the order"
 
 
 ### Before Time
@@ -717,416 +717,592 @@ The Capture of Rabbah	1 Chronicles 20
 
 
 
-993 BC	David and Bathsheba	2 Samuel 11
+### ~993 BC	
+David and Bathsheba	2 Samuel 11
 
 
 
 
-991 BC	Nathan Rebukes David	2 Samuel 12
-991 BC	David's Psalm of Repentance (2Sa 12)	Psalm 51
+### ~991 BC	
+Nathan Rebukes David	2 Samuel 12
 
+David's Psalm of Repentance (2Sa 12)	Psalm 51
 
 
-990 BC	Solomon is Born	2 Samuel 12:24
-990 BC	Amnon and Tamar	2 Samuel 13
-990 BC	Amnom Killed by Absalom	2 Samuel 13:23
 
+### ~990 BC	
+Solomon is Born	2 Samuel 12:24
 
+Amnon and Tamar	2 Samuel 13
 
-988 BC	The Widow of Tekoa	2 Samuel 14
-980 BC	Absalom Recalled	2 Samuel 14:21
+Amnom Killed by Absalom	2 Samuel 13:23
 
 
 
-979 BC	Psalms of David	Psalms 2 - 145 (Assorted)
-979 BC	Psalms of Korah 	Psalms 42 - 44, 84, 85, 87, 88
-979 BC	Psalms of Asaph 	Psalm 50, 73, 75 - 78, 80 - 83, 89
-979 BC	Psalms of Unknown Authors	Psalms 1 - 150 (Assorted)
-979 BC	David Forces a Census	1 Chronicles 21
-979 BC	Preparation for building the Temple	1 Chronicles 22
-979 BC	Preparation of Priesthood	1 Chronicles 23
-979 BC	Divisions of Levites	1 Chronicles 24
-979 BC	Preparation of sanctuary singers	1 Chronicles 25
-979 BC	Preparation of gatekeepers, treasurers	1 Chronicles 26
-979 BC	Preparation of government	1 Chronicles 27
+### ~988 BC	
+The Widow of Tekoa	2 Samuel 14
 
+Absalom Recalled	2 Samuel 14:21
 
 
-976 BC	Absalom's Conspiracy	2 Samuel 15
-976 BC	David Flees Jerusalem	2 Samuel 15:13
 
+### ~979 BC	
+Psalms of David	Psalms 2 - 145 (Assorted)
 
+Psalms of Korah 	Psalms 42 - 44, 84, 85, 87, 88
 
-972 BC	David and Ziba, Shimei	2 Samuel 16
-972 BC	Shimei Curses David	2 Samuel 16:5
-972 BC	David's Psalm of Thirst for God (2Sa 16)	Psalm 63
-972 BC	Hushai's Warning Saves David	2 Samuel 17
-972 BC	David Psalms of Deliverance (2Sa 17)	Psalms 41, 55
-972 BC	Absalom Slain by Joab	2 Samuel 18
-972 BC	Joab Comforts David	2 Samuel 19
-972 BC	Sheba Rebels Against David	2 Samuel 20
+Psalms of Asaph 	Psalm 50, 73, 75 - 78, 80 - 83, 89
 
+Psalms of Unknown Authors	Psalms 1 - 150 (Assorted)
 
+David Forces a Census	1 Chronicles 21
 
-970 BC	The Gibeonites Avenged	2 Samuel 21
-970 BC	David's Song of Deliverance	2 Samuel 22
-970 BC	David's Last Song	2 Samuel 23
-970 BC	David's Psalm of Steadfastness (2Sa 23)	Psalm 108
-970 BC	David Counts the Fighting Men	2 Samuel 24
-970 BC	David's last days	1 Chronicles 28, 29,
-1 Kings 1, 2
-970 BC	David's Psalm of Salvation (1Ki 2)	Psalm 37
+Preparation for building the Temple	1 Chronicles 22
 
+Preparation of Priesthood	1 Chronicles 23
 
+Divisions of Levites	1 Chronicles 24
 
+Preparation of sanctuary singers	1 Chronicles 25
 
-967 BC	Psalm for Solomon (2Ch 1)	Psalm 72
-967 BC	Solomon Asks for Wisdom	2 Chronicles 1,
-1 Kings 3
-967 BC	Psalm of Korah (1Ki 3)	Psalm 45
-967 BC	Solomon's Wisdom	1 Kings 4
-967 BC	Solomon's Preparations for the Temple	1 Kings 5
+Preparation of gatekeepers, treasurers	1 Chronicles 26
 
+Preparation of government	1 Chronicles 27
 
 
-966 BC	The Building of Solomon's Temple	1 Kings 6
-966 BC	The Building of Solomon's Palace	1 Kings 7
-966 BC	The Ark Brought to the Temple	1 Kings 8
-966 BC	God's covenant with Solomon	1 Kings 9
-966 BC	Solomon Prepares for a Temple and Palace	2 Chronicles 2
-966 BC	Solomon Builds the Temple in Jerusalem	2 Chronicles 3
-966 BC	Temple Furnishings	2 Chronicles 4
 
+### ~976 BC	
+Absalom's Conspiracy	2 Samuel 15
 
+David Flees Jerusalem	2 Samuel 15:13
 
-959 BC	Ark Brought into the Temple	2 Chronicles 5
-959 BC	Solomon's Prayer of Temple Dedication	2 Chronicles 6
-959 BC	God's Glory in the Temple	2 Chronicles 7
-959 BC	Psalms of Solomon (2Ch 7)	Psalms 135, 136
-959 BC	Solomon's buildings	2 Chronicles 8
 
 
+### ~972 BC	
+David and Ziba, Shimei	2 Samuel 16
 
-950 BC	Solomon Psalm of Blessing	Psalm 127
-950 BC	The Proverbs of Solomon	Proverbs 1 - 29
-950 BC	The Words of Agur	Proverbs 30
-950 BC	King Lemuel's Proverb	Proverbs 31
-950 BC	Solomon's Song of Songs	Songs 1 - 8
+Shimei Curses David	2 Samuel 16:5
 
+David's Psalm of Thirst for God (2Sa 16)	Psalm 63
 
+Hushai's Warning Saves David	2 Samuel 17
 
+David Psalms of Deliverance (2Sa 17)	Psalms 41, 55
 
-946 BC	Mutual Presents of Solomon and Hiran	1 Kings 9:10
-946 BC	The Queen of Sheba Visits Solomon	1 Kings 10,
-2 Chronicles 9
+Absalom Slain by Joab	2 Samuel 18
 
+Joab Comforts David	2 Samuel 19
 
+Sheba Rebels Against David	2 Samuel 20
 
-939 BC	Solomon's Wives and Idolatry	1 Kings 11
 
 
 
-937 BC 	Ecclesiastes Words of the Preacher 	Ecclesiastes 1 - 12
+### ~970 BC	
+The Gibeonites Avenged	2 Samuel 21
 
+David's Song of Deliverance	2 Samuel 22
 
+David's Last Song	2 Samuel 23
 
-931 BC	Solomon's Death	1 Kings 11:40
-931 BC	The Kingdom is Divided	1 Kings 12, 13
+David's Psalm of Steadfastness (2Sa 23)	Psalm 108
 
+David Counts the Fighting Men	2 Samuel 24
 
+David's last days	1 Chronicles 28, 29, 1 Kings 1, 2
 
-930 BC	Israelites Rebel against Rehoboam	2 Chronicles 10
-930 BC	Rehoboam's Reign over Judah	2 Chronicles 11
+David's Psalm of Salvation (1Ki 2)	Psalm 37
 
 
 
-927 BC	Rehoboam's sin	2 Chronicles 12
 
+### ~967 BC	
+Psalm for Solomon (2Ch 1)	Psalm 72
+Solomon Asks for Wisdom	2 Chronicles 1, 1 Kings 3
 
+Psalm of Korah (1Ki 3)	Psalm 45
 
-925 BC	Ahijah's Prophecies against Jeroboam	1 Kings 14
+Solomon's Wisdom	1 Kings 4
 
+Solomon's Preparations for the Temple	1 Kings 5
 
 
-913 BC	Rehoboam's Wicked Reign	1 Kings 14:21
-913 BC	Abijam's wicked reign	1 Kings 15
-913 BC	Civil War against Jeroboam	2 Chronicles 13
-913 BC	Asa Destroys Idolatry	2 Chronicles 14
 
+### ~966 BC	
+The Building of Solomon's Temple	1 Kings 6
 
+The Building of Solomon's Palace	1 Kings 7
 
-909 BC	Jehu's prophecy against Baasha	1 Kings 16
+The Ark Brought to the Temple	1 Kings 8
 
+God's covenant with Solomon	1 Kings 9
 
+Solomon Prepares for a Temple and Palace	2 Chronicles 2
 
-895 BC	Asa's Reforms	2 Chronicles 15
+Solomon Builds the Temple in Jerusalem	2 Chronicles 3
 
+Temple Furnishings	2 Chronicles 4
 
 
-894 BC	Hanani's rebuke	2 Chronicles 16
 
+### ~959 BC	
+Ark Brought into the Temple	2 Chronicles 5
 
+Solomon's Prayer of Temple Dedication	2 Chronicles 6
 
+God's Glory in the Temple	2 Chronicles 7
 
-886 BC	Elah, Zimri, Omri	1 Kings 16:5
+Psalms of Solomon (2Ch 7)	Psalms 135, 136
 
+Solomon's buildings	2 Chronicles 8
 
 
-874 BC	Ahab's wicked reign	1 Kings 16:27
 
+### ~950 BC	
+Solomon Psalm of Blessing	Psalm 127
 
+The Proverbs of Solomon	Proverbs 1 - 29
 
-869 BC	Jehoshaphat Succeeds Asa	2 Chronicles 17
+The Words of Agur	Proverbs 30
 
+King Lemuel's Proverb	Proverbs 31
 
+Solomon's Song of Songs	Songs 1 - 8
 
-863 BC	Elijah Prays for Drought	1 Kings 17
-863 BC	Elijah Fed by Ravens	1 Kings 17:3
-863 BC	The Widow at Zarephath	1 Kings 17:7
-863 BC	Elijah on Mount Carmel	1 Kings 18
 
 
 
-858 BC	Elijah Flees Jezebel	1 Kings 19
-858 BC	Elisha Called	1 Kings 19:19
+### ~946 BC	
+Mutual Presents of Solomon and Hiran	1 Kings 9:10
 
+The Queen of Sheba Visits Solomon	1 Kings 10, 2 Chronicles 9
 
 
-857 BC	Ben-Hadad Attacks Samaria	1 Kings 20
-857 BC	Ahab Defeats Ben-Hadad	1 Kings 20:14
 
+### ~939 BC	
+Solomon's Wives and Idolatry	1 Kings 11
 
 
-855 BC	Ahab Takes Naboth's Vineyard	1 Kings 21
 
+### ~937 BC 	
+Ecclesiastes Words of the Preacher 	Ecclesiastes 1 - 12
 
 
-853 BC	Israel and Judah against Syria	1 Kings 22
-853 BC	The Vision of Obadiah	Obadiah 1
-853 BC	Jehoshaphat Allies with Ahab	2 Chronicles 18
-853 BC	Jehosaphat's deeds	2 Chronicles 19
-853 BC	War with Ammon and Moab	2 Chronicles 20
 
+### ~931 BC	
+Solomon's Death	1 Kings 11:40
 
+The Kingdom is Divided	1 Kings 12, 13
 
-852 BC	Jehoram's Wicked Reign in Judah	2 Chronicles 21
-852 BC	Moab Rebels	2 Kings 1
 
 
+### ~930 BC	
+Israelites Rebel against Rehoboam	2 Chronicles 10
 
-851 BC	Elijah Taken up to Heaven	2 Kings 2
-851 BC	Elisha Succeeds Elijah	2 Kings 2:12
+Rehoboam's Reign over Judah	2 Chronicles 11
 
 
 
-850 BC	Jehoram Meets Moab Rebellion	2 Kings 3
+### ~927 BC	
+Rehoboam's sin	2 Chronicles 12
 
 
 
-849 BC	The Widow's Oil	2 Kings 4
-849 BC	Elisha Raises The Shunammite boy	2 Kings 4:8
-849 BC	The Healing of Naaman	2 Kings 5
+### ~925 BC	
+Ahijah's Prophecies against Jeroboam	1 Kings 14
 
 
 
-848 BC	Elisha Floats an Axhead	2 Kings 6
-848 BC	Elisha Promises Plenty in Samaria	2 Kings 7
+### ~913 BC	
+Rehoboam's Wicked Reign	1 Kings 14:21
 
+Abijam's wicked reign	1 Kings 15
 
+Civil War against Jeroboam	2 Chronicles 13
 
-847 BC	The Shunammite's Land	2 Kings 8
+Asa Destroys Idolatry	2 Chronicles 14
 
 
 
-841 BC	Jehu Reigns in Israel	2 Kings 9
-841 BC	Jehu Kills Joram	2 Kings 9:11
-841 BC	Ahab's Family Killed	2 Kings 10
-841 BC	Baal Worshipers killed	2 Kings 10:18
-841 BC	Joash escapes Athaliah	2 Kings 11
-841 BC	Ahaziah Succeeds Jehoram in Judah	2 Chronicles 22
-841 BC	Jehoiada Makes Joash King	2 Chronicles 23
+### ~909 BC	
+Jehu's prophecy against Baasha	1 Kings 16
 
 
 
+### ~895 BC	
+Asa's Reforms	2 Chronicles 15
 
-835 BC	Joash Reigns Well	2 Chronicles 24, 2 Kings 12
-835 BC	The Word of the LORD to Joel	Joel 1 - 3
 
 
+### ~894 BC	
+Hanani's rebuke	2 Chronicles 16
 
-812 BC	Joash Orders Temple repairs	2 Kings 12:6
-812 BC	Jehoahaz's wicked reign	2 Kings 13
 
 
 
-796 BC	Amaziah's good reign	2 Kings 14, 2 Chronicles 25
+### ~886 BC	
+Elah, Zimri, Omri	1 Kings 16:5
 
 
 
-790 BC	Azariah's good reign	2 Kings 15
-790 BC	Uzziah Reigns in Judah	2 Chronicles 26
+### ~874 BC	
+Ahab's wicked reign	1 Kings 16:27
 
 
 
-766 BC	The Words of Amos	Amos 1 - 9
+### ~869 BC	
+Jehoshaphat Succeeds Asa	2 Chronicles 17
 
 
 
-760 BC	Jonah Sent to Nineveh	Jonah 1 - 4
+### ~863 BC	
+Elijah Prays for Drought	1 Kings 17
 
+Elijah Fed by Ravens	1 Kings 17:3
 
+The Widow at Zarephath	1 Kings 17:7
 
-753 BC	Hosea's Prophecies	Hosea 1 - 14
+Elijah on Mount Carmel	1 Kings 18
 
 
 
-750 BC	Jotham Succeeds Uzziah	2 Chronicles 27
+### ~858 BC	
+Elijah Flees Jezebel	1 Kings 19
 
+Elisha Called	1 Kings 19:19
 
 
-742 BC	Wicked Reign of Ahaz	2 Chronicles 28, 2 Kings 16
 
+### ~857 BC	
+Ben-Hadad Attacks Samaria	1 Kings 20
 
+Ahab Defeats Ben-Hadad	1 Kings 20:14
 
 
-739 BC	Isaiah Complains of Zion's Corruption	Isaiah 1 - 5
-739 BC	Isaiah's Vision and Commission	Isaiah 6
 
+### ~855 BC	
+Ahab Takes Naboth's Vineyard	1 Kings 21
 
 
-735 BC	Isaiah's Prophesy of Immanuel	Isaiah 7
-735 BC	The Word of the LORD to Micah	Micah 1 - 7
 
+### ~853 BC	
+Israel and Judah against Syria	1 Kings 22
 
+The Vision of Obadiah	Obadiah 1
 
-734 BC	Uriah and Zechariah	Isaiah 8
+Jehoshaphat Allies with Ahab	2 Chronicles 18
 
+Jehosaphat's deeds	2 Chronicles 19
 
+War with Ammon and Moab	2 Chronicles 20
 
-730 BC	Isaiah Prophesies a Child Is Born	Isaiah 9
-730 BC	Isaiah Prophesies Judgments Upon Israel	Isaiah 9:8
-730 BC	Isaiah Prophesies Judgment on Assyria	Isaiah 10
-730 BC	Isaiah Prophesies The Root of Jesse	Isaiah 11
-730 BC	Isaiah's Joyful Thanksgiving	Isaiah 12
 
 
+### ~852 BC	
+Jehoram's Wicked Reign in Judah	2 Chronicles 21
 
-725 BC	Isaiah Prophesies against the Nations	Isaiah 13 - 22
-725 BC	Isaiah's Valley of Vision	Isaiah 22
-725 BC	Isaiah's Burden of Tyre	Isaiah 23
-725 BC	Devastation on the Earth	Isaiah 24
-725 BC	Isaiah's Songs of Praise	Isaiah 25 - 27
-725 BC	Isaiah's Further Warnings	Isaiah 28 - 32
-725 BC	Isaiah Prophesies a King Shall Reign	Isaiah 32
-725 BC	Isaiah Declares God's Judgments	Isaiah 33, 34
-725 BC	Isaiah Declares the Joyful Will Flourish in Zion	Isaiah 35
-725 BC	Hoshea the Last King of Israel	2 Kings 17
+Moab Rebels	2 Kings 1
 
 
 
-722 BC	Israel Led into Captivity	2 Kings 17:6
+### ~851 BC
+Elijah Taken up to Heaven	2 Kings 2
 
+Elisha Succeeds Elijah	2 Kings 2:12
 
 
-721 BC	Strange Nations Transplanted into Samaria	2 Kings 17:24
 
+### ~850 BC	
+Jehoram Meets Moab Rebellion	2 Kings 3
 
 
-716 BC	Hezekiah's Good Reign	2 Chronicles 29
 
+### ~849 BC	
+The Widow's Oil	2 Kings 4
 
+Elisha Raises The Shunammite boy	2 Kings 4:8
 
-715 BC	Hezekiah proclaims a solemn Passover	2 Chronicles 30
-715 BC	Idolatry is Destroyed	2 Chronicles 31
+The Healing of Naaman	2 Kings 5
 
 
 
-712 BC	Hezekiah's Illness and Healing	2 Kings 20, Isaiah 38
+### ~848 BC	
+Elisha Floats an Axhead	2 Kings 6
 
+Elisha Promises Plenty in Samaria	2 Kings 7
 
 
-711 BC	Hezekiah Shows Treasures	2 Kings 20:12, Isaiah 39
-711 BC	Isaiah Prophesies Captivity and Restoration	Isaiah 40 - 66
 
+### ~847 BC	T
+he Shunammite's Land	2 Kings 8
 
 
 
-701 BC	Sennacherib Threatens Jerusalem	2 Kings 18, Isaiah 36, 2 Chronicles 32
-701 BC	Korah's Psalms of Refuge (2Ch 32)	Psalms 46 - 48
-701 BC	Hezekiah's Prayer	2 Kings 19, Isaiah 37
+### ~841 BC	
+Jehu Reigns in Israel	2 Kings 9
 
+Jehu Kills Joram	2 Kings 9:11
 
+Ahab's Family Killed	2 Kings 10
 
-697 BC	The Vision of Nahum	Nahum 1 - 3
+Baal Worshipers killed	2 Kings 10:18
 
+Joash escapes Athaliah	2 Kings 11
 
+Ahaziah Succeeds Jehoram in Judah	2 Chronicles 22
 
-687 BC	Manasseh's Wicked Reign	2 Kings 21, 2 Chronicles 33
+Jehoiada Makes Joash King	2 Chronicles 23
 
 
 
-640 BC	Josiah's good reign	2 Kings 22, 2 Chronicles 34
 
+### ~835 BC	
+Joash Reigns Well	2 Chronicles 24, 2 Kings 12
 
+The Word of the LORD to Joel	Joel 1 - 3
 
-638 BC	The Word of the LORD to Zephaniah	Zephaniah 1 - 3
 
 
+### ~812 BC	
+Joash Orders Temple repairs	2 Kings 12:6
 
-627 BC	The Call of Jeremiah	Jeremiah 1
-627 BC	Jeremiah Declares Judah Forsakes God	Jeremiah 2 - 6
-627 BC	Jeremiah's Message at the Temple Gate	Jeremiah 7 - 10
+Jehoahaz's wicked reign	2 Kings 13
 
 
 
-625 BC	The Oracle to Habakkuk	Habakkuk 1 - 3
+### ~796 BC	
+Amaziah's good reign	2 Kings 14, 2 Chronicles 25
 
 
 
-622 BC	Jeremiah Proclaims God's Covenant	Jeremiah 11, 12
+### ~790 BC	
+Azariah's good reign	2 Kings 15
 
+Uzziah Reigns in Judah	2 Chronicles 26
 
 
-621 BC	Josiah Prepares for Temple Repair	2 Kings 22:3
-621 BC	Hilkiah finds the lost Book of the Law	2 Kings 22:8
-621 BC	Josiah Celebrates the Passover	2 Kings 23, 2 Chronicles 35
 
+### ~766 BC	
+The Words of Amos	Amos 1 - 9
 
 
-609 BC	Jehoiakim's wicked reign.	2 Chronicles 36
-609 BC	Jeremiah Proclaims Covenant Is Broken	Jeremiah 13 - 20
-609 BC	Jeremiah Prophesies against Egypt	Jeremiah 46
-609 BC	Jeremiah Prophesies against Philistia	Jeremiah 47
 
+### ~760 BC	
+Jonah Sent to Nineveh	Jonah 1 - 4
 
 
-605 BC	Daniel Refuses the King's Portion	Daniel 1
 
+### ~753 BC	
+Hosea's Prophecies	Hosea 1 - 14
 
 
-604 BC	Daniel Interprets Nebuchadnezzar Dream	Daniel 2
 
+### ~750 BC	
+Jotham Succeeds Uzziah	2 Chronicles 27
 
 
-601 BC	Rebellion of Jehoiakim	2 Kings 24
 
+### ~742 BC	
+Wicked Reign of Ahaz	2 Chronicles 28, 2 Kings 16
 
 
-597 BC	Jehoiachim exiled	2 Kings 24:10
-597 BC	Zedekiah reigns in Judah	2 Kings 24:18
 
 
+### ~739 BC	
+Isaiah Complains of Zion's Corruption	Isaiah 1 - 5
 
-594 BC	Jeremiah Prophesies against Moab	Jeremiah 48
-594 BC	Jeremiah Prophesies against Ammon	Jeremiah 49
+Isaiah's Vision and Commission	Isaiah 6
 
 
 
-593 BC	Ezekiel's Prophecy at Chebar	Ezekiel 1
-593 BC	Ezekiel's Calling and Instruction	Ezekiel 2
-593 BC	Ezekiel Eats the Scroll	Ezekiel 3
-593 BC	Ezekiel Foretells Siege of Jerusalem	Ezekiel 4, 5
-593 BC	Ezekiel's Vision of the End	Ezekiel 6, 7
+### ~735 BC	
+Isaiah's Prophesy of Immanuel	Isaiah 7
+
+The Word of the LORD to Micah	Micah 1 - 7
+
+
+
+### ~734 BC	
+Uriah and Zechariah	Isaiah 8
+
+
+
+### ~730 BC	
+Isaiah Prophesies a Child Is Born	Isaiah 9
+
+Isaiah Prophesies Judgments Upon Israel	Isaiah 9:8
+
+Isaiah Prophesies Judgment on Assyria	Isaiah 10
+
+Isaiah Prophesies The Root of Jesse	Isaiah 11
+
+Isaiah's Joyful Thanksgiving	Isaiah 12
+
+
+
+### ~725 BC	
+Isaiah Prophesies against the Nations	Isaiah 13 - 22
+
+Isaiah's Valley of Vision	Isaiah 22
+
+Isaiah's Burden of Tyre	Isaiah 23
+
+Devastation on the Earth	Isaiah 24
+
+Isaiah's Songs of Praise	Isaiah 25 - 27
+
+Isaiah's Further Warnings	Isaiah 28 - 32
+
+Isaiah Prophesies a King Shall Reign	Isaiah 32
+
+Isaiah Declares God's Judgments	Isaiah 33, 34
+
+Isaiah Declares the Joyful Will Flourish in Zion	Isaiah 35
+
+Hoshea the Last King of Israel	2 Kings 17
+
+
+
+### ~722 BC	
+Israel Led into Captivity	2 Kings 17:6
+
+
+
+### ~721 BC	
+Strange Nations Transplanted into Samaria	2 Kings 17:24
+
+
+
+### ~716 BC	
+Hezekiah's Good Reign	2 Chronicles 29
+
+
+
+### ~715 BC	
+Hezekiah proclaims a solemn Passover	2 Chronicles 30
+
+Idolatry is Destroyed	2 Chronicles 31
+
+
+
+### ~712 BC	
+Hezekiah's Illness and Healing	2 Kings 20, Isaiah 38
+
+
+
+### ~711 BC	
+Hezekiah Shows Treasures	2 Kings 20:12, Isaiah 39
+
+Isaiah Prophesies Captivity and Restoration	Isaiah 40 - 66
+
+
+
+
+### ~701 BC	
+Sennacherib Threatens Jerusalem	2 Kings 18, Isaiah 36, 2 Chronicles 32
+
+Korah's Psalms of Refuge (2Ch 32)	Psalms 46 - 48
+
+Hezekiah's Prayer	2 Kings 19, Isaiah 37
+
+
+
+### ~697 BC	
+The Vision of Nahum	Nahum 1 - 3
+
+
+
+### ~687 BC	
+Manasseh's Wicked Reign	2 Kings 21, 2 Chronicles 33
+
+
+
+### ~640 BC	
+Josiah's good reign	2 Kings 22, 2 Chronicles 34
+
+
+
+### ~638 BC	
+The Word of the LORD to Zephaniah	Zephaniah 1 - 3
+
+
+
+### ~627 BC	
+The Call of Jeremiah	Jeremiah 1
+
+Jeremiah Declares Judah Forsakes God	Jeremiah 2 - 6
+
+Jeremiah's Message at the Temple Gate	Jeremiah 7 - 10
+
+
+
+### ~625 BC 
+The Oracle to Habakkuk	Habakkuk 1 - 3
+
+
+
+### ~622 BC	
+Jeremiah Proclaims God's Covenant	Jeremiah 11, 12
+
+
+
+### ~621 BC	
+Josiah Prepares for Temple Repair	2 Kings 22:3
+
+Hilkiah finds the lost Book of the Law	2 Kings 22:8
+
+Josiah Celebrates the Passover	2 Kings 23, 2 Chronicles 35
+
+
+
+### ~609 BC	
+Jehoiakim's wicked reign.	2 Chronicles 36
+
+Jeremiah Proclaims Covenant Is Broken	Jeremiah 13 - 20
+
+Jeremiah Prophesies against Egypt	Jeremiah 46
+
+Jeremiah Prophesies against Philistia	Jeremiah 47
+
+
+
+### ~605 BC	
+Daniel Refuses the King's Portion	Daniel 1
+
+
+
+### ~604 BC	
+Daniel Interprets Nebuchadnezzar Dream	Daniel 2
+
+
+
+### ~601 BC	
+Rebellion of Jehoiakim	2 Kings 24
+
+
+
+### ~597 BC	Jehoiachim exiled	2 Kings 24:10
+
+Zedekiah reigns in Judah	2 Kings 24:18
+
+
+
+### ~594 BC	
+Jeremiah Prophesies against Moab	Jeremiah 48
+
+Jeremiah Prophesies against Ammon	Jeremiah 49
+
+
+### ~ ~583 BC
+Ezekiel's Prophecy at Chebar	Ezekiel 1
+
+Ezekiel's Calling and Instruction	Ezekiel 2
+
+Ezekiel Eats the Scroll	Ezekiel 3
+
+Ezekiel Foretells Siege of Jerusalem	Ezekiel 4, 5
+
+Ezekiel's Vision of the End	Ezekiel 6, 7
 
 
 
