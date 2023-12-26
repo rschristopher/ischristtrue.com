@@ -1,8 +1,8 @@
 # Cosmology 
 
-In our modern usage, cosmology is the study of the universe in terms of time and space. This is a secular view that presupposes time and space as first principles, as well as reason as a first principle, logic as a first principle, knowledge as a first principle, and so on. It is very much a cascade of unquestioned presupositions that yield absurdity under any proper scrutiny.
+In modern usage, cosmology is the study of the universe in terms of time and space. This is a secular view that presupposes time and space as first principles, as well as reason as a first principle, logic as a first principle, knowledge as a first principle, and so on. It is very much a cascade of unquestioned presupositions that yield absurdity under any proper scrutiny.
 
-The etymology of cosmology derives from *cosmos* as in the natural order of the universe (*cosmos* is the antithesis of *chaos*), and from *logia* as in the divine word or story. The more accurate meaning of *cosmology* is the story of the natural order of the universe. This presupposes the Christian God, the first principle from which all transcendent categories arise.
+However, the word *cosmology* derives from *cosmos*, as in the natural order of the universe (*cosmos* is the antithesis of *chaos*), and from *logia*, as in the divine word or story. As such, the more accurate meaning of *cosmology* is the divine story of the order of the universe. This presupposes the Christian God, the first principle from which all transcendent categories arise.
 
 
 !!! warning "These are approximate dates based on a chronological ordering of scripture -- the importance is not the date but the ordering"
@@ -11,12 +11,16 @@ The etymology of cosmology derives from *cosmos* as in the natural order of the 
 
 ## Precosmogonic 
 
-If we lay out the chronological order of the Biblical cannon we are presented with a grand story of our origins, of sin, of death, and ultimately of redemption. It is our story.
+If we lay out the chronological order of the Biblical cannon we are presented with a grand story of origins, of sin, of death, and ultimately of redemption. It is our story.
 
 
 
 ### Before Time
 In the Beginning was the Word	John 1
+
+It's impossible to discuss time before time, but this is essential as what we call *time* did not exist before creation. We know that God existed, including the three persons of God that we refer to as Father, Son, and Holy Spirit -- that this omniscient and omnipotent being existed and that despite His transcendent nature, we know that His will is a person (the Father), His word is a person (the Son), and that His love from Father to Son is also a person (the Holy Spirit).
+
+Before creation, before time itself, there was will, there was the word, and there was love. And so we know that God's will, word, and love are eternal and the first principle from which all else emerges.
 
 
 
