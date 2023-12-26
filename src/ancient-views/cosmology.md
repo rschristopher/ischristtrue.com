@@ -185,7 +185,7 @@ Jacob Gets Isaac's Blessing	Genesis 27
 
 
 
-### ~928 BC	
+### ~1928 BC	
 Jacob Flees to Laban	Genesis 28
 
 Jacob's vision of a ladder	Genesis 28:10
