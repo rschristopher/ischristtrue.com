@@ -1,74 +1,117 @@
 # Cosmology 
 
-In modern usage, cosmology is the study of the universe in terms of time and space. This is a secular view that presupposes time and space as first principles, as well as reason as a first principle, logic as a first principle, knowledge as a first principle, and so on. It is very much a cascade of unquestioned presupositions that yield absurdity under any proper scrutiny.
+In modern usage, cosmology is the study of the universe in terms of time and space. 
+This is a secular view that presupposes *time* and *space* as first principles, as well as *reason* as a first principle, *logic* as a first principle, *knowledge* as a first principle, and so on. 
+And as *postmodernism* will demonstrate, secular cosmology is very much a cascade of unquestioned presupositions that yield absurdity under any proper scrutiny.
 
-However, the word *cosmology* derives from *cosmos*, as in the natural order of the universe (*cosmos* is the antithesis of *chaos*), and from *logia*, as in the divine word or story. As such, the more accurate meaning of *cosmology* is the divine story of the order of the universe. This presupposes the Christian God, the first principle from which all transcendent categories arise.
-
-
-!!! warning "These are approximate dates based on a chronological ordering of scripture -- the importance is not the date but the ordering"
-
-
-
-## Precosmogonic 
-
-If we lay out the chronological order of the Biblical cannon we are presented with a grand story of origins, of sin, of death, and ultimately of redemption. It is our story.
+However, the word *cosmology* derives from *cosmos*, as in the natural order of the universe (*cosmos* is the opposite of *chaos*), and from *logia*, as in the divine word or story. 
+As such, the more accurate meaning of *cosmology* is non-secular -- is is the divine story of the order of the universe. 
+This presupposes the Christian God, the first principle from which all transcendent categories arise.
 
 
+If we lay out the chronological order of the Biblical canon we are presented with a grand story of origin, of sin, of death, of hope, of prophecy, and ultimately of redemption. 
+It is our story.
+And it is the only cosmology from which morality and truth can be knowable.
 
-### Before Time
-In the Beginning was the Word	John 1
+!!! warning "These are approximate years based on ordering of scripture"
 
-It's impossible to discuss time before time, but this is essential as what we call *time* did not exist before creation. We know that God existed, including the three persons of God that we refer to as Father, Son, and Holy Spirit -- that this omniscient and omnipotent being existed and that despite His transcendent nature, we know that His will is a person (the Father), His word is a person (the Son), and that His love from Father to Son is also a person (the Holy Spirit).
 
-Before creation, before time itself, there was will, there was the word, and there was love. And so we know that God's will, word, and love are eternal and the first principle from which all else emerges.
+
+
+
+## Precosmogonic Age
+
+!!! info "~"
+    It's impossible to rationally discuss time before time, but this is essential as what we call *time* did not exist before creation. We know that God eternally existed, including the three persons of God that we refer to as Father, Son, and Holy Spirit -- that this omniscient and omnipotent being eternally existed and that despite His transcendent nature, we know that His will is a person (the Father), His word is a person (the Son), and that His love from Father to Son (from will to word) is also a person (the Holy Spirit).
+    
+    Before creation, before time itself, there was God's will, there was God's word, and there was God's love. 
+    God's will, word, and love are eternal; the first principle from which all creation emerges. 
+    From this trinity there emerges time, space, reason, and all of creation (visible and invisible).
+
+* ~Before Time<br />
+In the Beginning was the Word, John 1<br />
+
+
+
 
 
 
 ## Adamic Age
 
-### ~4000 BC	
-The Creation	Genesis 1
+!!! info "Walking with God"
+    The cosmology during this age is best understood as a radical shift marked by the fall of man.
+    This introduced sin and death, which necessarily means that prior to the fall there was no death, and thus no evolution (which is best understood as life striving and surviving in the face of death).
+    
+    The Adamic age was man walking with God, and it ended at the fall, at the exile from Eden.
 
-The Garden of Eden	Genesis 2
+* ~4000 BC<br />
+The Creation, Genesis 1<br />
+The Garden of Eden, Genesis 2<br />
+The Fall of Man, Genesis 3<br />
 
-The Fall of Man	Genesis 3
+
+
+
 
 
 
 ## Antediluvian Age
 
-### ~3000 BC	
+!!! info "Sons of God and Nephilim"
+    The cosmology during this age is best understood as the consequence of the rebellion against God.
+    Despite the spirit of God being with man, sin entered the hearts of man, leading to the firstborn, Cain, to kill his brother Abel.
+    Humans lived for centuries, and in this age the sons of God (the angels, the heavenly hosts) rebelled against God and took for themselves the daughters of men.
+    
+    In this age only Enoch walked with God, and later so did his grandson Noah.
 
-Cain kills Abel	Genesis 4
 
-From Adam to Noah	Genesis 5
+* ~3000 BC<br />
+Cain kills Abel, Genesis 4<br />
+From Adam to Noah, Genesis 5<br />
 
 
 
-## Noahchian Age
 
-### ~2500 BC	
 
-Wickedness Provokes God's wrath	Genesis 6
+## Noahchian Age (Flood)
 
-The Great Flood	Genesis 7
+!!! info "The Great Flood"
+    The cosmology of this age underwent a radical shift, where God -- seeing the wickedness of man -- caused a great flood.
+    And the only human survivors were Noah and his family.
+    After the flood, God removed His Spirit from man, who would no longer live for centuries but at most 120 years.
 
-The Flood Subsides	Genesis 8
+!!! quote "Genesis 6:5"
+    And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.
 
-Covenant of the Rainbow	Genesis 9
+* ~2500 BC<br />
+Wickedness Provokes God's wrath, Genesis 6<br />
+The Great Flood, Genesis 7<br />
+The Flood Subsides, Genesis 8<br />
+Covenant of the Rainbow, Genesis 9<br />
+Shem, Ham and Japheth, Genesis 10<br />
 
-Shem, Ham and Japheth	Genesis 10
+
+
+
 
 
 
 ## Babel (Rebellion)
 
+!!! info "Rebellion of Babel"
+    After the flood there was one final cosmological rebellion -- that is, a radical shift in cosmology as a consequence of man's (and angel's) rebellion against God.
+    Prior to this, man spoke a unified language, the divine language.
+    And man was subject to God and nothing else.
+    
+    The descendents of Noah were told to populate the world, but they instead built a great city and a great tower that they may reach heaven.
+    And with the divine language and sin in their hearts, God tells us of our ancestors, "nothing will be restrained from them, which they have imagined to do."
+    So God scattered the people, confused their language, and placed them beneath the heavenly hosts.
+    
+    Man would now be ruled by principalities and powers, false gods -- we would become the playthings of the devils.
 
-### ~2100 BC
-
-Job's Suffering and Faith	Job 1 - 42
-
-The Tower of Babel	Genesis 11
+ * ~2100 BC<br />
+Job's Suffering and Faith, Job 1 - 42<br />
+The Tower of Babel, Genesis 11<br />
 
 
 
@@ -82,232 +125,165 @@ The Tower of Babel	Genesis 11
 
 ## Abrahamic Age
 
-### ~2091 BC	
+!!! info "Covenantal Age"
+    The cosmology of this age is familiar to us -- man is in a lowly state, subject to false gods (principalities and powers) and confused languages, yet in this age is the beginning of hope.
+    A single seed, Abraham, will be the father of a chosen people; blessed by a priest (Melchizedek) of the most high God.
 
-God Sends Abram to Egypt	Genesis 12
 
+* ~2091 BC<br />
+God Sends Abram to Egypt, Genesis 12<br />
 
 
-### ~2090 BC	
-The Famine in Canaan	Genesis 12:10
+* ~2090 BC<br />
+The Famine in Canaan, Genesis 12:10<br />
 
 
+* ~2085 BC<br />
+Abram and Lot Part Ways, Genesis 13<br />
+Abram Promised Many Descendants, Genesis 13:14<br />
 
-### ~2085 BC
-Abram and Lot Part Ways	Genesis 13
 
-Abram Promised Many Descendants	Genesis 13:14
+* ~2084 BC<br />
+Abram Rescues Lot, Genesis 14<br />
 
 
+* ~2081 BC<br />
+God's Covenant with Abram,, Genesis 15<br />
+Sarai and Hagar, Genesis 16<br />
 
 
-### ~2084 BC	
-Abram Rescues Lot	Genesis 14
+* ~2080 BC<br />
+Ishmael Born, Genesis 16:15<br />
 
 
+* ~2067 BC<br />
+The Covenant of Circumcision, Genesis 17<br />
+God Promises the Birth of Isaac, Genesis 18<br />
+The Destruction of Sodom, Genesis 19<br />
+Abraham, Sarah and Abimelech, Genesis 20<br />
 
-### ~2081 BC
-God's Covenant with Abram	Genesis 15
 
-Sarai and Hagar	Genesis 16
+* ~2066 BC<br />
+Isaac Born, Genesis 21<br />
 
 
+* ~2064 BC<br />
+Hagar and Ishmael Sent Away, Genesis 21:8<br />
 
 
-### ~2080 BC	
-Ishmael Born	Genesis 16:15
 
+* ~2057 BC<br />
+The Treaty at Beersheba, Genesis 21:22<br />
 
+* ~2054 BC<br />
+The Offering of Isaac, Genesis 22<br />
 
-### ~2067 BC	
-The Covenant of Circumcision	Genesis 17
 
-God Promises the Birth of Isaac	Genesis 18
+* ~2030 BC<br />
+Death and Burial of Sarah, Genesis 23<br />
 
-The Destruction of Sodom	Genesis 19
 
-Abraham, Sarah and Abimelech	Genesis 20
+* ~2026 BC<br />
+Isaac Marries Rebekah, Genesis 24<br />
 
 
+* ~2006 BC<br />
+Birth of Jacob and Esau, Genesis 25<br />
 
 
+* ~1991 BC<br />
+Death of Abraham, Genesis 25:5<br />
 
-### ~2066 BC	
-Isaac Born	Genesis 21
 
+* ~1978 BC<br />
+Esau sells his birthright, Genesis 25:29<br />
 
 
-### ~2064 BC	
-Hagar and Ishmael Sent Away	Genesis 21:8
+* ~1977 BC<br />
+Isaac and Abimelech, Genesis 26<br />
 
 
+* ~1929 BC<br />
+Jacob Gets Isaac's Blessing, Genesis 27<br />
 
 
-### ~2057 BC	
-The Treaty at Beersheba	Genesis 21:22
+* ~1928 BC<br />
+Jacob Flees to Laban, Genesis 28<br />
+Jacob's vision of a ladder, Genesis 28:10<br />
+Jacob Serves Laban, Genesis 29<br />
 
 
+* ~1921 BC<br />
+Jacob Marries Rachel, Genesis 29:28<br />
+Jacob and His Sons, Genesis 30<br />
 
 
-### ~2054 BC	
-The Offering of Isaac	Genesis 22
+* ~1916 BC<br />
+Rachel Bears Joseph, Genesis 30:22<br />
 
 
+* ~1908 BC<br />
+Jacob Leaves for Canaan, Genesis 31<br />
 
-### ~2030 BC	
-Death and Burial of Sarah	Genesis 23
 
+* ~1906 BC<br />
+Jacob Wrestles with God, Genesis 32<br />
+Jacob Meets Esau, Genesis 33<br />
+Jacob Settles in Shechem, Genesis 33:18<br />
+Shechem Defiles Dinah, Genesis 34<br />
+Jacob Returns to Bethel, Genesis 35<br />
+Jacob Named Israel, Genesis 35:10<br />
+Descendants of Esau, Genesis 36<br />
 
 
-### ~2026 BC	
-Isaac Marries Rebekah	Genesis 24
+* ~1903 BC<br />
+Rachel Dies, Genesis 35:18<br />
 
 
+* ~1898 BC<br />
+Joseph's Dreams and Betrayal, Genesis 37<br />
+Joseph Sold into Slavery, Genesis 37:25<br />
+Tamar deceives Judah, Genesis 38<br />
+Joseph Prospers Under Potiphar, Genesis 39<br />
 
-### ~2006 BC	
-Birth of Jacob and Esau	Genesis 25
 
+* ~1889 BC<br />
+Potiphar's Wife Accuses Joseph, Genesis 39:7<br />
+Joseph Imprisoned, Genesis 39:20<br />
 
 
-### ~1991 BC	
-Death of Abraham	Genesis 25:5
+* ~1887 BC<br />
+The Cupbearer and the Baker's Dreams, Genesis 40<br />
 
+* ~1886 BC<br />
+Joseph Interprets Pharaoh's Dreams, Genesis 41<br />
+Joseph Put in Charge, Genesis 41:33<br />
+Seven Years of Plenty Begin, Genesis 41:47<br />
 
 
-### ~1978 BC	
-Esau sells his birthright	Genesis 25:29
+* ~1875 BC<br />
+Famine Begins, Genesis 41:53<br />
+Joseph's Brothers Sent to Egypt, Genesis 42<br />
+Simeon Detained by Joseph, Genesis 42:24<br />
+The Return with Benjamin, Genesis 43<br />
+Benjamin and the Silver Cup, Genesis 44<br />
+Joseph Reveals His Identity, Genesis 45<br />
+Joseph Sends for Jacob, Genesis 45:9<br />
+Jacob and Family to Egypt, Genesis 46<br />
+Jacob to Goshen, Genesis 47<br />
 
 
+* ~1859 BC<br />
+Jacob's Illness, Genesis 48<br />
+Jacob's Blessing and Death, Genesis 49<br />
+The Burial of Jacob, Genesis 50<br />
 
-### ~1977 BC	
-Isaac and Abimelech	Genesis 26
+* ~1806 BC<br />
+The Death of Joseph, Genesis 50:26<br />
 
 
-
-### ~1929 BC	
-Jacob Gets Isaac's Blessing	Genesis 27
-
-
-
-### ~1928 BC	
-Jacob Flees to Laban	Genesis 28
-
-Jacob's vision of a ladder	Genesis 28:10
-
-Jacob Serves Laban	Genesis 29
-
-
-
-### ~1921 BC	
-Jacob Marries Rachel	Genesis 29:28
-
-Jacob and His Sons	Genesis 30
-
-
-
-### ~1916 BC	
-Rachel Bears Joseph	Genesis 30:22
-
-
-
-### ~1908 BC	
-Jacob Leaves for Canaan	Genesis 31
-
-
-
-### ~1906 BC	
-Jacob Wrestles with God	Genesis 32
-
-Jacob Meets Esau	Genesis 33
-
-Jacob Settles in Shechem	Genesis 33:18
-
-Shechem Defiles Dinah	Genesis 34
-
-Jacob Returns to Bethel	Genesis 35
-
-Jacob Named Israel	Genesis 35:10
-
-Descendants of Esau	Genesis 36
-
-
-
-
-### ~1903 BC	
-Rachel Dies	Genesis 35:18
-
-
-
-### ~1898 BC	
-Joseph's Dreams and Betrayal	Genesis 37
-
-Joseph Sold into Slavery	Genesis 37:25
-
-Tamar deceives Judah	Genesis 38
-
-Joseph Prospers Under Potiphar	Genesis 39
-
-
-
-
-### ~1889 BC	
-Potiphar's Wife Accuses Joseph	Genesis 39:7
-
-Joseph Imprisoned	Genesis 39:20
-
-
-
-### ~1887 BC	
-The Cupbearer and the Baker's Dreams	Genesis 40
-
-
-### ~1886 BC	
-Joseph Interprets Pharaoh's Dreams	Genesis 41
-
-Joseph Put in Charge	Genesis 41:33
-
-Seven Years of Plenty Begin	Genesis 41:47
-
-
-
-
-### ~1875 BC	
-Famine Begins	Genesis 41:53
-
-Joseph's Brothers Sent to Egypt	Genesis 42
-
-Simeon Detained by Joseph	Genesis 42:24
-
-The Return with Benjamin	Genesis 43
-
-Benjamin and the Silver Cup	Genesis 44
-
-Joseph Reveals His Identity	Genesis 45
-
-Joseph Sends for Jacob	Genesis 45:9
-
-Jacob and Family to Egypt	Genesis 46
-
-Jacob to Goshen	Genesis 47
-
-
-
-### ~1859 BC	
-Jacob's Illness	Genesis 48
-
-Jacob's Blessing and Death	Genesis 49
-
-The Burial of Jacob	Genesis 50
-
-
-### ~1806 BC	
-The Death of Joseph	Genesis 50:26
-
-
-
-### ~1800 BC	
-Jacob's Family Stays in Egypt	Exodus 1
-
+* ~1800 BC<br />
+Jacob's Family Stays in Egypt, Exodus 1<br />
 
 
 
@@ -317,290 +293,205 @@ Jacob's Family Stays in Egypt	Exodus 1
 
 ## Mosaic Age
 
-### ~1700 BC	
-Israelites Multiply in Egypt	Exodus 1:6
+!!! info "Exile and Promised Land"
+    This is the age where God's chosen people are liberated from captivity, liberated from the false gods -- the worldly principalities and powers.
+    God's law is written.
+    And yet repeatedly, the people rebel and fail to uphold God's law.
+
+
+* ~1700 BC<br />
+Israelites Multiply in Egypt, Exodus 1:6<br />
+
+* ~1600 BC<br />
+Israelites Oppressed by New King, Exodus 1:8<br />
+
+* ~1539 BC<br />
+Pharaoh's Order to Kill Firstborn, Exodus 1:22<br />
+
+* ~1525 BC<br />
+The Birth and Adoption of Moses, Exodus 2<br />
+
+
+* ~1486 BC<br />
+Moses Flees into Midian, Exodus 2:11<br />
+
 
+* ~1446 BC<br />
+Israelites Groan in Slavery, Exodus 2:23<br />
+Moses Sent to Deliver Israel, Exodus 3 - 6<br />
+The Ten Plagues on Egypt, Exodus 7 - 12<br />
+The Exodus Begins, Exodus 13 - 18<br />
+The Isreaelites At Mount Sinai, Exodus 19<br />
+Moses Receives the Commandments, Exodus 20<br />
+Moses Receives the Law, Exodus 21 - 24<br />
+Preparations for the Tabernacle , Exodus 25 - 31<br />
+The Golden Calf and Moses' Anger, Exodus 32<br />
+The Journey Resumes, Exodus 33 - 39<br />
 
-### ~1600 BC	
-Israelites Oppressed by New King	Exodus 1:8
 
+* ~1445 BC<br />
+The Tabernacle is Erected and Filled, Exodus 40<br />
+Laws for Sacrifices and Offerings, Leviticus 1 - 7<br />
+Aaron and His Sons Consecrated, Leviticus 8, 9<br />
+The Sin of Nadab and Abihu, Leviticus 10<br />
+Laws of Purity, Leviticus 11 - 19<br />
+Punishments and Regulations, Leviticus 20 - 22<br />
+Feasts and Jubilee, Leviticus 23<br />
+Census, Tribes, Duties, Numbers 1 - 6<br />
+Tabernacle Dedication, Numbers 7 - 10<br />
+The People Complain, Numbers 11, 12<br />
+The Twelve Spies, Numbers 13<br />
+People Murmur at the Spies' Report, Numbers 14, 15<br />
 
-### ~1539 BC	
-Pharaoh's Order to Kill Firstborn	Exodus 1:22
 
+* ~1426 BC<br />
+Korah's Rebellion, Numbers 16<br />
+Aaron's Staff Buds, Numbers 17<br />
+Priests, Red Heifer, Cleansing , Numbers 18, 19<br />
 
-### ~1525 BC	
-The Birth and Adoption of Moses	Exodus 2
+* ~1407 BC<br />
+Water from the Rock at Meribah, Numbers 20<br />
+Aaron's Death, Numbers 20:22<br />
+The Bronze Snake, Numbers 21<br />
+Balaam and the Angel, Numbers 22 - 25<br />
+The Second Census, Numbers 26<br />
+The Daughters of Zelophehad, Numbers 27<br />
+Joshua Chosen to Succeed Moses, Numbers 27:18<br />
+Special sacrifices and holy days, Numbers 28, 29<br />
+Vows of women, Numbers 30<br />
+Conquest of Midian, Numbers 31<br />
+Division of Transjordan, Numbers 32<br />
+Summary of Israel's Journey, Numbers 33<br />
+Apportionment of Canaan, Numbers 34<br />
+Borders and Cities of Refuge, Numbers 35<br />
+Zelophehad's Daughters Marry, Numbers 36<br />
+Psalm of Moses, Psalm 90<br />
+Moses' Summary of Israel's History, Deuteronomy 1 - 4<br />
 
 
 
-### ~1486 BC	
-Moses Flees into Midian	Exodus 2:11
+* ~1406 BC<br />
+Recapitulation of the Law, Deuteronomy 4:44 - 31<br />
+The Song of Moses, Deuteronomy 32<br />
+Moses Blesses the Twelve Tribes, Deuteronomy 32:48<br />
+Blessings of Moses, Deuteronomy 33<br />
+The Death of Moses, Deuteronomy 34<br />
+God Commissions Joshua, Joshua 1<br />
+Rahab Welcomes the Spies, Joshua 2<br />
+The Israelites Cross the Jordan, Joshua 3 - 5<br />
+Conquer of Jericho and Ai, Joshua 6 - 8<br />
 
 
+* ~1405 BC<br />
+Kings Join against Israel, Joshua 9<br />
+The Sun Stands Still, Joshua 10<br />
+Northern Palestine Defeated, Joshua 11, 12<br />
 
-### ~1446 BC	
-Israelites Groan in Slavery	Exodus 2:23
 
-Moses Sent to Deliver Israel	Exodus 3 - 6
+* ~1399 BC<br />
+Land allotted among the Tribes, Joshua 13 - 22<br />
 
-The Ten Plagues on Egypt	Exodus 7 - 12
 
-The Exodus Begins	Exodus 13 - 18
+* ~1375 BC<br />
+Joshua's Farewell Address, Joshua 23, 24<br />
+Micah's Idolatry, Judges 17<br />
+Danites Settle in Laish, Take Micah's Idols, Judges 18<br />
+A Levite's Concubine Degraded, Judges 19<br />
+Israelites Defeat the Benjamites, Judges 20<br />
+Wives for the Benjamites, Judges 21<br />
 
-The Isreaelites At Mount Sinai	Exodus 19
 
-Moses Receives the Commandments	Exodus 20
 
-Moses Receives the Law	Exodus 21 - 24
+* ~1374 BC<br />
+Israelites Capture Jerusalem, Hebron, Judges 1<br />
+Israel Rebuked and Defeated, Judges 2<br />
+Israel's idolatry and Servitude; Othniel, Judges 3<br />
 
-Preparations for the Tabernacle 	Exodus 25 - 31
 
-The Golden Calf and Moses' Anger	Exodus 32
+* ~1334 BC<br />
+Eglon, Judges 3:12<br />
 
-The Journey Resumes	Exodus 33 - 39
 
+* ~1316 BC<br />
+Ehud, Judges 3:15<br />
 
 
-### ~1445 BC	
-The Tabernacle is Erected and Filled	Exodus 40
+* ~1235 BC<br />
+Deborah and Barak, Judges 4<br />
+The Song of Deborah and Barak, Judges 5<br />
 
-Laws for Sacrifices and Offerings	Leviticus 1 - 7
 
-Aaron and His Sons Consecrated	Leviticus 8, 9
+* ~1169 BC<br />
+Gideon and the Midianites, Judges 6 - 8<br />
 
-The Sin of Nadab and Abihu	Leviticus 10
 
-Laws of Purity	Leviticus 11 - 19
+* ~1140 BC<br />
+Naomi, Ruth and Boaz, Ruth 1 - 4<br />
 
-Punishments and Regulations	Leviticus 20 - 22
 
-Feasts and Jubilee	Leviticus 23
+* ~1129 BC<br />
+Abimelech Conspires to Become King, Judges 9<br />
 
-Census, Tribes, Duties	Numbers 1 - 6
+* ~1126 BC<br />
+Plot against Abimelech, Judges 9:22<br />
+Abimelech is Slain, Judges 9:50<br />
 
-Tabernacle Dedication	Numbers 7 - 10
 
-The People Complain	Numbers 11, 12
+* ~1118 BC<br />
+Tola, Jair, Judges 10<br />
 
-The Twelve Spies	Numbers 13
 
-People Murmur at the Spies' Report	Numbers 14, 15
+* ~1100 BC<br />
+Birth of Samuel, 1 Samuel 1<br />
+Hannah's Song, 1 Samuel 2<br />
 
 
+* ~1097 BC<br />
+Jephthah's Covenant with the Gileadites, Judges 11<br />
 
-### ~1426 BC	
-Korah's Rebellion	Numbers 16
 
-Aaron's Staff Buds	Numbers 17
+* ~1090 BC<br />
+Jephthah, Ephraim, Ibzan, Elon, Abdon, Judges 12<br />
+Israel Oppressed by the Philistines, Judges 13<br />
 
-Priests, Red Heifer, Cleansing 	Numbers 18, 19
 
+* ~1075 BC<br />
+Samson's Marriage and Riddle, Judges 14<br />
+Samson Burns the Philistine Crops, Judges 15<br />
+Samson and Delilah, Judges 16<br />
 
-### ~1407 BC	
-Water from the Rock at Meribah	Numbers 20
 
-Aaron's Death	Numbers 20:22
+* ~1070 BC<br />
+Battle of Shiloh, 1 Samuel 3<br />
+Philistines Take the Ark, 1 Samuel 4, 5<br />
+Philistines Return the Ark to Israel, 1 Samuel 6<br />
+Ark brought to Abinadab's House, 1 Samuel 7<br />
 
-The Bronze Snake	Numbers 21
 
-Balaam and the Angel	Numbers 22 - 25
 
-The Second Census	Numbers 26
+* ~1050 BC<br />
+Israelites Repent at Mizpeh, 1 Samuel 7:3<br />
 
-The Daughters of Zelophehad	Numbers 27
 
-Joshua Chosen to Succeed Moses	Numbers 27:18
+* ~1043 BC<br />
+Saul Becomes King, 1 Samuel 8 - 10<br />
 
-Special sacrifices and holy days	Numbers 28, 29
 
-Vows of women	Numbers 30
+* ~1042 BC<br />
+Saul Defeats the Ammonites, 1 Samuel 11, 12<br />
 
-Conquest of Midian	Numbers 31
 
-Division of Transjordan	Numbers 32
+* ~1041 BC<br />
+Saul's War with the Philistines, 1 Samuel 13<br />
+Jonathan's Miraculous Victory, 1 Samuel 14<br />
 
-Summary of Israel's Journey	Numbers 33
 
-Apportionment of Canaan	Numbers 34
+* ~1028 BC<br />
+Saul's Disobedience and Samuel's Rebuke, 1 Samuel 15<br />
 
-Borders and Cities of Refuge	Numbers 35
 
-Zelophehad's Daughters Marry	Numbers 36
 
-Psalm of Moses	Psalm 90
 
-Moses' Summary of Israel's History	Deuteronomy 1 - 4
-
-
-
-### ~1406 BC	
-Recapitulation of the Law	Deuteronomy 4:44 - 31
-
-The Song of Moses	Deuteronomy 32
-
-Moses Blesses the Twelve Tribes	Deuteronomy 32:48
-
-Blessings of Moses	Deuteronomy 33
-
-The Death of Moses	Deuteronomy 34
-
-God Commissions Joshua	Joshua 1
-
-Rahab Welcomes the Spies	Joshua 2
-
-The Israelites Cross the Jordan	Joshua 3 - 5
-
-Conquer of Jericho and Ai	Joshua 6 - 8
-
-
-
-### ~1405 BC	
-Kings Join against Israel	Joshua 9
-
-The Sun Stands Still	Joshua 10
-
-Northern Palestine Defeated	Joshua 11, 12
-
-
-
-### ~1399 BC	
-Land allotted among the Tribes	Joshua 13 - 22
-
-
-
-### ~1375 BC	
-Joshua's Farewell Address	Joshua 23, 24
-
-Micah's Idolatry	Judges 17
-
-Danites Settle in Laish, Take Micah's Idols	Judges 18
-
-A Levite's Concubine Degraded	Judges 19
-
-Israelites Defeat the Benjamites	Judges 20
-
-Wives for the Benjamites	Judges 21
-
-
-
-
-### ~1374 BC	
-Israelites Capture Jerusalem, Hebron	Judges 1
-
-Israel Rebuked and Defeated	Judges 2
-
-Israel's idolatry and Servitude; Othniel	Judges 3
-
-
-
-### ~1334 BC	
-Eglon	Judges 3:12
-
-
-
-### ~1316 BC	
-Ehud	Judges 3:15
-
-
-
-### ~1235 BC	
-Deborah and Barak	Judges 4
-
-The Song of Deborah and Barak	Judges 5
-
-
-
-### ~1169 BC	
-Gideon and the Midianites	Judges 6 - 8
-
-
-
-### ~1140 BC	
-Naomi, Ruth and Boaz	Ruth 1 - 4
-
-
-
-### ~1129 BC	
-Abimelech Conspires to Become King	Judges 9
-
-
-### ~1126 BC	
-Plot against Abimelech	Judges 9:22
-
-Abimelech is Slain	Judges 9:50
-
-
-
-### ~1118 BC	
-Tola, Jair	Judges 10
-
-
-
-### ~1100 BC	
-Birth of Samuel	1 Samuel 1
-
-Hannah's Song	1 Samuel 2
-
-
-
-### ~1097 BC	
-Jephthah's Covenant with the Gileadites	Judges 11
-
-
-
-### ~1090 BC	
-Jephthah, Ephraim, Ibzan, Elon, Abdon	Judges 12
-
-Israel Oppressed by the Philistines	Judges 13
-
-
-
-### ~1075 BC	
-Samson's Marriage and Riddle	Judges 14
-
-Samson Burns the Philistine Crops	Judges 15
-
-Samson and Delilah	Judges 16
-
-
-
-### ~1070 BC	
-Battle of Shiloh	1 Samuel 3
-
-Philistines Take the Ark	1 Samuel 4, 5
-
-Philistines Return the Ark to Israel	1 Samuel 6
-
-Ark brought to Abinadab's House	1 Samuel 7
-
-
-
-
-### ~1050 BC	
-Israelites Repent at Mizpeh	1 Samuel 7:3
-
-
-
-### ~1043 BC	
-Saul Becomes King	1 Samuel 8 - 10
-
-
-
-### ~1042 BC	
-Saul Defeats the Ammonites 	1 Samuel 11, 12
-
-
-
-### ~1041 BC	
-Saul's War with the Philistines	1 Samuel 13
-
-Jonathan's Miraculous Victory	1 Samuel 14
-
-
-
-### ~1028 BC	
-Saul's Disobedience and Samuel's Rebuke	1 Samuel 15
 
 
 
@@ -610,833 +501,586 @@ Saul's Disobedience and Samuel's Rebuke	1 Samuel 15
 
 ## Davidic Age
 
-### ~1024 BC	
-Samuel Anoints David at Bethlehem	1 Samuel 16
+!!! info "Davidic Monarcy"
+    The cosmology of this age is marked by prophecy,
+    including the prophecied Messiah,
+    -- *Emmanuel, God with us* --
+    from the line of David.
+    This prophecied Messiah will rule forever.
 
-David Kills Goliath	1 Samuel 17
 
+* ~1024 BC<br />
+Samuel Anoints David at Bethlehem, 1 Samuel 16<br />
+David Kills Goliath, 1 Samuel 17<br />
 
 
 
-### ~1015 BC	
-Jonathan's Friendship with David	1 Samuel 18
+* ~1015 BC<br />
+Jonathan's Friendship with David, 1 Samuel 18<br />
 
 
+* ~1014 BC<br />
+David Protected from Saul, 1 Samuel 19<br />
 
-### ~1014 BC	
-David Protected from Saul	1 Samuel 19
 
+* ~1013 BC<br />
+David and Jonathan's Covenant, 1 Samuel 20<br />
+David's Psalm of Deliverance (1Sa 20), Psalm 59<br />
 
 
-### ~1013 BC	
-David and Jonathan's Covenant	1 Samuel 20
+* ~1012 BC<br />
+David at Nob and Gath, 1 Samuel 21<br />
+David's Psalm Fleeing Saul (1Sa 21), Psalm 52<br />
+David's Psalm Before Ahimelech (1Sa 21), Psalm 34<br />
 
-David's Psalm of Deliverance (1Sa 20)	Psalm 59
 
+* ~1011 BC<br />
+David's Psalm at Gath (1Sa 21), Psalm 56<br />
+Saul Slays the Priests of Nob, 1 Samuel 22<br />
+David's Psalms in the Cave (1Sa 22), Psalms 57, 142<br />
+David Flees Saul, 1 Samuel 23<br />
+David's Psalm at Keilah (1Sa 23), Psalm 54<br />
+David Spares Saul's Life, 1 Samuel 24<br />
+Samuel Dies, 1 Samuel 25<br />
+David Spares Saul a Second Time, 1 Samuel 26<br />
 
 
-### ~1012 BC	
-David at Nob and Gath	1 Samuel 21
+* ~1010 BC<br />
+David Flees to the Philistines, 1 Samuel 27<br />
+Saul and the Witch of Endor, 1 Samuel 28<br />
+Achish Sends David Away, 1 Samuel 29<br />
+David Destroys the Amalekites, 1 Samuel 30<br />
+Saul and His Sons Killed, 1 Samuel 31<br />
+David Mourns for Saul and Jonathan, 2 Samuel 1<br />
+David Made King over Judah, 2 Samuel 2<br />
 
-David's Psalm Fleeing Saul (1Sa 21)	Psalm 52
 
-David's Psalm Before Ahimelech (1Sa 21)	Psalm 34
+* ~1008 BC<br />
+Civil War Between Abner and Joab, 2 Samuel 2:12<br />
 
 
+* ~1006 BC<br />
+House of David Strengthened, 2 Samuel 3<br />
 
-### ~1011 BC	
-David's Psalm at Gath (1Sa 21)	Psalm 56
+* ~1005 BC<br />
+Joab murders Abner, 2 Samuel 3:22<br />
 
-Saul Slays the Priests of Nob	1 Samuel 22
+* ~1004 BC<br />
+The Murder of Ish-bosheth, 2 Samuel 4<br />
 
-David's Psalms in the Cave (1Sa 22)	Psalms 57, 142
 
-David Flees Saul	1 Samuel 23
+* ~1003 BC<br />
+Genealogies of the Israelites, 1 Chronicles 1 - 9<br />
+Saul's Overthrow and Defeat, 1 Chronicles 10<br />
+David Reigns over All Israel, 2 Samuel 5, 1 Chronicles 11
 
-David's Psalm at Keilah (1Sa 23)	Psalm 54
 
-David Spares Saul's Life	1 Samuel 24
 
-Samuel Dies	1 Samuel 25
+* ~1002 BC<br />
+David's Army Grows, 1 Chronicles 12<br />
 
-David Spares Saul a Second Time	1 Samuel 26
+* ~1000 BC<br />
+David fetches the ark, 1 Chronicles 13<br />
+David's Family Grows, 1 Chronicles 14<br />
+The Ark is Brought to Jerusalem, 2 Samuel 6, 1 Chronicles 15<br />
+David Plans a Temple, 2 Samuel 7<br />
 
 
+* ~998 BC<br />
+David Defeats the Philistines, 2 Samuel 8<br />
+David's Psalm of Victory (2Sa 8), Psalm 60<br />
+David's Psalm of Zion, Psalm 15<br />
+David's Psalm of Glory to God, Psalm 24<br />
+David's festival sacrifice, 1 Chronicles 16<br />
+Psalms of Praise (1Ch 16), Psalms 96, 105, 106<br />
 
-### ~1010 BC	
-David Flees to the Philistines	1 Samuel 27
 
-Saul and the Witch of Endor	1 Samuel 28
+* ~997 BC<br />
+David Purposes to build a Temple, 1 Chronicles 17<br />
 
-Achish Sends David Away	1 Samuel 29
 
-David Destroys the Amalekites	1 Samuel 30
+* ~996 BC<br />
+David Strengthens His Kingdom, 1 Chronicles 18<br />
 
-Saul and His Sons Killed	1 Samuel 31
 
-David Mourns for Saul and Jonathan	2 Samuel 1
+* ~995 BC<br />
+David and Mephibosheth, 2 Samuel 9<br />
+David Defeats Ammon and Aram, 2 Samuel 10, 1 Chronicles 19<br />
+The Capture of Rabbah, 1 Chronicles 20<br />
 
-David Made King over Judah	2 Samuel 2
 
+* ~993 BC<br />
+David and Bathsheba, 2 Samuel 11<br />
 
 
-### ~1008 BC	
-Civil War Between Abner and Joab	2 Samuel 2:12
 
+* ~991 BC<br />
+Nathan Rebukes David, 2 Samuel 12<br />
+David's Psalm of Repentance (2Sa 12), Psalm 51<br />
 
 
-### ~1006 BC	
-House of David Strengthened	2 Samuel 3
+* ~990 BC<br />
+Solomon is Born, 2 Samuel 12:24<br />
+Amnon and Tamar, 2 Samuel 13<br />
+Amnom Killed by Absalom, 2 Samuel 13:23<br />
 
 
-### ~1005 BC	
-Joab murders Abner	2 Samuel 3:22
+* ~988 BC<br />
+The Widow of Tekoa, 2 Samuel 14<br />
+Absalom Recalled, 2 Samuel 14:21<br />
 
 
-### ~1004 BC	
-The Murder of Ish-bosheth	2 Samuel 4
+* ~979 BC<br />
+Psalms of David, Psalms 2 - 145 (Assorted)<br />
+Psalms of Korah , Psalms 42 - 44, 84, 85, 87, 88<br />
+Psalms of Asaph , Psalm 50, 73, 75 - 78, 80 - 83, 89<br />
+Psalms of Unknown Authors, Psalms 1 - 150 (Assorted)<br />
+David Forces a Census, 1 Chronicles 21<br />
+Preparation for building the Temple, 1 Chronicles 22<br />
+Preparation of Priesthood, 1 Chronicles 23<br />
+Divisions of Levites, 1 Chronicles 24<br />
+Preparation of sanctuary singers, 1 Chronicles 25<br />
+Preparation of gatekeepers, treasurers, 1 Chronicles 26<br />
+Preparation of government, 1 Chronicles 27<br />
 
 
+* ~976 BC<br />
+Absalom's Conspiracy, 2 Samuel 15<br />
+David Flees Jerusalem, 2 Samuel 15:13<br />
 
-### ~1003 BC	
-Genealogies of the Israelites	1 Chronicles 1 - 9
 
-Saul's Overthrow and Defeat	1 Chronicles 10
+* ~972 BC<br />
+David and Ziba, Shimei, 2 Samuel 16<br />
+Shimei Curses David, 2 Samuel 16:5<br />
+David's Psalm of Thirst for God (2Sa 16), Psalm 63<br />
+Hushai's Warning Saves David, 2 Samuel 17<br />
+David Psalms of Deliverance (2Sa 17), Psalms 41, 55<br />
+Absalom Slain by Joab, 2 Samuel 18<br />
+Joab Comforts David, 2 Samuel 19<br />
+Sheba Rebels Against David, 2 Samuel 20<br />
 
-David Reigns over All Israel	2 Samuel 5,
-1 Chronicles 11
 
 
+* ~970 BC<br />
+The Gibeonites Avenged, 2 Samuel 21<br />
+David's Song of Deliverance, 2 Samuel 22<br />
+David's Last Song, 2 Samuel 23<br />
+David's Psalm of Steadfastness (2Sa 23), Psalm 108<br />
+David Counts the Fighting Men, 2 Samuel 24<br />
+David's last days, 1 Chronicles 28, 29, 1 Kings 1, 2<br />
+David's Psalm of Salvation (1Ki 2), Psalm 37<br />
 
-### ~1002 BC	
-David's Army Grows	1 Chronicles 12
 
 
-### ~1000 BC	
-David fetches the ark	1 Chronicles 13
+* ~967 BC<br />
+Psalm for Solomon (2Ch 1), Psalm 72<br />
+Solomon Asks for Wisdom, 2 Chronicles 1, 1 Kings 3<br />
+Psalm of Korah (1Ki 3), Psalm 45<br />
+Solomon's Wisdom, 1 Kings 4<br />
+Solomon's Preparations for the Temple, 1 Kings 5<br />
 
-David's Family Grows	1 Chronicles 14
 
-The Ark is Brought to Jerusalem	2 Samuel 6, 1 Chronicles 15
+* ~966 BC<br />
+The Building of Solomon's Temple, 1 Kings 6<br />
+The Building of Solomon's Palace, 1 Kings 7<br />
+The Ark Brought to the Temple, 1 Kings 8<br />
+God's covenant with Solomon, 1 Kings 9<br />
+Solomon Prepares for a Temple and Palace, 2 Chronicles 2<br />
+Solomon Builds the Temple in Jerusalem, 2 Chronicles 3<br />
+Temple Furnishings, 2 Chronicles 4<br />
 
-David Plans a Temple	2 Samuel 7
 
+* ~959 BC<br />
+Ark Brought into the Temple, 2 Chronicles 5<br />
+Solomon's Prayer of Temple Dedication, 2 Chronicles 6<br />
+God's Glory in the Temple, 2 Chronicles 7<br />
+Psalms of Solomon (2Ch 7), Psalms 135, 136<br />
+Solomon's buildings, 2 Chronicles 8<br />
 
 
-### ~998 BC	
-David Defeats the Philistines	2 Samuel 8
+* ~950 BC<br />
+Solomon Psalm of Blessing, Psalm 127<br />
+The Proverbs of Solomon, Proverbs 1 - 29<br />
+The Words of Agur, Proverbs 30<br />
+King Lemuel's Proverb, Proverbs 31<br />
+Solomon's Song of Songs, Songs 1 - 8<br />
 
-David's Psalm of Victory (2Sa 8)	Psalm 60
 
-David's Psalm of Zion	Psalm 15
 
-David's Psalm of Glory to God	Psalm 24
+* ~946 BC<br />
+Mutual Presents of Solomon and Hiran, 1 Kings 9:10<br />
+The Queen of Sheba Visits Solomon, 1 Kings 10, 2 Chronicles 9<br />
 
-David's festival sacrifice	1 Chronicles 16
 
-Psalms of Praise (1Ch 16)	Psalms 96, 105, 106
+* ~939 BC<br />
+Solomon's Wives and Idolatry, 1 Kings 11<br />
 
 
+* ~937 BC<br />
+Ecclesiastes Words of the Preacher , Ecclesiastes 1 - 12<br />
 
-### ~997 BC	
-David Purposes to build a Temple	1 Chronicles 17
 
+* ~931 BC<br />
+Solomon's Death, 1 Kings 11:40<br />
+The Kingdom is Divided, 1 Kings 12, 13<br />
 
 
-### ~996 BC	
-David Strengthens His Kingdom	1 Chronicles 18
+* ~930 BC<br />
+Israelites Rebel against Rehoboam, 2 Chronicles 10<br />
+Rehoboam's Reign over Judah, 2 Chronicles 11<br />
 
 
+* ~927 BC<br />
+Rehoboam's sin, 2 Chronicles 12<br />
 
-### ~995 BC	
-David and Mephibosheth	2 Samuel 9
 
-David Defeats Ammon and Aram	2 Samuel 10, 1 Chronicles 19
+* ~925 BC<br />
+Ahijah's Prophecies against Jeroboam, 1 Kings 14<br />
 
-The Capture of Rabbah	1 Chronicles 20
 
+* ~913 BC<br />
+Rehoboam's Wicked Reign, 1 Kings 14:21<br />
+Abijam's wicked reign, 1 Kings 15<br />
+Civil War against Jeroboam, 2 Chronicles 13<br />
+Asa Destroys Idolatry, 2 Chronicles 14<br />
 
 
-### ~993 BC	
-David and Bathsheba	2 Samuel 11
+* ~909 BC<br />
+Jehu's prophecy against Baasha, 1 Kings 16<br />
 
 
+* ~895 BC<br />
+Asa's Reforms, 2 Chronicles 15<br />
 
 
-### ~991 BC	
-Nathan Rebukes David	2 Samuel 12
+* ~894 BC<br />
+Hanani's rebuke, 2 Chronicles 16<br />
 
-David's Psalm of Repentance (2Sa 12)	Psalm 51
 
 
+* ~886 BC<br />
+Elah, Zimri, Omri, 1 Kings 16:5<br />
 
-### ~990 BC	
-Solomon is Born	2 Samuel 12:24
 
-Amnon and Tamar	2 Samuel 13
+* ~874 BC<br />
+Ahab's wicked reign, 1 Kings 16:27<br />
 
-Amnom Killed by Absalom	2 Samuel 13:23
 
+* ~869 BC<br />
+Jehoshaphat Succeeds Asa, 2 Chronicles 17<br />
 
 
-### ~988 BC	
-The Widow of Tekoa	2 Samuel 14
+* ~863 BC<br />
+Elijah Prays for Drought, 1 Kings 17<br />
+Elijah Fed by Ravens, 1 Kings 17:3<br />
+The Widow at Zarephath, 1 Kings 17:7<br />
+Elijah on Mount Carmel, 1 Kings 18<br />
 
-Absalom Recalled	2 Samuel 14:21
 
+* ~858 BC<br />
+Elijah Flees Jezebel, 1 Kings 19<br />
+Elisha Called, 1 Kings 19:19<br />
 
 
-### ~979 BC	
-Psalms of David	Psalms 2 - 145 (Assorted)
+* ~857 BC<br />
+Ben-Hadad Attacks Samaria, 1 Kings 20<br />
+Ahab Defeats Ben-Hadad, 1 Kings 20:14<br />
 
-Psalms of Korah 	Psalms 42 - 44, 84, 85, 87, 88
 
-Psalms of Asaph 	Psalm 50, 73, 75 - 78, 80 - 83, 89
+* ~855 BC<br />
+Ahab Takes Naboth's Vineyard, 1 Kings 21<br />
 
-Psalms of Unknown Authors	Psalms 1 - 150 (Assorted)
 
-David Forces a Census	1 Chronicles 21
+* ~853 BC<br />
+Israel and Judah against Syria, 1 Kings 22<br />
+The Vision of Obadiah, Obadiah 1<br />
+Jehoshaphat Allies with Ahab, 2 Chronicles 18<br />
+Jehosaphat's deeds, 2 Chronicles 19<br />
+War with Ammon and Moab, 2 Chronicles 20<br />
 
-Preparation for building the Temple	1 Chronicles 22
 
-Preparation of Priesthood	1 Chronicles 23
+* ~852 BC<br />
+Jehoram's Wicked Reign in Judah, 2 Chronicles 21<br />
+Moab Rebels, 2 Kings 1<br />
 
-Divisions of Levites	1 Chronicles 24
 
-Preparation of sanctuary singers	1 Chronicles 25
+* ~851 BC<br />
+Elijah Taken up to Heaven, 2 Kings 2<br />
+Elisha Succeeds Elijah, 2 Kings 2:12<br />
 
-Preparation of gatekeepers, treasurers	1 Chronicles 26
 
-Preparation of government	1 Chronicles 27
+* ~850 BC<br />
+Jehoram Meets Moab Rebellion, 2 Kings 3<br />
 
 
+* ~849 BC<br />
+The Widow's Oil, 2 Kings 4<br />
+Elisha Raises The Shunammite boy, 2 Kings 4:8<br />
+The Healing of Naaman, 2 Kings 5<br />
 
-### ~976 BC	
-Absalom's Conspiracy	2 Samuel 15
 
-David Flees Jerusalem	2 Samuel 15:13
+* ~848 BC<br />
+Elisha Floats an Axhead, 2 Kings 6<br />
+Elisha Promises Plenty in Samaria, 2 Kings 7<br />
 
 
+* ~847 BC<br />
+The Shunammite's Land, 2 Kings 8<br />
 
-### ~972 BC	
-David and Ziba, Shimei	2 Samuel 16
 
-Shimei Curses David	2 Samuel 16:5
+* ~841 BC<br />
+Jehu Reigns in Israel, 2 Kings 9<br />
+Jehu Kills Joram, 2 Kings 9:11<br />
+Ahab's Family Killed, 2 Kings 10<br />
+Baal Worshipers killed, 2 Kings 10:18<br />
+Joash escapes Athaliah, 2 Kings 11<br />
+Ahaziah Succeeds Jehoram in Judah, 2 Chronicles 22<br />
+Jehoiada Makes Joash King, 2 Chronicles 23<br />
 
-David's Psalm of Thirst for God (2Sa 16)	Psalm 63
 
-Hushai's Warning Saves David	2 Samuel 17
 
-David Psalms of Deliverance (2Sa 17)	Psalms 41, 55
+* ~835 BC<br />
+Joash Reigns Well, 2 Chronicles 24, 2 Kings 12<br />
+The Word of the LORD to Joel, Joel 1 - 3<br />
 
-Absalom Slain by Joab	2 Samuel 18
 
-Joab Comforts David	2 Samuel 19
+* ~812 BC<br />
+Joash Orders Temple repairs, 2 Kings 12:6<br />
+Jehoahaz's wicked reign, 2 Kings 13<br />
 
-Sheba Rebels Against David	2 Samuel 20
 
+* ~796 BC<br />
+Amaziah's good reign, 2 Kings 14, 2 Chronicles 25<br />
 
 
+* ~790 BC<br />
+Azariah's good reign, 2 Kings 15<br />
+Uzziah Reigns in Judah, 2 Chronicles 26<br />
 
-### ~970 BC	
-The Gibeonites Avenged	2 Samuel 21
 
-David's Song of Deliverance	2 Samuel 22
+* ~766 BC<br />
+The Words of Amos, Amos 1 - 9<br />
 
-David's Last Song	2 Samuel 23
 
-David's Psalm of Steadfastness (2Sa 23)	Psalm 108
+* ~760 BC<br />
+Jonah Sent to Nineveh, Jonah 1 - 4<br />
 
-David Counts the Fighting Men	2 Samuel 24
 
-David's last days	1 Chronicles 28, 29, 1 Kings 1, 2
+* ~753 BC<br />
+Hosea's Prophecies, Hosea 1 - 14<br />
 
-David's Psalm of Salvation (1Ki 2)	Psalm 37
 
+* ~750 BC<br />
+Jotham Succeeds Uzziah, 2 Chronicles 27<br />
 
 
+* ~742 BC<br />
+Wicked Reign of Ahaz, 2 Chronicles 28, 2 Kings 16<br />
 
-### ~967 BC	
-Psalm for Solomon (2Ch 1)	Psalm 72
-Solomon Asks for Wisdom	2 Chronicles 1, 1 Kings 3
 
-Psalm of Korah (1Ki 3)	Psalm 45
 
-Solomon's Wisdom	1 Kings 4
+* ~739 BC<br />
+Isaiah Complains of Zion's Corruption, Isaiah 1 - 5<br />
+Isaiah's Vision and Commission, Isaiah 6<br />
 
-Solomon's Preparations for the Temple	1 Kings 5
 
+* ~735 BC<br />
+Isaiah's Prophesy of Immanuel, Isaiah 7<br />
+The Word of the LORD to Micah, Micah 1 - 7<br />
 
 
-### ~966 BC	
-The Building of Solomon's Temple	1 Kings 6
+* ~734 BC<br />
+Uriah and Zechariah, Isaiah 8<br />
 
-The Building of Solomon's Palace	1 Kings 7
 
-The Ark Brought to the Temple	1 Kings 8
+* ~730 BC<br />
+Isaiah Prophesies a Child Is Born, Isaiah 9<br />
+Isaiah Prophesies Judgments Upon Israel, Isaiah 9:8<br />
+Isaiah Prophesies Judgment on Assyria, Isaiah 10<br />
+Isaiah Prophesies The Root of Jesse, Isaiah 11<br />
+Isaiah's Joyful Thanksgiving, Isaiah 12<br />
 
-God's covenant with Solomon	1 Kings 9
 
-Solomon Prepares for a Temple and Palace	2 Chronicles 2
+* ~725 BC<br />
+Isaiah Prophesies against the Nations, Isaiah 13 - 22<br />
+Isaiah's Valley of Vision, Isaiah 22<br />
+Isaiah's Burden of Tyre, Isaiah 23<br />
+Devastation on the Earth, Isaiah 24<br />
+Isaiah's Songs of Praise, Isaiah 25 - 27<br />
+Isaiah's Further Warnings, Isaiah 28 - 32<br />
+Isaiah Prophesies a King Shall Reign, Isaiah 32<br />
+Isaiah Declares God's Judgments, Isaiah 33, 34<br />
+Isaiah Declares the Joyful Will Flourish in Zion, Isaiah 35<br />
+Hoshea the Last King of Israel, 2 Kings 17<br />
 
-Solomon Builds the Temple in Jerusalem	2 Chronicles 3
 
-Temple Furnishings	2 Chronicles 4
+* ~722 BC<br />
+Israel Led into Captivity, 2 Kings 17:6<br />
 
 
+* ~721 BC<br />
+Strange Nations Transplanted into Samaria, 2 Kings 17:24<br />
 
-### ~959 BC	
-Ark Brought into the Temple	2 Chronicles 5
 
-Solomon's Prayer of Temple Dedication	2 Chronicles 6
+* ~716 BC<br />
+Hezekiah's Good Reign, 2 Chronicles 29<br />
 
-God's Glory in the Temple	2 Chronicles 7
 
-Psalms of Solomon (2Ch 7)	Psalms 135, 136
+* ~715 BC<br />
+Hezekiah proclaims a solemn Passover, 2 Chronicles 30<br />
+Idolatry is Destroyed, 2 Chronicles 31<br />
 
-Solomon's buildings	2 Chronicles 8
 
+* ~712 BC<br />
+Hezekiah's Illness and Healing, 2 Kings 20, Isaiah 38<br />
 
 
-### ~950 BC	
-Solomon Psalm of Blessing	Psalm 127
+* ~711 BC<br />
+Hezekiah Shows Treasures, 2 Kings 20:12, Isaiah 39<br />
+Isaiah Prophesies Captivity and Restoration, Isaiah 40 - 66<br />
 
-The Proverbs of Solomon	Proverbs 1 - 29
 
-The Words of Agur	Proverbs 30
 
-King Lemuel's Proverb	Proverbs 31
+* ~701 BC<br />
+Sennacherib Threatens Jerusalem, 2 Kings 18, Isaiah 36, 2 Chronicles 32<br />
+Korah's Psalms of Refuge (2Ch 32), Psalms 46 - 48<br />
+Hezekiah's Prayer, 2 Kings 19, Isaiah 37<br />
 
-Solomon's Song of Songs	Songs 1 - 8
 
+* ~697 BC<br />
+The Vision of Nahum, Nahum 1 - 3<br />
 
 
+* ~687 BC<br />
+Manasseh's Wicked Reign, 2 Kings 21, 2 Chronicles 33<br />
 
-### ~946 BC	
-Mutual Presents of Solomon and Hiran	1 Kings 9:10
 
-The Queen of Sheba Visits Solomon	1 Kings 10, 2 Chronicles 9
+* ~640 BC<br />
+Josiah's good reign, 2 Kings 22, 2 Chronicles 34<br />
 
 
+* ~638 BC<br />
+The Word of the LORD to Zephaniah, Zephaniah 1 - 3<br />
 
-### ~939 BC	
-Solomon's Wives and Idolatry	1 Kings 11
 
+* ~627 BC<br />
+The Call of Jeremiah, Jeremiah 1<br />
+Jeremiah Declares Judah Forsakes God, Jeremiah 2 - 6<br />
+Jeremiah's Message at the Temple Gate, Jeremiah 7 - 10<br />
 
 
-### ~937 BC 	
-Ecclesiastes Words of the Preacher 	Ecclesiastes 1 - 12
+* ~625 BC<br />
+The Oracle to Habakkuk, Habakkuk 1 - 3<br />
 
 
+* ~622 BC<br />
+Jeremiah Proclaims God's Covenant, Jeremiah 11, 12<br />
 
-### ~931 BC	
-Solomon's Death	1 Kings 11:40
 
-The Kingdom is Divided	1 Kings 12, 13
+* ~621 BC<br />
+Josiah Prepares for Temple Repair, 2 Kings 22:3<br />
+Hilkiah finds the lost Book of the Law, 2 Kings 22:8<br />
+Josiah Celebrates the Passover, 2 Kings 23, 2 Chronicles 35<br />
 
 
+* ~609 BC<br />
+Jehoiakim's wicked reign., 2 Chronicles 36<br />
+Jeremiah Proclaims Covenant Is Broken, Jeremiah 13 - 20<br />
+Jeremiah Prophesies against Egypt, Jeremiah 46<br />
+Jeremiah Prophesies against Philistia, Jeremiah 47<br />
 
-### ~930 BC	
-Israelites Rebel against Rehoboam	2 Chronicles 10
 
-Rehoboam's Reign over Judah	2 Chronicles 11
+* ~605 BC<br />
+Daniel Refuses the King's Portion, Daniel 1<br />
 
 
+* ~604 BC<br />
+Daniel Interprets Nebuchadnezzar Dream, Daniel 2<br />
 
-### ~927 BC	
-Rehoboam's sin	2 Chronicles 12
 
+* ~601 BC<br />
+Rebellion of Jehoiakim, 2 Kings 24<br />
 
 
-### ~925 BC	
-Ahijah's Prophecies against Jeroboam	1 Kings 14
+* ~597 BC<br />
+Jehoiachim exiled, 2 Kings 24:10<br />
+Zedekiah reigns in Judah, 2 Kings 24:18<br />
 
 
+* ~594 BC<br />
+Jeremiah Prophesies against Moab, Jeremiah 48<br />
+Jeremiah Prophesies against Ammon, Jeremiah 49<br />
 
-### ~913 BC	
-Rehoboam's Wicked Reign	1 Kings 14:21
+* ~583 BC<br />
+Ezekiel's Prophecy at Chebar, Ezekiel 1<br />
+Ezekiel's Calling and Instruction, Ezekiel 2<br />
+Ezekiel Eats the Scroll, Ezekiel 3<br />
+Ezekiel Foretells Siege of Jerusalem, Ezekiel 4, 5<br />
+Ezekiel's Vision of the End, Ezekiel 6, 7<br />
 
-Abijam's wicked reign	1 Kings 15
 
-Civil War against Jeroboam	2 Chronicles 13
+* ~592 BC<br />
+Ezekiel's First Temple Vision, Ezekiel 8 - 19<br />
 
-Asa Destroys Idolatry	2 Chronicles 14
 
+* ~591 BC<br />
+Ezekiel Sees God Refuse the Elders, Ezekiel 20<br />
+Ezekiel Prophesies against Jerusalem, Ezekiel 21, 22<br />
+Ezekiel Prophesies against two Sisters, Ezekiel 23<br />
 
 
-### ~909 BC	
-Jehu's prophecy against Baasha	1 Kings 16
+* ~588 BC<br />
+Siege of Jerusalem Begins, 2 Kings 25<br />
+Jeremiah's Conflicts, Jeremiah 21 - 33<br />
+Jeremiah Prophesies Judgment on Judah, Jeremiah 34 - 45<br />
+Siege of Jerusalem Begins, Ezekiel 24<br />
 
 
+* ~587 BC<br />
+God's Vengeance on Ammon and Edom, Ezekiel 25<br />
 
-### ~895 BC	
-Asa's Reforms	2 Chronicles 15
 
+* ~586 BC<br />
+The Fall of Jerusalem, 2 Kings 25, Jeremiah 52<br />
+Psalms of Desolation (Jer. 52), Psalms 74, 79<br />
+Jeremiah Prophesies against Babylon, Jeremiah 50, 51<br />
+Jeremiah's Lamentations, Lamentations 1 - 5<br />
+Ezekiel Pronounces Judgment on Tyre, Ezekiel 26 - 28<br />
+Ezekiel Prophesies against Egypt, Ezekiel 29 - 32<br />
+Ezekiel the Watchman, Ezekiel 33<br />
 
 
-### ~894 BC	
-Hanani's rebuke	2 Chronicles 16
+* ~585 BC<br />
+Ezekiel Explains Jerusalem's Fall, Ezekiel 33:21<br />
+Ezekiel Foresees Reproof and Restoration, Ezekiel 34 - 36<br />
+Ezekiel Sees Resurrection of Dry Bones, Ezekiel 37<br />
+Ezekiel Sees Future battle, Ezekiel 38<br />
+Ezekiel Sees God's judgment upon Gog, Ezekiel 39<br />
+Shadrach, Meshach, and Abednego, Daniel 3<br />
 
 
+* ~582 BC<br />
+Nebuchadnezzar’s Dream, Daniel 4<br />
+Daniel Interprets Nebuchadnezzar’s Dream, Daniel 4:19<br />
 
 
-### ~886 BC	
-Elah, Zimri, Omri	1 Kings 16:5
+* ~573 BC<br />
+Ezekiel's Second Temple Vision, Ezekiel 40 - 48<br />
 
 
+* ~539 BC<br />
+Daniel Interprets Handwriting on the Wall, Daniel 5<br />
+Daniel Survives the Lions' Den, Daniel 6<br />
+Daniel's Vision of Four Beasts, Daniel 7<br />
+Daniel's Vision of the Ram and Goat, Daniel 8<br />
+Daniel's Prayer and Gabriel's Answer, Daniel 9<br />
+Daniel Comforted by the Angel, Daniel 10<br />
+Daniel Prophesies Overthrow of Persia, Daniel 11<br />
+Daniel Prophesies Deliverance for Israel, Daniel 12<br />
 
-### ~874 BC	
-Ahab's wicked reign	1 Kings 16:27
 
 
 
-### ~869 BC	
-Jehoshaphat Succeeds Asa	2 Chronicles 17
-
-
-
-### ~863 BC	
-Elijah Prays for Drought	1 Kings 17
-
-Elijah Fed by Ravens	1 Kings 17:3
-
-The Widow at Zarephath	1 Kings 17:7
-
-Elijah on Mount Carmel	1 Kings 18
-
-
-
-### ~858 BC	
-Elijah Flees Jezebel	1 Kings 19
-
-Elisha Called	1 Kings 19:19
-
-
-
-### ~857 BC	
-Ben-Hadad Attacks Samaria	1 Kings 20
-
-Ahab Defeats Ben-Hadad	1 Kings 20:14
-
-
-
-### ~855 BC	
-Ahab Takes Naboth's Vineyard	1 Kings 21
-
-
-
-### ~853 BC	
-Israel and Judah against Syria	1 Kings 22
-
-The Vision of Obadiah	Obadiah 1
-
-Jehoshaphat Allies with Ahab	2 Chronicles 18
-
-Jehosaphat's deeds	2 Chronicles 19
-
-War with Ammon and Moab	2 Chronicles 20
-
-
-
-### ~852 BC	
-Jehoram's Wicked Reign in Judah	2 Chronicles 21
-
-Moab Rebels	2 Kings 1
-
-
-
-### ~851 BC
-Elijah Taken up to Heaven	2 Kings 2
-
-Elisha Succeeds Elijah	2 Kings 2:12
-
-
-
-### ~850 BC	
-Jehoram Meets Moab Rebellion	2 Kings 3
-
-
-
-### ~849 BC	
-The Widow's Oil	2 Kings 4
-
-Elisha Raises The Shunammite boy	2 Kings 4:8
-
-The Healing of Naaman	2 Kings 5
-
-
-
-### ~848 BC	
-Elisha Floats an Axhead	2 Kings 6
-
-Elisha Promises Plenty in Samaria	2 Kings 7
-
-
-
-### ~847 BC	
-The Shunammite's Land	2 Kings 8
-
-
-
-### ~841 BC	
-Jehu Reigns in Israel	2 Kings 9
-
-Jehu Kills Joram	2 Kings 9:11
-
-Ahab's Family Killed	2 Kings 10
-
-Baal Worshipers killed	2 Kings 10:18
-
-Joash escapes Athaliah	2 Kings 11
-
-Ahaziah Succeeds Jehoram in Judah	2 Chronicles 22
-
-Jehoiada Makes Joash King	2 Chronicles 23
-
-
-
-
-### ~835 BC	
-Joash Reigns Well	2 Chronicles 24, 2 Kings 12
-
-The Word of the LORD to Joel	Joel 1 - 3
-
-
-
-### ~812 BC	
-Joash Orders Temple repairs	2 Kings 12:6
-
-Jehoahaz's wicked reign	2 Kings 13
-
-
-
-### ~796 BC	
-Amaziah's good reign	2 Kings 14, 2 Chronicles 25
-
-
-
-### ~790 BC	
-Azariah's good reign	2 Kings 15
-
-Uzziah Reigns in Judah	2 Chronicles 26
-
-
-
-### ~766 BC	
-The Words of Amos	Amos 1 - 9
-
-
-
-### ~760 BC	
-Jonah Sent to Nineveh	Jonah 1 - 4
-
-
-
-### ~753 BC	
-Hosea's Prophecies	Hosea 1 - 14
-
-
-
-### ~750 BC	
-Jotham Succeeds Uzziah	2 Chronicles 27
-
-
-
-### ~742 BC	
-Wicked Reign of Ahaz	2 Chronicles 28, 2 Kings 16
-
-
-
-
-### ~739 BC	
-Isaiah Complains of Zion's Corruption	Isaiah 1 - 5
-
-Isaiah's Vision and Commission	Isaiah 6
-
-
-
-### ~735 BC	
-Isaiah's Prophesy of Immanuel	Isaiah 7
-
-The Word of the LORD to Micah	Micah 1 - 7
-
-
-
-### ~734 BC	
-Uriah and Zechariah	Isaiah 8
-
-
-
-### ~730 BC	
-Isaiah Prophesies a Child Is Born	Isaiah 9
-
-Isaiah Prophesies Judgments Upon Israel	Isaiah 9:8
-
-Isaiah Prophesies Judgment on Assyria	Isaiah 10
-
-Isaiah Prophesies The Root of Jesse	Isaiah 11
-
-Isaiah's Joyful Thanksgiving	Isaiah 12
-
-
-
-### ~725 BC	
-Isaiah Prophesies against the Nations	Isaiah 13 - 22
-
-Isaiah's Valley of Vision	Isaiah 22
-
-Isaiah's Burden of Tyre	Isaiah 23
-
-Devastation on the Earth	Isaiah 24
-
-Isaiah's Songs of Praise	Isaiah 25 - 27
-
-Isaiah's Further Warnings	Isaiah 28 - 32
-
-Isaiah Prophesies a King Shall Reign	Isaiah 32
-
-Isaiah Declares God's Judgments	Isaiah 33, 34
-
-Isaiah Declares the Joyful Will Flourish in Zion	Isaiah 35
-
-Hoshea the Last King of Israel	2 Kings 17
-
-
-
-### ~722 BC	
-Israel Led into Captivity	2 Kings 17:6
-
-
-
-### ~721 BC	
-Strange Nations Transplanted into Samaria	2 Kings 17:24
-
-
-
-### ~716 BC	
-Hezekiah's Good Reign	2 Chronicles 29
-
-
-
-### ~715 BC	
-Hezekiah proclaims a solemn Passover	2 Chronicles 30
-
-Idolatry is Destroyed	2 Chronicles 31
-
-
-
-### ~712 BC	
-Hezekiah's Illness and Healing	2 Kings 20, Isaiah 38
-
-
-
-### ~711 BC	
-Hezekiah Shows Treasures	2 Kings 20:12, Isaiah 39
-
-Isaiah Prophesies Captivity and Restoration	Isaiah 40 - 66
-
-
-
-
-### ~701 BC	
-Sennacherib Threatens Jerusalem	2 Kings 18, Isaiah 36, 2 Chronicles 32
-
-Korah's Psalms of Refuge (2Ch 32)	Psalms 46 - 48
-
-Hezekiah's Prayer	2 Kings 19, Isaiah 37
-
-
-
-### ~697 BC	
-The Vision of Nahum	Nahum 1 - 3
-
-
-
-### ~687 BC	
-Manasseh's Wicked Reign	2 Kings 21, 2 Chronicles 33
-
-
-
-### ~640 BC	
-Josiah's good reign	2 Kings 22, 2 Chronicles 34
-
-
-
-### ~638 BC	
-The Word of the LORD to Zephaniah	Zephaniah 1 - 3
-
-
-
-### ~627 BC	
-The Call of Jeremiah	Jeremiah 1
-
-Jeremiah Declares Judah Forsakes God	Jeremiah 2 - 6
-
-Jeremiah's Message at the Temple Gate	Jeremiah 7 - 10
-
-
-
-### ~625 BC 
-The Oracle to Habakkuk	Habakkuk 1 - 3
-
-
-
-### ~622 BC	
-Jeremiah Proclaims God's Covenant	Jeremiah 11, 12
-
-
-
-### ~621 BC	
-Josiah Prepares for Temple Repair	2 Kings 22:3
-
-Hilkiah finds the lost Book of the Law	2 Kings 22:8
-
-Josiah Celebrates the Passover	2 Kings 23, 2 Chronicles 35
-
-
-
-### ~609 BC	
-Jehoiakim's wicked reign.	2 Chronicles 36
-
-Jeremiah Proclaims Covenant Is Broken	Jeremiah 13 - 20
-
-Jeremiah Prophesies against Egypt	Jeremiah 46
-
-Jeremiah Prophesies against Philistia	Jeremiah 47
-
-
-
-### ~605 BC	
-Daniel Refuses the King's Portion	Daniel 1
-
-
-
-### ~604 BC	
-Daniel Interprets Nebuchadnezzar Dream	Daniel 2
-
-
-
-### ~601 BC	
-Rebellion of Jehoiakim	2 Kings 24
-
-
-
-### ~597 BC	
-Jehoiachim exiled	2 Kings 24:10
-
-Zedekiah reigns in Judah	2 Kings 24:18
-
-
-
-### ~594 BC	
-Jeremiah Prophesies against Moab	Jeremiah 48
-
-Jeremiah Prophesies against Ammon	Jeremiah 49
-
-
-### ~583 BC
-Ezekiel's Prophecy at Chebar	Ezekiel 1
-
-Ezekiel's Calling and Instruction	Ezekiel 2
-
-Ezekiel Eats the Scroll	Ezekiel 3
-
-Ezekiel Foretells Siege of Jerusalem	Ezekiel 4, 5
-
-Ezekiel's Vision of the End	Ezekiel 6, 7
-
-
-
-### ~592 BC	
-Ezekiel's First Temple Vision	Ezekiel 8 - 19
-
-
-
-### ~591 BC	
-Ezekiel Sees God Refuse the Elders	Ezekiel 20
-
-Ezekiel Prophesies against Jerusalem	Ezekiel 21, 22
-
-Ezekiel Prophesies against two Sisters	Ezekiel 23
-
-
-
-### ~588 BC	
-Siege of Jerusalem Begins	2 Kings 25
-
-Jeremiah's Conflicts	Jeremiah 21 - 33
-
-Jeremiah Prophesies Judgment on Judah	Jeremiah 34 - 45
-
-Siege of Jerusalem Begins	Ezekiel 24
-
-
-
-### ~587 BC	
-God's Vengeance on Ammon and Edom	Ezekiel 25
-
-
-
-### ~586 BC	
-The Fall of Jerusalem	2 Kings 25, Jeremiah 52
-
-Psalms of Desolation (Jer. 52)	Psalms 74, 79
-
-Jeremiah Prophesies against Babylon	Jeremiah 50, 51
-
-Jeremiah's Lamentations	Lamentations 1 - 5
-
-Ezekiel Pronounces Judgment on Tyre	Ezekiel 26 - 28
-
-Ezekiel Prophesies against Egypt	Ezekiel 29 - 32
-
-Ezekiel the Watchman	Ezekiel 33
-
-
-
-### ~585 BC	
-Ezekiel Explains Jerusalem's Fall	Ezekiel 33:21
-
-Ezekiel Foresees Reproof and Restoration	Ezekiel 34 - 36
-
-Ezekiel Sees Resurrection of Dry Bones	Ezekiel 37
-
-Ezekiel Sees Future battle	Ezekiel 38
-
-Ezekiel Sees God's judgment upon Gog	Ezekiel 39
-
-Shadrach, Meshach, and Abednego	Daniel 3
-
-
-
-### ~582 BC	
-Nebuchadnezzar’s Dream	Daniel 4
-
-Daniel Interprets Nebuchadnezzar’s Dream	Daniel 4:19
-
-
-
-### ~573 BC	
-Ezekiel's Second Temple Vision	Ezekiel 40 - 48
-
-
-
-### ~539 BC	
-Daniel Interprets Handwriting on the Wall	Daniel 5
-
-Daniel Survives the Lions' Den	Daniel 6
-
-Daniel's Vision of Four Beasts	Daniel 7
-
-Daniel's Vision of the Ram and Goat	Daniel 8
-
-Daniel's Prayer and Gabriel's Answer	Daniel 9
-
-Daniel Comforted by the Angel	Daniel 10
-
-Daniel Prophesies Overthrow of Persia	Daniel 11
-
-Daniel Prophesies Deliverance for Israel	Daniel 12
 
 
 
@@ -1447,135 +1091,101 @@ Daniel Prophesies Deliverance for Israel	Daniel 12
 
 ## Ezraitic Age
 
+!!! info "Second Temple Period"
+    This age commences when the Judeans lost their independence upon the Babylonian siege of Jerusalem
+    (and Solomon's Temple was destroyed).
+    The cosmology of this age is marked by the cessation of prophecy, a growing Jewish diaspora, and a synthesis with Jewish thought into the pagan world (Roman legalism and Greek philosophy).
+    
+    This is the age that prepares the world for the coming Messiah.
 
-### ~537 BC	
-The Proclamation of Cyrus	Ezra 1
+* ~537 BC<br />
+The Proclamation of Cyrus, Ezra 1<br />
+The Exiles Return, Ezra 2<br />
 
-The Exiles Return	Ezra 2
 
 
+* ~535 BC<br />
+Temple Work Begins, Ezra 3<br />
 
 
-### ~535 BC	
-Temple Work Begins	Ezra 3
+* ~534 BC<br />
+Adversaries Hinder Temple Work, Ezra 4<br />
+Artaxerxes Orders Work Stopped, Ezra 4:17<br />
 
 
+* ~520 BC<br />
+Tattenai's Letter to Darius, Ezra 5<br />
+The Word of the LORD by Haggai, Haggai 1, 2<br />
+The Word of the LORD to Zechariah, Zechariah 1 - 14<br />
+Temple Work Resumed by Darius' Decree , Ezra 6<br />
 
-### ~534 BC	
-Adversaries Hinder Temple Work	Ezra 4
 
-Artaxerxes Orders Work Stopped	Ezra 4:17
+* ~515 BC<br />
+Completion and Dedication of the Temple, Ezra 6:16<br />
 
 
+* ~483 BC<br />
+Queen Vashti Deposed, Esther 1<br />
 
-### ~520 BC	
-Tattenai's Letter to Darius	Ezra 5
 
-The Word of the LORD by Haggai	Haggai 1, 2
+* ~478 BC<br />
+Esther Becomes Queen, Esther 2<br />
+Mordecai Thwarts a Conspiracy, Esther 2:21<br />
 
-The Word of the LORD to Zechariah	Zechariah 1 - 14
 
-Temple Work Resumed by Darius' Decree 	Ezra 6
+* ~474 BC<br />
+Haman Seeks Revenge on the Jews, Esther 3<br />
 
 
+* ~473 BC<br />
+Mordecai Informs Esther of Haman's Plot, Esther 4<br />
+Esther Prepares a Banquet, Esther 5<br />
+The King Honors Mordecai, Esther 6<br />
+Haman Is Hanged, Esther 7<br />
+Xerxes' Edict on Behalf of Esther and Jews, Esther 8<br />
 
-### ~515 BC	
-Completion and Dedication of the Temple	Ezra 6:16
 
+* ~472 BC<br />
+Purim Instituted, Esther 9<br />
+Xerxes' Tribute to Mordecai, Esther 10<br />
 
 
-### ~483 BC	
-Queen Vashti Deposed	Esther 1
+* ~458 BC<br />
+Ezra Journeys to Jerusalem, Ezra 7<br />
+Ezra Commissioned by Artaxerxes, Ezra 7:11<br />
 
 
+* ~457 BC<br />
+Families Return to Jerusalem with Ezra, Ezra 8<br />
+Ezra's reforms, Ezra 9<br />
 
-### ~478 BC	
-Esther Becomes Queen	Esther 2
 
-Mordecai Thwarts a Conspiracy	Esther 2:21
+* ~456 BC<br />
+Ezra's Prayer About Intermarriage, Ezra 10<br />
 
 
+* ~445 BC<br />
+Nehemiah's Prayer for the Exiles, Nehemiah 1<br />
 
-### ~474 BC	
-Haman Seeks Revenge on the Jews	Esther 3
 
+* ~444 BC<br />
+Artaxerxes Sends Nehemiah to Jerusalem, Nehemiah 2<br />
+Builders of the Walls Named, Nehemiah 3<br />
+Builders Overcome Ridicule, Nehemiah 4<br />
+Nehemiah Abolishes Debt and Bondage, Nehemiah 5<br />
+Sanballat's Plot, Nehemiah 6<br />
+Completion of the Wall, Nehemiah 6:15<br />
+Census of Returned Exiles, Nehemiah 7<br />
+Ezra Reads the Law, Nehemiah 8<br />
+Israelites Fast and Repent, Nehemiah 9<br />
+Israelites Seal the Covenant, Nehemiah 10<br />
+People Settle in Jerusalem, Nehemiah 11, 12<br />
 
+* ~432 BC<br />
+Nehemiah Restores Laws, Nehemiah 13<br />
 
-### ~473 BC	
-Mordecai Informs Esther of Haman's Plot	Esther 4
-
-Esther Prepares a Banquet	Esther 5
-
-The King Honors Mordecai	Esther 6
-
-Haman Is Hanged	Esther 7
-
-Xerxes' Edict on Behalf of Esther and Jews	Esther 8
-
-
-
-### ~472 BC	
-Purim Instituted	Esther 9
-
-Xerxes' Tribute to Mordecai	Esther 10
-
-
-
-### ~458 BC	
-Ezra Journeys to Jerusalem	Ezra 7
-
-Ezra Commissioned by Artaxerxes	Ezra 7:11
-
-
-
-### ~457 BC	
-Families Return to Jerusalem with Ezra	Ezra 8
-
-Ezra's reforms	Ezra 9
-
-
-
-### ~456 BC	
-Ezra's Prayer About Intermarriage	Ezra 10
-
-
-
-### ~445 BC	
-Nehemiah's Prayer for the Exiles	Nehemiah 1
-
-
-
-### ~444 BC	
-Artaxerxes Sends Nehemiah to Jerusalem	Nehemiah 2
-
-Builders of the Walls Named	Nehemiah 3
-
-Builders Overcome Ridicule	Nehemiah 4
-
-Nehemiah Abolishes Debt and Bondage	Nehemiah 5
-
-Sanballat's Plot	Nehemiah 6
-
-Completion of the Wall	Nehemiah 6:15
-
-Census of Returned Exiles	Nehemiah 7
-
-Ezra Reads the Law	Nehemiah 8
-
-Israelites Fast and Repent	Nehemiah 9
-
-Israelites Seal the Covenant	Nehemiah 10
-
-People Settle in Jerusalem	Nehemiah 11, 12
-
-
-### ~432 BC	
-Nehemiah Restores Laws	Nehemiah 13
-
-
-### ~430 BC	
-The Word of the LORD by Malachi	Malachi 1 - 4
-
+* ~430 BC<br />
+The Word of the LORD by Malachi, Malachi 1 - 4<br />
 
 
 
@@ -1588,373 +1198,226 @@ The Word of the LORD by Malachi	Malachi 1 - 4
 
 ## Messianic Age
 
+!!! info "Prophecy Fulfilled"
+    This is the age where the prophecied Messiah comes, the God-man that is Jesus Christ.
+    It is our current age.
+    The cosmology of this age is radically different.
+    Not only is God's law written into the hearts of men, Christ now rules in the midst of His enemies.
+        
+    This age ends at the second coming of Christ, the final judgment at the end of time where death itself is defeated.
+
+* ~6 BC<br />
+Birth of John the Baptist, Luke 1<br />
+Augustus Taxes the Roman Empire, Luke 2<br />
+
+* ~5 BC<br />
+Birth of Jesus, Matthew 1, Mark 1, Luke 2:6, John 1:14<br />
+Visit of the Magi, Matthew 2<br />
+Escape to Egypt, Matthew 2:13<br />
+
+
+* ~4 BC<br />
+Slaughter of Infants, Matthew 2:16<br />
+Return to Nazareth, Matthew 2:23<br />
 
-### ~6 BC	
-Birth of John the Baptist	Luke 1,
 
-6 BC	Augustus Taxes the Roman Empire	Luke 2
+* ~8 AD<br /> 
+The Boy Jesus at the Temple, Luke 2:41<br />
 
-### ~5 BC	
-Birth of Jesus	Matthew 1,
-Mark 1,
-Luke 2:6,
-John 1:14
 
-Visit of the Magi	Matthew 2
+* ~26 AD<br />
+John the Baptist Prepares the Way, Matthew 3, Mark 1:4, Luke 3, John 1:15<br />
+The Baptism of Jesus, Matthew 3:13, Mark 1:9, Luke 3:21<br />
+
 
-Escape to Egypt	Matthew 2:13
+* ~27 AD<br />
+Temptation of Jesus, Matthew 4, Mark 1:12, Luke 4<br />
+Jesus Calls his First Disciples, Matthew 4:18, Mark 1:16, Luke 5<br />
+Wedding at Cana, John 2<br />
+Jesus Teaches Nicodemus, John 3<br />
+Jesus Testifies to the Samaritan Woman, John 4<br />
+Sermon on the Mount, Matthew 5 - 7<br />
 
 
+* ~28 AD<br />
+Instructions on Prayer, Luke 11<br />
+Jesus Ministers in Galilee, Matthew 8, Mark 2, Luke 4:14<br />
+The Pool of Bethesda, John 5<br />
+Jesus Lord of the Sabbath, Matthew 12, Mark 3, Luke 6<br />
+Jesus Answers John's Disciples, Matthew 11, Luke 7<br />
+Jesus Speaks Many Parables, Matthew 13, Mark 4, Luke 8<br />
+Jesus Heals a Demoniac, Matthew 8:28, Mark 5, Luke 8:26<br />
+Jesus Heals a Paralytic, Matthew 9<br />
 
-### ~4 BC	
-Slaughter of Infants	Matthew 2:16
 
-Return to Nazareth	Matthew 2:23
 
+* ~29 AD<br />
+Jesus Sends out His Twelve Apostles, Matthew 10, Mark 6<br />
+John the Baptist Beheaded, Matthew 14, Mark 6:14<br />
+Jesus Feeds the 5,000, Matthew 14:15, Mark 6:30, Luke 9, John 6<br />
+Teachings on Clean and Unclean, Matthew 15, Mark 7<br />
+Peter's Confession of Christ, Matthew 16, Mark 8, Luke 9:18<br />
+The Transfiguration, Matthew 17, Mark 9, Luke 9:28<br />
+Greatest and Least in the Kingdom, Matthew 18<br />
+Jesus Sends out the Seventy-two, Luke 10<br />
+Jesus Teaches at the Feast of Tabernacles, John 7<br />
+The Woman Caught in Adultery, John 8<br />
+Jesus Affirms He is the Son of God, John 9<br />
+The Shepherd and His Flock, John 10<br />
 
 
-### ~8 AD	
-The Boy Jesus at the Temple	Luke 2:41
+* ~30 AD<br />
+Jesus Speaks More Parables, Luke 12-16<br />
+Jesus Cleanses the Ten Lepers, Luke 17<br />
+Jesus Raises Lazarus, John 11<br />
+Final Journey to Jerusalem, Matthew 19, 20, Mark 10, Luke 18<br />
+The Triumphal Entry, Matthew 21, Mark 11, Luke 19, John 12<br />
+Closing Ministry in Jerusalem, Matthew 22-25, Mark 12-13, Luke 20-21<br />
+Thursday Before Passover, Matthew 26, Mark 14, Luke 22, John 13<br />
+Jesus Comforts His Disciples, John 14<br />
+Jesus the True Vine, John 15<br />
+Jesus Promises the Holy Spirit, John 16<br />
+Jesus' Intercessory prayers, John 17<br />
+Jesus' Betrayal, Trial, Crucifixion, Matthew 27, Mark 15, Luke 23, John 18-19<br />
+Jesus' Resurrection, Matthew 28, Mark 16, Luke 24, John 20-21<br />
+The Ascension, Acts 1<br />
+Matthias Chosen by Lot, Acts 1:12<br />
+The Holy Spirit Comes at Pentecost, Acts 2<br />
+Peter Heals and Preaches, Acts 3<br />
+Peter and John Arrested and Released, Acts 4<br />
+Believers Share All, Acts 4:32<br />
+Deaths of Ananias and Sapphira, Acts 5<br />
+Apostles Preach and Heal, Acts 5:11<br />
 
 
 
-### ~26 AD	
-John the Baptist Prepares the Way	Matthew 3,
-Mark 1:4,
-Luke 3,
-John 1:15
+* ~31 AD<br />
+Stephen's Speech, Stoning and Death, Acts 6-7<br />
+Saul Persecutes the Church, Acts 8<br />
+Philip in Samaria, Acts 8:3<br />
+Simon the Sorcerer, Acts 8:9<br />
+Philip and the Ethiopian, Acts 8:26<br />
 
-The Baptism of Jesus	Matthew 3:13,
-Mark 1:9,
-Luke 3:21
 
+* ~34 AD<br />
+Saul's Conversion, Acts 9<br />
 
 
-### ~27 AD	
-Temptation of Jesus	Matthew 4,
-Mark 1:12,
-Luke 4
+* ~37 AD<br />
+Peter Preaches to the Gentiles, Acts 10-11<br />
 
-Jesus Calls his First Disciples	Matthew 4:18,
-Mark 1:16,
-Luke 5
 
-Wedding at Cana	John 2
+* ~42 AD<br />
+Barnabas Sent to Antioch, Acts 11:22<br />
+Peter Led from Prison by the Angel, Acts 12<br />
 
-Jesus Teaches Nicodemus	John 3
 
-Jesus Testifies to the Samaritan Woman	John 4
+* ~44 AD<br />
+Herod Agrippa Dies, Acts 12:20<br />
 
-Sermon on the Mount	Matthew 5 - 7
 
+* ~45 AD<br />
+James Writes his Letter, James 1-5<br />
 
 
-### ~28 AD	
-Instructions on Prayer	Luke 11
+* ~48 AD<br />
+Paul's First Missionary Journey, Acts 13<br />
+Paul preaches in Pisidian Antioch, Acts 13:14<br />
+Paul and Barnabas in Iconium, Acts 14<br />
+Paul and Barnabas in Lystra and Derbe, Acts 14:8<br />
+Paul and Barnabas Return to Syrian Antioch, Acts 14:21<br />
+Return to Syrian Antioch, Acts 14:24<br />
+The Council at Jerusalem, Acts 15<br />
 
-Jesus Ministers in Galilee	Matthew 8,
-Mark 2,
-Luke 4:14
 
-The Pool of Bethesda	John 5
 
-Jesus Lord of the Sabbath	Matthew 12,
-Mark 3,
-Luke 6
+* ~49 AD<br />
+Paul's Second Missionary Journey, Acts 15:36<br />
+Paul in Philippi, Acts 16<br />
+Paul in Thessalonica, Berea, Athens, Acts 17<br />
 
-Jesus Answers John's Disciples	Matthew 11,
-Luke 7
 
-Jesus Speaks Many Parables	Matthew 13,
-Mark 4,
-Luke 8
 
-Jesus Heals a Demoniac	Matthew 8:28,
-Mark 5,
-Luke 8:26
+* ~51 AD<br />
+Paul in Corinth, Acts 18<br />
+Paul Writes to the Thessalonians, 1 Thess. 1-5<br />
 
-Jesus Heals a Paralytic	Matthew 9
 
 
+* ~52 AD<br />
+Paul Writes again to the Thessalonians, 2 Thess. 1-3<br />
 
 
-### ~29 AD	
-Jesus Sends out His Twelve Apostles	Matthew 10,
-Mark 6
+* ~54 AD<br />
+Paul in Ephesus, Acts 19<br />
+Paul Writes to the Corinthians, 1 Corinthians 1-16<br />
+Paul Writes to the Galatians, Galatians 1-6<br />
 
-John the Baptist Beheaded	Matthew 14,
-Mark 6:14
 
-Jesus Feeds the 5,000	Matthew 14:15,
-Mark 6:30,
-Luke 9,
-John 6
+* ~57 AD<br />
+Paul in Macedonia and Greece, Acts 20<br />
+Paul Writes to the Romans, Romans 1-16<br />
+Paul Writes again to the Corinthians, 2 Corinthians 1-13<br />
 
-Teachings on Clean and Unclean	Matthew 15,
-Mark 7
 
-Peter's Confession of Christ	Matthew 16,
-Mark 8,
-Luke 9:18
+* ~59 AD<br />
+Paul Returns to Jerusalem, Acts 21-23<br />
 
-The Transfiguration	Matthew 17,
-Mark 9,
-Luke 9:28
 
-Greatest and Least in the Kingdom	Matthew 18
+* ~60 AD<br />
+Paul imprisoned in Caesarea, Acts 24<br />
 
-Jesus Sends out the Seventy-two	Luke 10
 
-Jesus Teaches at the Feast of Tabernacles	John 7
+* ~62 AD<br />
+Paul Before Festus, Acts 25<br />
+Before Agrippa, Acts 26<br />
+Sails for Rome, Acts 27<br />
+The Shipwreck, Acts 27:13<br />
+Paul Ashore at Malta, Acts 28<br />
+Paul Preaches at Rome, Acts 28:11<br />
+Paul Writes to the Ephesians, Ephesians 1-6<br />
+Paul Writes to the Philippians, Philippians 1-4<br />
+Paul Writes to the Colossians, Colossians 1-4<br />
+Paul Writes to Philemon, Philemon 1<br />
 
-The Woman Caught in Adultery	John 8
 
-Jesus Affirms He is the Son of God	John 9
+* ~63 AD<br />
+Paul Writes to Timothy, 1 Timothy 1-6<br />
 
-The Shepherd and His Flock	John 10
 
+* ~64 AD<br />
+Peter Writes his First Letter, 1 Peter 1-5<br />
 
 
-### ~30 AD	
-Jesus Speaks More Parables	Luke 12 - 16
 
-Jesus Cleanses the Ten Lepers	Luke 17
+* ~66 AD<br />
+Paul Writes to Titus, Titus 1-3<br />
 
-Jesus Raises Lazarus	John 11
 
-Final Journey to Jerusalem	Matthew 19, 20,
-Mark 10,
-Luke 18
+* ~67 AD<br />
+Paul Writes Again to Timothy, 2 Timothy 1-4<br />
+Peter Writes his Second Letter, 2 Peter 1-3<br />
 
-The Triumphal Entry	Matthew 21,
-Mark 11,
-Luke 19,
-John 12
 
-Closing Ministry in Jerusalem	Matthew 22 - 25,
-Mark 12, 13,
-Luke 20, 21
+* ~68 AD<br />
+Letter to the Hebrews, Hebrews 1-13<br />
+Jude Writes his Letter, Jude 1<br />
 
-Thursday Before Passover	Matthew 26,
-Mark 14,
-Luke 22,
-John 13
 
-Jesus Comforts His Disciples	John 14
+* ~90 AD<br />
+John Writes his First Letter, 1 John 1-5<br />
 
-Jesus the True Vine	John 15
 
-Jesus Promises the Holy Spirit	John 16
+* ~92 AD<br />
+John Writes his Second Letter, 2 John 1<br />
 
-Jesus' Intercessory prayers	John 17
 
-Jesus' Betrayal, Trial, Crucifixion	Matthew 27,
-Mark 15,
-Luke 23,
-John 18, 19
+* ~94 AD<br />
+John Writes his Third Letter, 3 John 1<br />
 
-Jesus' Resurrection	Matthew 28,
-Mark 16,
-Luke 24,
-John 20, 21
 
-The Ascension	Acts 1
-
-Matthias Chosen by Lot	Acts 1:12
-
-The Holy Spirit Comes at Pentecost	Acts 2
-
-Peter Heals and Preaches	Acts 3
-
-Peter and John Arrested and Released; 	Acts 4
-
-Believers Share All	Acts 4:32
-
-Deaths of Ananias and Sapphira	Acts 5
-
-Apostles Preach and Heal	Acts 5:11
-
-
-
-
-### ~31 AD	
-Stephen's Speech, Stoning and Death	Acts 6, 7
-
-Saul Persecutes the Church	Acts 8
-
-Philip in Samaria	Acts 8:3
-
-Simon the Sorcerer	Acts 8:9
-
-Philip and the Ethiopian	Acts 8:26
-
-
-
-### ~34 AD	
-Saul's Conversion	Acts 9
-
-
-
-### ~37 AD	
-Peter Preaches to the Gentiles	Acts 10, 11
-
-
-
-### ~42 AD	
-Barnabas Sent to Antioch	Acts 11:22
-
-Peter Led from Prison by the Angel	Acts 12
-
-
-
-### ~44 AD	
-Herod Agrippa Dies	Acts 12:20
-
-
-
-### ~45 AD
-James Writes his Letter	James 1 - 5
-
-
-
-### ~48 AD	
-Paul's First Missionary Journey	Acts 13
-
-Paul preaches in Pisidian Antioch	Acts 13:14
-
-Paul and Barnabas in Iconium	Acts 14
-
-Paul and Barnabas in Lystra and Derbe	Acts 14:8
-
-Paul and Barnabas Return to Syrian Antioch	Acts 14:21
-
-Return to Syrian Antioch	Acts 14:24
-
-The Council at Jerusalem	Acts 15
-
-
-
-
-### ~49 AD	
-Paul's Second Missionary Journey	Acts 15:36
-
-Paul in Philippi	Acts 16
-
-Paul in Thessalonica, Berea, Athens	Acts 17
-
-
-
-
-### ~51 AD	
-Paul in Corinth	Acts 18
-
-Paul Writes to the Thessalonians	1 Thess. 1 - 5
-
-
-
-
-### ~52 AD	
-Paul Writes again to the Thessalonians	2 Thess. 1 - 3
-
-
-
-### ~54 AD	
-Paul in Ephesus	Acts 19
-
-Paul Writes to the Corinthians	1 Corinthians 1 - 16
-
-Paul Writes to the Galatians	Galatians 1 - 6
-
-
-
-### ~57 AD	
-Paul in Macedonia and Greece	Acts 20
-
-Paul Writes to the Romans	Romans 1 - 16
-
-Paul Writes again to the Corinthians	2 Corinthians 1 - 13
-
-
-
-### ~59 AD	
-Paul Returns to Jerusalem	Acts 21 - 23
-
-
-
-### ~60 AD	
-Paul imprisoned in Caesarea	Acts 24
-
-
-
-### ~62 AD	
-Paul Before Festus	Acts 25
-
-Before Agrippa	Acts 26
-
-Sails for Rome	Acts 27
-
-The Shipwreck	Acts 27:13
-
-Paul Ashore at Malta	Acts 28
-
-Paul Preaches at Rome	Acts 28:11AD	Paul Writes to the Ephesians	Ephesians 1 - 6
-
-Paul Writes to the Philippians	Philippians 1 - 4
-
-Paul Writes to the Colossians	Colossians 1 - 4
-
-Paul Writes to Philemon	Philemon 1
-
-
-
-### ~63 AD	
-Paul Writes to Timothy	1 Timothy 1 - 6
-
-
-
-### ~64 AD	
-Peter Writes his First Letter	1 Peter 1 - 5
-
-
-
-
-### ~66 AD	
-Paul Writes to Titus	Titus 1 - 3
-
-
-
-### ~67 AD	
-Paul Writes Again to Timothy	2 Timothy 1 - 4
-
-Peter Writes his Second Letter	2 Peter 1 - 3
-
-
-
-### ~68 AD	
-Letter to the Hebrews	Hebrews 1 - 13
-
-Jude Writes his Letter	Jude 1
-
-
-
-### ~90 AD	
-John Writes his First Letter	1 John 1 - 5
-
-
-
-### ~92 AD	
-John Writes his Second Letter	2 John 1
-
-
-
-### ~94 AD	
-John Writes his Third Letter	3 John 1
-
-
-
-### ~95 AD	
-John's Revelation on Patmos	Revelation 1 - 22
-
+* ~95 AD<br />
+John's Revelation on Patmos, Revelation 1-22<br />
 
 
 
