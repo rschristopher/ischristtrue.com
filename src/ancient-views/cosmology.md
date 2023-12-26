@@ -2,9 +2,10 @@
 
 In our modern usage, cosmology is the study of the universe in terms of time and space. This is a secular view that presupposes time and space as first principles, as well as reason as a first principle, logic as a first principle, knowledge as a first principle, and so on. It is very much a cascade of unquestioned presupositions that yield absurdity under any proper scrutiny.
 
-The etymology of cosmology is from *kosmos* as in the natural order of the universe (*cosmos* as opposed to *chaos*) and from *logia* as in the divine word. The more accurate understanding of *cosmology* is the word or story of the natural order of the universe. This presupposes the Christian God, the first principle from which all transcendent categories arise.
+The etymology of cosmology derives from *cosmos* as in the natural order of the universe (*cosmos* is the antithesis of *chaos*), and from *logia* as in the divine word or story. The more accurate meaning of *cosmology* is the story of the natural order of the universe. This presupposes the Christian God, the first principle from which all transcendent categories arise.
 
 
+!!! warning "These are approximate dates based on a chronological ordering of scripture -- the importance is not the date but the ordering"
 
 
 
@@ -12,7 +13,6 @@ The etymology of cosmology is from *kosmos* as in the natural order of the unive
 
 If we lay out the chronological order of the Biblical cannon we are presented with a grand story of our origins, of sin, of death, and ultimately of redemption. It is our story.
 
-!!! warning "These are approximate dates based on a chronological ordering of scripture -- the importance is not the date but the order"
 
 
 ### Before Time
