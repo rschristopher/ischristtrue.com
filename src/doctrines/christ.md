@@ -63,40 +63,25 @@ And this young girl from the village of Nazareth became the first believer in Ch
 As *Matthew the Poor* wrote, 
  Mary's Song is a hymn belonging to both testaments.
 
-!!! quote "Luke 1:46-56"
-    My soul doth magnify the Lord,
-    
-    And my spirit hath rejoiced in God my Saviour.
-    
-    For he hath regarded the low estate of his handmaiden: 
-    
-    For behold, from henceforth all generations shall call me blessed.
-    
-    For he that is mighty hath done to me great things;
-    
-    And holy is his name.
-    
-    And his mercy is on them that fear him from generation to generation.
-    
-    He hath shewed strength with his arm; 
-    
-    He hath scattered the proud in the imagination of their hearts.
-    
-    He hath put down the mighty from their seats, 
-
-    And exalted them of low degree.
-    
-    He hath filled the hungry with good things; 
-
-    And the rich he hath sent empty away.
-    
-    He hath holpen his servant Israel, 
-
-    In remembrance of his mercy;
-    
-    As he spake to our fathers, 
-
-    To Abraham, and to his seed for ever.
+!!! quote "Luke 1:46-55"
+    My soul magnifies the Lord,<br />
+    And my spirit has rejoiced in God my Savior.<br />
+    For He has regarded the lowly state of His maidservant;<br />
+    For behold, henceforth all generations will call me blessed.<br />
+    For He who is mighty has done great things for me,<br />
+    And holy is His name.<br />
+    And His mercy is on those who fear Him<br />
+    From generation to generation.<br />
+    He has shown strength with His arm;<br />
+    He has scattered the proud in the imagination of their hearts.<br />
+    He has put down the mighty from their thrones,<br />
+    And exalted the lowly.<br />
+    He has filled the hungry with good things,<br />
+    And the rich He has sent away empty.<br />
+    He has helped His servant Israel,<br />
+    In remembrance of His mercy,<br />
+    As He spoke to our fathers,<br />
+    To Abraham and to his seed forever.<br />
 
 
 !!! quote "Zechariah 9:9"
