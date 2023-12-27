@@ -6,11 +6,11 @@ And as *postmodernism* will demonstrate, secular cosmology is very much a cascad
 
 However, the word *cosmology* derives from *cosmos*, as in the natural order of the universe (*cosmos* is the opposite of *chaos*), and from *logia*, as in the divine word or story. 
 As such, the ancient and more accurate meaning of *cosmology* is non-secular -- is is the divine story of the order of the universe. 
-This presupposes the Christian God, the first principle from which all transcendent categories arise.
+This presupposes the Christian God as revealed in Biblical canon (with the triune God as the first principle from which all transcendent categories arise).
 
-Let us lay out the chronological order of the Biblical canon to see the ancient cosmologiy as it was understood in ancient tines, as precursor to our modern view -- a foundation. In doing so we are presented with a grand story of origin, of sin, of death, of hope, of prophecy, and ultimately of redemption. 
+Let us lay out the chronological order of the Biblical canon to see the ancient cosmology as it was understood in ancient tines, as precursor to our modern view -- a foundation. In doing so we are presented with a grand story of origin, of sin, of death, of hope, of prophecy, and ultimately of redemption. 
 It is our story.
-And it is the only cosmology from which morality and truth can be objectively knowable.
+And it is the only cosmology from which morality and truth can be objectively knowable (by consequence of the triune God).
 
 !!! warning "These are approximate years based on ordering of scripture -- and not to be taken literally in a modern reductionist view (but understood holistically as the origin of our modern reductionism)"
 
@@ -24,7 +24,7 @@ And it is the only cosmology from which morality and truth can be objectively kn
     It's impossible to rationally discuss time before time, but this is essential as what we call *time* did not exist before creation. We know that God eternally existed, including the three persons of God that we refer to as Father, Son, and Holy Spirit -- that this omniscient and omnipotent being eternally existed and that despite His transcendent nature, we know that His will is a person (the Father), His word is a person (the Son), and that His love from Father to Son (from will to word) is also a person (the Holy Spirit).
     
     Before creation, before time itself, there was God's will, there was God's word, and there was God's love. 
-    God's will, word, and love are eternal; the first principle from which all creation emerges. 
+    God's will, word, and love are eternal and one; the first principle from which all creation emerges. 
     From this trinity there emerges time, space, reason, and all of creation (visible and invisible).
 
 * ~Before Time<br />
@@ -41,7 +41,7 @@ In the Beginning was the Word, John 1<br />
     The cosmology during this age is best understood as a radical shift marked by the fall of man.
     This introduced sin and death, which necessarily means that prior to the fall there was no death, and thus no evolution (which is best understood as life striving and surviving in the face of death).
     
-    The Adamic age was man walking with God, and it ended at the fall, at the exile from Eden.
+    The Adamic age was man walking with God, and it ended at the fall, at our exile from Eden.
 
 * ~4000 BC<br />
 The Creation, Genesis 1<br />
