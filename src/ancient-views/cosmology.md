@@ -12,7 +12,7 @@ Let us lay out the chronological order of the Biblical canon to see the ancient 
 It is our story.
 And it is the only cosmology from which morality and truth can be objectively knowable.
 
-!!! warning "These are approximate years based on ordering of scripture"
+!!! warning "These are approximate years based on ordering of scripture -- and not to be taken literally in a modern reductionist view (but understood holistically as the origin of our modern reductionism)"
 
 
 
