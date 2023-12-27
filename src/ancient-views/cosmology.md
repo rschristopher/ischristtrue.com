@@ -2,7 +2,7 @@
 
 In modern usage, *cosmology* is the study of the universe in terms of time and space. 
 This is a secular view that presupposes *time* and *space* as first principles, as well as *reason* as a first principle, *logic* as a first principle, *knowledge* as a first principle, and so on. 
-And as *postmodernism* will demonstrate, secular cosmology is very much a cascade of unquestioned presupositions that yield absurdity under any proper scrutiny.
+And as postmodernism will demonstrate, secular cosmology is very much a cascade of unquestioned presupositions that yield absurdity under any proper scrutiny.
 
 However, the word *cosmology* derives from *cosmos*, as in the natural order of the universe (*cosmos* is the opposite of *chaos*), and from *logia*, as in the divine word or story. 
 As such, the ancient and more accurate meaning of *cosmology* is non-secular -- it is the divine story of the order of the universe. 
@@ -12,7 +12,7 @@ Let us lay out the chronological order of the Biblical canon to see the ancient 
 It is our story.
 And it is the only cosmology from which morality and truth can be objectively knowable.
 
-!!! warning "These are approximate years based on ordering of scripture -- and not to be taken literally in a modern reductionist view (but understood holistically as the origin of our modern reductionism)"
+!!! warning "These are approximate years based on ordering of scripture -- and not to be taken literally in a modern reductionist view (although can be understood holistically as the origin of our modern reductionism)"
 
 
 
@@ -20,8 +20,10 @@ And it is the only cosmology from which morality and truth can be objectively kn
 
 ## Precosmogonic Age
 
-!!! info "~"
-    It's impossible to rationally discuss time before time, but this is essential as what we call *time* did not exist before creation. We know that God eternally existed, including the three persons of God that we refer to as Father, Son, and Holy Spirit -- that this omniscient and omnipotent being eternally existed and that despite His transcendent nature, we know that His will is a person (the Father), His word is a person (the Son), and that His love from Father to Son (from will to word) is also a person (the Holy Spirit).
+!!! info "Before Time?"
+    It's impossible to rationally discuss time before time. What we call *time* did not exist before creation. 
+    
+    God is eternal, including the three persons of God that we refer to as Father, Son, and Holy Spirit -- this omniscient and omnipotent being is eternal and that despite His transcendent nature, His will is a person (the Father); His word is a person (the Son); and His love (from Father to Son, from will to word) is also a person (the Holy Spirit).
     
     Before creation, before time itself, there was God's will, there was God's word, and there was God's love. 
     God's will, word, and love are eternal and one; the first principle from which all creation emerges. 
@@ -38,10 +40,10 @@ In the Beginning was the Word, John 1<br />
 ## Adamic Age
 
 !!! info "Walking with God"
-    The cosmology during this age is best understood as a radical shift marked by the fall of man.
-    This introduced sin and death, which necessarily means that prior to the fall there was no death, and thus no evolution (which is best understood as life striving and surviving in the face of death).
-    
     The Adamic age was man walking with God, and it ended at the fall, at our exile from Eden.
+    
+    The cosmology during this age is best understood as a radical shift marked by the fall of man.
+    The fall introduced sin and death, which necessarily means that prior to the fall there was no death, and thus no evolution (which is best understood as life striving and surviving in the face of death).
 
 * ~4000 BC<br />
 The Creation, Genesis 1<br />
@@ -57,9 +59,9 @@ The Fall of Man, Genesis 3<br />
 ## Antediluvian Age
 
 !!! info "Sons of God and Nephilim"
-    The cosmology during this age is best understood as the consequence of the first rebellion against God.
-    Despite the spirit of God being with man, sin entered the hearts of man, leading to the firstborn, Cain, to kill his brother Abel.
-    Humans lived for centuries, and in this age the sons of God (the angels, the heavenly hosts) rebelled against God and took for themselves the daughters of men.
+    The cosmology during this age is best understood as the consequence of the fall (the first rebellion against God).
+    And despite the spirit of God being with man, sin entered the hearts of man, leading to the firstborn, Cain, to kill his brother Abel.
+    Humans lived for centuries, and in this age the sons of God (the angels, the heavenly hosts) rebelled against God and took for themselves the daughters of men (second rebellion).
     
     In this age only Enoch walked with God, and later so did his grandson Noah.
 
@@ -74,13 +76,13 @@ From Adam to Noah, Genesis 5<br />
 
 ## Noahchian Age (Flood)
 
+!!! quote "Genesis 6:5"
+    And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.
+
 !!! info "The Great Flood"
     The cosmology of this age underwent a radical shift, where God -- seeing the wickedness of man -- caused a great flood.
     And the only human survivors were Noah and his family.
     After the flood, God removed His Spirit from man, who would no longer live for centuries but at most 120 years.
-
-!!! quote "Genesis 6:5"
-    And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.
 
 * ~2500 BC<br />
 Wickedness Provokes God's wrath, Genesis 6<br />
@@ -106,7 +108,7 @@ Shem, Ham and Japheth, Genesis 10<br />
     And with the divine language and sin in their hearts, God tells us of our ancestors, "nothing will be restrained from them, which they have imagined to do."
     
     So God scattered the people, confused their language, and placed them beneath the heavenly hosts.
-    Man would now be ruled by principalities and powers, false gods -- we would become the playthings of the devils.
+    Man would now be ruled by principalities and powers, false gods -- we would become the playthings of devils.
 
  * ~2100 BC<br />
 Job's Suffering and Faith, Job 1 - 42<br />
@@ -1198,9 +1200,9 @@ The Word of the LORD by Malachi, Malachi 1 - 4<br />
 ## Messianic Age
 
 !!! info "Prophecy Fulfilled"
-    This is the age where the prophecied Messiah comes, the God-man that is Jesus Christ.
+    This is the age where the prophecied Messiah comes, the God-man that is Christ Jesus.
     It is our current age.
-    The cosmology of this age is radically different.
+    The cosmology of this age is radically different from all that came before.
     Not only is God's law written into the hearts of men, Christ now rules in the midst of His enemies.
         
     This age ends at the second coming of Christ, the final judgment at the end of time where death itself is defeated.
