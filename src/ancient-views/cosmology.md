@@ -5,7 +5,7 @@ This is a secular view that presupposes *time* and *space* as first principles, 
 And as *postmodernism* will demonstrate, secular cosmology is very much a cascade of unquestioned presupositions that yield absurdity under any proper scrutiny.
 
 However, the word *cosmology* derives from *cosmos*, as in the natural order of the universe (*cosmos* is the opposite of *chaos*), and from *logia*, as in the divine word or story. 
-As such, the ancient and more accurate meaning of *cosmology* is non-secular -- is is the divine story of the order of the universe. 
+As such, the ancient and more accurate meaning of *cosmology* is non-secular -- it is the divine story of the order of the universe. 
 This presupposes the Christian God as revealed in Biblical canon (with the triune God as the first principle from which all transcendent categories arise).
 
 Let us lay out the chronological order of the Biblical canon to see the ancient cosmology as it was understood in ancient times, as precursor to our modern view -- a foundation. In doing so we are presented with a grand story of origin, of sin, of death, of hope, of prophecy, and ultimately of redemption. 
