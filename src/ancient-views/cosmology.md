@@ -1,17 +1,16 @@
 # Cosmology 
 
-In modern usage, cosmology is the study of the universe in terms of time and space. 
+In modern usage, *cosmology* is the study of the universe in terms of time and space. 
 This is a secular view that presupposes *time* and *space* as first principles, as well as *reason* as a first principle, *logic* as a first principle, *knowledge* as a first principle, and so on. 
 And as *postmodernism* will demonstrate, secular cosmology is very much a cascade of unquestioned presupositions that yield absurdity under any proper scrutiny.
 
 However, the word *cosmology* derives from *cosmos*, as in the natural order of the universe (*cosmos* is the opposite of *chaos*), and from *logia*, as in the divine word or story. 
-As such, the more accurate meaning of *cosmology* is non-secular -- is is the divine story of the order of the universe. 
+As such, the ancient and more accurate meaning of *cosmology* is non-secular -- is is the divine story of the order of the universe. 
 This presupposes the Christian God, the first principle from which all transcendent categories arise.
 
-
-If we lay out the chronological order of the Biblical canon we are presented with a grand story of origin, of sin, of death, of hope, of prophecy, and ultimately of redemption. 
+Let us lay out the chronological order of the Biblical canon to see the ancient cosmologiy as it was understood in ancient tines, as precursor to our modern view -- a foundation. In doing so we are presented with a grand story of origin, of sin, of death, of hope, of prophecy, and ultimately of redemption. 
 It is our story.
-And it is the only cosmology from which morality and truth can be knowable.
+And it is the only cosmology from which morality and truth can be objectively knowable.
 
 !!! warning "These are approximate years based on ordering of scripture"
 
