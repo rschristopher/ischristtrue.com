@@ -57,7 +57,7 @@ The Fall of Man, Genesis 3<br />
 ## Antediluvian Age
 
 !!! info "Sons of God and Nephilim"
-    The cosmology during this age is best understood as the consequence of the rebellion against God.
+    The cosmology during this age is best understood as the consequence of the first rebellion against God.
     Despite the spirit of God being with man, sin entered the hearts of man, leading to the firstborn, Cain, to kill his brother Abel.
     Humans lived for centuries, and in this age the sons of God (the angels, the heavenly hosts) rebelled against God and took for themselves the daughters of men.
     
