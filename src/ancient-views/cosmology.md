@@ -8,9 +8,9 @@ However, the word *cosmology* derives from *cosmos*, as in the natural order of 
 As such, the ancient and more accurate meaning of *cosmology* is non-secular -- is is the divine story of the order of the universe. 
 This presupposes the Christian God as revealed in Biblical canon (with the triune God as the first principle from which all transcendent categories arise).
 
-Let us lay out the chronological order of the Biblical canon to see the ancient cosmology as it was understood in ancient tines, as precursor to our modern view -- a foundation. In doing so we are presented with a grand story of origin, of sin, of death, of hope, of prophecy, and ultimately of redemption. 
+Let us lay out the chronological order of the Biblical canon to see the ancient cosmology as it was understood in ancient times, as precursor to our modern view -- a foundation. In doing so we are presented with a grand story of origin, of sin, of death, of hope, of prophecy, and ultimately of redemption. 
 It is our story.
-And it is the only cosmology from which morality and truth can be objectively knowable (by consequence of the triune God).
+And it is the only cosmology from which morality and truth can be objectively knowable.
 
 !!! warning "These are approximate years based on ordering of scripture -- and not to be taken literally in a modern reductionist view (but understood holistically as the origin of our modern reductionism)"
 
