@@ -104,8 +104,8 @@ Shem, Ham and Japheth, Genesis 10<br />
     
     The descendents of Noah were told to populate the world, but they instead built a great city and a great tower that they may reach heaven.
     And with the divine language and sin in their hearts, God tells us of our ancestors, "nothing will be restrained from them, which they have imagined to do."
-    So God scattered the people, confused their language, and placed them beneath the heavenly hosts.
     
+    So God scattered the people, confused their language, and placed them beneath the heavenly hosts.
     Man would now be ruled by principalities and powers, false gods -- we would become the playthings of the devils.
 
  * ~2100 BC<br />
