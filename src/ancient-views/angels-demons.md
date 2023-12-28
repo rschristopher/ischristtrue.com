@@ -266,7 +266,8 @@ The second great evil (after death) of mankind.
 Sin entered the world and led to near complete corruption of mankind.. only Noah was redeemable.
 
 
-### Rulers of Darkness
+
+### Dark Powers
 
 The third great evil (after sin and death) came as a consequence of Babel..
 
