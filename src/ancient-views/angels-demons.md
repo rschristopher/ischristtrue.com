@@ -187,8 +187,11 @@ Ultimately, We do not understand the exact nature of how angels experience time,
 
 
 
+### Derivative Light 
 
+Exactly like man, the light from an angel (a created being) is derived from the creator. In other words the angels do not and cannot create ex-nihilo, do not shine with their own light, and thus should never be worshipped.
 
+...
 
 
 ### Hierarchy
