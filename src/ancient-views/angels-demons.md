@@ -229,6 +229,8 @@ Any light they produce is derivative and they cannot create ex-nihilo.
 Importantly, demons are completely subject and obedient to God.
 Despite their hatred and rebellion, God allows their continued existence.
 
+They were created good, as God does not create evil.
+God allows evil only so that he may create good from the evil, such as the redemption of man.
 
 
 
