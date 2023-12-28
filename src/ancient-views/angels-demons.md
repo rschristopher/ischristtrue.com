@@ -260,14 +260,14 @@ Demons are integral to the cosmology of death, devouring that which has died and
 
 
 
-## Nephilim
+### Nephilim
 
 ...
 
 
 
 
-## Satan
+### Satan
 
 A seraphim, a throne guardian, an angel created completely good and given the task as guardian of the earth, protector of the terrestrial order..
 By his will he turned against his own nature, turned against God ...
@@ -288,6 +288,21 @@ adversary
     
     Yet thou shalt be brought down to hell, to the sides of the pit.
     
+
+
+## Right and Left Hand of God
+
+!!! quote "1 Kings 22:19-23"
+    And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left. And the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramothgilead? And one said on this manner, and another said on that manner. And there came forth a spirit, and stood before the LORD, and said, I will persuade him. And the LORD said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade him, and prevail also: go forth, and do so. Now therefore, behold, the LORD hath put a lying spirit in the mouth of all these thy prophets, and the LORD hath spoken evil concerning thee.
+
+The spirits (angels) on the right hand of the Lord are the elect, representing God's mercy.
+The spirits (demons) on the left hand of God are the reprobate, serving their own evil ends, obeys the judgment of His decrees.
+
+They were there in the beginning, and at each of the three cosmological rebellions, tempting man, introducing death, sin, and domination by dark powers.
+
+
+
+
 
 
 
