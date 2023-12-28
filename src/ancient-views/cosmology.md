@@ -60,8 +60,8 @@ The Fall of Man, Genesis 3<br />
 
 !!! info "Sons of God and Nephilim"
     The cosmology during this age is best understood as the consequence of the fall (the first rebellion against God).
-    And despite the spirit of God being with man, sin entered the hearts of man, leading to the firstborn, Cain, to kill his brother Abel.
-    Humans lived for centuries, and in this age the sons of God (the angels, the heavenly hosts) rebelled against God and took for themselves the daughters of men (second rebellion).
+    And despite the spirit of God being with man, sin entered the hearts of man, leading to the firstborn, Cain, to kill his brother Abel (second rebellion against God).
+    Humans lived for centuries, and in this age the sons of God (the angels, the heavenly hosts) continued the rebellion against God and took for themselves the daughters of men.
     
     In this age only Enoch walked with God, and later so did his grandson Noah.
 
@@ -80,7 +80,7 @@ From Adam to Noah, Genesis 5<br />
     And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.
 
 !!! info "The Great Flood"
-    The cosmology of this age underwent a radical shift, where God -- seeing the wickedness of man -- caused a great flood.
+    The cosmology of this age underwent a radical shift, where God -- seeing the wickedness of man, the consequence of sin in the world -- caused a great flood.
     And the only human survivors were Noah and his family.
     After the flood, God removed His Spirit from man, who would no longer live for centuries.
 
