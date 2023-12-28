@@ -232,6 +232,18 @@ Despite their hatred and rebellion, God allows their continued existence.
 They were created good, as God does not create evil.
 God allows evil only so that he may create good from the evil, such as the redemption of man.
 
+Evil is the absence of good...
+
+Demons seek to bring things back to chaos and emptiness, back to the nothingness from which we came ...
+
+Demons can best be thought of as chaos monsters..
+reducing creation back into a formless (chaos) void (emptiness).
+
+
+### Death
+
+Demons are integral to the cosmology of death, devouring that which has died and thus allowing rejuvenation of life, allowing an evolutionary process of life to persist in the face of death.
+
 
 
 ## Nephilim
@@ -242,6 +254,11 @@ God allows evil only so that he may create good from the evil, such as the redem
 
 
 ## Satan
+
+A seraphim, a throne guardian, an angel created completely good and given the task as guardian of the earth, protector of the terrestrial order..
+By his will he turned against his own nature, turned against God ...
+
+
 
 !!! quote "Job 1:6"
     Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.
