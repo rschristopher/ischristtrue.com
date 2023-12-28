@@ -152,6 +152,20 @@ As both tradition and scripture can attest, angels are circumscribed --
 And despite their ability to extend anywhere in space (not confined by doors, locks and seals), they cannot be in two difference places simultaneously.
 
 
+### Power
+
+Tradition and scripture are both witness to the immense power of angels, able to influence all elements of creation.
+
+As such, a fallen is a truly terrifying prospect..
+Yet they are not God.
+They are not omnipotent.
+They are not omniscient.
+They are not omnipresent.
+
+And thankfully for us, the fallen angels are subject to God's sovereignty, who allows this battle of will.
+
+
+
 ### Free Will
 
 Like man, angels are created beings with free will, free to choose good or evil (demons).
