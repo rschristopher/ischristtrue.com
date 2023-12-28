@@ -110,8 +110,7 @@ Shem, Ham and Japheth, Genesis 10<br />
     So God scattered the people, confused their language, and placed them beneath the heavenly hosts.
     Man would now be ruled by principalities and powers, false gods -- we would become the playthings of devils.
 
- * ~2100 BC<br />
-Job's Suffering and Faith, Job 1 - 42<br />
+* ~2100 BC<br />
 The Tower of Babel, Genesis 11<br />
 
 
@@ -130,6 +129,8 @@ The Tower of Babel, Genesis 11<br />
     The cosmology of this age is familiar to us -- man is in a lowly state, subject to false gods (principalities and powers) and confused languages, yet in this age is the beginning of hope.
     A single seed, Abraham, will be the father of a chosen people; blessed by a priest (Melchizedek) of the most high God.
 
+* ~2100 BC<br />
+Job's Suffering and Faith, Job 1 - 42<br />
 
 * ~2091 BC<br />
 God Sends Abram to Egypt, Genesis 12<br />
@@ -1205,7 +1206,7 @@ The Word of the LORD by Malachi, Malachi 1 - 4<br />
     The cosmology of this age is radically different from all that came before.
     Not only is God's law written into the hearts of men, Christ now rules in the midst of His enemies.
         
-    This age ends at the second coming of Christ, the final judgment at the end of time where death itself is defeated.
+    This age will end at the second coming of Christ, the final judgment at the end of time where death itself is defeated.
 
 * ~6 BC<br />
 Birth of John the Baptist, Luke 1<br />
