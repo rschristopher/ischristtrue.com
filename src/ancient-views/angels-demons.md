@@ -18,7 +18,6 @@ Additionally, there's references to heavenly hosts, to "sons of God", to cherubi
 And most striking, there's even references to gods.
 While modern Christians view the idea of other gods as fairy tales, they must ignore their own Bibles while doing so. Ancient Christians understood all these biblical references.
 
-
 Interestingly, the Bible references these spiritual beings as if we already know what they are. There's no explanation of angels, no articulated taxonomy about this hierarchy of spirits.
 How are we to make sense of this?
 
@@ -38,20 +37,28 @@ Paradise Lost is obviously not canonical, but notice how so many assume the myth
 ...
 
 
-## Ancient Church
+## Ancient Views
 
-In this view, there are explicit ranks of angels, of heavenly hosts, and the fall of angels happens more than once. A group of angels known as the watchers are the "sons of God" referenced in Genesis. And they have children with human women. These hybrid children are known as nephilim, and are a precursor to the flood -- demons are not only fallen angels, but also the spirits of the dead nephilim.
+Ancient views involve explicit ranks of angels, of heavenly hosts, and the fall of angels happens more than once. A group of angels known as the watchers are the "sons of God" referenced in Genesis. And they have children with human women. These hybrid children are known as nephilim, and are a precursor to the flood -- demons are not only fallen angels, but also the spirits of the dead nephilim.
 
 In this view, Pagan gods were not imaginary or false, but very real created spirits, most of which fell from God's grace.
 
 The new atheist critique that claims "you are an atheist with respect to Zeus or Thor," fails here because the ancient view (Christian or otherwise) believed in these very real powers and principalities, Christians simply viewed them as created spirits with dominion over the earth. 
 
-As Christians we ought to believe in all of these spirits, including Zeus and Thor and Ra, but we should see them for what they really are.
+As Christians we ought to believe these spirits existed, including Zeus and Thor and Ra, but we should see them for what they really are.
 
 You'll find most all ancient pagan mythologies contain an inversion of Christianity, where mankind is but the plaything of the gods, and every pantheon of pagan gods were the heros who overthrew the prior order, typically a tyrannical order.
 Compare this to Christianity, where God is the Lord of Spirits, and man is created in the image and likeness of God, meant to judge the angels (the created spirits).
 
-...
+
+
+
+## Angels
+
+While *angel* simply means *messenger*, which is best thought of 
+
+
+
 
 ## Demons
 
