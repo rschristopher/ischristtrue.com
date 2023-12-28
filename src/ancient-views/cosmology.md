@@ -82,7 +82,7 @@ From Adam to Noah, Genesis 5<br />
 !!! info "The Great Flood"
     The cosmology of this age underwent a radical shift, where God -- seeing the wickedness of man -- caused a great flood.
     And the only human survivors were Noah and his family.
-    After the flood, God removed His Spirit from man, who would no longer live for centuries but at most 120 years.
+    After the flood, God removed His Spirit from man, who would no longer live for centuries.
 
 * ~2500 BC<br />
 Wickedness Provokes God's wrath, Genesis 6<br />
