@@ -162,19 +162,19 @@ They are not omnipotent.
 They are not omniscient.
 They are not omnipresent.
 
-And thankfully for us, the fallen angels are subject to God's sovereignty, who allows this battle of will.
+And thankfully for us, the fallen angels are subject to God's sovereignty, who allows this battle of will for our salvation.
 
 
 
 ### Free Will
 
-Like man, angels are created beings with free will, free to choose good or evil (demons).
+Like man, angels are created beings with free will, free to choose good or evil.
 However, unlike man, a fallen angel cannot repent...
 
 !!! quote "Hebrews 2:16"
     For verily he took not on him the nature of angels; but he took on him the seed of Abraham.
 
-Importantly, some angels did fall, others did not.
+Importantly, some angels fell, others did not.
 Whereas with man, all men are in a fallen state by nature -- our very existence is to live out the redemption that is Christ Jesus.
 
 We can infer from this that angels have  natural differences from man, that is, by their nature they are unable to repent.
@@ -183,27 +183,27 @@ In other words, the nature of man allows us to repent, but the nature of angels 
 
 ### Time
 
-The best way to understand how and why fallen angels cannot repent, is to speculate on how an angel experiences time.
+The best way to understand how and why fallen angels cannot repent, is to speculate on how angels experience time.
 Angels do not experience time the way humans do (because otherwise it would be possible for them to repent) -- they are not within time the same way humans are, but exist within the ages, described as *motion without time* by Church fathers.
 
-This concept of *motion without time* infers a different temporal dimension that is otherwise unavailable to man.
+This concept of *motion without time* infers a different temporal dimension that is otherwise unavailable to mankind.
 
 Angels are immortal..
 
 Angels do not reproduce and thus are genderless..
 
-Angels are clearly not subject to time (and death) with the maleability that humans experience, allowing us to repent, instead angels experience entire ages as we might experience a single moment, wherein they express their will onto an entire age. They cannot repent because their decisions have already been made from the beginning to the end of time.
+Angels are clearly not subject to time (and death) with the maleability that humans experience, allowing us to repent. Instead angels experience entire ages as we might experience a single moment, wherein they express their will onto an entire age. They cannot repent because their decisions have already been made from the beginning to the end of time.
 
 Similar to how we can understand that an angel is embodied in reference to God, but not embodied in reference to man -- angels exist within time in refernce to God, but outside of time in reference to man.
 This is because angels and man are created, and only God is truly timeless and eternal.
 
-Ultimately, We do not understand the exact nature of how angels experience time, but we do know that they do not experience it as humans (or any animals) do, they do not mature and grow in character, and fallen angels are unable to be redeemed.
+Ultimately, We do not understand the exact nature of how angels experience time (whether it's a separate temporal dimension from ours), but we do know that they do not experience time as humans (or any animals) do. They do not mature and grow in character. And fallen angels are unable to be redeemed.
 
 
 
 ### Derivative Light 
 
-Exactly like man, the light from an angel (a created being) is derived from the creator. In other words the angels do not and cannot create ex-nihilo, do not shine with their own light, and thus should never be worshipped.
+Exactly like man, the light from an angel (a created being) comes only from the creator. In other words the angels do not and cannot create ex-nihilo, do not shine with their own light, and thus should never be worshipped.
 
 ...
 
@@ -235,6 +235,7 @@ Exactly like man, the light from an angel (a created being) is derived from the 
 The word "demon" shares the etymological root of the word *demonstrate*, much like the word "monster" means literally *to show*.
 
 The purpose and the right place for demons is to show our sin, our fall from grace. In practical terms it is to tempt, to torment in the darkness away from the light of God.
+And God allows this in order to bring us towards salvation.
 
 We are made in the image and likeness of God. It is no wonder the demons hate us so.
 
@@ -244,11 +245,11 @@ Importantly, demons are completely subject and obedient to God.
 Despite their hatred and rebellion, God allows their continued existence.
 
 They were created good, as God does not create evil.
-God allows evil only so that he may create good from the evil, such as the redemption of man.
+God allows evil only so that good may arise from the evil, such as the redemption of man.
 
 Evil is the absence of good...
 
-Demons seek to bring things back to chaos and emptiness, back to the nothingness from which we came ...
+Demons seek to bring creation back to chaos and emptiness, back to the nothingness from which we came ...
 
 Demons can best be thought of as chaos monsters..
 reducing creation back into a formless (chaos) void (emptiness).
@@ -296,7 +297,7 @@ adversary
     And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left. And the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramothgilead? And one said on this manner, and another said on that manner. And there came forth a spirit, and stood before the LORD, and said, I will persuade him. And the LORD said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade him, and prevail also: go forth, and do so. Now therefore, behold, the LORD hath put a lying spirit in the mouth of all these thy prophets, and the LORD hath spoken evil concerning thee.
 
 The spirits (angels) on the right hand of the Lord are the elect, representing God's mercy.
-The spirits (demons) on the left hand of God are the reprobate, serving their own evil ends, obeys the judgment of His decrees.
+The spirits (demons) on the left hand of God are the reprobate, serving their own evil ends, yet obeying the judgment of His decrees.
 
 They were there in the beginning, and at each of the three cosmological rebellions, tempting man, introducing death, sin, and domination by dark powers.
 
