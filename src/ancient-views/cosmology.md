@@ -61,7 +61,7 @@ The Fall of Man, Genesis 3<br />
 !!! info "Sons of God and Nephilim"
     The cosmology during this age is best understood as the consequence of the fall (the first rebellion against God).
     And despite the spirit of God being with man, sin entered the hearts of man, leading to the firstborn, Cain, to kill his brother Abel (second rebellion against God).
-    Humans lived for centuries, and in this age the sons of God (the angels, the heavenly hosts) continued the rebellion against God and took for themselves the daughters of men.
+    Humans lived for centuries, and in this age the sons of God (the angels, the heavenly hosts) continued the sin against God and took for themselves the daughters of men.
     
     In this age only Enoch walked with God, and later so did his grandson Noah.
 
@@ -108,7 +108,7 @@ Shem, Ham and Japheth, Genesis 10<br />
     And with the divine language and sin in their hearts, God tells us of our ancestors, "nothing will be restrained from them, which they have imagined to do."
     
     So God scattered the people, confused their language, and placed them beneath the heavenly hosts.
-    Man would now be ruled by principalities and powers, false gods -- we would become the playthings of devils.
+    Man would now be ruled by principalities and dark powers, false gods -- we would become the playthings of devils.
 
 * ~2100 BC<br />
 The Tower of Babel, Genesis 11<br />
