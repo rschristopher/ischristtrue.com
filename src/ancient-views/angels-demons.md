@@ -1,61 +1,151 @@
 # Angels, Demons, and Antichrist
 
 
+Despite the nihilism of our modern age, modern people still hold a vague belief in angels and spirits of some sort or another. 
+Even non-believers flirt with the idea. 
+The prevalence of ghost stories within film and television is an indicator of how deeply this ancient idea persists.
+
+It seems that far more people today are open to belief in angels and demons than they are to God. 
+And as we'll see, this is no accident.
 
 
-https://orthochristian.com/106805.html
-
-Despite the nihilism of our modern age, many people still hold a vague belief in angels and demons. Even non-believers flirt with the idea. 
-The prevalence of ghost stories within popular film and television is an indicator of how deeply this ancient idea persists.
-It seems that far more people today are open to belief in angels and demons than they are to God. And as we'll see, this is no accident.
+## Mythologies
 
 
-Technically, the word *angel* means a messenger of God. As such, it can best be thought of as a role. However when talking of angels we typically are not referring to a job title. We are referring to a spirit. We think of demons as evil spirits. If we believe in God then we typically view demons as fallen angels, fallen from God's grace.
+Technically, the word *angel* means a messenger of God. As such, it can best be thought of as a role. However when talking of angels we typically are not referring to a job title. We are referring to spiritual beings. We think of demons as evil spirits. If we believe in God then we typically view demons as fallen angels, fallen from God's grace.
 
-The Bible, and the gospels in particular, are filled with references to angels and demons. Yet there's also references to other spiritual beings such as thrones, dominions, principalities. And there's references to archangels, hinting not only to job titles but instead to a rank, a hierarchy.
-Additionally, there's references to heavenly hosts, to "sons of God", to cherubim and seraphim, and of course nephelim -- the famed giants precipitating the flood.
+The Bible, and the gospels in particular, are filled with references to angels and demons. 
+Yet there's also references to other spiritual beings such as thrones, dominions, and principalities. 
+And there's references to archangels, hinting not only to job titles but instead to a rank, a hierarchy.
+Additionally, there's references to heavenly hosts, to "sons of God", to cherubim and seraphim, and of course nephelim -- the famed *giants* precipitating the great flood.
 
 And most striking, there's even references to gods.
-While modern Christians view the idea of other gods as fairy tales, they must ignore their own Bibles while doing so. Ancient Christians understood all these biblical references.
+While modern Christians view the idea of other gods as fairy tales, they must ignore their own Bibles while doing so. 
+Ancient Christians understood all of these biblical references.
 
-Interestingly, the Bible references these spiritual beings as if we already know what they are. There's no explanation of angels, no articulated taxonomy about this hierarchy of spirits.
+Interestingly, the Bible references these spiritual beings as if we already know what they are. 
+There's no explanation of angels or demons or devils, and no articulated taxonomy about this hierarchy of spirits.
 How are we to make sense of this?
 
 
 
-## Paradise Lost
+### Paradise Lost
 
 Most churches do not teach about angels and demons, and if they do it's likely to follow from Milton's Paradise Lost (most likely unconsciously).
 
-In this view Satan rebelled against God and takes one third of the angels with him. They organize in hell and vow to do evil against man.
-Satan travels to Eden and hides himself as a snake where he tempts Adam and Eve.
+In this view Satan rebelled against God and took one third of the angels with him. 
+They organized in hell and vowed to do evil against man.
+Satan traveled to Eden and hid himself as a snake where he tempted Adam and Eve.
 
 In this view, the fallen angels, demons, do everything in their power to deceive and hurt man, the created beings made in His image.
 
-Paradise Lost is obviously not canonical, but notice how so many assume the mythology is canonical; despite none of this story being reflected anywhere in the Bible nor anywhere in the ancient church.
+Paradise Lost is obviously not canonical, but notice how so many assume its mythology is canonical; despite none of this story being reflected anywhere in the Bible nor anywhere in the early church.
 
 ...
 
 
-## Ancient Views
+### Early Church
 
-Ancient views involve explicit ranks of angels, of heavenly hosts, and the fall of angels happens more than once. A group of angels known as the watchers are the "sons of God" referenced in Genesis. And they have children with human women. These hybrid children are known as nephilim, and are a precursor to the flood -- demons are not only fallen angels, but also the spirits of the dead nephilim.
+There were ranks of created spirits, heavenly hosts, and the fall of these spirits happens more than once. 
+E.g., a group of angels known as the watchers are the "sons of God" referenced in Genesis. 
+These are the "sons of God" that had children with the "daughters of men". 
+These hybrid children are known as nephilim, and are a precursor to the flood.
+
+Demons are not only fallen angels, but also the spirits of the dead nephilim.
 
 In this view, Pagan gods were not imaginary or false, but very real created spirits, most of which fell from God's grace.
 
-The new atheist critique that claims "you are an atheist with respect to Zeus or Thor," fails here because the ancient view (Christian or otherwise) believed in these very real powers and principalities, Christians simply viewed them as created spirits with dominion over the earth. 
+The new-atheist critique that claims "you are an atheist with respect to Zeus or Thor," fails here because the ancient view (Christian or otherwise) believed in these very real powers and principalities. 
+Christians simply viewed these as created spirits with dominion over the earth. 
 
-As Christians we ought to believe these spirits existed, including Zeus and Thor and Ra, but we should see them for what they really are.
+As Christians we ought to believe these spirits exist -- including Zeus, Thor, and Ra -- but we should see them for what they really are.
 
-You'll find most all ancient pagan mythologies contain an inversion of Christianity, where mankind is but the plaything of the gods, and every pantheon of pagan gods were the heros who overthrew the prior order, typically a tyrannical order.
+In this mythological context, you'll find most all ancient pagan mythologies contain an explicit inversion of Christianity, where mankind is but the plaything of the gods, and the pantheon of pagan gods were the heros who overthrew the prior order, typically a tyrannical order.
 Compare this to Christianity, where God is the Lord of Spirits, and man is created in the image and likeness of God, meant to judge the angels (the created spirits).
+
+
+
+
 
 
 
 
 ## Angels
 
-While *angel* simply means *messenger*, which is best thought of 
+So if not simply a *messenger* of God, what exactly are these beings that we call angels?
+
+The full truth of what these spiritual beings are has never been revealed -- however we can know quite a bit about them.
+And we can confirm our speculations through the witness of scripture and early church tradition, as well as through various apocryphal sources.
+
+We know that angels are conscious entities with free-will.
+They are invisible, incorporeal, and were also created in the image of God,
+
+!!! quote "An Exact Exposition of the Orthodox Faith, by [St. John of Damascus](https://en.wikipedia.org/wiki/John_of_Damascus)"
+    [God] is the maker and creator of angels, bringing them out of non-being into being, having created them after his own image as an incorporeal nature, like some spirit or immaterial fire, as the divine David says, "who makes his angels spirits and his ministers a fiery flame," describing their lightness, ardor, warmth, extreme sharpness, and acuity with regard to their longing for God and ministry to him and their sublimity and deliverance from all material thought.
+
+The orthodox understanding of being in the image of God means more than just resemblance, but doing the works of God.
+This is why these spirits can act out the will of God.
+
+
+### Body and Mind
+
+Importantly, angels are not corporeal beings existing within time and space as humans understand.
+They can appear to those whom God wills in different forms, including in a human form.
+They are purely spiritual, and in reference to humans do not have corporeal bodies.
+But in reference to God they are embodied.
+As created beings they exist within creation (for God created the heavens and the earth).
+
+As both tradition and scripture can attest, angels are circumscribed --
+ if an angel is in heaven it is not on earth, if it is sent to earth it is not in heaven.
+And despite their ability to extend anywhere in space (not confined by doors, locks and seals), they cannot be in two difference places simultaneously.
+
+We do not understand what angelic bodies are or how they work, but we know they have form and location (known to God).
+We also know they are beings of intellect and exist in their assigned intellectual places (on earth or in heaven).
+
+
+### Free Will
+
+Like man, angels are created beings with free will, free to choose good or evil (demons).
+However, unlike man, a fallen angel cannot repent...
+
+Importantly, some angels did fall, others did not.
+Whereas with man, all men are in a fallen state -- our very existence is to live out the redemption that is Christ Jesus.
+
+
+### Experience of Time
+
+The best way to understand how and why fallen angels cannot repent, is to consider how an angel experiences time.
+Angels do not experience time the way humans do -- they are not within time (chronos) as humans are, but exist within the ages, described as *motion without time* by Church fathers.
+
+They are not subject to time with the maleability that humans experience, allowing us to repent, instead they experience entire ages as single instances wherein they express their will.
+
+We do not understand the exact nature of how angels experience time, but we do know they do not experience it as humans (or any animals) do, maturing and growing in character, able to be redeemed.
+
+
+
+
+
+
+
+
+### Hierarchy and Rank
+
+* Highest orders
+        Seraphim
+        Cherubim
+        Thrones
+
+* Middle orders
+        Dominions
+        Virtues
+        Powers
+
+* Lowest orders
+        Principalities
+        Archangels
+        Angels
+
+
 
 
 
@@ -74,26 +164,6 @@ We are made in the image and likeness of God. It is no wonder the demons hate us
 ## Nephilim
 
 ...
-
-
-## Hierarchy of Angels
-
-* Highest orders
-        Seraphim
-        Cherubim
-        Thrones
-
-* Middle orders
-        Dominions
-        Virtues
-        Powers
-
-* Lowest orders
-        Principalities
-        Archangels
-        Angels
-
-
 
 
 
@@ -116,6 +186,10 @@ adversary
     
 
 
+
+## Antichrist
+
+https://orthochristian.com/106805.html
 
 
 
