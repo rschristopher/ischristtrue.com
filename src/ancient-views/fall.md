@@ -51,7 +51,7 @@ In fact, the spirits of dead Nephilim were understood as [demons](angels-demons.
 
 
 
-## 3. Tower of Babel
+## 3. Tower of Babel (dark powers)
 
 This is the last of the three great rebellions and it left man in a truly depraved state. Man was then scattered across the earth, losing the divine language of God, and placed under the rule of territorial spirits (pagan gods). Man was now subject to the domination of dark powers.
 
