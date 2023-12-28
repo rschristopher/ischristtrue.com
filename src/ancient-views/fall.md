@@ -1,14 +1,14 @@
 # Fall of Man
 
 Modern Christians tend to view ***the*** *fall* as a single act of rebellion 
--- but in Genesis there is not one but three distinct rebellions against God, each with dire consequences for man and the created order (the cosmos).
+-- but in Genesis there is not one but three distinct rebellions against God, each with dire consequences for man and the created order (the cosmos). These rebellions introduced the three great evils of mankind: death, sin, and domination by dark powers.
 
 The full interpretation of these rebellions has been lost in our [modern views](../modern-views/index.md),
- but the ancient view echoes truthfully from scripture and can be interpreted through original and [apocryphal](apocrypha.md) texts. 
-E.g., we know there were Nephilim in scripture,
+ but the ancient view echoes truthfully from orthodox tradition, from scripture, and can be interpreted through original and [apocryphal](apocrypha.md) texts. 
+For example, we know there were Nephilim in scripture,
  but we can only know the story of the Nephilim from [apocryphal sources](apocrypha.md) (specifically in *1 Enoch*).
 
-Below is an attempt to outline the ancient view as best as it can be understood today.
+Below is an attempt to outline this ancient view as best as it can be understood today.
 
 
 ## 1. Exile from Eden (death)
@@ -17,8 +17,8 @@ Below is an attempt to outline the ancient view as best as it can be understood 
 
 The entire cosmos changed. A serpent, most likely a seraphim (one of the highest of the heavenly hosts) rebelled against God along with man. 
 Death entered the world, and thus began a striving for life in the face of death, a game of evolutionary fitness.
-And God strove with man.
-And there was a single language, the divine language. 
+And yet God still strove with man.
+There was a single language, the divine language. 
 And man was subject only to God.
 
 
@@ -30,9 +30,8 @@ And man was subject only to God.
 !!! quote "Genesis 4:8"
     And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
 
-Sin and death now entered the world.
-
-It is in this age that the Lord withdrew His spirit such that it will no longer strive with man.
+Sin and death are now in the world, and it spread until nearly all of mankind was thoroughly corrupted.
+And near the end of this age the Lord withdrew His spirit such that it will no longer strive with man.
 
 !!! quote "Genesis 6:3-8"
     And the Lord said, “My Spirit shall not strive with man forever, for he is indeed flesh; yet his days shall be one hundred and twenty years.” There were giants on the earth in those days, and also afterward, when the sons of God came in to the daughters of men and they bore children to them. Those were the mighty men who were of old, men of renown.
