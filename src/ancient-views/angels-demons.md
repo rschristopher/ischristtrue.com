@@ -291,7 +291,7 @@ adversary
     
 
 
-## Right and Left Hand of God
+## Hands of God
 
 !!! quote "1 Kings 22:19-23"
     And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left. And the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramothgilead? And one said on this manner, and another said on that manner. And there came forth a spirit, and stood before the LORD, and said, I will persuade him. And the LORD said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade him, and prevail also: go forth, and do so. Now therefore, behold, the LORD hath put a lying spirit in the mouth of all these thy prophets, and the LORD hath spoken evil concerning thee.
