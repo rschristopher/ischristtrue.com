@@ -218,11 +218,16 @@ Exactly like man, the light from an angel (a created being) is derived from the 
 
 ## Demons
 
-"Demon" shares the etymological root of the word *demonstrate*, much like the word "monster" is literally *to show*.
+The word "demon" shares the etymological root of the word *demonstrate*, much like the word "monster" means literally *to show*.
 
 The purpose and the right place for demons is to show our sin, our fall from grace. In practical terms it is to tempt, to torment in the darkness away from the light of God.
 
 We are made in the image and likeness of God. It is no wonder the demons hate us so.
+
+Ultimately, demons are fallen angels, and thus have very much the same nature as angels. They are incorporeal (compared to man), immortal, intellectual spirits with free-will outside of time (relative to our sense of time).
+Any light they produce is derivative and they cannot create ex-nihilo.
+Importantly, demons are completely subject and obedient to God.
+Despite their hatred and rebellion, God allows their continued existence.
 
 
 
