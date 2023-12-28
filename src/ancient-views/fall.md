@@ -11,7 +11,7 @@ E.g., we know there were Nephilim in scripture,
 Below is an attempt to outline the ancient view as best as it can be understood today.
 
 
-## 1. Exile from Eden
+## 1. Exile from Eden (death)
 
 > Ye shall be as gods
 
@@ -19,13 +19,20 @@ The entire cosmos changed. A serpent, most likely a seraphim (one of the highest
 Death entered the world, and thus began a striving for life in the face of death, a game of evolutionary fitness.
 And God strove with man.
 And there was a single language, the divine language. 
-And His heavenly hosts were upon the earth.
+And man was subject only to God.
 
 
 
-## 2. The Great Flood
+## 2. Cain (sin)
 
-It is here that the Lord withdrew His spirit such that it will no longer strive with man.
+> sin lieth at the door
+
+!!! quote "Genesis 4:8"
+    And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
+
+Sin and death now entered the world.
+
+It is in this age that the Lord withdrew His spirit such that it will no longer strive with man.
 
 !!! quote "Genesis 6:3-8"
     And the Lord said, “My Spirit shall not strive with man forever, for he is indeed flesh; yet his days shall be one hundred and twenty years.” There were giants on the earth in those days, and also afterward, when the sons of God came in to the daughters of men and they bore children to them. Those were the mighty men who were of old, men of renown.
@@ -36,7 +43,7 @@ In this passage we are introduced to giants, the Nephilim, which are the hybrid 
 
 > There were giants on the earth in those days, ***and also afterward***
 
-The cause of the great flood was the continuous evil of man, the same evil in the hearts of men that produced and worshipped the Nephilim.
+The cause of the great flood was the continuous evil of man, the same evil in the hearts of men that produced and worshipped the Nephilim. The cause of the flood was the wickedness of man, the sin brought in by the firstborn man.
 
 The sons of God -- in this case the watchers -- failed at their God-given duties and rebelled *along with man* against the Almighty.
  And to this day we are still engaged in this ongoing rebellion.
@@ -46,7 +53,7 @@ In fact, the spirits of dead Nephilim were understood as [demons](angels-demons.
 
 ## 3. Tower of Babel
 
-This is the last of the three great rebellions and it left man in a truly depraved state. Man was then scattered across the earth, losing the divine language of God, and placed under the rule of territorial spirits (pagan gods).
+This is the last of the three great rebellions and it left man in a truly depraved state. Man was then scattered across the earth, losing the divine language of God, and placed under the rule of territorial spirits (pagan gods). Man was now subject to the domination of dark powers.
 
 !!! quote "Genesis 11:1-9"
     Now the whole earth had one language and one speech. And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar, and they dwelt there. Then they said to one another, “Come, let us make bricks and bake them thoroughly.” They had brick for stone, and they had asphalt for mortar. And they said, “Come, let us build ourselves a city, and a tower whose top is in the heavens; let us make a name for ourselves, lest we be scattered abroad over the face of the whole earth.”
