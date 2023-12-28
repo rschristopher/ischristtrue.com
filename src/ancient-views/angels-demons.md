@@ -136,7 +136,7 @@ This is why these spirits can act out the will of God.
 
 
 
-### Body and Mind
+### Body
 
 We do not understand what angelic bodies are or how they work, but we know they have form and location (known to God).
 We also know they are beings of intellect and exist in their assigned intellectual places (on earth or in heaven).
@@ -156,7 +156,7 @@ And despite their ability to extend anywhere in space (not confined by doors, lo
 
 Tradition and scripture are both witness to the immense power of angels, able to influence all elements of creation.
 
-As such, a fallen is a truly terrifying prospect..
+As such, a fallen angel is a truly terrifying prospect..
 Yet they are not God.
 They are not omnipotent.
 They are not omniscient.
