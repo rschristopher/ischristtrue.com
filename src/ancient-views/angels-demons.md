@@ -157,10 +157,13 @@ And despite their ability to extend anywhere in space (not confined by doors, lo
 Like man, angels are created beings with free will, free to choose good or evil (demons).
 However, unlike man, a fallen angel cannot repent...
 
-Importantly, some angels did fall, others did not.
-Whereas with man, all men are in a fallen state -- our very existence is to live out the redemption that is Christ Jesus.
+!!! quote "Hebrews 2:16"
+    For verily he took not on him the nature of angels; but he took on him the seed of Abraham.
 
-We can infer from this that angels are not able to be redeemed because of differences from man, that is, by their nature they are unable to repent.
+Importantly, some angels did fall, others did not.
+Whereas with man, all men are in a fallen state by nature -- our very existence is to live out the redemption that is Christ Jesus.
+
+We can infer from this that angels have  natural differences from man, that is, by their nature they are unable to repent.
 In other words, the nature of man allows us to repent, but the nature of angels is different enough from man that they -- by their nature -- are unable to repent.
 
 
@@ -171,11 +174,16 @@ Angels do not experience time the way humans do (because otherwise it would be p
 
 This concept of *motion without time* infers a different temporal dimension that is otherwise unavailable to man.
 
-Angels are clearly not subject to time (and death) with the maleability that humans experience, allowing us to repent, instead angels experience entire ages as single instances wherein they express their will. They cannot repent because their decisions have already been made from the beginning to the end of time.
+Angels are immortal..
 
-Similar to how we can understand that an angel is embodied in reference to God, but not embodied in reference to man -- angels exist within time in refernce to God, but not within time in reference to man.
+Angels do not reproduce and thus are genderless..
 
-Ultimately, We do not understand the exact nature of how angels experience time, but we do know that they do not experience it as humans (or any animals) do, maturing and growing in character, able to be redeemed.
+Angels are clearly not subject to time (and death) with the maleability that humans experience, allowing us to repent, instead angels experience entire ages as we might experience a single moment, wherein they express their will onto an entire age. They cannot repent because their decisions have already been made from the beginning to the end of time.
+
+Similar to how we can understand that an angel is embodied in reference to God, but not embodied in reference to man -- angels exist within time in refernce to God, but outside of time in reference to man.
+This is because angels and man are created, and only God is truly timeless and eternal.
+
+Ultimately, We do not understand the exact nature of how angels experience time, but we do know that they do not experience it as humans (or any animals) do, they do not mature and grow in character, and fallen angels are unable to be redeemed.
 
 
 
