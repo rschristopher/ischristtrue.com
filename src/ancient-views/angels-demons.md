@@ -260,6 +260,22 @@ reducing creation back into a formless (chaos) void (emptiness).
 Demons are integral to the cosmology of death, devouring that which has died and thus allowing rejuvenation of life, allowing an evolutionary process of life to persist in the face of death.
 
 
+### Sin
+
+The second great evil (after death) of mankind.
+Sin entered the world and led to near complete corruption of mankind.. only Noah was redeemable.
+
+
+### Rulers of Darkness
+
+The third great evil (after sin and death) came as a consequence of Babel..
+
+!!! quote "Ephesians 6:12"
+    For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
+
+These are demons..
+
+
 
 ### Nephilim
 
