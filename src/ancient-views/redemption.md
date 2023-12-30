@@ -20,7 +20,7 @@ Redemption is the act of God that buys us back, bringing us back under God, fulf
 Redemption effectively undoes the three cosmological rebellions against God:
 
 1. exile from Eden, introducing death to creation 
-2. the flood, taking the Spirit away from man, limiting our lives to no more than a hundred and twenty years
+2. sin, starting with Cain and then leading to the flood, God taking HisSpirit away from man, limiting our lives to no more than a hundred and twenty years
 3. Babel, scattering us across the earth and confusing our language such that we no longer speak the divine language
 
 Importantly, each of these moments resulted in a change in cosmology, that is, the very nature of reality and the order of creation shifted.
