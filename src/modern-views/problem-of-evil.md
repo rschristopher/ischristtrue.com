@@ -25,7 +25,7 @@ Hinduism similarly frames things outside of any objective moral truth.
 Articulating a philosophical problem of evil presupposes a mountain of claims, let's examine only two of them,
 
 * *Good and Evil* -- obviously we must assume good and evil exist and are objectively knowable, not as mere subjective opinions but must exist as things in themselves.
-* *Truth and Falsity* -- we must further assume that moral claims of good and evil are knowable as true or false, that is, that we can discern true from false.
+* *Truth and Falsehood* -- we must further assume that moral claims of good and evil are knowable as true or false, that is, that we can discern true from false.
 
 There are of course countless more presupositions needed to make sense of a philosophical problem of evil, yet just these two points necessitate a justifiable epistemology and an objectively knowable morality, a universal morality. In other words we're assuming there exists objectively knowable evil that is universally evil. Otherwise, a relativistic worldview wouldn't have a universal morality, and there would be no philosophical problem to debate.
 
