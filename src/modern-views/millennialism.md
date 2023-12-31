@@ -471,7 +471,7 @@ By itself, Chiliasm is an eschatological error.
 In other words, it may be fine to speculate on the end times, but making important life decisions based on a millennial belief may lead you away from Christ, away from truth.
 *E.g., choosing not to have children or worrying about what happens if you are raptured and your children are not, or insisting that the existing government must become "Christian" in order to prepare for a  postmillenium return of Christ.*
 
-In the traditional classification of [*canonical*, *apocryphal*, and *heretical*](../ancient-views/apocrypha.md) -- it is important to note that most chiliastic texts would be classified as apocyphal, such that it may be fruitful to read and research privately, but these views were not (and arguably are not) appropriate for public prayer and church service.
+In the traditional classification of [*canonical*, *apocryphal*, and *heretical*](../ancient-views/apocrypha.md) -- it is important to note that most chiliastic texts would be classified as apocyphal, such that it may be fruitful to read and research privately, but these views were not (and arguably are never) appropriate for public liturgy and church service.
 
 
 
