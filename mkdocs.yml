@@ -7,7 +7,7 @@ site_author: RS Christopher
 docs_dir: src
 site_dir: docs
 dev_addr: 127.0.0.1:7000
-copyright: Uncopyright &copy; 2023 ~ R.S. Christopher
+copyright: Uncopyright &copy; 2023-2024 ~ R.S. Christopher
 extra:
     generator: false
 theme:
