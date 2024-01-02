@@ -91,7 +91,7 @@ Demons are not only fallen angels, but also the spirits of the dead nephilim.
 In this view, Pagan gods were not imaginary or false, but very real created spirits, most of which fell from God's grace.
 
 The new-atheist critique that claims "you are an atheist with respect to Zeus or Thor," fails here because the ancient view (Christian or otherwise) believed in these very real powers and principalities. 
-Christians simply viewed these as created spirits with God-given dominion over the earth. 
+Christians simply viewed these as created spirits as having God-given dominion over the people of the earth. 
 
 !!! quote "Psalm 82"
     God standeth in the congregation of the mighty; he judgeth among the gods.<br />
@@ -181,7 +181,7 @@ We can infer from this that angels have  natural differences from man, that is, 
 In other words, the nature of man allows us to repent, but the nature of angels is different enough from man that they -- by their nature -- are unable to repent.
 
 
-### Time
+### Time and Space
 
 The best way to understand how and why fallen angels cannot repent, is to speculate on how angels experience time.
 Angels do not experience time the way humans do (because otherwise it would be possible for them to repent) -- they are not within time the same way humans are, but exist within the ages, described as *motion without time* by Church fathers.
@@ -194,7 +194,7 @@ Angels do not reproduce and thus are genderless..
 
 Angels are clearly not subject to time (and death) with the maleability that humans experience, allowing us to repent. Instead angels experience entire ages as we might experience a single moment, wherein they express their will onto an entire age. They cannot repent because their decisions have already been made from the beginning to the end of time.
 
-Similar to how we can understand that an angel is embodied in reference to God, but not embodied in reference to man -- angels exist within time in refernce to God, but outside of time in reference to man.
+Similar to how we can understand that an angel is embodied in reference to God, but not embodied in reference to man -- angels exist within time in reference to God, but outside of time in reference to man.
 This is because angels and man are created, and only God is truly timeless and eternal.
 
 Ultimately, We do not understand the exact nature of how angels experience time (whether it's a separate temporal dimension from ours), but we do know that they do not experience time as humans (or any animals) do. They do not mature and grow in character. And fallen angels are unable to be redeemed.
@@ -206,6 +206,8 @@ Ultimately, We do not understand the exact nature of how angels experience time 
 Exactly like man, the light from an angel (a created being) comes only from the creator. In other words the angels do not and cannot create ex-nihilo, do not shine with their own light, and thus should never be worshipped.
 
 ...
+
+
 
 
 ### Hierarchy
@@ -228,13 +230,60 @@ Exactly like man, the light from an angel (a created being) comes only from the 
 
 
 
+### Named by God
+
+...
+
+
+
+#### Michael
+
+...
+
+
+
+#### Gabriel
+
+...
+
+
+
+#### Raphael
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Demons
 
 The word "demon" shares the etymological root of the word *demonstrate*, much like the word "monster" means literally *to show*.
 
-The purpose and the right place for demons is to show our sin, our fall from grace. In practical terms it is to tempt, to torment in the darkness away from the light of God.
+The God-allowed purpose for demons is to show our sin, our fall from grace. In practical terms it is to tempt, to torment in the darkness away from the light of God.
 And God allows this in order to bring us towards salvation.
 
 We are made in the image and likeness of God. It is no wonder the demons hate us so.
@@ -267,7 +316,7 @@ Sin entered the world and led to near complete corruption of mankind.. only Noah
 
 
 
-### Dark Powers
+### Dominion
 
 The third great evil (after sin and death) came as a consequence of Babel..
 
@@ -306,6 +355,42 @@ adversary
     
     Yet thou shalt be brought down to hell, to the sides of the pit.
     
+
+
+
+### Beasts
+
+...
+
+
+#### Leviathan
+
+...
+
+
+
+#### Behemoth
+
+...
+
+
+
+#### Book of Daniel
+
+...
+
+
+
+
+
+#### Book of Revelation
+
+...
+
+
+
+
+
 
 
 ## Hands of God
