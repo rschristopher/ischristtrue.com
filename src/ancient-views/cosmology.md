@@ -26,8 +26,9 @@ It is difficult if not impossible to understand ancient cosmological models in o
 The conceit of our modern view is to imagine these were "scientific" models, that people believed in the exact shape and literal geography of these models, rather than as a theological map of consciousness.
 Importantly, all civilizations independently made these kind of maps, and even today we conceive of the world around us in exactly these terms: various spheres of influence and behavior, a heavenly world above us (aspirations, beauty, life), and a demonic underworld (fears, suffering, death).
 
-All cosmological models try to map a heavenly precosmogonic origin, and then usually an underworld depicting death.
-Here's a modern cosmology map to drive the point home (note the origin, and the realm beyond space-time),
+All cosmological models attempt to map a heavenly precosmogonic origin, and then usually an underworld depicting death.
+Whether intentional or otherwise, these elements will inevitably manifest.
+Here's a modern cosmological map to drive the point home (note the origin, and the realm beyond space-time),
 
 ???+ example "The Modern Cosmos"
     ![modern-cosmos](/images/modern-cosmos.jpg)
