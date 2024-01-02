@@ -16,21 +16,12 @@ https://orthodoxchristiantheology.com/2020/12/11/the-orthodox-doctrine-of-justif
 https://orthodoxchristiantheology.com/2020/12/17/the-orthodox-doctrine-of-justification-the-patristic-and-conciliar-teaching
 
 
-Romans 8:30
+!!! quote "Romans 8:30"
+    Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
+
 also see commentary from Symeon the New Theologian:
 
 
-Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified. - Romans 8:30
-
-It is not God’s foreknowledge of those who, by their free choice and zeal, will prevail which is the cause of their victory, just as, again, it is not His knowing beforehand who will fall and be vanquished which is responsible for their defeat. Instead, it is the zeal, deliberate choice, and courage of each of us which effects the victory. Our faithlessness and sloth, our irresolution and indolence, on the other hand, comprise our defeat and perdition. So, while reclining on our bed of worldly affection and love of pleasure, let us not say: “Those whom God fore-knew, them also He predestined,” without perceiving just what it is we are saying. Yes, indeed, He truly knew you beforehand as inattentive and disobedient and lazy, but this is certainly not because He ordered or foreordained it that you should have no power to repent yourself nor, if you will it, to get up and obey. You, though, when you say this, are clearly calling God a liar. While He says, “I came not to call the righteous but sinners to repentance” [Matthew 9:13], you, lazy and unwilling to turn around and repent of your evil, contradict Him, as it were, and call Him a liar Who never lies, when you make such excuses as these. “Those who are going to repent”, you say, “were predestined, but I am not one of them. So, let them repent therefore whom God clearly foreknew, and whom He also predestined.” O what a lack of feeling! O shamelessness of soul and worse than the demons themselves! When did anyone ever hear of one of them saying such a thing? Where was it ever heard that a demon blamed God for its own damnation? Let us then not blame the demons, for here there is a human soul which thinks up blasphemies even worse than theirs. - "Second Ethical Discourse"
-
-- Symeon the New Theologian
-
-Read more commentaries at https://catenabible.com/com/60284a92365356511a11312b
-
-
-
-Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified. - Romans 8:30
 
 On the Saying “Those Whom He Foreknew, The Same He Also Predestined” 
 
