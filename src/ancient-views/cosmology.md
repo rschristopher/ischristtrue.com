@@ -8,7 +8,35 @@ However, the word *cosmology* derives from *cosmos*, as in the natural order of 
 As such, the ancient and more accurate meaning of *cosmology* is non-secular -- it is the divine story of the order of the universe. 
 This presupposes the Christian God as revealed in Biblical canon (with the triune God as the first principle from which all transcendent categories arise).
 
-Let us lay out the chronological order of the Biblical canon to see the ancient cosmology as it was understood in ancient times, as precursor to our modern view -- a foundation. In doing so we are presented with a grand story of origin, of sin, of death, of hope, of prophecy, and ultimately of redemption. 
+## Ancient Models in Modern Eyes
+
+It is difficult if not impossible to understand ancient cosmological models in our modern view. With a beam in our eye we somehow expect geographic maps with fixed mechanistic scales of distance, and what we'll get instead is esoteric symbolism, trees and turtles and dragons, usually some kind of heavenly realm above the worldly "middle" realm and then some kind of "underworld" of the dead.
+
+???+ example "The Spheres between Heaven and Hell"
+    ![spheres-heaven-hell](/images/spheres-heaven-hell.jpg)
+
+
+???+ example "The Planisphere"
+    ![planisphere](/images/planisphere.jpg)
+
+???+ example "The Egyptian Cosmos"
+    ![planisphere](/images/egyptian.jpg)
+
+
+The conceit of our modern view is to imagine these were "scientific" models, that people believed in the exact shape and literal geography of these models, rather than as a theological map of consciousness.
+Importantly, all civilizations independently made these kind of maps, and even today we conceive of the world around us in exactly these terms: various spheres of influence and behavior, a heavenly world above us (aspirations, beauty, life), and a demonic underworld (fears, suffering, death).
+
+All cosmological models try to map a heavenly precosmogonic origin, and then usually an underworld depicting death.
+Here's a modern cosmology map to drive the point home (note the origin, and the realm beyond space-time),
+
+???+ example "The Modern Cosmos"
+    ![modern-cosmos](/images/modern-cosmos.jpg)
+
+Truth is, no one *ever* believed these were geographic maps of physical terrain. For example, both the Romans and the Pharisees understood the claim that heaven and earth met with Christ on the cross (they disagreed but still understood the claim far better than our modern view) -- no one thought that this was because the cross was really tall. No one thought that heaven began at a certain elevation above sea level and that hell began at a certain depth beneath.
+
+Remember, ancient cosmology is the story of the ordering of the created universe. As such, what we call the scriptures are the ancient Christian cosmology. The various maps are merely aids to understanding a cosmology that is not static, but very much alive (that is, a story).
+
+Let us lay out the chronological order of the Biblical canon to see the ancient cosmology as it was understood in ancient times, as precursor -- a foundation -- to our modern view. In doing so we are presented with a grand story of origin, of sin, of death, of hope, of prophecy, and ultimately of redemption. 
 It is our story.
 And it is the only cosmology from which morality and truth can be objectively knowable.
 

@@ -4,6 +4,8 @@ The Christian doctrine of death is often ignored and neglected, especially in ou
 
 Death entered the world at the fall..
 
+Death and Time -- the very nature of what we call *time* presupposes death.
+
 Death and Evolution
 
 or rather, evolution is the divine response to death -- the two are intractable such that it's fair to categorize them as equivalent, that is, we cannot have evolution without death and vice versa.
@@ -17,6 +19,39 @@ such as Christianity itself, and the fruits of its evolutionary fitness.
 A world without death
 
 what would that look like?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
