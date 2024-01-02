@@ -92,7 +92,7 @@ The Fall of Man, Genesis 3<br />
     And despite the spirit of God being with man, sin entered the hearts of man, leading to the firstborn, Cain, to kill his brother Abel (second rebellion against God).
     Humans lived for centuries, and in this age the sons of God (the angels, the heavenly hosts) continued the sin against God and took for themselves the daughters of men.
     
-    In this age only Enoch walked with God, and later so did his grandson Noah.
+    In this age only Enoch walked with God, and later his grandson Noah walked with God.
 
 
 * ~3000 BC<br />
