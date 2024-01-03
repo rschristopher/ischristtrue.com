@@ -66,13 +66,13 @@ In the Beginning was the Word, John 1<br />
 
 
 
-## Adamic Age
+## Edenic Age
 
 !!! info "Walking with God"
-    The Adamic age was man walking with God, and it ended at the fall, at our exile from Eden.
+    The Edenic age was man walking with God, and it ended at the fall, at our exile from Eden.
     
     The cosmology during this age is best understood as a radical shift marked by the fall of man.
-    The fall introduced sin and death, which necessarily means that prior to the fall there was no death, and thus no evolution (which is best understood as life striving and surviving in the face of death).
+    The fall introduced death, which necessarily means that prior to the fall there was no death, and thus no evolution (which is best understood as life striving and surviving in the face of death).
 
 * ~4000 BC<br />
 The Creation, Genesis 1<br />
