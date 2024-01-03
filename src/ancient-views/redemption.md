@@ -36,7 +36,7 @@ We can only infer from ancient text (canonical and apocryphal) what this was lik
 For better or worse, our [modern](../modern-views/index.md) age is increasingly providing a taste of exactly this ungodly state.
 
 The redemption of man is thus an extreme cosmological shift, a paradigm shift in consciousness, restoring man into a state last seen in Eden.
-For others this is [hell](hell.md), which is God's mercy for the unrepentant.
+For others this is [hell](../doctrines/hell.md), which is God's mercy for the unrepentant.
 
 In other words, all are *bought back*, and while this is good news for those who bear their cross so that the old man may die, this exact redemption (buying back) is a lake of fire for those that refuse to let the old man die.
 This means there is no more rebellion, that time as we know it is over, and we return to our created state -- glorified, or thrown into the lake of fire.

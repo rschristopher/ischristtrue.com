@@ -7,6 +7,14 @@
 On the nature of hell.
 On what happens to our immortal soul
  after death.
+For in the end, death itself is thrown into the *lake of fire*.
+
+!!! quote "Revelation 20:11-15"
+    Then I saw a great white throne and Him who sat on it, from whose face the earth and the heaven fled away. And there was found no place for them. 
+    And I saw the dead, small and great, standing before God, and books were opened. And another book was opened, which is the Book of Life. And the dead were judged according to their works, by the things which were written in the books. 
+    The sea gave up the dead who were in it, and Death and Hades delivered up the dead who were in them. And they were judged, each one according to his works. 
+    Then Death and Hades were cast into the lake of fire. This is the second death. 
+    And anyone not found written in the Book of Life was cast into the lake of fire.
 
 There is a longing by nihilists
  -- *from
@@ -124,7 +132,7 @@ They exist in meaningless darkness,
  which in their pride is what they would do.
 God's love is here, ready to
  save, and yet they still refuse, forever,
- burning in pain while desperate for
+ burning in that lake of fire while desperate for
  the abyss of nothingness.
 This is hell.
 
