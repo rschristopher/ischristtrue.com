@@ -15,7 +15,7 @@ And as we'll see, this is no accident.
 ## Mythologies
 
 In our modern secular view we think of *mythology* as false or make believe, like fairy tails, or at best as primitive beliefs from "less evolved civilizations".
-However, *myth* simply means *story*, and the *-ology* suffix is derived from *logia* (divine word), and thus *mythology* is best thought of as "stories to live by".
+However, *myth* simply means *story*, and the *-ology* suffix is derived from *logia* (divine word), and thus *mythology* is best thought of as "stories people live by".
 And if we take a sober look at ancient mythologies, we find angels and demons featured in all of them.
 
 Technically, the word *angel* means a messenger of God. 
@@ -45,13 +45,13 @@ The term *pagan*, like *heathen*, simply refers to religous systems outside of J
 Paganism is commonly associated with the Greek and Roman pantheon of gods, but we can analyze the broader sense of paganism within world mythologies.
 In doing so we find that the myriad of mythological gods have a lot in common.
 
-In pagan mythologies we find identical themes: regional gods have dominion over nature, and man is subordinate to these gods, worshipping and giving sacrifice.
+In pagan mythologies we find identical themes: regional gods have dominion over people, where man is subordinate to these gods, worshipping and giving sacrifice.
 The pagan gods are typically indifferent or antagonistic to humans; such that humans are nothing but the playthings of these gods.
 
 The innovation in Judiaism is the realization (revelation) that the God most high is not only the creator of all, but also the source of morality, a universal morality, that good and evil are objectively knowable, and as such only the God most high is to be worshipped.
 Contrast this with the Roman pantheon, where the gods of conquered people were collected and worshipped.
 
-Within pagan mythologies you'll even find stories of a great flood, and even some heavenly rebellions -- although interestingly, the pagan gods all succeded in their rebellions:
+Within pagan mythologies you'll even find stories of a great flood, lost civilizations, and even some heavenly rebellions -- although interestingly, the pagan gods all succeded in their rebellions:
 Zeus overthrew his father Cronus, who had in turn castrated his father Heaven (Uranus);
 Kumarbi overthrew Anu (biting off his genitals);
 Set killed his brother Osiris, the perfect pharoah; and then Horus, the son of Osiris, overthrows Set.
@@ -68,9 +68,9 @@ In all of these systems we have angelic spirits and demonic counterparts: from t
 Modern churches do not teach about angels and demons, and if they do it's likely to follow from Milton's Paradise Lost (most likely unconsciously).
 
 In this view Satan rebelled against God and took one third of the angels with him. 
-They organized in hell and vowed to do evil against man.
+They organized in hell, built the city of *Pandemonium* and vowed to do evil against man.
 Satan traveled to Eden and hid himself as a snake where he tempted Adam and Eve.
-The fallen angels (one third of the heavenly hosts), demons, do everything in their power to deceive and hurt man, the created beings made in His image.
+The fallen angels (one third of the heavenly hosts), demons, do everything in their power to deceive and hurt man, the created beings made in God's image.
 
 Paradise Lost is obviously not canonical, but notice how so many assume this mythology is canonical; despite none of this story being reflected anywhere in the Bible nor anywhere in the early church.
 Like the pagan mythologies, there seems to be something about these stories that must be true, as if they are hovering in or near an archytpal truth that we cannot quite articulate.
@@ -82,9 +82,9 @@ Like the pagan mythologies, there seems to be something about these stories that
 ### Early Church
 
 There were ranks of created spirits, heavenly hosts, and the fall of these spirits happened more than once. 
-E.g., a group of angels known as the watchers are the "sons of God" referenced in Genesis. 
+For example, a group of angels known as the watchers are the "sons of God" referenced in Genesis. 
 These are the "sons of God" that had children with the "daughters of men". 
-These hybrid children are known as nephilim, and are a precursor to the flood.
+These hybrid children are known as *nephilim*, and are a precursor to the flood.
 
 Demons are not only fallen angels, but also the spirits of the dead nephilim.
 
@@ -197,7 +197,7 @@ Angels are clearly not subject to time (and death) with the maleability that hum
 Similar to how we can understand that an angel is embodied in reference to God, but not embodied in reference to man -- angels exist within time in reference to God, but outside of time in reference to man.
 This is because angels and man are created, and only God is truly timeless and eternal.
 
-Ultimately, We do not understand the exact nature of how angels experience time (whether it's a separate temporal dimension from ours), but we do know that they do not experience time as humans (or any animals) do. They do not mature and grow in character. And fallen angels are unable to be redeemed.
+Ultimately, We do not understand the exact nature of how angels experience time (whether it's a separate temporal dimension from ours), but we do know that they do not experience time as humans (or any animals) do. They do not mature and grow in character as humans do. And fallen angels are unable to be redeemed.
 
 
 
