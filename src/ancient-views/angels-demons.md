@@ -315,6 +315,12 @@ Demons are integral to the cosmology of death, devouring that which has died and
 The second great evil (after death) of mankind.
 Sin entered the world and led to near complete corruption of mankind.. only Noah was redeemable.
 
+Logismoi, thoughts, dark/evil thoughts
+
+these are demons at the door, sometimes knocking, sometimes testing if the door is locked -- will you entertain those thoughts?
+
+This part of our fallen nature. And only through Christ can we overcome.
+
 
 
 ### Dominion

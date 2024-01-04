@@ -28,6 +28,10 @@ Jesus does not rebuke Satan by sending him to hell, if anything Christ affirms t
 
 
 
+
+Logismoi, thoughts, dark/evil thoughts -- demons checking if the door is unlocked.
+
+
 There is no evil if one has perfect
  knowledge. 
 All evil is born of ignorance and lies.
