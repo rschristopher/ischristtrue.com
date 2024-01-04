@@ -60,7 +60,8 @@ In some cases there are cyclical dieties, where the rebellious succession repeat
 In all of these systems we have angelic spirits and demonic counterparts: from the Aztec Tzitzimitl to the Japanese [Oni](https://en.wikipedia.org/wiki/Oni).
 
 
-
+!!! quote "Deuteronomy 32:16-17"
+    They provoked him to jealousy with strange gods, with abominations provoked they him to anger. They sacrificed unto devils, not to God; to gods whom they knew not, to new gods that came newly up, whom your fathers feared not.
 
 
 ### Paradise Lost
