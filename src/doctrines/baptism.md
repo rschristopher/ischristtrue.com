@@ -3,6 +3,11 @@
 !!! quote "Matthew 28:19-20"
     Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.
 
+!!! quote "Mark 16:15-16"
+    And he said unto them, Go ye into all the world, and preach the gospel to every creature. He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
+
+
+
 !!! quote "Romans 6:3-4"
     Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
 
@@ -15,6 +20,10 @@
 
 
 
+What of the spirits of the dead?
+
+!!! quote "1 Peter 3:19-22"
+    By which also he went and preached unto the spirits in prison; Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water. The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ: Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him.
 
 https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/baptism
 
