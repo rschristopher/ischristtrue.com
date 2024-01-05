@@ -3,6 +3,9 @@
 In our [modern view](../modern/index.md) we tend to ignore and neglect death, and other than pithy lines like *"death and taxes"* we tend to hide from death, pretending its ravages will be painless and not worth our time to plan for our final stages of life (between retirement and death there lives years of suffering for most modern people).
 Ancient views lacked such luxury and were faced with death continuously.
 
+!!! quote "Isaiah 28:18"
+    And your covenant with death shall be disannulled, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.
+
 Death entered the world at the fall..
 
 Death and Time -- the very nature of what we call *time* presupposes death.
