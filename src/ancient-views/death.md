@@ -7,6 +7,7 @@ Ancient views lacked such luxury and were faced with death continuously.
     And your covenant with death shall be disannulled, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.
 
 Death entered the world at the fall..
+A covenant with death was made.
 
 Death and Time -- the very nature of what we call *time* presupposes death.
 
