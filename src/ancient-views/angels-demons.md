@@ -15,7 +15,7 @@ And as we'll see, this is no accident.
 ## Mythologies
 
 In our modern secular view we think of *mythology* as false or make believe, like fairy tails, or at best as primitive beliefs from "less evolved civilizations".
-However, *myth* simply means *story*, and the *-ology* suffix is derived from *logia* (divine word), and thus *mythology* is best thought of as "stories people live by".
+However, *myth* simply means *story*, and the *-ology* suffix is derived from *logia* (divine word), and thus *mythology* is best thought of as "stories we participate in" or "stories people live by".
 And if we take a sober look at ancient mythologies, we find angels and demons featured in all of them.
 
 Technically, the word *angel* means a messenger of God. 
@@ -362,6 +362,15 @@ adversary
     
     Yet thou shalt be brought down to hell, to the sides of the pit.
     
+
+!!! quote "Ezekiel 28:14-19"
+    Thou art the anointed cherub that covereth; and I have set thee so: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire.
+    Thou wast perfect in thy ways from the day that thou wast created, till iniquity was found in thee.
+    By the multitude of thy merchandise they have filled the midst of thee with violence, and thou hast sinned: therefore I will cast thee as profane out of the mountain of God: and I will destroy thee, O covering cherub, from the midst of the stones of fire.
+    Thine heart was lifted up because of thy beauty, thou hast corrupted thy wisdom by reason of thy brightness: I will cast thee to the ground, I will lay thee before kings, that they may behold thee.
+    Thou hast defiled thy sanctuaries by the multitude of thine iniquities, by the iniquity of thy traffick; therefore will I bring forth a fire from the midst of thee, it shall devour thee, and I will bring thee to ashes upon the earth in the sight of all them that behold thee.
+    All they that know thee among the people shall be astonished at thee: thou shalt be a terror, and never shalt thou be any more.
+
 
 
 
