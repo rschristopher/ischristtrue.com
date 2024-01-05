@@ -336,8 +336,27 @@ These are demons..
 
 ### Nephilim
 
-...
 
+!!! quote "Genesis 6:4"
+    There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.
+
+!!! quote "Numbers 13:33"
+    And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
+
+
+... strongmen, metaphoric in some cases although the concept is universal across all anient religions that they were indeed very tall.
+
+!!! quote "2 Peter 2:4-5"
+    For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment; 
+    And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly
+
+
+!!! quote "Jude 1:5-6"
+    I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not. 
+    And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.
+
+
+Sethite View, https://www.khouse.org/articles/1997/110/
 
 
 
@@ -355,19 +374,18 @@ adversary
 
 !!! quote "Isaiah 14:12-15"
     How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
-    
     For thou hast said in thine heart, I will ascend into heaven, I will exalt my throne above the stars of God: I will sit also upon the mount of the congregation, in the sides of the north:
-    
     I will ascend above the heights of the clouds; I will be like the most High.
-    
     Yet thou shalt be brought down to hell, to the sides of the pit.
     
 
 !!! quote "Ezekiel 28:14-19"
     Thou art the anointed cherub that covereth; and I have set thee so: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire.
     Thou wast perfect in thy ways from the day that thou wast created, till iniquity was found in thee.
+
     By the multitude of thy merchandise they have filled the midst of thee with violence, and thou hast sinned: therefore I will cast thee as profane out of the mountain of God: and I will destroy thee, O covering cherub, from the midst of the stones of fire.
     Thine heart was lifted up because of thy beauty, thou hast corrupted thy wisdom by reason of thy brightness: I will cast thee to the ground, I will lay thee before kings, that they may behold thee.
+
     Thou hast defiled thy sanctuaries by the multitude of thine iniquities, by the iniquity of thy traffick; therefore will I bring forth a fire from the midst of thee, it shall devour thee, and I will bring thee to ashes upon the earth in the sight of all them that behold thee.
     All they that know thee among the people shall be astonished at thee: thou shalt be a terror, and never shalt thou be any more.
 
