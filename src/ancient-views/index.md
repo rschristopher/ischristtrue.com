@@ -30,10 +30,18 @@ Masculinity in the modern world
 
 The industrial revolution increasingly took fathers out of the family business and into factories, a trend we see exacerbated during periods such as the great depression (tractors changing the economic reality of family farms). And as the trend continued so too rose the attack on masculinity, as this disruption in the natural order (breaking families) results in an ancient pagan kind of masculinity -- where we have the toxic varieties combined with sneaky fuckers and eunuchs (castrated men).
 
-Secular masculinity is essentially rediscovering the pre-Christian archetypes of men, and it is demonic and anti-Christian
+Secular masculinity is essentially reverting to the pre-Christian archetypes of men, and it is demonic and anti-Christian.
+Similarly, secular feminity is reducing women, paradoxically replacing femininity with masculine energy as the only valuable energy (applied to women), reducing femininity as a weakness. Beauty and grace are quickly replaced with fashion and idolatry, ironically played out mostly by biological men (as women's roles are reduced into slavish participants)
 
 
-Christian masculinity is man as head of the household, protecting and raising his children, ministering to his family and worshipping God.
+Christian masculinity restores man and woman to their God-given roles, as icons of God.
+
+Monasticism and Marriage, two callings, 
+
+Marriage as the path for raising children in a consecrated union, and monasticism is a consecrated celibacy, a divine spiritual calling. The two paths can often intertwine and are mutually supportive of the other.
+
+Man as the head of the household, protecting and raising children, ministering to his family and worshipping God.
+Woman as the heart of the family, nurturing and raising children, ministering to her husband and worshipping God.
 
 
 
