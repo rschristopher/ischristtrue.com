@@ -1,3 +1,11 @@
+<!--
+Lord Jesus Christ
+Son of God
+Have mercy on me
+ a sinner
+
+
+-->
 # Age of Enlightenment
 
 To be enlightened means to be "*a light onto oneself*".
@@ -41,4 +49,18 @@ Perhaps all of the above is a
  the author of space and time and logic itself,
  and who rejoices over a single sinner
  who is redeemed) -or- maybe Calvin was wrong.
+
+
+
+https://m.youtube.com/watch?v=SiINgxCdmqM
+
+
+
+
+
+
+
+
+
+
 
