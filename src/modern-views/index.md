@@ -14,7 +14,7 @@ This destructive revolution *is* the modern view.
 The irony of course is that this modern "revolution" is not new. We've been at the dawning of a new age, the destruction of the old order, for quite some time now.
 The new age never seems to fully manifest, and to the degree it does it quickly becomes the old and all attention switches to the truly "new", the real revolution. It's always promised to be happening soon if not now.
 
-In truth, this is the failure of every generation, the echoes of man's original sin reverberating through the ages. But let's investigate this modern view, this destructive revolutionary view, and see if we can find where it began.
+In truth, this is the failure of every generation, the echoes of man's original sin reverberating through the ages, and with a uniquely anti-Christian aim. But let's investigate this modern view, this destructive revolutionary view, and see if we can find where it began.
 
 
 
