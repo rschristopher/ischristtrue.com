@@ -89,7 +89,7 @@ Without Christ we are living in darkness, worshipping various systems of control
 
 
 Christ -- *the Spirit of Truth, the King of kings, the Prince of peace, God of gods* -- is known by many titles -- *the Lord of Spirits, the Son of Man, the Son of God, the Messiah*.
-And the [doctrines](doctrines/christ.md) of his life, death, resurrection and ascension are as varied as His titles.
+And the [doctrines](doctrines/index.md) of His life, death, resurrection and ascension are as varied as His titles.
 Yet Christ is knowable to you personally, not just in high-minded theological discourse but down to every flutter of your heart.
 
 His grace is there with you now.
