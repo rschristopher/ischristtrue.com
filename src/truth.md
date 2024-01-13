@@ -504,7 +504,7 @@ All truth claims consist of
  morality, 
  meaning,
  and even beauty.
-E.g., even the leaf turning to face the sun; the functionality is obvious, the leaf is absorbing as much sunlight as possible. But what is the meaning and morality of a leaf turning to face the sun? The meaning is to use the sun's energy to convert water into energy for the tree. The morality is that the tree is good when it does this, it flourishes with sun, and dies otherwise.
+E.g., imagine (or observe) a leaf turning to face the sun; the functionality is obvious, the leaf is absorbing as much sunlight as possible. But what is the meaning and morality of a leaf turning to face the sun? The meaning is to use the sun's light to convert water into energy for the tree. The morality is that the tree is good when it does this, it flourishes with sun, and dies otherwise.
 And most fascinating, if you perceive one aspect of a truth claim, such as a moral intuition, you can then grasp the other attributes, including meaning.
 Apply this to life itself, and examine the moral intuitions of what it means to live in a way that is good, and you'll simultaneously arrive at the meaning of life.
 
