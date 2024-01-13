@@ -11,6 +11,9 @@ A covenant with death was made.
 
 Death and Time -- the very nature of what we call *time* presupposes death.
 
+https://m.youtube.com/watch?v=Y0sdPLJO3cE
+
+
 Death and Evolution
 
 or rather, evolution is the divine response to death -- the two are intractable such that it's fair to categorize them as equivalent, that is, we cannot have evolution without death and vice versa.
