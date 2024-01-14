@@ -5,23 +5,23 @@ http://orthodoxinfo.com/general/doctrine1.aspx
 
 the doctrines of his life, death, resurrection and ascension
 
-annunciation
+Annunciation 
 
-nativity
+Nativity
 
-baptism
+Baptism 
 
-temptations 
+Temptations
 
-ministry / salvation 
+Ministry / salvation 
 
-crucifixion / coronation
+Crucifixion / coronation
 
-harrowing of Hades
+Harrowing of Hades
 
-resurrection 
+Resurrection 
 
-ascension
+Ascension
 
 
 
