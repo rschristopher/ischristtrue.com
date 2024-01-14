@@ -1,4 +1,4 @@
-# Temptations
+# Temptations of Christ 
 
 three temptations, and we fall for them
  even today.
