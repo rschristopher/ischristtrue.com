@@ -23,8 +23,6 @@ resurrection
 
 ascension
 
-messianic age
-
 
 
 
