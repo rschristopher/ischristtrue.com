@@ -1,5 +1,12 @@
 # Coronation on the Cross 
 
+
+!!! quote "John 12:31"
+    Now is the judgment of this world: now shall the prince of this world be cast out.
+
+
+
+
 Crucifixion
 
 !!! quote "John 19:18-22"
