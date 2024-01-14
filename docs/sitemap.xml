@@ -116,7 +116,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ischristtrue.com/doctrines/ministry/</loc>
+         <lastmod>2024-01-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ischristtrue.com/doctrines/nativity/</loc>
+         <lastmod>2024-01-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ischristtrue.com/doctrines/temptations/</loc>
          <lastmod>2024-01-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
