@@ -1,4 +1,4 @@
-# Doctrine of Salvation
+# Salvation
 
 ... soteriology
 
