@@ -712,7 +712,7 @@ To deny God,
  to deny knowable truth,
  is to fall from grace --
  an eternal
- [hell](doctrines/hell.md)
+ [hell](doctrines/harrowing.md)
  of one's own making.
  
 
