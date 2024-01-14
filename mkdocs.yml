@@ -60,20 +60,26 @@ nav:
         - Creation: ancient-views/creation.md
         - Death: ancient-views/death.md
         - Fall of Man: ancient-views/fall.md
+        - Justification: ancient-views/justification.md
         - Logos: ancient-views/logos.md
         - Metanoia: ancient-views/metanoia.md
+        - Mediation: ancient-views/mediaton.md
+        - Mysteries: ancient-views/mysteries.md
         - Order from Chaos: ancient-views/order-chaos.md
         - Redemption of Man: ancient-views/redemption.md
+        - Salvation: ancient-views/salvation.md
         - Sin: ancient-views/sin.md
     - Doctrines:
         - doctrines/index.md
         - Annunciation: doctrines/annunciation.md
+        - Nativity: doctrines/nativity.md
         - Baptism: doctrines/baptism.md
-        - Hell: doctrines/hell.md
-        - Justification: doctrines/justification.md
-        - Mediation: doctrines/mediator.md
-        - Mysteries: doctrines/mysteries.md
-        - Salvation: doctrines/salvation.md
+        - Temptations: doctrines/temptations.md
+        - Ministry: doctrines/ministry.md
+        - Crucifixion: doctrines/crucifixion.md
+        - Harrowing of Hades: doctrines/harrowing.md
+        - Resurrection: doctrines/resurrection.md
+        - Ascension: doctrines/ascension.md
     - References: 
         - references/index.md
 
