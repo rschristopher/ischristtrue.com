@@ -62,8 +62,9 @@ nav:
         - Fall of Man: ancient-views/fall.md
         - Logos: ancient-views/logos.md
         - Metanoia: ancient-views/metanoia.md
-        - Order and Chaos: ancient-views/order-chaos.md
+        - Order from Chaos: ancient-views/order-chaos.md
         - Redemption of Man: ancient-views/redemption.md
+        - Sin: ancient-views/sin.md
     - Doctrines:
         - doctrines/index.md
         - Baptism: doctrines/baptism.md
@@ -73,7 +74,6 @@ nav:
         - Mediation: doctrines/mediator.md
         - Mysteries: doctrines/mysteries.md
         - Salvation: doctrines/salvation.md
-        - Sin: doctrines/sin.md
     - References: 
         - references/index.md
 
