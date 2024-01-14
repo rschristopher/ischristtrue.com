@@ -1,4 +1,6 @@
-# Coronation / Crucifixion
+# Coronation on the Cross 
+
+Crucifixion
 
 !!! quote "John 19:18-22"
     There they crucified Him, and with Him two others, one on each side, with Jesus in the middle.
