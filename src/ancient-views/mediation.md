@@ -1,4 +1,4 @@
-# Christ as the Mediator 
+# Mediaton
 
 > For there is one God and one Mediator 
 > between God and men, 
