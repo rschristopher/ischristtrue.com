@@ -1,4 +1,13 @@
 # Philosophical Problem of Evil
+<!--
+Lord Jesus Christ, Son of the living God
+ Have mercy on me, a sinner
+
+Grant unto me, Lord, wisdom and discernment that I might articulate and glorify all that is good
+-->
+
+!!! quote "Maximus the Confessor"
+    Food is not evil, but gluttony is. Childbearing is not evil, but fornication is. Money is not evil, but avarice is. Glory is not evil, but vainglory is. Indeed, there is no evil in existing things, but only in their misuse.
 
 In our modern view we sometimes hear about the philosopical problem of evil, usually something like,
 
