@@ -13,18 +13,20 @@ In our modern view we sometimes hear about the philosopical problem of evil, usu
 
 > If God is so good, then why is there evil?
 
-There are of course more dressed up versions of this argument, like the metaphysical variant from [St. Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas),
+There are of course more refined versions of this argument, like the metaphysical variant from [St. Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas),
 
 > It seems that there is no God. For if one of two contraries were infinite, the other would be completely destroyed. But by the word ‘God’ we understand a certain infinite good. So, if God existed, nobody would ever encounter evil. But we do encounter evil in the world. So, God does not exist.
 
-This is, as we shall see, a nonsensical debate. 
+I like that Aquinas formulates this in such strong language.
+However, this is ultimately a nonsensical debate and it gives ground to a false framing (a first step, as it were, towards nihilism).
+In truth, there is no philosophical *problem* of evil.
 
 There are in fact no religions with a philosophical problem of evil.
 Most worldviews lack an objective knowable good or evil.
 For example,
 dualistic religions typically claim a precosmogonic schism between dark and light (order and chaos) and thus no objective good nor evil.
 Or the gnostic sects typically imagine a demiurge that is the source of suffering (a subjective evil).
-Buddhism frames the entire cosmic drama in terms of suffering, illusion, and nirvana -- where there is no good nor evil.
+Buddhism frames the entire cosmic drama in terms of suffering, illusion, and nirvana -- where there is no objective good nor evil.
 Hinduism similarly frames things outside of any objective moral truth.
 
 
@@ -36,18 +38,18 @@ Articulating a philosophical problem of evil presupposes a mountain of claims, l
 * *Good and Evil* -- obviously we must assume good and evil exist and are objectively knowable, not as mere subjective opinions but must exist as things in themselves.
 * *Truth and Falsehood* -- we must further assume that moral claims of good and evil are knowable as true or false, that is, that we can discern true from false.
 
-There are of course countless more presupositions needed to make sense of a philosophical problem of evil, yet just these two points necessitate a justifiable epistemology and an objectively knowable morality, a universal morality. In other words we're assuming there exists objectively knowable evil that is universally evil. Otherwise, a relativistic worldview wouldn't have a universal morality, and there would be no philosophical problem to debate.
+There are of course countless more presupositions needed to make sense of a philosophical problem of evil, yet just these two assumptions necessitate a justifiable epistemology and an objectively knowable morality, a universal morality. In other words we're assuming there exists objectively knowable evil that is universally evil. Otherwise, a relativistic worldview wouldn't have a universal morality, and there would be no philosophical problem to debate.
 
 The entirety of the "problem" of evil presupposes God while attempting to disprove God. We are forced to elevate logic and reason above God, above truth, above goodness, and above knowledge itself.
 
 
 ## Mistakes of Scholasticism
 
-We might want to call this the *Thomistic mistake* as Aquinas's formulation of this problem presupposes the Christian God by assuming rationality, knowable truth, good and evil. His response to the problem of evil, while interesting, is circular,
+We might want to call this the *Thomistic mistake* as Aquinas's formulation of this problem presupposes the Christian God as contingent upon rationality, knowable truth, good and evil. His response to the problem of evil, while interesting, is circular,
 
 > As Augustine says (Enchiridion xi): "Since God is the highest good, He would not allow any evil to exist in His works, unless His omnipotence and goodness were such as to bring good even out of evil." This is part of the infinite goodness of God, that He should allow evil to exist, and out of it produce good.
 
-Effectively all Aquinas has proven is that if we presuppose God and all the transcendent categories contingent upon God, then God exists. The Augustinian reference, while fascinating, is ultimately irrelevant to the "problem" of evil.
+Effectively all Aquinas has proven is that if we presuppose all the transcendent categories contingent upon God, then God exists. The Augustinian reference, while fascinating, is ultimately irrelevant to the "problem" of evil.
 
 The danger in the scholastic worldview (of which Aquinas exemplifies here) is that we assume all the transcendent categories which are dependent on God, but without supposing God. We want the fruit without the tree. We want logic, reason, epistemology, and morality, all exactly *as if* there is a Christian God but without God. This is why the scholastic arguments for the existence of God are circular, and why the actual fruits of [scholasticism](https://en.wikipedia.org/wiki/Scholasticism) yield postmodernism, relativism, and ultimately nihilism.
 
