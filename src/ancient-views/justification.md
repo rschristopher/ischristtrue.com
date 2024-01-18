@@ -16,7 +16,7 @@ Lord, grant me wisdom and mercy that these words may speak the Truth
     We who are Jews by nature, and not sinners of the Gentiles, 
     Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.
 
-!!! quote "Martin Luther"
+!!! warning "Martin Luther"
     This faith alone, when based upon the sure promises of God, must save us; as our text clearly explains. And in the light of it all, they must become fools who have taught us other ways to become godly.
 
 The church fathers and even the apostles must (according to this view) become fools.
@@ -27,14 +27,14 @@ The church fathers and even the apostles must (according to this view) become fo
 It is difficult to square *sola fide* with the words ***not by faith only***. Remember, all it takes is one counterexample to disprove a given Biblical interpretation.
 And in this case it's pretty clear, any interpretation that attempts to claim justification by faith alone (sola fide) is false, unless of course the epistle of James is false.
 
-!!! quote "Martin Luther"
+!!! warning "Martin Luther"
     We should throw the epistle of James out of this school, for it doesn’t amount to much. It contains not a syllable about Christ. Not once does it mention Christ, except at the beginning. I maintain that some Jew wrote it who probably heard about Christian people but never encountered any. Since he heard that Christians place great weight on faith in Christ, he thought, ‘Wait a moment! I’ll oppose them and urge works alone.’ This he did.
 
 This is a great example of prelest, spiritual deception.
 
 Martin Luther went so far as to change the translation of Romans 3:28 to add "alone through faith" (*allien* in the German).
 
-!!! quote "Luther's version of Romans 3:28"
+!!! warning "Luther's version of Romans 3:28"
     So now we hold, that man is justified without the help of the works of the law, ***alone through faith***
 
 This is, at best, an unfaithful and bad translation of the original Greek,
@@ -49,7 +49,7 @@ It's as sure a sign of demonic deception as you can find.
 
 This kind of meddling with scripture, to fit your personal interpretation, is clearly heretical and should be condemned by any honest truth seeker. The precedent set is immoral and dangerous. The bad fruits of this are on full display in the decaying history of western civilization.
 
-!!! quote "Martin Luther"
+!!! warning "Martin Luther"
     I almost feel like throwing Jimmy into the stove
 
 Perhaps we should all have been more mindful of the warning in Revelation 22, and applied such warning to the entire Bible.
