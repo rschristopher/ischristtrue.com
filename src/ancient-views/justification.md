@@ -20,7 +20,7 @@ Lord, grant me wisdom and mercy that these words may speak the Truth
 !!! quote "James 2:24"
     Ye see then how that by works a man is **justified**, and ***not by faith only***.
 
-Difficult to square *sola fide* with the words ***not by faith alone***. Remember, all it takes is one counterexample to disprove a given Biblical interpretation.
+Difficult to square *sola fide* with the words ***not by faith only***. Remember, all it takes is one counterexample to disprove a given Biblical interpretation.
 And in this case it's pretty clear, any interpretation that attempts to claim justification by faith alone (sola fide) is false.
 
 !!! quote "Martin Luther"
