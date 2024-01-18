@@ -10,6 +10,11 @@ Lord, grant me wisdom and mercy that these words may speak the Truth
 
 orthodox view...
 
+https://m.youtube.com/watch?v=adr6AD8YduA
+
+
+
+
 
 ## Sola Fide
 
