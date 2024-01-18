@@ -4,20 +4,47 @@
 
 ## Sola Fide
 
-
-
-!!! quote "Martin Luther"
-    We should throw the epistle of James out of this school, for it doesn’t amount to much. It contains not a syllable about Christ. Not once does it mention Christ, except at the beginning. I maintain that some Jew wrote it who probably heard about Christian people but never encountered any. Since he heard that Christians place great weight on faith in Christ, he thought, ‘Wait a moment! I’ll oppose them and urge works alone.’ This he did.
-
+!!! quote "Galatians 2:25-16"
+    We who are Jews by nature, and not sinners of the Gentiles, 
+    Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.
 
 
 !!! quote "James 2:24"
     Ye see then how that by works a man is **justified**, and ***not by faith only***.
 
+Difficult to square *sola fide* with the words ***not by faith alone***. Remember, all it takes is one counterexample to disprove a given Biblical interpretation.
+And in this case it's pretty clear, any interpretation that attempts to claim justification by faith alone (sola fide) is false.
+
+!!! quote "Martin Luther"
+    We should throw the epistle of James out of this school, for it doesn’t amount to much. It contains not a syllable about Christ. Not once does it mention Christ, except at the beginning. I maintain that some Jew wrote it who probably heard about Christian people but never encountered any. Since he heard that Christians place great weight on faith in Christ, he thought, ‘Wait a moment! I’ll oppose them and urge works alone.’ This he did.
+
+
+Martin Luther went so far as to change the translation of Romans 3:28 to add "alone through faith" (*allien* in the German).
+
+!!! quote "Luther's version of Romans 3:28"
+    So now we hold, that man is justified without the help of the works of the law, ***alone through faith***
+
+This is, at best, an unfaithful and bad translation of the original Greek,
+
+!!! quote "Romans 3:28"
+    γὰρ λογιζόμεθα ἄνθρωπον δικαιοῦσθαι πίστει χωρὶς ἔργων νόμου
+    
+    Therefore we conclude that a man is justified by faith without the deeds of the law.
+
+This kind of meddling with scripture, to fit your personal interpretation of scripture, is clearly heretical and should be condemned by any honest truth seeker. It is unconscionable and wrong. The precedent set is immoral and dangerous. The bad fruits of this are on display in the history of western civilization.
+
 !!! quote "Martin Luther"
     I almost feel like throwing Jimmy into the stove
 
-In truth, you cannot have ***sola fide*** with ***sola scriptura***. One of the *solas* must give.
+Perhaps we should have been more mindful of the warning in Revelation 22, and applied such warning to the entire Bible.
+
+!!! danger "Revelation 22:18-19"
+    For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book: 
+    And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.
+
+
+In truth, you cannot have ***sola fide*** with ***sola scriptura***. 
+One of the *solas* must give, they both cannot be true.
 
 
 
@@ -36,10 +63,11 @@ More than anything, we can see the work of the adversary where otherwise God-fea
     Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? 
     For as the body without the spirit is dead, so faith without works is dead also.
 
-Faith is to works as the the body is to spirit. You obviously need both.
+Faith is to works as the the body is to spirit. You obviously need both. Trying to remove one or the other blatantly and obviously contradicts scripture. Luther is clearly wrong. Sola fide is clearly wrong. And justification by works is clearly wrong. This isn't complicated.
 
-In practical terms, even in the most dogmatic five-point Calvinist view, if you don't see any fruitful works in your Christian life, then your faith is dead. You are most likely not regenerated, and you have no assurance that you are among the elect. In fact, the lack of good fruits points to your reprobation and status amongst the unelect.
+In practical terms, even in the most dogmatic five-point Calvinist view, if you don't see any fruitful works in your Christian life, then your faith is dead. You are most likely not regenerated, and ought to have no assurance that you are among the elect. In fact, the lack of good fruits points to your reprobation and status amongst the unelect.
 Further you cannot force good fruits, you can only pray for saving grace and faith sufficient for your salvation, which will be seen through the fruit of your works.
+Remember that God's grace is sufficient.
 
 
 https://classicalchristianity.com/2011/02/25/on-limited-atonement/
