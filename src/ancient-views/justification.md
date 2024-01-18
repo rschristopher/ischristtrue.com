@@ -73,9 +73,13 @@ More than anything, we can see the work of the adversary where otherwise God-fea
 
 Faith is to works as the the body is to spirit. You obviously need both. Trying to remove one or the other blatantly and obviously contradicts scripture. Luther is clearly wrong. Sola fide is clearly wrong. And justification by works is clearly wrong. This isn't complicated.
 
-In practical terms, even in the most dogmatic five-point Calvinist view, if you don't see any fruitful works in your Christian life, then your faith is dead. You are most likely not regenerated, and ought to have no assurance that you are among the elect. In fact, the lack of good fruits points to your reprobation and status amongst the unelect.
+Modern reformed protestants will explain that this isn't what they mean by *sola fide*, but this is what Martin Luther meant and what the reformers meant. If you mean something similar to the orthodox view, you don't need a Latin slogan, you can just read the scripture and understand justification exactly as it has been understood for thousands of years.
+
+In practical terms, even in the most dogmatic five-point Calvinist view, if you don't see any fruitful works in your Christian life, then your faith is dead. You are most likely not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits points to your reprobation, the unelect.
 Further you cannot force good fruits, you can only pray for saving grace and faith sufficient for your salvation, which will be seen through the fruit of your works.
 Remember that God's grace is sufficient.
+
+A simpler way to think of it, had the thief on the cross survived and went back to his worldly life -- would he have shown no change in behavior? Would there have been no good fruits from his good works?
 
 
 !!! quote "Ephesians 2:8-10"
@@ -84,6 +88,7 @@ Remember that God's grace is sufficient.
     For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
 
 We are to become like Christ, such that our will aligns with the Father (through Christ), and in doing so we will see the good fruits of good works.
+We will praise God for all the good works that were His through grace, recognizing that such works are for our assurance to help us, to help heal our souls.
 
 
 
