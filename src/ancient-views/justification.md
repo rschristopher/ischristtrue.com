@@ -1,4 +1,12 @@
 # Justification
+<!--
+Lord Jesus Christ
+ Son of God
+Have mercy on me
+ a sinner
+
+Lord, grant me wisdom and mercy that these words may speak the Truth
+-->
 
 
 
@@ -68,6 +76,25 @@ Faith is to works as the the body is to spirit. You obviously need both. Trying 
 In practical terms, even in the most dogmatic five-point Calvinist view, if you don't see any fruitful works in your Christian life, then your faith is dead. You are most likely not regenerated, and ought to have no assurance that you are among the elect. In fact, the lack of good fruits points to your reprobation and status amongst the unelect.
 Further you cannot force good fruits, you can only pray for saving grace and faith sufficient for your salvation, which will be seen through the fruit of your works.
 Remember that God's grace is sufficient.
+
+
+!!! quote "Ephesians 2:8-10"
+    For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: 
+    Not of works, lest any man should boast. 
+    For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
+
+We are to become like Christ, such that our will aligns with the Father (through Christ), and in doing so we will see the good fruits of good works.
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://classicalchristianity.com/2011/02/25/on-limited-atonement/
