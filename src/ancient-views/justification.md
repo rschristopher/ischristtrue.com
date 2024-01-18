@@ -56,6 +56,7 @@ Perhaps we should all have been more mindful of the warning in Revelation 22, an
 
 In truth, you cannot have ***sola fide*** with ***sola scriptura***. 
 One of the *solas* must give, they both cannot be true.
+One or both must be false.
 Modern protestants, when pressed, tend to express not a strict *sola fide* but instead a more nuanced *sola gratia, sola fide* view.
 
 
