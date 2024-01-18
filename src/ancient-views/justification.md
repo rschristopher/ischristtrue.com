@@ -1,6 +1,47 @@
 # Justification
 
 
+
+## Sola Fide
+
+
+
+!!! quote "Martin Luther"
+    We should throw the epistle of James out of this school, for it doesn’t amount to much. It contains not a syllable about Christ. Not once does it mention Christ, except at the beginning. I maintain that some Jew wrote it who probably heard about Christian people but never encountered any. Since he heard that Christians place great weight on faith in Christ, he thought, ‘Wait a moment! I’ll oppose them and urge works alone.’ This he did.
+
+
+
+!!! quote "James 2:24"
+    Ye see then how that by works a man is **justified**, and ***not by faith only***.
+
+!!! quote "Martin Luther"
+    I almost feel like throwing Jimmy into the stove
+
+In truth, you cannot have ***sola fide*** with ***sola scriptura***. One of the *solas* must give.
+
+
+
+Importantly, this was never a point of contention until the reformation. The reaction to the abuses of Rome elevated a faulty understanding of St. Paul and created a contradiction where none existed previously.
+
+More than anything, we can see the work of the adversary where otherwise God-fearing Christians can see discord here where there is clearly none. There are indeed complex theological views that are difficult to express rationally, such as the nature of free will, but this is not such a topic. Both James and Paul are correct. They're both referring to the same concept, and James, rather than disagreeing, is merely providing a deeper and more nuanced understanding of justification and salvation.
+
+
+!!! quote "James 2:19-26"
+    Thou believest that there is one God; thou doest well: the devils also believe, and tremble. 
+    But wilt thou know, O vain man, that faith without works is dead? 
+    Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar? 
+    Seest thou how faith wrought with his works, and by works was faith made perfect? 
+    And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God. 
+    Ye see then how that by works a man is justified, and not by faith only. 
+    Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? 
+    For as the body without the spirit is dead, so faith without works is dead also.
+
+Faith is to works as the the body is to spirit. You obviously need both.
+
+In practical terms, even in the most dogmatic five-point Calvinist view, if you don't see any fruitful works in your Christian life, then your faith is dead. You are most likely not regenerated, and you have no assurance that you are among the elect. In fact, the lack of good fruits points to your reprobation and status amongst the unelect.
+Further you cannot force good fruits, you can only pray for saving grace and faith sufficient for your salvation, which will be seen through the fruit of your works.
+
+
 https://classicalchristianity.com/2011/02/25/on-limited-atonement/
 St. Gregory of Nyssa ca. 335-394
 
