@@ -58,7 +58,7 @@ One of the *solas* must give, they both cannot be true.
 
 Importantly, this was never a point of contention until the reformation. The reaction to the abuses of Rome elevated a faulty understanding of St. Paul and created a contradiction where none existed previously.
 
-More than anything, we can see the work of the adversary where otherwise God-fearing Christians can see discord here where there is clearly none. There are indeed complex theological views that are difficult to express rationally, such as the nature of free will, but this is not such a topic. Both James and Paul are correct. They're both referring to the same concept, and James, rather than disagreeing, is merely providing a deeper and more nuanced understanding of justification and salvation.
+More than anything, we can see the work of the adversary where otherwise God-fearing Christians experience discord where there is clearly none. There are complex theological positions that are difficult to express rationally, such as the nature of free will, but justification is not such a topic. Both James and Paul are correct. They're both referring to the same concept, and James, rather than disagreeing with Paul, is merely providing a deeper and more nuanced understanding of justification and salvation.
 
 
 !!! quote "James 2:19-26"
@@ -71,15 +71,17 @@ More than anything, we can see the work of the adversary where otherwise God-fea
     Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? 
     For as the body without the spirit is dead, so faith without works is dead also.
 
-Faith is to works as the the body is to spirit. You obviously need both. Trying to remove one or the other blatantly and obviously contradicts scripture. Luther is clearly wrong. Sola fide is clearly wrong. And justification by works is clearly wrong. This isn't complicated.
+Faith is to works as the the body is to spirit. You obviously need both. If you put faith in Christ then your works will speak to this fact. Trying to remove one or the other blatantly and obviously contradicts scripture. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works is clearly wrong. This isn't complicated.
 
 Modern reformed protestants will explain that this isn't what they mean by *sola fide*, but this is what Martin Luther meant and what the reformers meant. If you mean something similar to the orthodox view, you don't need a Latin slogan, you can just read the scripture and understand justification exactly as it has been understood for thousands of years.
 
-In practical terms, even in the most dogmatic five-point Calvinist view, if you don't see any fruitful works in your Christian life, then your faith is dead. You are most likely not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits points to your reprobation, the unelect.
-Further you cannot force good fruits, you can only pray for saving grace and faith sufficient for your salvation, which will be seen through the fruit of your works.
-Remember that God's grace is sufficient.
+In practical terms, even in the most dogmatic five-point Calvinist view, if you don't see fruitful works in your Christian life, then your faith is dead. You are most likely not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits points to your reprobation, the unelect.
+Further you cannot force good fruits
+You can only pray for saving grace and faith sufficient to your salvation, which will be seen through the fruit of your works.
+Remember that God's grace is always sufficient.
 
 A simpler way to think of it, had the thief on the cross survived and went back to his worldly life -- would he have shown no change in behavior? Would there have been no good fruits from his good works?
+Then what excuse have we?
 
 
 !!! quote "Ephesians 2:8-10"
@@ -88,7 +90,7 @@ A simpler way to think of it, had the thief on the cross survived and went back 
     For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
 
 We are to become like Christ, such that our will aligns with the Father (through Christ), and in doing so we will see the good fruits of good works.
-We will praise God for all the good works that were His through grace, recognizing that such works are for our assurance to help us, to help heal our souls.
+We will praise God for all the good works that were His through grace, recognizing that such works are for our assurance to help us, to help heal our souls just as much as the good works are the will of God the Father.
 
 
 
