@@ -17,11 +17,14 @@ Lord, grant me wisdom and mercy that these words may speak the Truth
     Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.
 
 
+!!! quote "Martin Luther"
+    Therefore, it is clear and certain that this faith alone justifies us.
+
 !!! quote "James 2:24"
     Ye see then how that by works a man is **justified**, and ***not by faith only***.
 
-Difficult to square *sola fide* with the words ***not by faith only***. Remember, all it takes is one counterexample to disprove a given Biblical interpretation.
-And in this case it's pretty clear, any interpretation that attempts to claim justification by faith alone (sola fide) is false, unless James is false.
+It is difficult to square *sola fide* with the words ***not by faith only***. Remember, all it takes is one counterexample to disprove a given Biblical interpretation.
+And in this case it's pretty clear, any interpretation that attempts to claim justification by faith alone (sola fide) is false, unless of course the epistle of James is false.
 
 !!! quote "Martin Luther"
     We should throw the epistle of James out of this school, for it doesn’t amount to much. It contains not a syllable about Christ. Not once does it mention Christ, except at the beginning. I maintain that some Jew wrote it who probably heard about Christian people but never encountered any. Since he heard that Christians place great weight on faith in Christ, he thought, ‘Wait a moment! I’ll oppose them and urge works alone.’ This he did.
@@ -39,12 +42,12 @@ This is, at best, an unfaithful and bad translation of the original Greek,
     
     Therefore we conclude that a man is justified by faith without the deeds of the law.
 
-This kind of meddling with scripture, to fit your personal interpretation of scripture, is clearly heretical and should be condemned by any honest truth seeker. It is unconscionable and wrong. The precedent set is immoral and dangerous. The bad fruits of this are on display in the history of western civilization.
+This kind of meddling with scripture, to fit your personal interpretation of scripture, is clearly heretical and should be condemned by any honest truth seeker. It is unconscionable and wrong. The precedent set is immoral and dangerous. The bad fruits of this are on display in the decaying history of western civilization.
 
 !!! quote "Martin Luther"
     I almost feel like throwing Jimmy into the stove
 
-Perhaps we should have been more mindful of the warning in Revelation 22, and applied such warning to the entire Bible.
+Perhaps we should all have been more mindful of the warning in Revelation 22, and applied such warning to the entire Bible.
 
 !!! danger "Revelation 22:18-19"
     For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book: 
@@ -53,12 +56,12 @@ Perhaps we should have been more mindful of the warning in Revelation 22, and ap
 
 In truth, you cannot have ***sola fide*** with ***sola scriptura***. 
 One of the *solas* must give, they both cannot be true.
-
+Modern protestants, when pressed, tend to express not a strict *sola fide* but instead a more nuanced *sola gratia, sola fide* view.
 
 
 Importantly, this was never a point of contention until the reformation. The reaction to the abuses of Rome elevated a faulty understanding of St. Paul and created a contradiction where none existed previously.
 
-More than anything, we can see the work of the adversary where otherwise God-fearing Christians experience discord where there is clearly none. There are complex theological positions that are difficult to express rationally, such as the nature of free will, but justification is not such a topic. Both James and Paul are correct. They're both referring to the same concept, and James, rather than disagreeing with Paul, is merely providing a deeper and more nuanced understanding of justification and salvation.
+More than anything, we can see the work of the adversary where otherwise God-fearing Christians experience discord where there is clearly none. There are complex theological positions that are difficult to express rationally, such as the nature of free will, but justification is not a difficult topic. Both James and Paul are correct. They're both referring to the same concept, and James, rather than disagreeing with Paul, is merely providing a deeper and more nuanced understanding of justification and salvation.
 
 
 !!! quote "James 2:19-26"
@@ -71,12 +74,15 @@ More than anything, we can see the work of the adversary where otherwise God-fea
     Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? 
     For as the body without the spirit is dead, so faith without works is dead also.
 
-Faith is to works as the the body is to spirit. You obviously need both. If you put faith in Christ then your works will speak to this fact. Trying to remove one or the other blatantly and obviously contradicts scripture. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works is clearly wrong. This isn't complicated.
+Faith is to works as the the body is to spirit. If you put faith in Christ then your works will demonstrate this. Trying to remove one or the other blatantly and obviously contradicts scripture. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works is clearly wrong. This isn't complicated.
 
-Modern reformed protestants will explain that this isn't what they mean by *sola fide*, but this is what Martin Luther meant and what the reformers meant. If you mean something similar to the orthodox view, you don't need a Latin slogan, you can just read the scripture and understand justification exactly as it has been understood for thousands of years.
+Modern reformed protestants will explain that this isn't what they mean by *sola fide*, but this is what Martin Luther meant and what the reformers meant. If you mean something similar to the orthodox view (such as the nuanced *sola gratia, sola fide*), then you don't need a Latin slogan, you can just read the scriptures and understand justification exactly as it has been understood for thousands of years.
 
 In practical terms, even in the most dogmatic five-point Calvinist view, if you don't see fruitful works in your Christian life, then your faith is dead. You are most likely not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits points to your reprobation, the unelect.
-Further you cannot force good fruits
+
+If you're a Lutheran then you ought to avoid the *cheap grace* that Dietrich Bonhoeffer warned against.
+
+You cannot force good fruits.
 You can only pray for saving grace and faith sufficient to your salvation, which will be seen through the fruit of your works.
 Remember that God's grace is always sufficient.
 
@@ -90,7 +96,7 @@ Then what excuse have we?
     For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
 
 We are to become like Christ, such that our will aligns with the Father (through Christ), and in doing so we will see the good fruits of good works.
-We will praise God for all the good works that were His through grace, recognizing that such works are for our assurance to help us, to help heal our souls just as much as the good works are the will of God the Father.
+We will praise God for all the good works that were His through grace, recognizing that such works are for our assurance to help us and to guide us, towards healing our souls.
 
 
 
