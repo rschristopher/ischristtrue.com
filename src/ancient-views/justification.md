@@ -8,6 +8,7 @@ Have mercy on me
 Lord, grant me wisdom and mercy that these words may speak the Truth
 -->
 
+orthodox view...
 
 
 ## Sola Fide
@@ -69,7 +70,7 @@ Importantly, this was never a point of contention until the reformation. The rea
 
 More than anything, we can see the work of the adversary where otherwise God-fearing Christians experience discord where there is clearly none. 
 
-While there are complex theological positions that are difficult to express rationally, justification is not a difficult topic. Both Sts. James and Paul are correct. They're both referring to the same concept. And James, rather than disagreeing with Paul, is merely providing a more nuanced understanding of justification and salvation.
+While there are complex theological positions that are difficult to express rationally, justification is not a difficult topic. Both Sts. James and Paul are correct. They're both referring to the same concept. They're referring to the faith of Christ, that is, the perfect faith that Christ possessed. And James, rather than disagreeing with Paul, is merely providing a more nuanced understanding of justification and salvation.
 
 
 !!! quote "James 2:19-26"
@@ -82,10 +83,12 @@ While there are complex theological positions that are difficult to express rati
     Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? 
     For as the body without the spirit is dead, so faith without works is dead also.
 
-Faith is to works as the the body is to the spirit. If you put faith in Christ then your works will demonstrate this. It is Christ's faith that saves. 
-Trying to put faith and works in competition blatantly and obviously contradicts scripture. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works is clearly wrong. This isn't complicated.
+Faith is to works as the the body is to the spirit. Even the demons have faith (in terms of belief) in Christ.
+It is not *our* faith that saves us.
+It is Christ's faith that saves. 
+Trying to put faith and works in competition blatantly and obviously contradicts scripture, and misses the entire point of justification. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works alone is clearly wrong. This isn't complicated.
 
-Modern reformed protestants will explain that this isn't what they mean by *sola fide*, but this is what Martin Luther meant and what the reformers meant. If you mean something similar to the orthodox view (such as the nuanced *sola gratia, sola fide*), then you don't need a Latin slogan, you can just participate in the scriptures and understand justification exactly as it has been understood for thousands of years.
+Modern Lutherans will explain that this isn't what they mean by *sola fide*, but this is what Martin Luther meant and what the reformers meant. If you mean something similar to the orthodox view (such as the nuanced *sola gratia, sola fide*), then you don't need a Latin slogan, you can just participate in the scriptures and understand justification exactly as it has been understood for thousands of years.
 
 Even in the most dogmatic five-point Calvinist view, if you don't see fruitful works in your Christian life, then your faith is dead. You are most likely not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits points to your reprobation, the unelect.
 
