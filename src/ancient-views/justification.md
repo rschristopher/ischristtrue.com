@@ -21,7 +21,7 @@ Lord, grant me wisdom and mercy that these words may speak the Truth
     Ye see then how that by works a man is **justified**, and ***not by faith only***.
 
 Difficult to square *sola fide* with the words ***not by faith only***. Remember, all it takes is one counterexample to disprove a given Biblical interpretation.
-And in this case it's pretty clear, any interpretation that attempts to claim justification by faith alone (sola fide) is false.
+And in this case it's pretty clear, any interpretation that attempts to claim justification by faith alone (sola fide) is false, unless James is false.
 
 !!! quote "Martin Luther"
     We should throw the epistle of James out of this school, for it doesn’t amount to much. It contains not a syllable about Christ. Not once does it mention Christ, except at the beginning. I maintain that some Jew wrote it who probably heard about Christian people but never encountered any. Since he heard that Christians place great weight on faith in Christ, he thought, ‘Wait a moment! I’ll oppose them and urge works alone.’ This he did.
