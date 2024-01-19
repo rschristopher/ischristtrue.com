@@ -19,7 +19,9 @@ Think of it as legalistic assurance of salvation.
     
     Who was delivered for our offences, and was raised again for our justification.
 
-We are saved through Christ (even legalistically). This was never a controversial topic in the ancient world and has been core to Christian teaching from the beginning. Christ died on the cross, and rose again, for us. His perfect faith and sacrifice "justifies us" in a legalistic sense, or more broadly "saves us" in the holistic sense -- restoring us (fallen creatures) to our created purpose being in the image and likeness of God.
+We are saved through Christ (even legalistically). 
+
+This was never a controversial topic in the ancient world and has been core to Christian teaching from the beginning. Christ died on the cross, and rose again, for us. His perfect faith and sacrifice "justifies us" in a legalistic sense, or more broadly "saves us" in the holistic sense -- restoring us (fallen creatures) to our created purpose being in the image and likeness of God.
 
 This understanding became corrupted, first in Rome through abuses such as
  [indulgences](https://en.m.wikipedia.org/wiki/Indulgence)
