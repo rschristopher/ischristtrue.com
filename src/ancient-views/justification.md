@@ -120,7 +120,7 @@ It is not *our* faith that saves.
 It is Christ's faith that saves us. 
 Trying to put faith and works in competition blatantly and obviously contradicts scripture, and misses the entire point of justification. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works alone is and always was clearly wrong. This isn't complicated.
 
-Modern Lutherans may explain that this isn't what they mean by *sola fide*, but because words have meaning, this is what Martin Luther meant and what many of the reformers meant. If you mean something similar to the orthodox view (such as the nuanced *sola gratia, sola fide*), then you don't need a Latin slogan, you can just participate in the scriptures and understand justification exactly as it has been understood for thousands of years.
+Modern Lutherans may explain that this isn't what they mean by *sola fide*, but words have meaning, and this is what Martin Luther's words meant and what many of the reformers meant. If you mean something similar to the orthodox view (such as the nuanced *sola gratia, sola fide*), then you don't need a Latin slogan, you can just participate in the scriptures and understand justification exactly as it has been understood for thousands of years.
 
 Even in the most dogmatic five-point Calvinist view, if you don't see fruitful works in your Christian life, then your faith is dead. You are by your own interpretation not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits would by that view be evidence of reprobation (the unelect).
 
