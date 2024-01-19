@@ -119,28 +119,28 @@ While there are many complex theological topics that are difficult if not imposs
     Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? 
     For as the body without the spirit is dead, so faith without works is dead also.
 
-Faith is to works as the the body is to the spirit. Even the demons have faith (in terms of belief and obedience) in Christ.
+Faith and works go together like body and spirit. Even the demons have faith (both in terms of belief and obedience) in Christ.
 It is not *our* faith that saves.
 It is Christ's faith that saves us. 
-Trying to put faith and works in competition blatantly and obviously contradicts scripture, and misses the entire point of justification. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works alone is and always was clearly wrong. This isn't complicated.
+Trying to put faith and works in competition blatantly contradicts scripture, and misses the entire point of justification. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works alone is and always was clearly wrong. This isn't complicated.
 
 Modern Lutherans may explain that this isn't what they mean by *sola fide*, but words have meaning, and this is what Martin Luther's words meant and what many of the reformers meant. If you mean something similar to the orthodox view (such as the nuanced *"sola gratia, sola fide"*), then you don't need a Latin slogan, you can just participate in the scriptures and understand justification exactly as it has been understood for thousands of years.
 
-Even in the most dogmatic five-point Calvinist view, if you don't see fruitful works in your Christian life, then your faith is dead. You are by your own interpretation not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits would by that view be evidence of reprobation (the unelect).
+Even in the most dogmatic five-point Calvinist view, if you don't see fruitful works in your Christian life, then your faith is dead. You are by your own interpretation not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits would (by a monorgistic view) be evidence of reprobation (the so-called unelect).
 
-Similarly, if you're a Lutheran then you ought to avoid the *cheap grace* that Dietrich Bonhoeffer warned against.
+Similarly, if you're a Lutheran then you ought to avoid the *cheap grace* that Dietrich Bonhoeffer warned against:
 
 !!! warning "Dietrich Bonhoeffer"
     Cheap grace is the grace we bestow on ourselves. Cheap grace is the preaching of forgiveness without requiring repentance, baptism without church discipline, Communion without confession.
-    ...
+    
     Cheap grace is grace without discipleship, grace without the cross, grace without Jesus Christ, living and incarnate.
 
 We cannot force good fruits nor good works.
 We ought to instead be obedient and pray for grace, pray for faith sufficient to our salvation, which can be seen through the fruit of our works.
 Remember, God's grace is always sufficient.
 
-A simpler way to think of it, imagine if the thief on the cross survived and went back to his worldly life -- would he have shown no change in behavior? Would there have been no good fruits from good works?
-If your conversion happens while on the cross moments before your death, then you will have received a martyr's justification.
+Imagine if the thief on the cross survived and went back to worldly life -- would he have shown no change in behavior? Would there have been no good fruits from good works?
+If our conversion happens while on the cross moments before death, then we will have received a martyr's justification.
 But for every moment of our Christian lives where we're not being martyred, what excuse have we?
 
 
