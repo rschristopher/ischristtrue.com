@@ -8,15 +8,15 @@ Have mercy on me
 Lord, grant me wisdom and mercy that these words may speak the Truth
 -->
 
-Justification is the state or process of becoming righteous. It's a simple and legalistic term.
-E.g., the Greek δικαίωσιν *(dikaiosis)* in Romans means **the act of pronouncing righteous**.
+Justification is the state or process of becoming righteous. It is a legalistic term relating to salvation.
+E.g., the Greek δικαίωσιν *(dikaiosis)* in Romans 4:25 means **the act of pronouncing righteous**.
 
 !!! quote "Romans 4:25"
     ὃς παρεδόθη διὰ τὰ παραπτώματα ἡμῶν καὶ ἠγέρθη διὰ τὴν **δικαίωσιν** ἡμῶν.
     
     Who was delivered for our offences, and was raised again for our justification.
 
-This was never a controversial topic in the ancient world and is core to Christian teaching. Christ died on the cross, and rose again, for us. His perfect faith and sacrifice "justifies" us in a legalistic sense, or more "saves" in the more holistic sense -- restoring us (fallen creatures) to our created purpose being in the image and likeness of God.
+We are saved through Christ (even legalistically). This was never a controversial topic in the ancient world and it is core to Christian teaching. Christ died on the cross, and rose again, for us. His perfect faith and sacrifice "justifies us" in a legalistic sense, or more broadly "saves us" in the more holistic sense -- restoring us (fallen creatures) to our created purpose being in the image and likeness of God.
 
 This understanding became corrupted, first in Rome through abuses such as
  indulgences
