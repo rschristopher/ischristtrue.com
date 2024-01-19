@@ -98,7 +98,7 @@ Modern protestants, when pressed, do not hold Luther's strict *sola fide* but in
 
 Importantly, justification was never a point of contention until the reformation. The reaction to the abuses of Rome elevated a faulty understanding of justification and created a dichotomy (of works vs faith) where none existed previously.
 
-More than anything, we can see the work of the adversary. God-fearing Christians are in disagreement in what is ultimately not a complex theological topic.
+More than anything, we can see in these arguments the work of the adversary. God-fearing Christians are in disagreement in what is ultimately not a complex theological topic.
 
 While there are many complex theological topics that are difficult if not impossible to express rationally, justification is not such a topic. It is legalistic and quite simple. Both Sts. James and Paul are correct. They're both referring to the same legalistic concept. They're borh referring to the faith of Christ, that is, the perfect faith that Christ possessed. And James, rather than disagreeing with Paul, is providing a nuanced understanding of legalistic justification as it applies more broadly to salvation.
 
