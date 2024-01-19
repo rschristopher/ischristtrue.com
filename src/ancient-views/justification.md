@@ -119,7 +119,7 @@ While there are many complex theological topics that are difficult if not imposs
     Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? 
     For as the body without the spirit is dead, so faith without works is dead also.
 
-Faith and works go together like body and spirit. Even the demons have faith (both in terms of belief and obedience) in Christ.
+Faith and works go together like body and spirit, and are separated only by death. Even the demons have faith (both in terms of belief and obedience) in Christ.
 It is not *our* faith that saves.
 It is Christ's faith that saves us. 
 Trying to put faith and works in competition blatantly contradicts scripture, and misses the entire point of justification. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works alone is and always was clearly wrong. This isn't complicated.
