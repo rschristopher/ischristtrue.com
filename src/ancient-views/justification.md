@@ -11,23 +11,26 @@ Lord, grant me wisdom and mercy that these words may speak the Truth
 Justification is the state or process of becoming righteous. It is a 
 [legalistic term](https://orthodoxwiki.org/Justification)
 relating to salvation.
-E.g., the Greek δικαίωσιν *(dikaiosis)* in Romans 4:25 means **the act of pronouncing righteous**.
+It comes from the Greek δικαίωσιν *(dikaiosis)* and it means **the act of pronouncing righteous**.
+Think of it as legalistic assurance of salvation.
 
 !!! quote "Romans 4:25"
     ὃς παρεδόθη διὰ τὰ παραπτώματα ἡμῶν καὶ ἠγέρθη διὰ τὴν **δικαίωσιν** ἡμῶν.
     
     Who was delivered for our offences, and was raised again for our justification.
 
-We are saved through Christ (even legalistically). This was never a controversial topic in the ancient world and it is core to Christian teaching. Christ died on the cross, and rose again, for us. His perfect faith and sacrifice "justifies us" in a legalistic sense, or more broadly "saves us" in the holistic sense -- restoring us (fallen creatures) to our created purpose being in the image and likeness of God.
+We are saved through Christ (even legalistically). This was never a controversial topic in the ancient world and has been core to Christian teaching from the beginning. Christ died on the cross, and rose again, for us. His perfect faith and sacrifice "justifies us" in a legalistic sense, or more broadly "saves us" in the holistic sense -- restoring us (fallen creatures) to our created purpose being in the image and likeness of God.
 
 This understanding became corrupted, first in Rome through abuses such as
  [indulgences](https://en.m.wikipedia.org/wiki/Indulgence)
- which promised a false works-based salvation, exactly as one would find in pagan views.
+ which promised a false "works-based salvation", exactly as one would find in pagan views.
 
 Justification provides assurance, which involves faith that produces good works. In other words, there is nothing you can do, no good deeds sufficient to earn your salvation, no works that can justify you.
 Justification, as a legalistic understanding of salvation, can never be through works alone.
 
-Importantly, it is not *our faith* that justifies, but Christ's faith that justifies us. Nowhere in scripture is there a dichotomy between our faith and works. St. Paul refers to "faith of Christ" and not "faith in Christ".
+Importantly, it is not *our faith* that justifies, but Christ's faith that justifies us. Nowhere in scripture is there a dichotomy between our faith and our works. 
+
+St. Paul refers to "faith of Christ" and not "faith in Christ".
 
 !!! quote "Galatians 2:25-16"
     We who are Jews by nature, and not sinners of the Gentiles, 
