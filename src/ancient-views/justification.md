@@ -118,9 +118,9 @@ It is not *our* faith that saves.
 It is Christ's faith that saves us. 
 Trying to put faith and works in competition blatantly and obviously contradicts scripture, and misses the entire point of justification. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works alone is and always was clearly wrong. This isn't complicated.
 
-Modern Lutherans will explain that this isn't what they mean by *sola fide*, but this is what Martin Luther meant and what many of the reformers meant. If you mean something similar to the orthodox view (such as the nuanced *sola gratia, sola fide*), then you don't need a Latin slogan, you can just participate in the scriptures and understand justification exactly as it has been understood for thousands of years.
+Modern Lutherans may explain that this isn't what they mean by *sola fide*, but because words have meaning, this is what Martin Luther meant and what many of the reformers meant. If you mean something similar to the orthodox view (such as the nuanced *sola gratia, sola fide*), then you don't need a Latin slogan, you can just participate in the scriptures and understand justification exactly as it has been understood for thousands of years.
 
-Even in the most dogmatic five-point Calvinist view, if you don't see fruitful works in your Christian life, then your faith is dead. You are by your own interpretation not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits is evidence to your reprobation (the unelect).
+Even in the most dogmatic five-point Calvinist view, if you don't see fruitful works in your Christian life, then your faith is dead. You are by your own interpretation not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits would by that view be evidence of reprobation (the unelect).
 
 Similarly, if you're a Lutheran then you ought to avoid the *cheap grace* that Dietrich Bonhoeffer warned against.
 
@@ -129,13 +129,13 @@ Similarly, if you're a Lutheran then you ought to avoid the *cheap grace* that D
     ...
     Cheap grace is grace without discipleship, grace without the cross, grace without Jesus Christ, living and incarnate.
 
-You cannot force good fruits.
-We ought to instead be obedient and pray for saving grace, pray for faith sufficient to our salvation, which will be seen through the fruit of our works.
+We cannot force good fruits nor good works.
+We ought to instead be obedient and pray for grace, pray for faith sufficient to our salvation, which can be seen through the fruit of our works.
 Remember, God's grace is always sufficient.
 
 A simpler way to think of it, imagine if the thief on the cross survived and went back to his worldly life -- would he have shown no change in behavior? Would there have been no good fruits from good works?
 If your conversion happens while on the cross moments before your death, then you will have received a martyr's justification.
-But every moment of our lives as Christians where we're not being martyred, what excuse have we?
+But for every moment of our Christian lives where we're not being martyred, what excuse have we?
 
 
 !!! quote "Ephesians 2:8-10"
