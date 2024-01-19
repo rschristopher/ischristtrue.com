@@ -8,7 +8,22 @@ Have mercy on me
 Lord, grant me wisdom and mercy that these words may speak the Truth
 -->
 
-orthodox view...
+Justification is the state or process of becoming righteous. It's a simple and legalistic term.
+E.g., the Greek δικαίωσιν *(dikaiosis)* in Romans means **the act of pronouncing righteous**.
+
+!!! quote "Romans 4:25"
+    ὃς παρεδόθη διὰ τὰ παραπτώματα ἡμῶν καὶ ἠγέρθη διὰ τὴν **δικαίωσιν** ἡμῶν.
+    
+    Who was delivered for our offences, and was raised again for our justification.
+
+This was never a controversial topic in the ancient world and is core to Christian teaching. Christ died on the cross, and rose again, for us. His perfect faith and sacrifice "justifies" us in a legalistic sense, or more "saves" in the more holistic sense -- restoring us (fallen creatures) to our created purpose being in the image and likeness of God.
+
+This understanding became corrupted, first in Rome through abuses such as
+ indulgences
+ which promised a false works-based salvation, exactly as one would find in pagan views.
+
+Proper justification is a faith which produces good works. In other words, there is nothing you can do, no good deeds sufficient to earn your salvation, no works that can justify you.
+Justification, as a legalistic understanding of salvation, can never be through works alone.
 
 https://m.youtube.com/watch?v=adr6AD8YduA
 
