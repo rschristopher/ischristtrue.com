@@ -24,15 +24,14 @@ This understanding became corrupted, first in Rome through abuses such as
  [indulgences](https://en.m.wikipedia.org/wiki/Indulgence)
  which promised a false works-based salvation, exactly as one would find in pagan views.
 
-Proper justification is a faith which produces good works. In other words, there is nothing you can do, no good deeds sufficient to earn your salvation, no works that can justify you.
+Justification provides assurance, which involves faith that produces good works. In other words, there is nothing you can do, no good deeds sufficient to earn your salvation, no works that can justify you.
 Justification, as a legalistic understanding of salvation, can never be through works alone.
 
-And note that it is not *our faith* that justifies, but Christ's faith that justifies us.
-
+Importantly, it is not *our faith* that justifies, but Christ's faith that justifies us. Nowhere in scripture is there a dichotomy between our faith and works. St. Paul refers to "faith of Christ" and not "faith in Christ".
 
 !!! quote "Galatians 2:25-16"
     We who are Jews by nature, and not sinners of the Gentiles, 
-    Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.
+    Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the ***faith of Christ***, and not by the works of the law: for by the works of the law shall no flesh be justified.
 
 
 
@@ -52,17 +51,20 @@ The church fathers and even the apostles must (according to Luther) become fools
     Ye see then how that by works a man is **justified**, and ***not by faith only***.
 
 It is difficult to square *sola fide* with the words ***not by faith only***. Remember, all it takes is one counterexample to disprove a given Biblical interpretation.
-And in this case it's clear, especially as justification is a legalistic topic: any interpretation that attempts to claim justification by faith alone (sola fide) is false, unless of course scripture itself, specifically the epistle of James, is false.
+And in this case it's clear, especially as justification is a legalistic topic: any interpretation that attempts to claim justification by faith alone (sola fide) is necessarily false, unless of course scripture itself, specifically the epistle of James, is false.
 
 !!! warning "Martin Luther"
     We should throw the epistle of James out of this school, for it doesn’t amount to much. It contains not a syllable about Christ. Not once does it mention Christ, except at the beginning. I maintain that some Jew wrote it who probably heard about Christian people but never encountered any. Since he heard that Christians place great weight on faith in Christ, he thought, ‘Wait a moment! I’ll oppose them and urge works alone.’ This he did.
 
-This is a great example of prelest, spiritual deception.
+This is an informative example of prelest, spiritual deception.
+Luther's *sola fide* not only presupposes a dichotomy between works and faith, but he arrogantly prescribes all of church history, every saint and even the apostles as fools, as he apparently discovered something they all missed.
 
 Martin Luther went so far as to change the translation of Romans 3:28 to add "alone through faith" (*allien* in the German).
 
 !!! warning "Luther's version of Romans 3:28"
-    So now we hold, that man is justified without the help of the works of the law, ***alone through faith***
+    So halten wir nun dafür, daß der Mensch gerecht werde ohne des Gesetzes Werke, allein durch den Glauben.
+    
+    So we conclude that a man is justified without the deeds of the law through **faith alone**.
 
 This is, at best, an unfaithful and bad translation of the original Greek,
 
@@ -71,7 +73,7 @@ This is, at best, an unfaithful and bad translation of the original Greek,
     
     Therefore we conclude that a man is justified by faith without the deeds of the law.
 
-If you find yourself disagreeing with the apostles and calling them fools, twisting and adding to scripture, removing scripture, you should probably stop.
+If you find yourself disagreeing with the apostles and calling them fools, twisting and adding to scripture, considering removing entire books of scripture, you should probably stop.
 It's as sure a sign of demonic deception as you can find. This is not truth seeking. This is pride.
 
 This kind of meddling with scripture, to fit your personal interpretation, is clearly heretical and should be condemned by any honest truth seeker. The precedent is immoral and dangerous. The bad fruits of this are on full display in the decaying history of our western civilization.
@@ -86,17 +88,16 @@ Perhaps we should all have been more mindful of the warning in Revelation 22, an
     And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.
 
 
-In truth, you cannot have Luther's ***sola fide*** with ***sola scriptura***. 
-One of the *solas* must give, they both cannot be true.
+In truth, you cannot have Luther's ***sola fide*** alongside ***sola scriptura***. 
+One of the *solas* must give.
 One or both must be false.
 Modern protestants, when pressed, do not hold Luther's strict *sola fide* but instead a more nuanced *sola gratia, sola fide* view.
 
+Importantly, this was never a point of contention until the reformation. The reaction to the abuses of Rome elevated a faulty understanding of justification and created a dichotomy (of works vs faith) where none existed previously.
 
-Importantly, this was never a point of contention until the reformation. The reaction to the abuses of Rome elevated a faulty understanding of St. Paul and created a contradiction where none existed previously.
+More than anything, we can see the work of the adversary. God-fearing Christians experience discord in what is ultimately not a complex theological topic.
 
-More than anything, we can see the work of the adversary where otherwise God-fearing Christians experience discord where there is clearly none. 
-
-While there are complex theological positions that are difficult to express rationally, justification is not a difficult topic. It is legalistic and quite simple. Both Sts. James and Paul are correct. They're both referring to the same concept. They're referring to the faith of Christ, that is, the perfect faith that Christ possessed. And James, rather than disagreeing with Paul, is merely providing a more nuanced understanding of legalistic justification as it applies more broadly to salvation.
+While there are many complex theological topics that are difficult if not impossible to express rationally, justification is not a difficult topic. It is legalistic and quite simple. Both Sts. James and Paul are correct. They're both referring to the same legalistic concept. They're referring to the faith of Christ, that is, the perfect faith that Christ possessed. And James, rather than disagreeing with Paul, is providing a more nuanced understanding of legalistic justification as it applies more broadly to salvation.
 
 
 !!! quote "James 2:19-26"
@@ -109,16 +110,21 @@ While there are complex theological positions that are difficult to express rati
     Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way? 
     For as the body without the spirit is dead, so faith without works is dead also.
 
-Faith is to works as the the body is to the spirit. Even the demons have faith (in terms of belief) in Christ.
-It is not *our* faith that saves us.
-It is Christ's faith that saves. 
-Trying to put faith and works in competition blatantly and obviously contradicts scripture, and misses the entire point of justification. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works alone is clearly wrong. This isn't complicated.
+Faith is to works as the the body is to the spirit. Even the demons have faith (in terms of belief and obedience) in Christ.
+It is not *our* faith that saves.
+It is Christ's faith that saves us. 
+Trying to put faith and works in competition blatantly and obviously contradicts scripture, and misses the entire point of justification. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works alone is and akways was clearly wrong. This isn't complicated.
 
-Modern Lutherans will explain that this isn't what they mean by *sola fide*, but this is what Martin Luther meant and what the reformers meant. If you mean something similar to the orthodox view (such as the nuanced *sola gratia, sola fide*), then you don't need a Latin slogan, you can just participate in the scriptures and understand justification exactly as it has been understood for thousands of years.
+Modern Lutherans will explain that this isn't what they mean by *sola fide*, but this is what Martin Luther meant and what many of the reformers meant. If you mean something similar to the orthodox view (such as the nuanced *sola gratia, sola fide*), then you don't need a Latin slogan, you can just participate in the scriptures and understand justification exactly as it has been understood for thousands of years.
 
-Even in the most dogmatic five-point Calvinist view, if you don't see fruitful works in your Christian life, then your faith is dead. You are most likely not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits points to your reprobation, the unelect.
+Even in the most dogmatic five-point Calvinist view, if you don't see fruitful works in your Christian life, then your faith is dead. You are by your own interpretation not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits is evidence to your reprobation (the unelect).
 
 Similarly, if you're a Lutheran then you ought to avoid the *cheap grace* that Dietrich Bonhoeffer warned against.
+
+!!! warning "Dietrich Bonhoeffer"
+    Cheap grace is the grace we bestow on ourselves. Cheap grace is the preaching of forgiveness without requiring repentance, baptism without church discipline, Communion without confession.
+    ...
+    Cheap grace is grace without discipleship, grace without the cross, grace without Jesus Christ, living and incarnate.
 
 You cannot force good fruits.
 You can be obedient and pray for saving grace and faith sufficient to your salvation, which will be seen through the fruit of your works.
