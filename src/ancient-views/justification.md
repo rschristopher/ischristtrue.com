@@ -146,6 +146,15 @@ But for every moment of our Christian lives where we're not being martyred, what
 We are to become like Christ, such that our will aligns with the Father (through Christ), and in doing so we will see the good fruits, participating in His good works.
 We will praise God for all the good works that are His through grace, recognizing that such works are for our assurance to help us and to guide us, towards healing our souls, working out our salvation with fear and trembling.
 
+!!! quote "Philippians 2:12-13"
+    Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling. 
+    For it is God which worketh in you both to will and to do of his good pleasure.
+
+
+
+
+
+
 
 
 
