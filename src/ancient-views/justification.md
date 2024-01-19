@@ -47,24 +47,28 @@ St. Paul here refers to "faith of Christ" and not "faith in Christ".
 
 ## Sola Fide
 
+*"Sola fide"* (literally *faith alone") is a reformation era interpretation that declares justification (and hence salvation) to be by faith alone.
+That is, by belief in Christ you are saved.
+
 !!! warning "Martin Luther"
     This faith alone, when based upon the sure promises of God, must save us; as our text clearly explains. And in the light of it all, they must become fools who have taught us other ways to become godly.
 
-The church fathers and even the apostles must (according to Luther) become fools.
+This certainly sounds nice, definitely easy.
+Unfortunately, by this logic, the church fathers and even the apostles must (according to Luther) become fools.
 
 !!! quote "James 2:24"
     Ye see then how that by works a man is **justified**, and ***not by faith only***.
 
 It is difficult to square *sola fide* with the words ***not by faith only***. Remember, all it takes is one counterexample to disprove a given Biblical interpretation.
-And in this case it's clear, especially as justification is a legalistic topic: any interpretation that attempts to claim justification by faith alone (sola fide) is necessarily false, unless of course scripture itself, specifically the epistle of James, is false (God forbid).
+And in this case it's clear, especially as justification is a legalistic topic: any interpretation that attempts to claim justification by faith alone is necessarily false, unless of course scripture itself -- specifically the epistle of James -- is false (God forbid).
 
 !!! warning "Martin Luther"
     We should throw the epistle of James out of this school, for it doesn’t amount to much. It contains not a syllable about Christ. Not once does it mention Christ, except at the beginning. I maintain that some Jew wrote it who probably heard about Christian people but never encountered any. Since he heard that Christians place great weight on faith in Christ, he thought, ‘Wait a moment! I’ll oppose them and urge works alone.’ This he did.
 
 This is an informative example of *prelest*, spiritual deception.
-Luther's *sola fide* not only presupposes a dichotomy between works and faith, but he arrogantly prescribes all of church history, every saint and even the apostles, as fools, as he apparently discovered something they all missed.
+Luther's *"sola fide"* not only presupposes a dichotomy between works and faith, but he arrogantly prescribes all of church history, every saint and even the apostles, as fools, as he apparently discovered something they all missed.
 
-Martin Luther went so far as to change the translation of Romans 3:28 to add "faith alone" (*allien* in the German).
+Martin Luther went so far in this deception as to change the translation of Romans 3:28 to add "faith alone" (*allien* in the German).
 
 !!! warning "Luther's translation of Romans 3:28"
     So halten wir nun dafür, daß der Mensch gerecht werde ohne des Gesetzes Werke, allein durch den Glauben.
@@ -79,14 +83,14 @@ This is, at best, an unfaithful and bad translation of the original Greek,
     Therefore we conclude that a man is justified by faith without the deeds of the law.
 
 If you find yourself disagreeing with the apostles and calling them fools, twisting and adding to scripture, considering removing entire books of scripture, you should probably stop.
-It's a sign of demonic deception. This is not truth seeking. This is pride.
+It's a sign of demonic deception and not truth seeking. This is pride.
 
-This kind of meddling with scripture, to fit your personal interpretation, is clearly heretical and should be condemned by any honest truth seeker. The precedent is immoral and dangerous. The bad fruits of this kind of prideful rationalism are on full display in the decaying history of our western civilization.
+This kind of meddling with scripture, to fit your personal interpretation, is clearly heretical and should be condemned by any honest truth seeker. The precedent is immoral and dangerous (dismissing the apostle James as "some Jew" who never met a Christian, and later referring to him as "Jimmy"). The bad fruits of this kind of prideful rationalism are on full display in the decaying history of our western civilization.
 
 !!! warning "Martin Luther"
     I almost feel like throwing Jimmy into the stove
 
-Perhaps we should all have been more mindful of the warning in Revelation 22, and applied such warnings to the entire Bible.
+Perhaps we should all have been more mindful of the warning in Revelation 22, and applied such warnings to the entirety of scripture.
 
 !!! danger "Revelation 22:18-19"
     For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book: 
