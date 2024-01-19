@@ -79,7 +79,7 @@ This is, at best, an unfaithful and bad translation of the original Greek,
 If you find yourself disagreeing with the apostles and calling them fools, twisting and adding to scripture, considering removing entire books of scripture, you should probably stop.
 It's a sign of demonic deception. This is not truth seeking. This is pride.
 
-This kind of meddling with scripture, to fit your personal interpretation, is clearly heretical and should be condemned by any honest truth seeker. The precedent is immoral and dangerous. The bad fruits of this are on full display in the decaying history of our western civilization. The bad fruits of this kind of rationalism in modern history is clear.
+This kind of meddling with scripture, to fit your personal interpretation, is clearly heretical and should be condemned by any honest truth seeker. The precedent is immoral and dangerous. The bad fruits of this kind of prideful rationalism are on full display in the decaying history of our western civilization.
 
 !!! warning "Martin Luther"
     I almost feel like throwing Jimmy into the stove
