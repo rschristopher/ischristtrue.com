@@ -66,7 +66,7 @@ Luther's *sola fide* not only presupposes a dichotomy between works and faith, b
 
 Martin Luther went so far as to change the translation of Romans 3:28 to add "faith alone" (*allien* in the German).
 
-!!! warning "Luther's mistranslation of Romans 3:28"
+!!! warning "Luther's translation of Romans 3:28"
     So halten wir nun dafür, daß der Mensch gerecht werde ohne des Gesetzes Werke, allein durch den Glauben.
     
     So we conclude that a man is justified without the deeds of the law through **faith alone**.
