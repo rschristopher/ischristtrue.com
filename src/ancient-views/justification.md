@@ -68,7 +68,7 @@ And in this case it's clear, especially as justification is a legalistic topic: 
 This is an informative example of *prelest*, spiritual deception.
 Luther's *"sola fide"* not only presupposes a dichotomy between works and faith, but he arrogantly prescribes all of church history, every saint and even the apostles, as fools, as he apparently discovered something they all missed.
 
-Martin Luther went so far in this deception as to change the translation of Romans 3:28 to add "faith alone" (*allien* in the German).
+Martin Luther fell so deep into this deception that he changed the translation of Romans 3:28 to add "faith alone" (*allien* in the German).
 
 !!! warning "Luther's translation of Romans 3:28"
     So halten wir nun dafür, daß der Mensch gerecht werde ohne des Gesetzes Werke, allein durch den Glauben.
