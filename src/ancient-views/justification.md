@@ -74,7 +74,7 @@ This is, at best, an unfaithful and bad translation of the original Greek,
     Therefore we conclude that a man is justified by faith without the deeds of the law.
 
 If you find yourself disagreeing with the apostles and calling them fools, twisting and adding to scripture, considering removing entire books of scripture, you should probably stop.
-It's as sure a sign of demonic deception as you can find. This is not truth seeking. This is pride.
+It's a sign of demonic deception. This is not truth seeking. This is pride.
 
 This kind of meddling with scripture, to fit your personal interpretation, is clearly heretical and should be condemned by any honest truth seeker. The precedent is immoral and dangerous. The bad fruits of this are on full display in the decaying history of our western civilization.
 
@@ -88,16 +88,16 @@ Perhaps we should all have been more mindful of the warning in Revelation 22, an
     And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.
 
 
-In truth, you cannot have Luther's ***sola fide*** alongside ***sola scriptura***. 
+In truth, you cannot hold Luther's ***sola fide*** alongside ***sola scriptura***. 
 One of the *solas* must give.
 One or both must be false.
 Modern protestants, when pressed, do not hold Luther's strict *sola fide* but instead a more nuanced *sola gratia, sola fide* view.
 
-Importantly, this was never a point of contention until the reformation. The reaction to the abuses of Rome elevated a faulty understanding of justification and created a dichotomy (of works vs faith) where none existed previously.
+Importantly, justification was never a point of contention until the reformation. The reaction to the abuses of Rome elevated a faulty understanding of justification and created a dichotomy (of works vs faith) where none existed previously.
 
-More than anything, we can see the work of the adversary. God-fearing Christians experience discord in what is ultimately not a complex theological topic.
+More than anything, we can see the work of the adversary. God-fearing Christians are in disagreement in what is ultimately not a complex theological topic.
 
-While there are many complex theological topics that are difficult if not impossible to express rationally, justification is not a difficult topic. It is legalistic and quite simple. Both Sts. James and Paul are correct. They're both referring to the same legalistic concept. They're referring to the faith of Christ, that is, the perfect faith that Christ possessed. And James, rather than disagreeing with Paul, is providing a more nuanced understanding of legalistic justification as it applies more broadly to salvation.
+While there are many complex theological topics that are difficult if not impossible to express rationally, justification is not such a topic. It is legalistic and quite simple. Both Sts. James and Paul are correct. They're both referring to the same legalistic concept. They're borh referring to the faith of Christ, that is, the perfect faith that Christ possessed. And James, rather than disagreeing with Paul, is providing a nuanced understanding of legalistic justification as it applies more broadly to salvation.
 
 
 !!! quote "James 2:19-26"
@@ -113,7 +113,7 @@ While there are many complex theological topics that are difficult if not imposs
 Faith is to works as the the body is to the spirit. Even the demons have faith (in terms of belief and obedience) in Christ.
 It is not *our* faith that saves.
 It is Christ's faith that saves us. 
-Trying to put faith and works in competition blatantly and obviously contradicts scripture, and misses the entire point of justification. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works alone is and akways was clearly wrong. This isn't complicated.
+Trying to put faith and works in competition blatantly and obviously contradicts scripture, and misses the entire point of justification. Martin Luther is clearly wrong. Sola fide is clearly false. And justification by works alone is and always was clearly wrong. This isn't complicated.
 
 Modern Lutherans will explain that this isn't what they mean by *sola fide*, but this is what Martin Luther meant and what many of the reformers meant. If you mean something similar to the orthodox view (such as the nuanced *sola gratia, sola fide*), then you don't need a Latin slogan, you can just participate in the scriptures and understand justification exactly as it has been understood for thousands of years.
 
@@ -127,12 +127,12 @@ Similarly, if you're a Lutheran then you ought to avoid the *cheap grace* that D
     Cheap grace is grace without discipleship, grace without the cross, grace without Jesus Christ, living and incarnate.
 
 You cannot force good fruits.
-You can be obedient and pray for saving grace and faith sufficient to your salvation, which will be seen through the fruit of your works.
-Remember that God's grace is always sufficient.
+We ought to instead be obedient and pray for saving grace, pray for faith sufficient to our salvation, which will be seen through the fruit of our works.
+Remember, God's grace is always sufficient.
 
-A simpler way to think of it, had the thief on the cross survived and went back to his worldly life -- would he have shown no change in behavior? Would there have been no good fruits from his good works?
-If your conversion happens while on the cross moments before your death, then you've received a martyr's justification.
-But every moment in your life as a Christian where you're not being martyred, what excuse have we?
+A simpler way to think of it, imagine if the thief on the cross survived and went back to his worldly life -- would he have shown no change in behavior? Would there have been no good fruits from good works?
+If your conversion happens while on the cross moments before your death, then you will have received a martyr's justification.
+But every moment of our lives as Christians where we're not being martyred, what excuse have we?
 
 
 !!! quote "Ephesians 2:8-10"
@@ -140,8 +140,8 @@ But every moment in your life as a Christian where you're not being martyred, wh
     Not of works, lest any man should boast. 
     For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
 
-We are to become like Christ, such that our will aligns with the Father (through Christ), and in doing so we will see the good fruits of good works.
-We will praise God for all the good works that were His through grace, recognizing that such works are for our assurance to help us and to guide us, towards healing our souls.
+We are to become like Christ, such that our will aligns with the Father (through Christ), and in doing so we will see the good fruits, participating in His good works.
+We will praise God for all the good works that are His through grace, recognizing that such works are for our assurance to help us and to guide us, towards healing our souls, working out our salvation with fear and trembling.
 
 
 
@@ -149,11 +149,7 @@ We will praise God for all the good works that were His through grace, recognizi
 
 
 
-
-
-
-
-
+## Patristic Commentaries 
 
 https://classicalchristianity.com/2011/02/25/on-limited-atonement/
 St. Gregory of Nyssa ca. 335-394
