@@ -47,7 +47,7 @@ St. Paul here refers to "faith of Christ" and not "faith in Christ".
 
 ## Sola Fide
 
-*"Sola fide"* (literally *faith alone") is a reformation era interpretation that declares justification (and hence salvation) to be by faith alone.
+*"Sola fide"* (literally *"faith alone"*) is a reformation era interpretation that declares justification (and hence salvation) to be by faith alone.
 That is, by belief in Christ you are saved.
 
 !!! warning "Martin Luther"
