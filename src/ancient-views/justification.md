@@ -37,8 +37,6 @@ And note that it is not *our faith* that justifies, but Christ's faith that just
 
 
 
-https://m.youtube.com/watch?v=adr6AD8YduA
-
 
 
 
