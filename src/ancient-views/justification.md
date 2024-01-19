@@ -30,7 +30,7 @@ Justification, as a legalistic understanding of salvation, can never be through 
 
 Importantly, it is not *our faith* that justifies, but Christ's faith that justifies us. Nowhere in scripture is there a dichotomy between our faith and our works. 
 
-St. Paul refers to "faith of Christ" and not "faith in Christ".
+St. Paul here refers to "faith of Christ" and not "faith in Christ".
 
 !!! quote "Galatians 2:25-16"
     We who are Jews by nature, and not sinners of the Gentiles, 
