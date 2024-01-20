@@ -21,6 +21,9 @@ Think of it as legalistic assurance of salvation.
 
 We are saved through Christ (even legalistically). 
 
+
+## Orthodox View
+
 This was never a controversial topic in the ancient world and has been core to Christian teaching from the beginning. Christ died on the cross, and rose again, for us. His perfect faith and sacrifice "justifies us" in a legalistic sense, or more broadly "saves us" in the holistic sense -- restoring us (fallen creatures) to our created purpose being in the image and likeness of God.
 
 This understanding became corrupted over time, first in Rome through abuses such as
@@ -30,7 +33,7 @@ This understanding became corrupted over time, first in Rome through abuses such
 Justification provides assurance, which involves faith that produces good works. 
 But works are not sufficient for justification.
 In other words, there is nothing you can do, no good deeds sufficient to earn your salvation, no works that can justify you.
-Justification, as a legalistic understanding of salvation, can never be through works alone.
+Justification, as a legalistic understanding of salvation, can never be through anything on your part.
 
 Importantly, it is not *our faith* that justifies, but Christ's faith that justifies us. Nowhere in scripture is there a dichotomy between our faith and our works. It is always about Christ.
 
@@ -171,7 +174,32 @@ We will praise God for all the good works that are His through grace, recognizin
 
 
 
-## Patristic Commentaries 
+## Patristic Commentaries
+
+https://orthodoxchristiantheology.com/2020/12/11/the-orthodox-doctrine-of-justification-the-biblical-teaching/
+
+https://orthodoxchristiantheology.com/2020/12/17/the-orthodox-doctrine-of-justification-the-patristic-and-conciliar-teaching
+
+!!! quote "1 Maccabees 2:52"
+    Was not Abraham found faithful when tested, and it was reckoned to him as righteousness?
+
+!!! quote "Hebrews 11:17-19"
+    By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son, 
+    Of whom it was said, That in Isaac shall thy seed be called: 
+    Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure.
+
+works are not irrelevant or unnecessary but they are the means to perfect one's faith.
+
+Or as *faith working through love*.
+
+!!! quote "Galatians 5:4-6"
+    Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace. 
+    For we through the Spirit wait for the hope of righteousness by faith. 
+    For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.
+
+Works to St. Paul are critical, as it is faith that works from love (by the grace of God). Twisting St. Paul's words to fit *sola fide* removes the spiritual depth of his teaching.
+
+
 
 https://classicalchristianity.com/2011/02/25/on-limited-atonement/
 St. Gregory of Nyssa ca. 335-394
@@ -183,9 +211,6 @@ St. Gregory of Nyssa ca. 335-394
 
 
 
-https://orthodoxchristiantheology.com/2020/12/11/the-orthodox-doctrine-of-justification-the-biblical-teaching/
-
-https://orthodoxchristiantheology.com/2020/12/17/the-orthodox-doctrine-of-justification-the-patristic-and-conciliar-teaching
 
 
 !!! quote "Romans 8:30"
