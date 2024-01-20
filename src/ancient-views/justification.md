@@ -27,10 +27,12 @@ This understanding became corrupted over time, first in Rome through abuses such
  [indulgences](https://en.m.wikipedia.org/wiki/Indulgence),
  which promised a false "works-based salvation", exactly as one would find in pagan views.
 
-Justification provides assurance, which involves faith that produces good works. In other words, there is nothing you can do, no good deeds sufficient to earn your salvation, no works that can justify you.
+Justification provides assurance, which involves faith that produces good works. 
+But works are not sufficient for justification.
+In other words, there is nothing you can do, no good deeds sufficient to earn your salvation, no works that can justify you.
 Justification, as a legalistic understanding of salvation, can never be through works alone.
 
-Importantly, it is not *our faith* that justifies, but Christ's faith that justifies us. Nowhere in scripture is there a dichotomy between our faith and our works. 
+Importantly, it is not *our faith* that justifies, but Christ's faith that justifies us. Nowhere in scripture is there a dichotomy between our faith and our works. It is always about Christ.
 
 St. Paul here refers to "faith of Christ" and not "faith in Christ".
 
@@ -135,11 +137,13 @@ Similarly, if you're a Lutheran then you ought to avoid the *cheap grace* that D
     
     Cheap grace is grace without discipleship, grace without the cross, grace without Jesus Christ, living and incarnate.
 
-We cannot force good fruits nor good works.
+We cannot force good fruits nor good works. 
 We ought to instead be obedient and pray for grace, pray for faith sufficient to our salvation, which can be seen through the fruit of our works.
 Remember, God's grace is always sufficient.
 
 Imagine if the thief on the cross survived and went back to worldly life -- would he have shown no change in behavior? Would there have been no good fruits from good works?
+The Lord provides sufficient works so as to perfect our faith.
+For the thief on the cross, this was martyrdom.
 If our conversion happens while on the cross moments before death, then we will have received a martyr's justification.
 But for every moment of our Christian lives where we're not being martyred, what excuse have we?
 
