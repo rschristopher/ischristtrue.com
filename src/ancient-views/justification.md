@@ -178,6 +178,7 @@ We will praise God for all the good works that are His through grace, recognizin
 
 https://orthodoxchristiantheology.com/2020/12/11/the-orthodox-doctrine-of-justification-the-biblical-teaching/
 
+https://orthodoxchristiantheology.com/2020/12/28/the-orthodox-doctrine-of-justification-versus-roman-catholicism-and-protestantism/
 
 !!! quote "1 Maccabees 2:52"
     Was not Abraham found faithful when tested, and it was reckoned to him as righteousness?
