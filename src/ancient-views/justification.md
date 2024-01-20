@@ -23,8 +23,8 @@ We are saved through Christ (even legalistically).
 
 This was never a controversial topic in the ancient world and has been core to Christian teaching from the beginning. Christ died on the cross, and rose again, for us. His perfect faith and sacrifice "justifies us" in a legalistic sense, or more broadly "saves us" in the holistic sense -- restoring us (fallen creatures) to our created purpose being in the image and likeness of God.
 
-This understanding became corrupted, first in Rome through abuses such as
- [indulgences](https://en.m.wikipedia.org/wiki/Indulgence)
+This understanding became corrupted over time, first in Rome through abuses such as
+ [indulgences](https://en.m.wikipedia.org/wiki/Indulgence),
  which promised a false "works-based salvation", exactly as one would find in pagan views.
 
 Justification provides assurance, which involves faith that produces good works. In other words, there is nothing you can do, no good deeds sufficient to earn your salvation, no works that can justify you.
