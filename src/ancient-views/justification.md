@@ -111,7 +111,7 @@ Modern protestants, when pressed, do not hold Luther's strict *sola fide* but in
 
 
 
-## Modern Debates on Justification 
+## Modern Debates
 
 Importantly, justification was never a point of contention until the reformation. The reaction to the abuses of Rome elevated a faulty understanding of justification and created a dichotomy (of works vs faith) where none existed previously.
 
@@ -137,7 +137,7 @@ Trying to put faith and works in competition blatantly contradicts scripture, an
 
 Modern Lutherans may explain that this isn't what they mean by *sola fide*, but words have meaning, and this is what Martin Luther's words meant and what many of the reformers meant. If you mean something similar to the orthodox view (such as the nuanced *"sola gratia, sola fide"*), then you don't need a Latin slogan, you can just participate in the scriptures and understand justification exactly as it has been understood for thousands of years.
 
-Even in the most dogmatic five-point Calvinist view, if you don't see fruitful works in your Christian life, then your faith is dead. You are by your own interpretation not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits would (by a monergistic view) be evidence of reprobation (the so-called unelect).
+Even in the most dogmatic five-point Calvinist view, if you don't see fruitful works in your Christian life, then your faith is dead. You are by your own interpretation not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits would be evidence (by a monergistic view) of reprobation (the so-called unelect).
 
 Similarly, if you're a Lutheran then you ought to avoid the *cheap grace* that Dietrich Bonhoeffer warned against. The fruits of which have played out disastrously since Bonhoeffer's time.
 
@@ -182,7 +182,7 @@ We will praise God for all the good works that are His through grace, recognizin
 
 ## Patristic Commentaries
 
-While there wasn't controversy around justification, there is plenty of surviving commentary from the early church that we can get a deeper understanding of what early Christians actually believed and -- importantly -- how they avoided the various bad fruits we see from modern Christianity.
+While there wasn't much controversy around justification, there is plenty of surviving commentary from the early church that we can get a deeper understanding of what early Christians actually believed about justification and -- importantly -- how they avoided the various bad fruits we see from modern Christian denominations who can't seem to faithfully understand one another, let alone hold communion together.
 
 https://orthodoxchristiantheology.com/2020/12/11/the-orthodox-doctrine-of-justification-the-biblical-teaching/
 
