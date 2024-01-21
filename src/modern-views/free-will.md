@@ -113,7 +113,7 @@ As if to re-tell the early Pelagian controversy,
  who was heavily influenced by 
  the writings of Augustine 
  on predestination.
-This reaction -- known as [Arminianism](https://en.m.wikipedia.org/wiki/Arminianism) -- was especially concerned with Calvin's views of
+This reaction -- which started with  [Jacobus Arminius](https://en.wikipedia.org/wiki/Jacobus_Arminius) and became known as [Arminianism](https://en.m.wikipedia.org/wiki/Arminianism) -- was especially concerned with Calvin's views of
  *reprobation*
  (or what is otherwise known as 
   [double predestination](https://history.hanover.edu/courses/excerpts/346cal2.html)),
@@ -140,7 +140,7 @@ Later, the Remonstrant Arminian view was explicitly condemned
  [Synod of Dort](https://en.wikipedia.org/wiki/Synod_of_Dort)
  which is what led to the articulation of the
  [five points of Calvinism](https://en.wikipedia.org/wiki/Calvinism#Five_Points_of_Calvinism)
- (known by the mnemonic acronym TULIP).
+ known by the mnemonic acronym TULIP and is generally what we mean by Calvinism today.
 
 And exactly as the condemnation of Pelagianism resulted in the emergence of semi-Pelagianism, the condemnation of Remonstrant Arminianism led inevitably to a rationalistic Arminianism.
 In the century after Dort there was a migration away from strict monergism but not stopping at rational Arminianism, instead it inevitably produced
@@ -252,10 +252,9 @@ To the degree the reactions produce revealed truth they can be said to be good (
      But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
 
 
-In the final analysis, it would be fair to 
+Moving past the deceptions, it would be fair to 
  view Arminianism as a Calvinist
- dressing around rationalistic synergism, which
- can lead to semi-pelegianism and deism.
+ dressing around rationalistic synergism, which inevitably lead to semi-pelegianism and deism.
 Yet the culprit, the cause, is the rigid
  views of reprobation within Calvinism, that is, 
  ignoring the infinite love and mercy
@@ -264,7 +263,7 @@ Yet the culprit, the cause, is the rigid
  create rationalistic Arminianism.
 
 We cannot condemn Arminianism while
- blamelessly clinging to strict monergism (a monergism that affirms reprobation).
+ blamelessly clinging to strict monergism (a monergism that logically affirms reprobation).
 
 !!! info "Monergism Begets semi-Pelegian Reaction"
     From a transcendent perspective of God's absolute sovereignty, monergism is impossible to deny, however, if we attempt to deduce reprobation (double-predestination) we must conclude that God is 100% responsible for the salvation of the elect, and 100% responsible for the condemnation of the unelect, making God the author of evil.
