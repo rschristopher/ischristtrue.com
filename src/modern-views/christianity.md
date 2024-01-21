@@ -2,9 +2,9 @@
 
 Modern Christianity is often maligned, including by Christians themselves. 
 The more sincere you are in your faith, the further away you will feel from the sinless perfection to which we are called. 
-In other words, to be supremely humbled before God.
+In other words, as Christians we ought to be supremely humbled before God.
 
-And yet we often see proud Christians, convinced of their status as members of the *elect*, convinced that they are already *saved*, predestined even -- which is very much the antithesis of humility.
+And yet we often see proud Christians, convinced of our status as members of the *elect*, convinced that we are already *saved*, predestined even -- which is very much the antithesis of humility.
 
 
 
@@ -24,7 +24,7 @@ These are not churches pointing us towards the perfection that is Christ Jesus, 
 In other words, if we take the gospel to heart and submit ourselves completely to Christ, then it becomes clear that many modern Christian churches are preaching heretical messages contrary to the Biblical teachings of Christ.
 And yet simultaneously we are commanded to go to church, to be baptized and receive communion.
 
-This problem extends beyond the obvious transgender Marxist ideologues masquerading as Christians, but more subtly with female pastors and [moderm](index.md) political messaging from the pulpit, trying to modernize the church.
+This problem extends beyond the obvious transgender Marxist ideologues masquerading as Christians, but more subtly with female pastors and [moderm](index.md) political messaging from the pulpit, trying to "modernize" the church.
 
 *Heresies come in many forms, as do temptations.*
 
