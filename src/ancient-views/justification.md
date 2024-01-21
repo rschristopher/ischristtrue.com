@@ -24,7 +24,7 @@ We are saved through Christ (even legalistically).
 
 ## Orthodox View
 
-This was never a controversial topic in the ancient world and has been core to Christian teaching from the beginning. Christ died on the cross, and rose again, for us. His perfect faith and sacrifice "justifies us" in a legalistic sense, or more broadly "saves us" in the holistic sense -- restoring us (fallen creatures) to our created purpose in the image and likeness of God.
+Unlike our [modern views](../modern-views/index.md), justification was never a controversial topic in the ancient world and has been core to Christian teaching from the beginning. Christ died on the cross, and rose again, for us. His perfect faith and sacrifice "justifies us" in a legalistic sense, or more broadly "saves us" in the holistic sense -- restoring us (fallen creatures) to our created purpose in the image and likeness of God.
 
 This understanding became corrupted over time, first in Rome through abuses such as
  [indulgences](https://en.m.wikipedia.org/wiki/Indulgence),
@@ -53,7 +53,7 @@ St. Paul here refers to "faith of Christ" and not "faith in Christ".
 ## Sola Fide
 
 *"Sola fide"* (literally *"faith alone"*) is a reformation era interpretation that declares justification (and hence salvation) to be by faith alone.
-That is, if you believe in Christ then you are saved.
+That is, if you believe in Christ then you have full assurance that you are saved.
 
 !!! warning "Martin Luther"
     This faith alone, when based upon the sure promises of God, must save us; as our text clearly explains. And in the light of it all, they must become fools who have taught us other ways to become godly.
@@ -107,6 +107,12 @@ One of the *solas* must give.
 One or both must be false.
 Modern protestants, when pressed, do not hold Luther's strict *sola fide* but instead a more nuanced *"sola gratia, sola fide"* view.
 
+
+
+
+
+## Modern Debates on Justification 
+
 Importantly, justification was never a point of contention until the reformation. The reaction to the abuses of Rome elevated a faulty understanding of justification and created a dichotomy (of works vs faith) where none existed previously.
 
 More than anything, we can see in these arguments the bad fruit of the adversary. God-fearing Christians are in disagreement in what is ultimately not a complex theological topic.
@@ -133,7 +139,7 @@ Modern Lutherans may explain that this isn't what they mean by *sola fide*, but 
 
 Even in the most dogmatic five-point Calvinist view, if you don't see fruitful works in your Christian life, then your faith is dead. You are by your own interpretation not regenerated, and ought to feel no assurance that you are among the elect. In fact, the lack of good fruits would (by a monergistic view) be evidence of reprobation (the so-called unelect).
 
-Similarly, if you're a Lutheran then you ought to avoid the *cheap grace* that Dietrich Bonhoeffer warned against:
+Similarly, if you're a Lutheran then you ought to avoid the *cheap grace* that Dietrich Bonhoeffer warned against. The fruits of which have played out disastrously since Bonhoeffer's time.
 
 !!! warning "Dietrich Bonhoeffer"
     Cheap grace is the grace we bestow on ourselves. Cheap grace is the preaching of forgiveness without requiring repentance, baptism without church discipline, Communion without confession.
@@ -175,6 +181,8 @@ We will praise God for all the good works that are His through grace, recognizin
 
 
 ## Patristic Commentaries
+
+While there wasn't controversy around justification, there is plenty of surviving commentary from the early church that we can get a deeper understanding of what early Christians actually believed and -- importantly -- how they avoided the various bad fruits we see from modern Christianity.
 
 https://orthodoxchristiantheology.com/2020/12/11/the-orthodox-doctrine-of-justification-the-biblical-teaching/
 
