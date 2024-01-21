@@ -485,7 +485,12 @@ By falling away from Him,
 These are difficult and even dangerous questions
  that if left untempered by truth (Christ) will result in
  the continuation of the heretical cycles of revolution and reaction
- that we have seen before (and likely will continue to see till the end of time). 
+ that we have seen before (and likely will continue to see till the end of time).
+
+!!! quote "John 14:6"
+    Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
+
+ 
 In the end, Christ has a divine will and a human will,
  He is both, and thus through Christ do we affirm the
  objective knowable truth of man's free will **and** of God's absolute sovereignty.
