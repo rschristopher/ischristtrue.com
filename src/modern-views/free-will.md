@@ -483,7 +483,7 @@ By falling away from Him,
  God-given will.
 
 These are difficult and even dangerous questions
- that if left untempered by truth (Christ) will result in
+ that if left untempered by truth (by Christ) will result in
  the continuation of the heretical cycles of revolution and reaction
  that we have seen before (and likely will continue to see till the end of time).
 
