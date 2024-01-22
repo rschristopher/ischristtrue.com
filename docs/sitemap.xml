@@ -96,16 +96,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ischristtrue.com/doctrines/annunciation/</loc>
-         <lastmod>2024-01-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ischristtrue.com/doctrines/ascension/</loc>
-         <lastmod>2024-01-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://ischristtrue.com/doctrines/baptism/</loc>
          <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
@@ -137,6 +127,16 @@
     </url>
     <url>
          <loc>https://ischristtrue.com/doctrines/temptations/</loc>
+         <lastmod>2024-01-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ischristtrue.com/logos/annunciation/</loc>
+         <lastmod>2024-01-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ischristtrue.com/logos/ascension/</loc>
          <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
