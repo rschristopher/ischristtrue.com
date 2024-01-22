@@ -22,7 +22,7 @@ These are -- to be clear -- churches in the spirit of antichrist.
 These are not churches pointing us towards the perfection that is Christ Jesus, these are churches pointing in the exact opposite direction of Christ.
 
 In other words, if we take the gospel to heart and submit ourselves completely to Christ, then it becomes clear that many modern Christian churches are preaching heretical messages contrary to the Biblical teachings of Christ.
-And yet simultaneously we are commanded to go to church, to be baptized and receive communion.
+And yet as Christians we are to go to church and to be baptized.
 
 This problem extends beyond the obvious transgender Marxist ideologues masquerading as Christians, but more subtly with female pastors and [moderm](index.md) political messaging from the pulpit, trying to "modernize" the church.
 
