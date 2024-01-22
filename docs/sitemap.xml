@@ -91,42 +91,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ischristtrue.com/doctrines/</loc>
-         <lastmod>2024-01-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ischristtrue.com/doctrines/baptism/</loc>
-         <lastmod>2024-01-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ischristtrue.com/doctrines/cross/</loc>
-         <lastmod>2024-01-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ischristtrue.com/doctrines/harrowing/</loc>
-         <lastmod>2024-01-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ischristtrue.com/doctrines/ministry/</loc>
-         <lastmod>2024-01-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ischristtrue.com/doctrines/nativity/</loc>
-         <lastmod>2024-01-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ischristtrue.com/doctrines/resurrection/</loc>
-         <lastmod>2024-01-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ischristtrue.com/doctrines/temptations/</loc>
+         <loc>https://ischristtrue.com/logos/</loc>
          <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -137,6 +102,41 @@
     </url>
     <url>
          <loc>https://ischristtrue.com/logos/ascension/</loc>
+         <lastmod>2024-01-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ischristtrue.com/logos/baptism/</loc>
+         <lastmod>2024-01-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ischristtrue.com/logos/cross/</loc>
+         <lastmod>2024-01-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ischristtrue.com/logos/harrowing/</loc>
+         <lastmod>2024-01-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ischristtrue.com/logos/ministry/</loc>
+         <lastmod>2024-01-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ischristtrue.com/logos/nativity/</loc>
+         <lastmod>2024-01-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ischristtrue.com/logos/resurrection/</loc>
+         <lastmod>2024-01-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ischristtrue.com/logos/temptations/</loc>
          <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
