@@ -482,9 +482,7 @@ By falling away from Him,
  no longer able to exercise our
  God-given will.
 
-These are difficult and even dangerous questions
- that if left untempered by truth (by Christ) will result in
- the continuation of the heretical cycles of revolution and reaction
+These are difficult and even dangerous questions that if left untempered by truth (by Christ), then they will result in the continuation of the heretical cycles of revolution and reaction
  that we have seen before (and likely will continue to see till the end of time).
 
 !!! quote "John 14:6"
