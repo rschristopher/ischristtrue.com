@@ -21,6 +21,7 @@ iconoclasts are themselves evidence of ancient veneration of icons.
     I speak as to wise men; judge ye what I say. 
     The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ? 
     For we being many are one bread, and one body: for we are all partakers of that one bread. 
+    
     Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar? 
     What say I then? that the idol is any thing, or that which is offered in sacrifice to idols is any thing? 
     But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils. 
