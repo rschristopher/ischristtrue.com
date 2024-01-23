@@ -66,6 +66,14 @@ iconoclasts are themselves evidence of ancient veneration of icons.
 
 
 
+The most interesting example of icon is the person of Christ Jesus, that through Him we may look upon the face of the Father.
+
+
+
+
+!!! quote "1 John 1:1-2"
+    That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; 
+    (For the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us)
 
 
 
