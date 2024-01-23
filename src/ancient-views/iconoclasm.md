@@ -46,5 +46,9 @@ iconoclasts are themselves evidence of ancient veneration of icons.
     And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee.
 
 
-.
+!!! quote "Exodus 26:1"
+    Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them.
+
+
+
 
