@@ -120,6 +120,12 @@ This is a radical cosmological shift..
 
 
 
+https://orthodoxwiki.org/Seventh_Ecumenical_Council
+
+
+
+http://orthodoxinfo.com/general/icon_faq.aspx
+
 
 
 https://orthodoxbridge.com/2011/07/12/is-there-a-biblical-basis-for-icons/
