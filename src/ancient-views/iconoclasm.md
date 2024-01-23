@@ -96,7 +96,8 @@ The most interesting example of icon is the person of Christ Jesus, that through
     He is the **image** of the invisible God, the firstborn over all creation.
 
 
+!!! quote "2 Corinthians 4:4"
+    In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.
 
-
-
+Image of God, literally icon of God.
 
