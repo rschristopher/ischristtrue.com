@@ -101,3 +101,54 @@ The most interesting example of icon is the person of Christ Jesus, that through
 
 Image of God, literally icon of God.
 
+!!! quote "Colossians 3:9-10"
+    Lie not one to another, seeing that ye have put off the old man with his deeds; 
+    And have put on the new man, which is renewed in knowledge after the image of him that created him
+
+
+
+To be clear, just as Moses beheld God in the Tabernacle, Christ has descended such that we all may behold God upon this world.
+This is a radical cosmological shift..
+
+
+!!! quote "2 Corinthians 4:16-18"
+    For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day. 
+    For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory; 
+    While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.
+
+
+
+
+
+
+
+https://orthodoxbridge.com/2011/07/12/is-there-a-biblical-basis-for-icons/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
