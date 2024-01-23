@@ -37,6 +37,14 @@ iconoclasts are themselves evidence of ancient veneration of icons.
 
 
 
+## Icons
+
+!!! quote "Exodus 25:18-21"
+    And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat. 
+    And make one cherub on the one end, and the other cherub on the other end: even of the mercy seat shall ye make the cherubims on the two ends thereof. 
+    And the cherubims shall stretch forth their wings on high, covering the mercy seat with their wings, and their faces shall look one to another; toward the mercy seat shall the faces of the cherubims be. 
+    And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee.
+
 
 .
 
