@@ -87,7 +87,13 @@ The most interesting example of icon is the person of Christ Jesus, that through
     Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;
 
 
+εἰκὼν (eikōn)
 
+
+!!! quote "Colossians 1:15"
+    ὅς ἐστιν **εἰκὼν** τοῦ Θεοῦ τοῦ ἀοράτου, πρωτότοκος πάσης κτίσεως,
+    
+    He is the **image** of the invisible God, the firstborn over all creation.
 
 
 
