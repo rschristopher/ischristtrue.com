@@ -59,3 +59,20 @@ iconoclasts are themselves evidence of ancient veneration of icons.
     And he overlaid the cherubims with gold.
 
 
+
+!!! quote "Ezekiel 41:18-19"
+    And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces; 
+    So that the face of a man was toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side: it was made through all the house round about.
+
+
+
+
+
+
+
+
+
+
+
+
+
