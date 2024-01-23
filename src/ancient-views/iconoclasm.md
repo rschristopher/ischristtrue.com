@@ -50,5 +50,12 @@ iconoclasts are themselves evidence of ancient veneration of icons.
     Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them.
 
 
+!!! quote "1 Kings 6:23-28"
+    And within the oracle he made two cherubims of olive tree, each ten cubits high. 
+    And five cubits was the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other were ten cubits. 
+    And the other cherub was ten cubits: both the cherubims were of one measure and one size. 
+    The height of the one cherub was ten cubits, and so was it of the other cherub. 
+    And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house. 
+    And he overlaid the cherubims with gold.
 
 
