@@ -16,6 +16,11 @@ iconoclasts are themselves evidence of ancient veneration of icons.
     Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me
 
 
+!!! quote "Leviticus 19:4"
+    Turn ye not unto idols, nor make to yourselves molten gods: I am the LORD your God.
+
+
+
 !!! quote "1 Corinthians 10:14-22"
     Wherefore, my dearly beloved, flee from idolatry. 
     I speak as to wise men; judge ye what I say. 
