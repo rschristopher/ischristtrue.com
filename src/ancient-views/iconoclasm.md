@@ -11,6 +11,10 @@ symbols and types, prototype, archetype
 
 iconoclasts destroy what they see as graven images, idols -- but let us not grant piety to destruction of what are clearly not idols. 
 
+In fact, the seventh ecumenical council did not mince words in the pronouncement of anathemas to the iconoclasts.
+
+http://wmm.dormitionpress.org/archives/522
+
 Humans venerate and praise, and they are to worship only God.
 
 Today, while most iconoclastic protestants would never adorn their church with iconography, they do not question a nativity scene in their front yard during Christmas.
@@ -24,9 +28,9 @@ Venerating icons is like venerating the words of scripture. They are both symbol
 Worshipping icons would be wrong, and should be decried as heretical wherever it is found.
 And likewise, conflating icons with idol worship should similarly be condemned.
 Imagine burning Bibles because people were worshipping Bibles.
-If you can understand that you're not worshipping a Bible then you can understand icon veneration.
+If you can understand that you're not worshipping a Bible then you can understand icon veneration is not idol worship.
 
-A very simple test, icons are fungible, idols are not. You may have sentimental value attached to a particular family Bible, but you certainly don't value it over the Bible itself.
+A very simple test, icons are fungible, idols are not. You may have sentimental value attached to a particular family Bible, but you certainly don't value it over God.
 
 
 ## Idols
