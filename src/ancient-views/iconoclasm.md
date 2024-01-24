@@ -23,14 +23,17 @@ Is this not the behavior of the adversary?
 
 We ought not condone such reprehensible behavior.
 
-Venerating icons is like venerating the words of scripture. They are both symbols pointing to God, helping and guiding us towards Christ Jesus.
+Venerating icons is like venerating the words of scripture. They are both, icons and scripture, symbols pointing us to God, helping and guiding us towards Christ Jesus.
 
 Worshipping icons would be wrong, and should be decried as heretical wherever it is found.
 And likewise, conflating icons with idol worship should similarly be condemned.
 Imagine burning Bibles because people were worshipping Bibles.
-If you can understand that you're not worshipping a Bible then you can understand icon veneration is not idol worship.
+If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
 
-A very simple test, icons are fungible, idols are not. You may have sentimental value attached to a particular family Bible, but you certainly don't value it over God.
+A very simple test, icons are often fungible, idols are not and cannot be fungible. What we honor is not what we worship. For example, you may have a particular family Bible with deep sentimental value, but you certainly don't worship it or value it over God.
+
+
+
 
 
 ## Idols
@@ -116,7 +119,33 @@ A very simple test, icons are fungible, idols are not. You may have sentimental 
 
 
 
-The most interesting example of icon is the person of Christ Jesus, that through Him we may look upon the face of the Father.
+
+
+## Relationship between Idol and Icon
+
+What we worship, determines what we venerate.
+If we worship money (mammon) then we will venerate sources and symbols of wealth.
+If we worship ourselves then we will venerate images of ourselves (as is so common on social media today).
+If we worship nothing, we will venerate symbols of nothingness, such as postmodern philosophy, moral relativism, and absurdism.
+If we worship our career, we will venerate symbols of our career status, business cards, conferences, and so forth.
+
+And importantly, if we worship God, we will venerate the Saints that inspire in us a deeper sense of worship.
+If we worship Christ, then we will venerate His mother who birthed the God-man.
+And if we worship the one true God, then we will venerate the symbols of the one true God, including scripture.
+
+
+
+
+
+
+
+
+
+
+## Christ as Icon
+
+
+The most interesting example of an icon is the person of Christ Jesus, that through Him we may look upon the face of the Father.
 
 
 !!! quote "John 14:9"
@@ -157,7 +186,7 @@ Image of God, literally icon of God.
 
 
 
-To be clear, just as Moses beheld God in the Tabernacle, Christ has descended such that we all may behold God upon this world.
+To be clear, just as Moses beheld God in the Tabernacle, Christ has condescended down to us such that we all may behold God upon this world.
 This is a radical cosmological shift..
 
 
