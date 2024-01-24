@@ -28,7 +28,7 @@ We ought not condone such reprehensible behavior.
 
 Venerating icons is like venerating the words of scripture. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
 
-Worshipping icons would be wrong, and should be decried as heretical wherever it is found.
+Worshipping icons would be wrong, and should be condemned as heretical wherever such evil is found.
 And likewise, conflating icons with idol worship should similarly be condemned.
 Imagine burning Bibles because someone thought people were worshipping Bibles.
 If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
