@@ -58,6 +58,15 @@ A very simple test, icons are fungible, idols are not. You may have sentimental 
     Do we provoke the Lord to jealousy? are we stronger than he?
 
 
+!!! quote "Colossians 3:2-8"
+    Set your minds on things above, not on earthly things. 
+    For you died, and your life is now hidden with Christ in God. 
+    When Christ, who is youra life, appears, then you also will appear with Him in glory.
+    
+    Put to death, therefore, the components of your earthly nature: sexual immorality, impurity, lust, evil desires, and greed, which is idolatry. 
+    Because of these, the wrath of God is coming on the sons of disobedience. 
+    When you lived among them, you also used to walk in these ways. 
+    But now you must put aside all such things as these: anger, rage, malice, slander, and filthy language from your lips.
 
 
 
