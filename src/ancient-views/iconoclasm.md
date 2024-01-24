@@ -16,7 +16,7 @@ iconoclasts destroy what they see as graven images, idols -- but let us not gran
 
 In fact, the seventh ecumenical council did not mince words in the pronouncement of anathemas to the iconoclasts.
 
-???+ alert "Anathemas from the Seventh Ecumenical Synodikon"
+???+ danger "Anathemas from the Seventh Ecumenical Synodikon"
     To those who presume to apply to the venerable images the things said in Holy Scripture about as idols: Anathema!
     
     To those who do not salute the holy and venerable images: Anathema!
