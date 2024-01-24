@@ -59,14 +59,31 @@ A very simple test, icons are fungible, idols are not. You may have sentimental 
 
 
 !!! quote "Colossians 3:2-8"
-    Set your minds on things above, not on earthly things. 
-    For you died, and your life is now hidden with Christ in God. 
-    When Christ, who is youra life, appears, then you also will appear with Him in glory.
+    Set your affection on things above, not on things on the earth. 
+    For ye are dead, and your life is hid with Christ in God. 
+    When Christ, who is our life, shall appear, then shall ye also appear with him in glory.
     
-    Put to death, therefore, the components of your earthly nature: sexual immorality, impurity, lust, evil desires, and greed, which is idolatry. 
-    Because of these, the wrath of God is coming on the sons of disobedience. 
-    When you lived among them, you also used to walk in these ways. 
-    But now you must put aside all such things as these: anger, rage, malice, slander, and filthy language from your lips.
+    Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry: 
+    
+    For which things' sake the wrath of God cometh on the children of disobedience: 
+    In the which ye also walked some time, when ye lived in them. 
+    But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.
+
+
+
+!!! quote "1 John 5:19-21"
+    And we know that we are of God, and the whole world lieth in wickedness. 
+    And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.
+    
+    Little children, keep yourselves from idols. Amen.
+
+
+
+
+
+
+
+
 
 
 
