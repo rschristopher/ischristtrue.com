@@ -181,7 +181,7 @@ This should be a simple question,
  is there objective knowable truth?
 Does truth exist?
 
-In the [modern view](modern-views/index.md),
+In our [modern view](modern-views/index.md),
  there is no objective knowable truth.
 There are word games.
 There is a cascade of unconsciously 
@@ -255,7 +255,7 @@ And Plato referred to a
  what we mean when talking
  about objective knowable truth.
 Aristotle recognized that a first principle of *logos* is necessarily unexplainable (for if a first principle had a causal explanation than that cause would be the first principle).
-Ultimately, these concepts, especially of *logos* as *first principle* synthesized with equivalent Hebrew thought, and formed the basis of Christianity and what we mean today by 
+Ultimately, these concepts, especially of *logos* as *first principle* originated from Hebrew thought (such as from the [Septuagint](https://en.wikipedia.org/wiki/Septuagint)), and later formed the foundation of Christianity and what we mean today by 
  *objective knowable truth*.
 
 To be clear, if you claim to be a
