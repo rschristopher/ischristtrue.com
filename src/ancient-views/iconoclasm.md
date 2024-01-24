@@ -9,6 +9,9 @@ iconoclasts are themselves evidence of ancient veneration of icons.
 
 symbols and types, prototype, archetype
 
+
+## Anathema!
+
 iconoclasts destroy what they see as graven images, idols -- but let us not grant piety to destruction of what are clearly not idols. 
 
 In fact, the seventh ecumenical council did not mince words in the pronouncement of anathemas to the iconoclasts.
@@ -23,11 +26,11 @@ Is this not the behavior of the adversary?
 
 We ought not condone such reprehensible behavior.
 
-Venerating icons is like venerating the words of scripture. They are both, icons and scripture, symbols pointing us to God, helping and guiding us towards Christ Jesus.
+Venerating icons is like venerating the words of scripture. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
 
 Worshipping icons would be wrong, and should be decried as heretical wherever it is found.
 And likewise, conflating icons with idol worship should similarly be condemned.
-Imagine burning Bibles because people were worshipping Bibles.
+Imagine burning Bibles because someone thought people were worshipping Bibles.
 If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
 
 A very simple test, icons are often fungible, idols are not and cannot be fungible. What we honor is not what we worship. For example, you may have a particular family Bible with deep sentimental value, but you certainly don't worship it or value it over God.
@@ -121,20 +124,25 @@ A very simple test, icons are often fungible, idols are not and cannot be fungib
 
 
 
+
+
+
 ## Relationship between Idol and Icon
 
-What we worship, determines what we venerate.
+What we worship determines what we venerate.
+We do not, and can not, choose what we venerate. What we venerate is a merely consequence of what we worship.
+
 If we worship money (mammon) then we will venerate sources and symbols of wealth.
 If we worship ourselves then we will venerate images of ourselves (as is so common on social media today).
-If we worship nothing, we will venerate symbols of nothingness, such as postmodern philosophy, moral relativism, and absurdism.
+If we worship nothing, we will venerate symbols of nothingness, such as postmodern philosophy, moral relativism, fashion trends, and absurdism.
 If we worship our career, we will venerate symbols of our career status, business cards, conferences, and so forth.
 
-And importantly, if we worship God, we will venerate the Saints that inspire in us a deeper sense of worship.
+Importantly, if we worship God, we will venerate the Saints that inspire in us a deeper sense of worship.
 If we worship Christ, then we will venerate His mother who birthed the God-man.
 And if we worship the one true God, then we will venerate the symbols of the one true God, including scripture.
 
-
-
+If, on the other hand, we do not feel any respect or honor to the Saints, or to the Theotokos, or to the scriptures, then it is not God that we worship.
+We all worship something, and our actions through what we venerate, will reveal what it is we are worshipping.
 
 
 
