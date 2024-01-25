@@ -421,13 +421,15 @@ The Spirit of Truth is the source
  all that was, is, and will be --
  including our own bodies and minds --
  this is the Spirit of Truth;
-the source, the creator of all.
+the source, the creator of time and space, the creator of all.
 What kind of being, what kind of spirit,
  could be the source of all?
 
+This is what people mean by God.
+
 Well, turns out there's only a few of
  possible answers.
-Either He exists, or He doesn't.
+Either God exists, or He doesn't.
 And if He does exist,
  He is either knowable, or not.
 
@@ -436,7 +438,7 @@ This somewhat crude classification
  of religious worldviews and metaphysical
  paradigms into a useful filter, as ultimately
  we are only concerned with the existence
- of a divine Spirit of Truth 
+ of a Spirit of Truth 
  that is knowable.
 
 If the Spirit of Truth does not exist,
@@ -451,11 +453,11 @@ In other words, we cannot know anything and
 Otherwise, any pretense of knowledge would be indistinguishable from illusion or deceit -- and any truth beyond the illusion would be inaccessible; there's either a foundation of truth made knowable to us, or it's *turtles all the way down* (an infinite regress of illusions).
 
 Whoever this divine Spirit of Truth is,
+ whoever God is,
  this universal pattern of reality,
  He grants us knowledge
  of ourselves and the world we live in.
 
-This is what people mean by God.
 
 !!! warning "Limits of Logic and Reason"
     Importantly, we are now
