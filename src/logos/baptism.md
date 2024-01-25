@@ -1,5 +1,12 @@
 # Baptism
 
+one baptism for the remission of sins
+
+unbaptized, the devil is in our heart and God must work from the outside.
+
+baptized, God is in our heart and the devil must work from the outside.
+
+
 https://orthodoxchristiantheology.com/2020/12/17/the-orthodox-doctrine-of-justification-the-patristic-and-conciliar-teaching
 
 !!! quote "Matthew 28:19-20"
@@ -47,8 +54,6 @@ https://stpeterorthodoxchurch.com/new-to-orthodoxy/what-does-the-orthodox-church
 Baptism brings the child into a christian family, that they will be raised as a Christian.
 
 https://orthodoxwiki.org/Infant_baptism
-
-
 
 
 
