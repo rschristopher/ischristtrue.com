@@ -25,7 +25,8 @@ becoming like Christ (theosis)
     Every prayer you make, every psalm you sing, every aim, every fast is recorded.
 
 
-
+!!! quote "Blessed Augustine"
+    Do what you can and then pray that God will give you the power to do what you cannot.
 
 
 
