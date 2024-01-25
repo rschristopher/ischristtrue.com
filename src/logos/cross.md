@@ -1,5 +1,6 @@
-# Coronation on the Cross 
+# Death on the Cross 
 
+Coronation 
 
 !!! quote "John 12:31"
     Now is the judgment of this world: now shall the prince of this world be cast out.
