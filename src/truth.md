@@ -575,12 +575,12 @@ Imagine an engineering professor
 A young students seeks to know
  how airplanes work,
  and the professor of Engineering presents
- them only with a history of ideas; and
- a vague relativism where the student
+ them only with a history of bad ideas; and
+ a vague relativism such that the student
  is suddenly unaware of whether
  manned flight is even possible.
 As universities continue 
- the nihilistic degredation
+ their nihilistic degredation
  of truth, that is exactly what the
  future will be.
 
