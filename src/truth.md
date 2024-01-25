@@ -701,7 +701,9 @@ You are an icon, a finite symbol
  of the infinite God,
  an ambassador to 
  the creator of the universe.
+
 Your purpose -- the answer to the most fundamental question -- *is to glorify God*, to fill all things with life and beauty.
+
 And even in your fallen state,
  you will not, and cannot,
  return to nothingness.
