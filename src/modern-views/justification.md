@@ -12,7 +12,7 @@ Justification is the state or process of becoming righteous. It is a
 [legalistic term](https://orthodoxwiki.org/Justification)
 relating to salvation.
 It comes from the Greek δικαίωσιν *(dikaiosis)* and it means **the act of pronouncing righteous**.
-Think of it as legalistic assurance of salvation.
+Think of it as legalistic assurance of [salvation](../ancient-views/salvation.md).
 
 !!! quote "Romans 4:25"
     ὃς παρεδόθη διὰ τὰ παραπτώματα ἡμῶν καὶ ἠγέρθη διὰ τὴν **δικαίωσιν** ἡμῶν.
