@@ -24,7 +24,8 @@ We are saved through Christ (even legalistically).
 
 ## Orthodox View
 
-Unlike our [modern views](index.md), justification was never a controversial topic in the ancient world and has been core to Christian teaching from the beginning. Christ died on the cross, and rose again, for us. His perfect faith and sacrifice "justifies us" in a legalistic sense, or more broadly "saves us" in the holistic sense -- restoring us (fallen creatures) to our created purpose in the image and likeness of God.
+[Modern](index.md) Christianity often fixates on justification and it has become a controversial topic amongst Christian denominations, but it was never controversial in the [ancient](../ancient-views/index.md) world.
+Justification has been core to Christian teaching from the beginning. Christ died on the cross, and rose again, for us. His perfect faith and sacrifice "justifies us" in a legalistic sense, or more broadly "saves us" in the holistic sense -- restoring us (fallen creatures) to our created purpose in the image and likeness of God.
 
 This understanding became corrupted over time, first in Rome through abuses such as
  [indulgences](https://en.m.wikipedia.org/wiki/Indulgence),
@@ -37,7 +38,7 @@ Justification, as a legalistic understanding of salvation, can never be through 
 
 Importantly, it is not *our faith* that justifies, but Christ's faith that justifies us. Nowhere in scripture is there a dichotomy between our faith and our works. It is always about Christ.
 
-St. Paul here refers to "faith of Christ" and not "faith in Christ".
+St. Paul here refers to "faith of Christ" and not "faith in Christ" when discussing justification.
 
 !!! quote "Galatians 2:25-16"
     We who are Jews by nature, and not sinners of the Gentiles, 
