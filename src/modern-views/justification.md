@@ -222,7 +222,7 @@ Works to St. Paul are inseparable from faith, as it is faith that ***works*** fr
 !!! quote "Romans 8:30"
     Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
 
-This passage remained relatively uncontroversial for the first thousand years of Christianity, however, as we near the great schism between east and west, we can find evidence of some debate through the writings of St. Symeon,
+This passage remained relatively uncontroversial for the first thousand years of Christianity, however, as we near the great schism between east and west, we can find evidence of some debate through the writings of St. Symeon the New Theologian,
 
 !!! quote "St. Symeon the New Theologian"
     I have heard many people say: “Because the Apostle says; ‘Those whom God foreknew, the same He also predestined; and those whom He predestined, He also called; and those whom He called, the same also glorified‘ [Romans 8:29-30] what good is it to me if I throw myself into many labors, if I give proof of repentance and conversion, when I am neither foreknown nor predestined by God to be saved and conformed to the glory of God His Son?”
@@ -239,7 +239,7 @@ St. Symeon continues,
 
 
 
-St Symeon continue with commentary that is apt today even in reformed theology about justification and orthodox synergy,
+St. Symeon's commentary is apt today even in reformed theology about justification and orthodox synergy, e.g.,
 
 
 !!! quote "St. Symeon the New Theologian"
@@ -251,8 +251,6 @@ St Symeon continue with commentary that is apt today even in reformed theology a
     
     For God knows all things beforehand, both past and present at once, and everything which is going to happen in the future up to the end of the world. He sees them as already present, because in and through Him all things hold together [Colossians 1:17]. Indeed, just as today the emperor takes in with a glance those who race and who wrestle in the area, but does not thereby make himself responsible for the victory of the winners or the failure of the losers–the zeal, or in other cases the slackness, of the contestants being cause of their victory or defeat–understand with me that it is just so with God Himself. When He endowed us with free will, giving commandments to teach us instead how we must oppose our adversaries, He left it to the free choice of each either to oppose and vanquish the enemy, or to relax and be miserably defeated by him. Nor does He leave us entirely to ourselves–for He knows the weakness of human nature–but rather is present Himself with us and, indeed, allies Himself with those who choose to struggle, and mysteriously imbues us with strength, and Himself, not we, accomplishes the victory over the adversary. This the earthly emperor is unable to do, since he is himself also a man, and is rather in need himself of assistance, just as we require it, too.
 
-
-St. Symeon concludes this commentary by beautifully affirming the orthodox view,
 
 !!! quote "St. Symeon the New Theologian"
     So tell me, where did you learn that you did not belong to those who are foreknown and predestined to become conformed to the image of God’s glory? Tell me, who told you this? Was it, maybe, God Who announced this to you, Himself, or by one of His prophets, or through an angel? “No,” you say, “but I do suppose that I am not predestined to salvation, and that all my effort would be in vain.” And why do you not believe instead with all your soul that God has sent His only-begotten Son on the earth for your sake alone, and for your salvation, that He knew you beforehand and predestined you to become His brother and co-heir? Why are you not eager to love Him with all your heart and to honor His saving commandments? Why do you not rather believe that, having been slaughtered for your sake, He will never abandon you, nor allow you to perish? Do you not hear Him saying: “Can a woman forget her suckling child . . . yet I will not forget you” [Isaiah 49:15]? So, if by anticipation you judge yourself unworthy, and willfully separate yourself from the flock of Christ’s sheep, you should understand that it is none other than you who are the cause of your own damnation.
