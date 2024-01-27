@@ -199,7 +199,7 @@ For example, the passage from the epistle of James (that Luther hated so much) s
 !!! quote "John Chrysostom"
     Faith without works is dead, and works without faith are dead also. For if we have sound doctrine but fail in living, the doctrine is of no use to us. Likewise if we take pains with life but are careless about doctrine, that will not be any good to us either. It is therefore necessary to shore up the spiritual edifice in both directions.
 
-And the reference to Abraham is particularly instructive as we can gain a sound exegesis about the relationship between faith and works, e.g.,
+And the reference to Abraham is particularly instructive as we can gain a sound exegesis about the relationship between faith and works through commentary about Abraham, e.g.,
 
 !!! quote "1 Maccabees 2:52"
     Was not Abraham found faithful when tested, and it was reckoned to him as righteousness?
