@@ -1,49 +1,23 @@
 # Iconoclasm
 
-Literally, the *breaking of images* -- iconoclasm is the deliberate destruction of artwork, typically religious artwork, such as the [Byzantine Iconoclasm](https://en.wikipedia.org/wiki/Byzantine_Iconoclasm).
-This pattern has repeated many times in ancient and modern history, and is again playing itself out within most protestant denominations.
+Literally, the *breaking of images* -- iconoclasm is the deliberate destruction of artwork, typically religious artwork.
+This has been an ongoing pattern *within* Christianity, such as the [Byzantine Iconoclasm](https://en.wikipedia.org/wiki/Byzantine_Iconoclasm)
+ or more recently the
+[Reformation Iconoclasm](https://folgerpedia.folger.edu/Idolatry:_Icons_and_Iconoclasm), the effects of which continue to this day and have resulted in the ubiquitous bland modern churches of protestantism.
 
-breaking of images (icons)
+While the charge was *idolatry*, the end result was the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
+Much blood and ink was spilled through the ages on the topic of icons.
+The iconoclasts themselves imagined they were adhering to the second commandment, perhaps reacting as Moses did to the golden calf.
 
-iconoclasts are themselves evidence of ancient veneration of icons.
+!!! danger "Exodus 32:19-20"
+    When Moses approached the camp and saw the calf and the dancing, his anger burned and he threw the tablets out of his hands, breaking them to pieces at the foot of the mountain. 
+    And he took the calf the people had made and burned it in the fire; then he ground it to powder, scattered it on the water and made the Israelites drink it.
 
+Iconoclasts necessarily imagined that images of Christ and images of Saints were equivalent to the worship of golden calves (e.g., worship of Baal).
+While this may be wrongheaded and a clear sign of demonic deception, notice that all sides understood that images had great power.
+The very existence of iconoclasms is testament to the spiritual power of images in the [ancient view](index.md).
 
-symbols and types, prototype, archetype
-
-
-
-
-
-
-
-## Icons
-
-!!! quote "Exodus 25:18-21"
-    And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat. 
-    And make one cherub on the one end, and the other cherub on the other end: even of the mercy seat shall ye make the cherubims on the two ends thereof. 
-    And the cherubims shall stretch forth their wings on high, covering the mercy seat with their wings, and their faces shall look one to another; toward the mercy seat shall the faces of the cherubims be. 
-    And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee.
-
-
-!!! quote "Exodus 26:1"
-    Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them.
-
-
-!!! quote "1 Kings 6:23-28"
-    And within the oracle he made two cherubims of olive tree, each ten cubits high. 
-    And five cubits was the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other were ten cubits. 
-    And the other cherub was ten cubits: both the cherubims were of one measure and one size. 
-    The height of the one cherub was ten cubits, and so was it of the other cherub. 
-    And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house. 
-    And he overlaid the cherubims with gold.
-
-
-
-!!! quote "Ezekiel 41:18-19"
-    And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces; 
-    So that the face of a man was toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side: it was made through all the house round about.
-
-
+That said, were the iconoclasts right? Or were they spiritually deceived? What is the truth of religious icons?
 
 
 
@@ -98,6 +72,57 @@ symbols and types, prototype, archetype
     And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.
     
     Little children, keep yourselves from idols. Amen.
+
+
+
+
+
+
+
+
+
+
+## Icons
+
+iconoclasts are themselves evidence of ancient veneration of icons.
+
+!!! quote "Exodus 25:18-21"
+    And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat. 
+    And make one cherub on the one end, and the other cherub on the other end: even of the mercy seat shall ye make the cherubims on the two ends thereof. 
+    And the cherubims shall stretch forth their wings on high, covering the mercy seat with their wings, and their faces shall look one to another; toward the mercy seat shall the faces of the cherubims be. 
+    And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee.
+
+
+!!! quote "Exodus 26:1"
+    Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them.
+
+
+!!! quote "1 Kings 6:23-28"
+    And within the oracle he made two cherubims of olive tree, each ten cubits high. 
+    And five cubits was the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other were ten cubits. 
+    And the other cherub was ten cubits: both the cherubims were of one measure and one size. 
+    The height of the one cherub was ten cubits, and so was it of the other cherub. 
+    And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house. 
+    And he overlaid the cherubims with gold.
+
+
+
+!!! quote "Ezekiel 41:18-19"
+    And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces; 
+    So that the face of a man was toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side: it was made through all the house round about.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -308,6 +333,7 @@ Imagine burning Bibles because someone thought people were worshipping Bibles.
 If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
 
 A very simple test, icons are often fungible, idols are not and cannot be fungible. What we honor is not what we worship. For example, you may have a particular family Bible with deep sentimental value, but you certainly don't worship it or value it over God.
+
 
 
 
