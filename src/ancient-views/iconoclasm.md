@@ -33,9 +33,10 @@ That said, were the iconoclasts right? Or were they demonically deceived? What i
 
 ## Idols
 
-Ancient pagan views created idols not merely as man-made trophies to worship, but in a real sense captured the essence of a specific god (a fallen spirit) such that the pagans could make offerings and sacrifice to that god.
+Ancient pagan views created idols not merely as man-made trophies to worship, but captured the essence of a specific god (a fallen spirit) such that the pagans could make offerings and sacrifice to that god.
+
 A pagan god (fallen spirit) was in a sense captured and bound by the idol and the rituals.
-This was the universal backdrop and God worked with His chosen people and transformed this practice of idol worship from within to the life of Christ Jesus.
+This was the universal backdrop of idolatry and God worked with His chosen people and transformed this practice of idol worship from within to the life of Christ Jesus.
 
 Let's first look at the second of the ten commandments:
 
