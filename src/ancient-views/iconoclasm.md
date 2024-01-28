@@ -10,45 +10,7 @@ iconoclasts are themselves evidence of ancient veneration of icons.
 symbols and types, prototype, archetype
 
 
-## Anathema!
 
-iconoclasts destroy what they see as graven images, idols -- but let us not grant piety to destruction of what are clearly not idols. 
-
-In fact, the seventh ecumenical council did not mince words in the pronouncement of anathemas to the iconoclasts.
-
-???+ danger "Anathemas from the Seventh Ecumenical Synodikon"
-    To those who presume to apply to the venerable images the things said in Holy Scripture about as idols: Anathema!
-    
-    To those who do not salute the holy and venerable images: Anathema!
-    
-    To those who call the sacred images idols: Anathema!
-    
-    To those who say that Christians resort to the sacred images as to gods: Anathema!
-    
-    To those who say that any other delivered us from idols except Christ our God: Anathema!
-    
-    To those who dare to say that at any time the Catholic Church received idols Anathema!
-
-http://andronicus-athanasia.org/synodikon_seventh__ecumenical_council.html
-
-http://wmm.dormitionpress.org/archives/522
-
-Humans venerate and praise, and they are to worship only God.
-
-Today, while most iconoclastic protestants would never adorn their church with iconography, they do not question a nativity scene in their front yard during Christmas.
-Should we destroy nativity scenes wherever we see them?
-Is this not the behavior of the adversary?
-
-We ought not condone such reprehensible behavior.
-
-Venerating icons is like venerating the words of scripture. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
-
-Worshipping icons would be wrong, and should be condemned as heretical wherever such evil is found.
-And likewise, conflating icons with idol worship should similarly be condemned.
-Imagine burning Bibles because someone thought people were worshipping Bibles.
-If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
-
-A very simple test, icons are often fungible, idols are not and cannot be fungible. What we honor is not what we worship. For example, you may have a particular family Bible with deep sentimental value, but you certainly don't worship it or value it over God.
 
 
 
@@ -165,7 +127,12 @@ We all worship something, and our actions through what we venerate, will reveal 
 
 
 
-## Christ as Icon
+
+
+
+
+
+## Icons of Christ 
 
 
 The most interesting example of an icon is the person of Christ Jesus, that through Him we may look upon the face of the Father.
@@ -242,7 +209,76 @@ https://orthodoxbridge.com/2011/07/12/is-there-a-biblical-basis-for-icons/
 
 
 
+## Icons of Mary
 
+...
+
+
+
+
+
+
+
+
+
+
+
+
+## Icons of Saints
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Iconoclast Anathema
+
+iconoclasts destroy what they see as graven images, idols -- but let us not grant piety to destruction of what are clearly not idols. 
+
+In fact, the seventh ecumenical council did not mince words in the pronouncement of anathemas to the iconoclasts.
+
+???+ danger "Anathemas from the Seventh Ecumenical Synodikon"
+    To those who presume to apply to the venerable images the things said in Holy Scripture about as idols: Anathema!
+    
+    To those who do not salute the holy and venerable images: Anathema!
+    
+    To those who call the sacred images idols: Anathema!
+    
+    To those who say that Christians resort to the sacred images as to gods: Anathema!
+    
+    To those who say that any other delivered us from idols except Christ our God: Anathema!
+    
+    To those who dare to say that at any time the Catholic Church received idols Anathema!
+
+http://andronicus-athanasia.org/synodikon_seventh__ecumenical_council.html
+
+http://wmm.dormitionpress.org/archives/522
+
+Humans venerate and praise, and they are to worship only God.
+
+Today, while most iconoclastic protestants would never adorn their church with iconography, they do not question a nativity scene in their front yard during Christmas.
+Should we destroy nativity scenes wherever we see them?
+Is this not the behavior of the adversary?
+
+We ought not condone such reprehensible behavior.
+
+Venerating icons is like venerating the words of scripture. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
+
+Worshipping icons would be wrong, and should be condemned as heretical wherever such evil is found.
+And likewise, conflating icons with idol worship should similarly be condemned.
+Imagine burning Bibles because someone thought people were worshipping Bibles.
+If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
+
+A very simple test, icons are often fungible, idols are not and cannot be fungible. What we honor is not what we worship. For example, you may have a particular family Bible with deep sentimental value, but you certainly don't worship it or value it over God.
 
 
 
