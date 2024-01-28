@@ -33,14 +33,20 @@ That said, were the iconoclasts right? Or were they demonically deceived? What i
 
 ## Idols
 
+What caused Moses to react with such aggression against the Israelites who were worshipping the golden calf? Let's first look at the second of the ten commandments:
+
 !!! quote "Exodus 20:4-5"
     Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: 
     Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me
 
+God commanded the Israelites not to make images of spiritual things and worship them.
+And this of course follows the first commandment to have no other gods before Him.
+The Levitical laws further refined this command with reference to idols:
 
 !!! quote "Leviticus 19:4"
     Turn ye not unto idols, nor make to yourselves molten gods: I am the LORD your God.
 
+Importantly, idols are differentiated here from "molten gods", such that we see the beginning of a broad category of idolatry -- which can be further refined in the New Testament;
 
 
 !!! quote "1 Corinthians 10:14-22"
@@ -67,13 +73,24 @@ That said, were the iconoclasts right? Or were they demonically deceived? What i
     In the which ye also walked some time, when ye lived in them. 
     But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.
 
-
+There is a clear sense that idolatry is anything sinful, anything that is not Christ Jesus:
 
 !!! quote "1 John 5:19-21"
     And we know that we are of God, and the whole world lieth in wickedness. 
     And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.
     
     Little children, keep yourselves from idols. Amen.
+
+The Mosaic law forbid man-made graven images, "molten gods" such as the golden calf.
+Christ elevated this prohibition to anything outside of His own image.
+We are to worship the one true God, whose word became flesh, the only begotten Son of God.
+
+Ancient pagan views created idols not merely as man-made trophies to worship, but in a real sense captured the essence of a specific god (a fallen spirit) such that the pagans could make offerings and sacrifice to that god.
+A pagan god (fallen spirit) was in a sense captured and bound by the idol and the rituals.
+This was the universal backdrop and God worked with His chosen people and transformed this pagan idol worship from within to the life of Christ Jesus.
+
+Christ was both the sacrifice and the idol -- no molten image could contain the Son of God, but man was made in the image and likeness of God, thus the living God became a living idol (a man without sin), who was the sacrifice for our salvation.
+
 
 
 
