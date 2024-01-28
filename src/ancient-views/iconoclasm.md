@@ -33,7 +33,9 @@ That said, were the iconoclasts right? Or were they demonically deceived? What i
 
 ## Idols
 
-What caused Moses to react with such aggression against the Israelites who were worshipping the golden calf? Let's first look at the second of the ten commandments:
+What caused Moses to react with such aggression against the Israelites who were worshipping the golden calf? 
+
+Let's first look at the second of the ten commandments:
 
 !!! quote "Exodus 20:4-5"
     Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: 
