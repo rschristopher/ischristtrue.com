@@ -86,11 +86,15 @@ There is a clear sense that idolatry is anything sinful, anything that is not Ch
     
     Little children, keep yourselves from idols. Amen.
 
-The Mosaic law forbid man-made graven images, "molten gods" such as the golden calf.
-Christ elevated this prohibition to anything outside of His own image.
+The Mosaic law forbids man-made graven images, "molten gods" such as the golden calf.
+Christ elevated this prohibition to anything outside of Himself.
 We are to worship the one true God, whose word became flesh, the only begotten Son of God.
 
 Christ was both the sacrifice and the idol -- no molten image could contain the Son of God, but man was made in the image and likeness of God, thus the living God became a living idol (a man without sin), who was the sacrifice for our salvation.
+
+The life of Christ is a clear testament to why we cannot worship "molten gods", for we are created in the image and likeness of God and cannot worship that which is not Christ Jesus.
+
+
 
 
 
