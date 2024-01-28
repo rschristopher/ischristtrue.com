@@ -17,7 +17,7 @@ The iconoclasts themselves imagined they were adhering to the second commandment
 
 Iconoclasts necessarily imagined that images of Christ and images of Saints were equivalent to the worship of a golden calf (i.e., orgiastic worship of Baal).
 While our [modern view](../modern-views/index.md) sees this as wrongheaded, notice that all sides understood that images had great power.
-The very existence of iconoclasts is testament to the spiritual power of images in the [ancient view](index.md).
+The existence of iconoclast movements is testament to the spiritual power of images in the [ancient view](index.md).
 
 That said, were the iconoclasts right? Or were they demonically deceived? What is the truth of religious icons?
 
