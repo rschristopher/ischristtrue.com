@@ -4,21 +4,22 @@ Literally, the *breaking of images* -- iconoclasm is the deliberate destruction 
 
 Iconoclast movements have been an ongoing pattern *within* Christianity, such as the [Byzantine Iconoclasm](https://en.wikipedia.org/wiki/Byzantine_Iconoclasm)
  or more recently the
-[Reformation Iconoclasm](https://folgerpedia.folger.edu/Idolatry:_Icons_and_Iconoclasm), the effects of which continue to this day and have resulted in the ubiquitous bland modern churches of protestantism.
+[Reformation Iconoclasm](https://folgerpedia.folger.edu/Idolatry:_Icons_and_Iconoclasm).
+Iconoclastic effects continue to this day and have resulted in bland protestant churches standing in sharp contrast to the iconographic beauty of orthodox churches.
 
 While the charge was *idolatry*, the end result was the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
-Much blood and ink was spilled through the ages on the topic of icons.
+Much blood and ink have been spilled through the ages on the topic of icons.
 The iconoclasts themselves imagined they were adhering to the second commandment, perhaps reacting as Moses did to the golden calf.
 
-!!! danger "Exodus 32:19-20"
+!!! quote "Exodus 32:19-20"
     When Moses approached the camp and saw the calf and the dancing, his anger burned and he threw the tablets out of his hands, breaking them to pieces at the foot of the mountain. 
     And he took the calf the people had made and burned it in the fire; then he ground it to powder, scattered it on the water and made the Israelites drink it.
 
-Iconoclasts necessarily imagined that images of Christ and images of Saints were equivalent to the worship of golden calves (e.g., worship of Baal).
-While this may be wrongheaded and a clear sign of demonic deception, notice that all sides understood that images had great power.
-The very existence of iconoclasms is testament to the spiritual power of images in the [ancient view](index.md).
+Iconoclasts necessarily imagined that images of Christ and images of Saints were equivalent to the worship of a golden calf (i.e., orgiastic worship of Baal).
+While our [modern view](../modern-views/index.md) sees this as wrongheaded, notice that all sides understood that images had great power.
+The very existence of iconoclasts is testament to the spiritual power of images in the [ancient view](index.md).
 
-That said, were the iconoclasts right? Or were they spiritually deceived? What is the truth of religious icons?
+That said, were the iconoclasts right? Or were they demonically deceived? What is the truth of religious icons?
 
 
 
