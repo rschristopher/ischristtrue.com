@@ -38,7 +38,7 @@ Ancient pagan views created idols not merely as man-made trophies to worship, bu
 A pagan god (fallen spirit) was in a sense captured and bound by the idol and the rituals.
 This was the universal backdrop of idolatry and God worked with His chosen people and transformed this practice of idol worship from within to the life of Christ Jesus.
 
-Let's first look at the second of the ten commandments:
+Let's look at the second of the ten commandments:
 
 !!! quote "Exodus 20:4-5"
     Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: 
