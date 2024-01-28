@@ -33,7 +33,9 @@ That said, were the iconoclasts right? Or were they demonically deceived? What i
 
 ## Idols
 
-What caused Moses to react with such aggression against the Israelites who were worshipping the golden calf? 
+Ancient pagan views created idols not merely as man-made trophies to worship, but in a real sense captured the essence of a specific god (a fallen spirit) such that the pagans could make offerings and sacrifice to that god.
+A pagan god (fallen spirit) was in a sense captured and bound by the idol and the rituals.
+This was the universal backdrop and God worked with His chosen people and transformed this practice of idol worship from within to the life of Christ Jesus.
 
 Let's first look at the second of the ten commandments:
 
@@ -86,10 +88,6 @@ There is a clear sense that idolatry is anything sinful, anything that is not Ch
 The Mosaic law forbid man-made graven images, "molten gods" such as the golden calf.
 Christ elevated this prohibition to anything outside of His own image.
 We are to worship the one true God, whose word became flesh, the only begotten Son of God.
-
-Ancient pagan views created idols not merely as man-made trophies to worship, but in a real sense captured the essence of a specific god (a fallen spirit) such that the pagans could make offerings and sacrifice to that god.
-A pagan god (fallen spirit) was in a sense captured and bound by the idol and the rituals.
-This was the universal backdrop and God worked with His chosen people and transformed this pagan idol worship from within to the life of Christ Jesus.
 
 Christ was both the sacrifice and the idol -- no molten image could contain the Son of God, but man was made in the image and likeness of God, thus the living God became a living idol (a man without sin), who was the sacrifice for our salvation.
 
