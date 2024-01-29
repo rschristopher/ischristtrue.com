@@ -135,7 +135,7 @@ In terms of sacred icons, here is perhaps the most important and sacred use of a
 !!! quote "Genesis 1:26"
     And God said, Let us make man in our image (**tselem**), after our likeness (**demut**): and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 
-And contrary to the sacrilegious golden calf graven image, there were sacred icons of gold cherubims protecting the ark of the covenant:
+And contrary to the sacrilegious golden calf that Moses destroyed, there were sacred icons of gold cherubims protecting the ark of the covenant:
 
 !!! quote "Exodus 25:18-21"
     And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat. 
