@@ -122,6 +122,8 @@ The life of Christ is a clear testament to why we cannot worship "molten gods", 
     The Hebrew is **tselem** (צלם) as in "in the image of God".
     And relatedly **demut** (דמות) as in "likeness of God".
 
+!!! quote "Genesis 1:26"
+    And God said, Let us make man in our image (**tselem**), after our likeness (**demut**): and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 
 iconoclasts are themselves evidence of ancient veneration of icons.
 
@@ -184,23 +186,28 @@ iconoclasts are themselves evidence of ancient veneration of icons.
 ## Icons are not Idols 
 
 It is clear from scripture that icons are not idols, and further than veneration is not the same as worship.
-This is not only obvious but it is also inevitable and inescapable.
-We simply cannot rid ourselves of all images and only worship a transcendent God, for you would be unable to express or even think or act out your worship. Any attempt to glorify God necessitates symbolism (in image or action or word).
 
-What we worship determines what we venerate.
+We are created in the image and likeness of God.
+The ancient [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) for "image and likeness" is distinct from the prohibition of "graven images" in the ten commandments, which refers directly to the worship of the idols of false gods.
+
+This distinction is not only obvious but it is also inevitable and inescapable.
+We simply cannot rid ourselves of all images and worship a transcendent God, for you would be unable to express or even think or act out your worship. Any attempt to glorify God necessitates symbolism (in image or action or word), because in our created nature we cannot contain the transcendent. In other words, the finite cannot contain the infinite.
+
+What we worship inevitably determines what we venerate.
 We do not, and can not, choose what we venerate. What we venerate is a merely consequence of what we worship.
+If you didn't already worship God then you will no sense of honor or respect (veneration) for Christ Jesus.
 
 If we worship money (mammon) then we will venerate sources and symbols of wealth.
 If we worship ourselves then we will venerate images of ourselves (as is so common on social media today).
 If we worship nothing, we will venerate symbols of nothingness, such as postmodern philosophy, moral relativism, fashion trends, and absurdism.
-If we worship our career, we will venerate symbols of our career status, business cards, conferences, and so forth.
+If we worship our career, we will venerate symbols of our career status, such as business cards, titles and so forth.
 
 Importantly, if we worship God, we will venerate the Saints that inspire in us a deeper sense of worship.
 If we worship Christ, then we will venerate His mother who birthed the God-man.
 And if we worship the one true God, then we will venerate the symbols of the one true God, including scripture.
 
 If, on the other hand, we do not feel any respect or honor to the Saints, or to the Theotokos, or to the scriptures, then it is not God that we worship.
-We all worship something, and our actions through what we venerate, will reveal what it is we are worshipping.
+We all worship something, and our actions and words will reveal what it is we are worshipping.
 
 
 
