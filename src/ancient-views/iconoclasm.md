@@ -1,4 +1,4 @@
-l# Iconoclasm
+# Iconoclasm
 
 Literally, the *breaking of images* -- iconoclasm is the deliberate destruction of artwork, typically religious artwork.
 
