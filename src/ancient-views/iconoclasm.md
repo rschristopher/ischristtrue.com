@@ -19,8 +19,8 @@ The iconoclasts themselves imagined they were adhering to the second commandment
     And he took the calf the people had made and burned it in the fire; then he ground it to powder, scattered it on the water and made the Israelites drink it.
 
 Iconoclasts necessarily imagined that images of Christ and images of Saints were equivalent to the worship of the golden calf (i.e., orgiastic worship of Baal).
-While our [modern view](../modern-views/index.md) sees this as wrongheaded, notice that all sides in the ancient world understood that images had great power.
-Images were never benign as we think in our modern view. 
+While our [modern view](../modern-views/index.md) can make little sense of this, notice that all sides in the ancient world understood that images had great power.
+Images were never benign as we think in modern views. 
 Religious icons were either sacred or sacrilegious.
 The existence of iconoclast movements is testament to the spiritual power of images in the [ancient view](index.md).
 
@@ -73,6 +73,7 @@ Importantly, idols are differentiated here from "molten gods", such that we see 
     Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord's table, and of the table of devils. 
     Do we provoke the Lord to jealousy? are we stronger than he?
 
+Note how the sacrifice of Christ and His body and blood are compared to the pagan sacrifices to idols.
 
 !!! quote "Colossians 3:2-8"
     Set your affection on things above, not on things on the earth. 
@@ -85,7 +86,7 @@ Importantly, idols are differentiated here from "molten gods", such that we see 
     In the which ye also walked some time, when ye lived in them. 
     But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.
 
-There is a clear sense that idolatry is anything valued above God, anything that is not Christ Jesus:
+There is a clear sense that idolatry is anything valued above God, not just images but anything that is not Christ Jesus:
 
 !!! quote "1 John 5:19-21"
     And we know that we are of God, and the whole world lieth in wickedness. 
@@ -94,7 +95,7 @@ There is a clear sense that idolatry is anything valued above God, anything that
     Little children, keep yourselves from idols. Amen.
 
 The Mosaic law rightly forbids man-made graven images, "molten gods" such as the golden calf -- which was a near universal practice in the ancient world.
-Christ elevated this prohibition to anything outside of Himself, fulfilling the greatest commandment to love God with all your heart, mind, and soul.
+Christ elevated this prohibition to anything outside of Himself, towards the greatest commandment to love God with all your heart, mind, and soul.
 We are to worship the one true God, whose word became flesh, the only begotten Son of God.
 
 Christ is the image and also the sacrifice -- no molten idol can contain the Son of God -- but man was made in the image and likeness of God, thus the living God became a living icon (a man without sin), who is the sacrifice for our salvation.
@@ -119,7 +120,7 @@ The life of Christ is a clear testament to why we cannot worship "molten gods", 
 ## Icons
 
 Literally, *image*, any kind of image.
-Importantly, an image in the ancient world was not benign or mundane as they are today, but deeply sacred, or as in the case of idols, sacrilegious and heretical. 
+Importantly, images in the ancient world were not benign or mundane like they are today. Images were powerful. Most were deeply sacred, or as in the case of idols, sacrilegious and heretical. 
 The concept of an image was in fact so important that our very creation was in the "image of God".
 
 !!! info "Image and Likeness"
@@ -127,7 +128,7 @@ The concept of an image was in fact so important that our very creation was in t
     The Hebrew is **tselem** (צלם) as in "in the image of God".
     And relatedly **demut** (דמות) as in "likeness of God".
 
-We often refer to icons in a specific religious case, but it is a general term (sacred or profane or otherwise).
+We often refer to icons as a specific religious image, but it is a general term (sacred or profane or otherwise).
 If an icon becomes an object of worship, such as a pagan idol (graven image), then this is idolatry.
 
 In terms of sacred icons, here is perhaps the most important and sacred use of an "image" (icon):
@@ -164,7 +165,9 @@ Even the prophecied temple in Ezekiel's vision contained cherub icons:
     And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces; 
     So that the face of a man was toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side: it was made through all the house round about.
 
-Any icon -- including your fellow human beings -- can be honored and respected (venerated) but should never be worshipped.
+It is clear that icons were sometimes idolatrous -- like the golden calf -- or sometimes sacred -- like the golden cherubims.
+Importantly, they were me we mundane.
+Any icon -- including any of your fellow human beings -- can be honored and respected (venerated) but should never be worshipped.
 
 
 
@@ -191,15 +194,13 @@ Any icon -- including your fellow human beings -- can be honored and respected (
 
 ## Icons are not Idols 
 
-It is clear from scripture that icons are not idols (although some idols are of course images/icons), and further, veneration is not the same as worship.
-Anything can be venerated, but anything worshipped is idolatry. 
-
+It is clear from scripture that icons are not idols (although some idols are of course images/icons), and further, veneration is not the same as worship. 
 We are to worship only God, and venerate all things that point us to God (from scriptures to icons of Saints).
 
-Importantly, not all idols are images -- for example, modern people oftem worship money or their career, that is, they put their career above God (this is clearly idolatry, but not related to an icon). Icons and Idols are two very different categories, and while there is an intersection (graven images), we should never confuse idols and icons.
+Importantly, most idols are not images -- for example, modern people oftem worship money or their career, that is, they put their career above God (this is clearly idolatry, but not related to an icon). Icons and Idols are two very different categories, and while there is an intersection (graven images), we should never confuse idols and icons.
 
 Remember that we are created in the image and likeness of God.
-The ancient [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) words for "image and likeness" are distinct from the prohibited "graven images" in the ten commandments, which refers directly to the worship of the idols of false gods.
+The ancient [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) words for "image and likeness" are distinct from the prohibited "graven image" in the ten commandments, which refers directly to the worship of the idols of false gods.
 Conflating icons with idols is dangerous and heretical (see *anathemas* below).
 
 This distinction of idols and icons is not only obvious but it is also inevitable and inescapable.
@@ -240,6 +241,68 @@ If, on the other hand, we do not feel any respect or honor to the Saints, or to 
 We all worship something, and our actions and words will reveal what it is we are really worshipping.
 
 
+
+
+
+
+
+
+
+
+
+
+
+## Anathema
+
+Ultimately, iconoclasm impedes us from expressing our worship of Christ -- effectively removing the primary means (images) to express our worship, confining how we worship to Bible study and prayer -- making us vulnerable to idolatry (career, money, social status, etc).
+The bad fruits of iconoclastic churches demonstrate exactly this: they are more likely to produce a lukewarm faith, where God becomes a lesser concern in people's life (giving God time on Sunday out of habit).
+
+It is difficult in our
+ [modern view](../modern-view/index.md)
+ to understand the importance of religious icons.
+Today, we are saturated with images, which have lost all sacred value -- thus they cannot even be sacrilegious but instead are usually just mundane or profane.
+Yet if we look at today's images, even profane images such as pornography, or mundane political imagery, it is clear that images are as powerful as they ever were in the ancient world, and that idolatry is as present as ever.
+
+While the iconoclasts destroy what they see as graven images, idols -- let us not grant piety to destruction of what are clearly not idols. 
+In fact, the seventh ecumenical council did not mince words in the pronouncement of anathemas to the iconoclasts.
+
+???+ danger "Anathemas from the Seventh Ecumenical Synodikon"
+    To those who presume to apply to the venerable images the things said in Holy Scripture about as idols: Anathema!
+    
+    To those who do not salute the holy and venerable images: Anathema!
+    
+    To those who call the sacred images idols: Anathema!
+    
+    To those who say that Christians resort to the sacred images as to gods: Anathema!
+    
+    To those who say that any other delivered us from idols except Christ our God: Anathema!
+    
+    To those who dare to say that at any time the Catholic Church received idols Anathema!
+
+http://andronicus-athanasia.org/synodikon_seventh__ecumenical_council.html
+
+http://wmm.dormitionpress.org/archives/522
+
+Humans venerate and praise, and they are to worship only God.
+
+Today, while most iconoclastic protestants would never adorn their church with iconography, they do not question a nativity scene in their front yard during Christmas.
+Should we destroy nativity scenes wherever we see them?
+Is this not the behavior of the adversary?
+
+We ought never condone such reprehensible behavior.
+
+Venerating icons is like venerating the words of scripture. That is, to treat it as the divine source of truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
+
+Worshipping icons would be wrong, and should be condemned as heretical.
+Likewise, conflating icons with idol worship should similarly be condemned.
+Iconoclasm should be condemned.
+Imagine burning Bibles because someone thought people were worshipping Bibles.
+If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
+
+A very simple test, icons are necessarily fungible with respect to what they represent. Idols are not and cannot be fungible. For example, you may have a particular family Bible with deep sentimental value, but you certainly don't value it over God.
+
+This is true even for pagan idolatry. The Israelites placed that golden calf above God, and it ceased being a mere image and became the object of worship.
+And similarly, the golden cherubims in the ark of the covenant were functioning as religious icons and thus were completely fungible. In other words, destroying those images would do nothing to touch the spirit they depicted. If damaged, the golden cherubims could simply be repaired or replaced.
 
 
 
@@ -370,59 +433,6 @@ https://orthodoxbridge.com/2011/07/12/is-there-a-biblical-basis-for-icons/
 
 
 
-
-
-## Iconoclast Anathema
-
-It is difficult in our
- [modern view](../modern-view/index.md)
- to understand the importance of religious icons.
-In our modern view images have lost all sacred value -- thus they cannot ever be sacrilegious but instead are either mundane or profane (even religious icons).
-Yet if we look at profane images, such as pornography, or modern political imagery, it is clear that images are as powerful as they were in the ancient world, and that idolatry is as present as ever.
-
-Without a
-
-iconoclasts destroy what they see as graven images, idols -- but let us not grant piety to destruction of what are clearly not idols. 
-
-In fact, the seventh ecumenical council did not mince words in the pronouncement of anathemas to the iconoclasts.
-
-???+ danger "Anathemas from the Seventh Ecumenical Synodikon"
-    To those who presume to apply to the venerable images the things said in Holy Scripture about as idols: Anathema!
-    
-    To those who do not salute the holy and venerable images: Anathema!
-    
-    To those who call the sacred images idols: Anathema!
-    
-    To those who say that Christians resort to the sacred images as to gods: Anathema!
-    
-    To those who say that any other delivered us from idols except Christ our God: Anathema!
-    
-    To those who dare to say that at any time the Catholic Church received idols Anathema!
-
-http://andronicus-athanasia.org/synodikon_seventh__ecumenical_council.html
-
-http://wmm.dormitionpress.org/archives/522
-
-Humans venerate and praise, and they are to worship only God.
-
-Today, while most iconoclastic protestants would never adorn their church with iconography, they do not question a nativity scene in their front yard during Christmas.
-Should we destroy nativity scenes wherever we see them?
-Is this not the behavior of the adversary?
-
-We ought never condone such reprehensible behavior.
-
-Venerating icons is like venerating the words of scripture. That is, to treat it as the divine source of truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
-
-Worshipping icons would be wrong, and should be condemned as heretical wherever such evil is found.
-And likewise, conflating icons with idol worship should similarly be condemned.
-Iconoclasm should be condemned.
-Imagine burning Bibles because someone thought people were worshipping Bibles.
-If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
-
-A very simple test, icons are necessarily fungible with respect to what they represent. Idols are not and cannot be fungible. What we honor is not what we worship. For example, you may have a particular family Bible with deep sentimental value, but you certainly don't value it over God.
-
-This is true even for pagan idolatry. The Israelites placed that golden calf above God, and that old golden calf ceased being a mere image and became the object of worship.
-And similarly, the golden cherubims in the ark of the covenant were functioning as religious icons and were completely fungible. In other words, destroying those images would do nothing to touch the spirit, and the golden cherubims could simply be repaired.
 
 
 
