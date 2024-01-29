@@ -41,8 +41,8 @@ That said, were the iconoclasts right? Or were they demonically deceived? What i
 
 Ancient pagans created idols not merely as man-made trophies to worship, but in order to capture the essence of a specific god (a fallen spirit) such that people could make offerings and sacrifice to that god.
 
-A pagan god (fallen spirit) was in a sense captured and bound by the idol and the rituals.
-This was the universal backdrop of idolatry and God worked with His chosen people and transformed this practice of idol worship from within to the life of Christ Jesus.
+A pagan god (fallen spirit) was in a sense captured and bound by an idol, allowing that spirit to act within rituals that the worshippers participated in.
+This was the universal backdrop of idol worship, and God worked with His chosen people and transformed this abhorrent practice from within, first into mediated communion im the Tabernacle, and then eventually into the life of Christ Jesus.
 
 !!! info "Graven Images"
     The [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) **pesel** (פסל) is used in Exodus 20:4 (and related passages), referring to a carved statue that is worshipped. Additionally, **temunah** (תמונה) is referring to a likeness or similitude.
@@ -61,7 +61,6 @@ The Levitical laws further refined this command with reference to idols:
     Turn ye not unto idols, nor make to yourselves molten gods: I am the LORD your God.
 
 Importantly, idols are differentiated here from "molten gods", such that we see the beginning of a broad category known as idolatry -- which can be further refined in the New Testament;
-
 
 !!! quote "1 Corinthians 10:14-22"
     Wherefore, my dearly beloved, flee from idolatry. 
