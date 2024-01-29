@@ -119,21 +119,22 @@ The life of Christ is a clear testament to why we cannot worship "molten gods", 
 ## Icons
 
 Literally, *image*, any kind of image.
-
-Importantly, an icon (image) in the ancient world was not a benign or trivial matter but deeply sacred, or as in the case of idols, sacrilegious and heretical. 
-The concept of an image was in fact so important that our very being is in the "image of God".
-
-It's best to think of icons as a more general term (sacred or profane or otherwise), and idols as a specific and sacrilegious use of an image (where the physical idol is the object of worship, usually of an embedded spirit).
+Importantly, an image in the ancient world was not benign or mundane as they are today, but deeply sacred, or as in the case of idols, sacrilegious and heretical. 
+The concept of an image was in fact so important that our very creation was in the "image of God".
 
 !!! info "Image and Likeness"
     *Icon* is from the Greek εἰκὼν (eikōn), literally "image".
     The Hebrew is **tselem** (צלם) as in "in the image of God".
     And relatedly **demut** (דמות) as in "likeness of God".
 
+We often refer to icons in a specific case, but it is a general term (sacred or profane or otherwise), and even idols are a specific and sacrilegious use of an icon (graven image) where the icon becomes the object of worship, usually of an embedded spirit.
+
+Here is perhaps the most important and sacred use of an "image" (icon),
+
 !!! quote "Genesis 1:26"
     And God said, Let us make man in our image (**tselem**), after our likeness (**demut**): and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 
-We can best understand iconography in the Old Testament with respect to the many icons in the temples.
+And contrary to the sacrilegious golden calf graven image, there is a sacred icon of gold cherubims protecting the ark of the covenant:
 
 !!! quote "Exodus 25:18-21"
     And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat. 
@@ -141,10 +142,12 @@ We can best understand iconography in the Old Testament with respect to the many
     And the cherubims shall stretch forth their wings on high, covering the mercy seat with their wings, and their faces shall look one to another; toward the mercy seat shall the faces of the cherubims be. 
     And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee.
 
+The sacred icons in the Tabernacle are another good example:
 
 !!! quote "Exodus 26:1"
     Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them.
 
+And when the temple was finally built, it was adorned with icons big and small:
 
 !!! quote "1 Kings 6:23-28"
     And within the oracle he made two cherubims of olive tree, each ten cubits high. 
@@ -154,6 +157,7 @@ We can best understand iconography in the Old Testament with respect to the many
     And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house. 
     And he overlaid the cherubims with gold.
 
+And even the prophecied temple of Ezekiel's vision contained cherub icons:
 
 !!! quote "Ezekiel 41:18-19"
     And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces; 
