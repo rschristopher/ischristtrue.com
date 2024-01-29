@@ -113,11 +113,17 @@ The life of Christ is a clear testament to why we cannot worship "molten gods", 
 
 
 
+
+
+
 ## Icons
 
-Literally, *image*, icons refer to any religious image or symbol. 
+Literally, *image*, any kind of image.
 
-Importantly, an image in the ancient world was not a benign or trivial matter but deeply sacred, or as in the case of idols, sacrilegious and heretical. An icon is a more general term for any kind of image (sacred or profane or otherwise).
+Importantly, an icon (image) in the ancient world was not a benign or trivial matter but deeply sacred, or as in the case of idols, sacrilegious and heretical. 
+The concept of an image was in fact so important that our very being is in the "image of God".
+
+It's best to think of icons as a more general term (sacred or profane or otherwise), and idols as a specific and sacrilegious use of an image (where the physical idol is the object of worship, usually of an embedded spirit).
 
 !!! info "Image and Likeness"
     *Icon* is from the Greek εἰκὼν (eikōn), literally "image".
@@ -127,8 +133,7 @@ Importantly, an image in the ancient world was not a benign or trivial matter bu
 !!! quote "Genesis 1:26"
     And God said, Let us make man in our image (**tselem**), after our likeness (**demut**): and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 
-We can best understand iconography in the Old Testament with respect to 
-iconoclasts are themselves evidence of ancient veneration of icons.
+We can best understand iconography in the Old Testament with respect to the many icons in the temples.
 
 !!! quote "Exodus 25:18-21"
     And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat. 
@@ -154,6 +159,8 @@ iconoclasts are themselves evidence of ancient veneration of icons.
     And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces; 
     So that the face of a man was toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side: it was made through all the house round about.
 
+
+iconoclasts are themselves evidence of ancient veneration of icons.
 
 
 
