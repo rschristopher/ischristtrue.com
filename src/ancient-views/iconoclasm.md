@@ -1,4 +1,4 @@
-# Iconoclasm
+l# Iconoclasm
 
 Literally, the *breaking of images* -- iconoclasm is the deliberate destruction of artwork, typically religious artwork.
 
@@ -188,7 +188,7 @@ It is clear from scripture that icons are not idols, and further than veneration
 
 We are created in the image and likeness of God.
 The ancient [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) words for "image and likeness" are distinct from the prohibition of "graven images" in the ten commandments, which refers directly to the worship of the idols of false gods.
-Conflating these is a dangerous and heretical position (see below).
+Conflating these is dangerous and heretical (see *anathemas* below).
 
 This distinction is not only obvious but it is also inevitable and inescapable.
 We simply cannot rid ourselves of images and still worship a transcendent God; for you would be unable to express or even think or act out your worship. Any attempt to glorify God necessitates symbolism (in image or action or word), because in our created nature we cannot directly touch the transcendent. In other words: the finite cannot touch the infinite, the created cannot touch the uncreated -- a mediator is required -- the uncreated infinite must descend down to the created finite (made possible through Christ Jesus, the alpha and omega of creation).
