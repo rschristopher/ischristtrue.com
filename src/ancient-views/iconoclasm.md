@@ -5,9 +5,9 @@ Literally, the *breaking of images* -- iconoclasm is the deliberate destruction 
 Iconoclast movements have been an ongoing pattern *within* Christianity, such as the [Byzantine Iconoclasm](https://en.wikipedia.org/wiki/Byzantine_Iconoclasm)
  or more recently during the
 [Reformation](https://folgerpedia.folger.edu/Idolatry:_Icons_and_Iconoclasm).
-Iconoclastic consequences occur to this day and have resulted in bland protestant churches standing in sharp contrast to the iconographic beauty of orthodox churches.
+Iconoclastic influences have persisted through the ages and have resulted in bland protestant churches standing in sharp contrast to the iconographic beauty of orthodox churches.
 
-While the charge was usually *idolatry*, the end result was the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
+While the accusation was usually *idolatry*, the end result was the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
 Much 
  blood 
  and 
