@@ -198,19 +198,22 @@ Any icon -- including your fellow human beings -- can be honored and respected (
 ## Icons are not Idols 
 
 It is clear from scripture that icons are not idols (although some idols are of course images/icons), and further, veneration is not the same as worship.
+Anything can be venerated, but anything worshipped is idolatry. We are to worship only God.
+
+Importantly, not all idols are images -- for example, people sometimes worship money or their career, that is, they put their career above God (this is clearly idolatry, but not related to an icon). Icons and Idols are two very different categories, and while there is an intersection (graven images), we should never confuse idols and icons.
 
 We are created in the image and likeness of God.
-The ancient [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) words for "image and likeness" are distinct from the prohibition of "graven images" in the ten commandments, which refers directly to the worship of the idols of false gods.
+The ancient [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) words for "image and likeness" are distinct from the prohibited "graven images" in the ten commandments, which refers directly to the worship of the idols of false gods.
 Conflating icons with idols is dangerous and heretical (see *anathemas* below).
 
-This distinction is not only obvious but it is also inevitable and inescapable.
-We simply cannot rid ourselves of icons and still worship a transcendent God (we are ourselves icons of that transcendent God); for you would be unable to express or even think or act out your worship. Any attempt to glorify God necessitates symbolism (in image or action or word), because in our created nature we cannot directly touch the transcendent. 
+This distinction of idols and icons is not only obvious but it is also inevitable and inescapable.
+We simply cannot rid ourselves of symbolism and still worship a transcendent God (we are ourselves icons of that transcendent God); for you would be unable to express or even think or act out your worship. Any attempt to glorify God necessitates symbolism (in image or action or word), because in our created nature we cannot directly touch the transcendent. 
 
 In other words: the finite cannot touch the infinite, the created cannot touch the uncreated -- a mediator is required -- the uncreated infinite must descend down to the created finite (made possible through Christ Jesus, the alpha and omega of creation).
 
-Icons are necessary and inevitable.
+*Icons are necessary and inevitable.*
 
-As such, what we worship inevitably determines what we venerate.
+Additionally, what we worship inevitably determines what we venerate.
 We do not, and can not, choose what we venerate, but only how we venerate what we have freely chosen to worship.
 Our God-given free will grants us a choice of what to worship, and importantly *how to worship*.
 In other words, if you did not already worship God then you will feel no need to honor or respect images of Christ, including the person of Christ.
