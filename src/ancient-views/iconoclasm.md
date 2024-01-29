@@ -39,7 +39,7 @@ That said, were the iconoclasts right? Or were they demonically deceived? What i
 
 ## Idols
 
-Ancient pagan views created idols not merely as man-made trophies to worship, but captured the essence of a specific god (a fallen spirit) such that the pagans could make offerings and sacrifice to that god.
+Ancient pagan views created idols not merely as man-made trophies to worship, but in order to capture the essence of a specific god (a fallen spirit) such that people could make offerings and sacrifice to that god.
 
 A pagan god (fallen spirit) was in a sense captured and bound by the idol and the rituals.
 This was the universal backdrop of idolatry and God worked with His chosen people and transformed this practice of idol worship from within to the life of Christ Jesus.
@@ -147,7 +147,6 @@ iconoclasts are themselves evidence of ancient veneration of icons.
     And he overlaid the cherubims with gold.
 
 
-
 !!! quote "Ezekiel 41:18-19"
     And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces; 
     So that the face of a man was toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side: it was made through all the house round about.
@@ -188,14 +187,16 @@ iconoclasts are themselves evidence of ancient veneration of icons.
 It is clear from scripture that icons are not idols, and further than veneration is not the same as worship.
 
 We are created in the image and likeness of God.
-The ancient [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) for "image and likeness" is distinct from the prohibition of "graven images" in the ten commandments, which refers directly to the worship of the idols of false gods.
+The ancient [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) words for "image and likeness" are distinct from the prohibition of "graven images" in the ten commandments, which refers directly to the worship of the idols of false gods.
+Conflating these is a dangerous and heretical position (see below).
 
 This distinction is not only obvious but it is also inevitable and inescapable.
-We simply cannot rid ourselves of all images and worship a transcendent God, for you would be unable to express or even think or act out your worship. Any attempt to glorify God necessitates symbolism (in image or action or word), because in our created nature we cannot contain the transcendent. In other words, the finite cannot contain the infinite.
+We simply cannot rid ourselves of images and still worship a transcendent God; for you would be unable to express or even think or act out your worship. Any attempt to glorify God necessitates symbolism (in image or action or word), because in our created nature we cannot directly touch the transcendent. In other words: the finite cannot touch the infinite, the created cannot touch the uncreated -- a mediator is required -- the uncreated infinite must descend down to the created finite (made possible through Christ Jesus, the alpha and omega of creation).
 
-What we worship inevitably determines what we venerate.
-We do not, and can not, choose what we venerate. What we venerate is a merely consequence of what we worship.
-If you didn't already worship God then you will no sense of honor or respect (veneration) for Christ Jesus.
+As such, what we worship inevitably determines what we venerate.
+We do not, and can not, choose what we venerate, but only how we venerate what it is we have freely chosen to worship.
+Our free will grants us a choice of what to worship, and then importantly *how to worship*.
+In other words, if you did not already worship God then you will feel no sense of honor or respect (veneration) for Christ Jesus.
 
 If we worship money (mammon) then we will venerate sources and symbols of wealth.
 If we worship ourselves then we will venerate images of ourselves (as is so common on social media today).
@@ -203,8 +204,8 @@ If we worship nothing, we will venerate symbols of nothingness, such as postmode
 If we worship our career, we will venerate symbols of our career status, such as business cards, titles and so forth.
 
 Importantly, if we worship God, we will venerate the Saints that inspire in us a deeper sense of worship.
-If we worship Christ, then we will venerate His mother who birthed the God-man.
-And if we worship the one true God, then we will venerate the symbols of the one true God, including scripture.
+If we worship Christ Jesus, then we will venerate His mother who birthed the God-man who is the spirit of truth.
+If we worship the one true God, then we will venerate the symbols of the one true God, including scripture.
 
 If, on the other hand, we do not feel any respect or honor to the Saints, or to the Theotokos, or to the scriptures, then it is not God that we worship.
 We all worship something, and our actions and words will reveal what it is we are worshipping.
@@ -228,7 +229,6 @@ We all worship something, and our actions and words will reveal what it is we ar
 
 
 ## Icons of Christ 
-
 
 The most interesting example of an icon is the person of Christ Jesus, that through Him we may look upon the face of the Father.
 
@@ -344,6 +344,10 @@ https://orthodoxbridge.com/2011/07/12/is-there-a-biblical-basis-for-icons/
 
 
 ## Iconoclast Anathema
+
+It is difficult in our
+ [modern view](../modern-view/index.md)
+ to understand the importance of religious icons
 
 iconoclasts destroy what they see as graven images, idols -- but let us not grant piety to destruction of what are clearly not idols. 
 
