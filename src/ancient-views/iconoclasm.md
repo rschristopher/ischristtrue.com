@@ -98,9 +98,9 @@ The Mosaic law rightly forbids man-made graven images, "molten gods" such as the
 Christ elevated this prohibition to anything outside of Himself, fulfilling the greatest commandment to love God with all your heart, mind, and soul.
 We are to worship the one true God, whose word became flesh, the only begotten Son of God.
 
-Christ was the image and also the sacrifice -- no molten image could contain the Son of God -- but man was made in the image and likeness of God, thus the living God became a living icon (a man without sin), who was the sacrifice for our salvation.
+Christ is the image and also the sacrifice -- no molten idol can contain the Son of God -- but man was made in the image and likeness of God, thus the living God became a living icon (a man without sin), who is the sacrifice for our salvation.
 
-The life of Christ is a clear testament to why we cannot worship "molten gods", for we are created in the image and likeness of God and cannot worship that which is beneath us, and as Christ ascended as a man into heaven, so we have only Christ Jesus to worship -- there is nothing higher than God.
+The life of Christ is a clear testament to why we cannot worship "molten gods", for we are created in the image and likeness of the one true God and cannot worship that which is beneath us, and as Christ ascended as a man into heaven, so we have only Christ Jesus to worship -- there is nothing higher than God.
 
 
 
