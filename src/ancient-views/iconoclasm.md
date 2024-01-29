@@ -127,14 +127,15 @@ The concept of an image was in fact so important that our very creation was in t
     The Hebrew is **tselem** (צלם) as in "in the image of God".
     And relatedly **demut** (דמות) as in "likeness of God".
 
-We often refer to icons in a specific case, but it is a general term (sacred or profane or otherwise), and even idols are a specific and sacrilegious use of an icon (graven image) where the icon becomes the object of worship, usually of an embedded spirit.
+We often refer to icons in a specific religious case, but it is a general term (sacred or profane or otherwise).
+If an icon becomes an object of worship, such as a pagan idol (graven image), then this is idolatry.
 
-Here is perhaps the most important and sacred use of an "image" (icon):
+In terms of sacred icons, here is perhaps the most important and sacred use of an "image" (icon):
 
 !!! quote "Genesis 1:26"
     And God said, Let us make man in our image (**tselem**), after our likeness (**demut**): and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 
-And contrary to the sacrilegious golden calf graven image, there is a sacred icon of gold cherubims protecting the ark of the covenant:
+And contrary to the sacrilegious golden calf graven image, there were sacred icons of gold cherubims protecting the ark of the covenant:
 
 !!! quote "Exodus 25:18-21"
     And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat. 
@@ -188,47 +189,55 @@ Any icon -- including your fellow human beings -- can be honored and respected (
 
 
 
-
-
-
-
-
-
-
 ## Icons are not Idols 
 
 It is clear from scripture that icons are not idols (although some idols are of course images/icons), and further, veneration is not the same as worship.
-Anything can be venerated, but anything worshipped is idolatry. We are to worship only God.
+Anything can be venerated, but anything worshipped is idolatry. 
 
-Importantly, not all idols are images -- for example, people sometimes worship money or their career, that is, they put their career above God (this is clearly idolatry, but not related to an icon). Icons and Idols are two very different categories, and while there is an intersection (graven images), we should never confuse idols and icons.
+We are to worship only God, and venerate all things that point us to God (from scriptures to icons of Saints).
 
-We are created in the image and likeness of God.
+Importantly, not all idols are images -- for example, modern people oftem worship money or their career, that is, they put their career above God (this is clearly idolatry, but not related to an icon). Icons and Idols are two very different categories, and while there is an intersection (graven images), we should never confuse idols and icons.
+
+Remember that we are created in the image and likeness of God.
 The ancient [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) words for "image and likeness" are distinct from the prohibited "graven images" in the ten commandments, which refers directly to the worship of the idols of false gods.
 Conflating icons with idols is dangerous and heretical (see *anathemas* below).
 
 This distinction of idols and icons is not only obvious but it is also inevitable and inescapable.
-We simply cannot rid ourselves of symbolism and still worship a transcendent God (we are ourselves icons of that transcendent God); for you would be unable to express or even think or act out your worship. Any attempt to glorify God necessitates symbolism (in image or action or word), because in our created nature we cannot directly touch the transcendent. 
+We simply cannot rid ourselves of iconographic symbolism and still worship a transcendent God (we are ourselves icons of that transcendent God); for you would be unable to express or act out your worship. Any attempt to glorify God necessitates symbolism (in image or action or word), because in our created nature we cannot directly touch the transcendent. 
 
-In other words: the finite cannot touch the infinite, the created cannot touch the uncreated -- a mediator is required -- the uncreated infinite must descend down to the created finite (made possible through Christ Jesus, the alpha and omega of creation).
+In other words: the finite cannot touch the infinite, the created cannot touch the uncreated -- a mediator is required -- the uncreated infinite must descend down to the created finite (made possible through Christ Jesus, the alpha and omega).
 
 *Icons are necessary and inevitable.*
 
-Additionally, what we worship inevitably determines what we venerate.
-We do not, and can not, choose what we venerate, but only how we venerate what we have freely chosen to worship.
+
+
+
+
+
+
+
+
+## Veneration is not Worship
+
+What we worship inevitably determines what we venerate.
+We cannot force ourselves to respect something.
+We do not, and can not, choose what we venerate, but only how we venerate.
+In other words, we can chose how we express our respect for something we worship.
+
 Our God-given free will grants us a choice of what to worship, and importantly *how to worship*.
-In other words, if you did not already worship God then you will feel no need to honor or respect images of Christ, including the person of Christ.
+If you do not worship God then you will feel no need to honor or respect images of Christ, including the person of Christ.
 
 If we worship money (mammon) then we will venerate sources and symbols of wealth.
 If we worship ourselves then we will venerate images of ourselves (as is so common on social media today).
 If we worship nothing, we will venerate symbols of nothingness, such as postmodern philosophy, moral relativism, fashion trends, and absurdism.
-If we worship our career, we will venerate symbols of our career status, such as business cards, job titles and so forth.
+If we worship our career, we will venerate symbols of our career, such as business cards, job titles and so forth.
 
 Importantly, if we worship God, we will venerate the Saints that inspire in us a deeper sense of worship.
-If we worship Christ Jesus, then we will venerate His mother who birthed the God-man who is the spirit of truth.
-If we worship the one true God, then we will venerate the symbols of the one true God, including scripture.
+If we worship Christ, then we will venerate His mother who birthed the God-man, the spirit of truth, the word made flesh.
+If we worship the one true God, then we will venerate all the symbols of the one true God, including scripture.
 
 If, on the other hand, we do not feel any respect or honor to the Saints, or to the Theotokos, or to the scriptures, then it is not God that we worship.
-We all worship something, and our actions and words will reveal what it is we are worshipping.
+We all worship something, and our actions and words will reveal what it is we are really worshipping.
 
 
 
@@ -367,7 +376,11 @@ https://orthodoxbridge.com/2011/07/12/is-there-a-biblical-basis-for-icons/
 
 It is difficult in our
  [modern view](../modern-view/index.md)
- to understand the importance of religious icons
+ to understand the importance of religious icons.
+In our modern view images have lost all sacred value -- thus they cannot ever be sacrilegious but instead are either mundane or profane (even religious icons).
+Yet if we look at profane images, such as pornography, or modern political imagery, it is clear that images are as powerful as they were in the ancient world, and that idolatry is as present as ever.
+
+Without a
 
 iconoclasts destroy what they see as graven images, idols -- but let us not grant piety to destruction of what are clearly not idols. 
 
@@ -396,17 +409,20 @@ Today, while most iconoclastic protestants would never adorn their church with i
 Should we destroy nativity scenes wherever we see them?
 Is this not the behavior of the adversary?
 
-We ought not condone such reprehensible behavior.
+We ought never condone such reprehensible behavior.
 
-Venerating icons is like venerating the words of scripture. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
+Venerating icons is like venerating the words of scripture. That is, to treat it as the divine source of truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
 
 Worshipping icons would be wrong, and should be condemned as heretical wherever such evil is found.
 And likewise, conflating icons with idol worship should similarly be condemned.
+Iconoclasm should be condemned.
 Imagine burning Bibles because someone thought people were worshipping Bibles.
 If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
 
-A very simple test, icons are often fungible, idols are not and cannot be fungible. What we honor is not what we worship. For example, you may have a particular family Bible with deep sentimental value, but you certainly don't worship it or value it over God.
+A very simple test, icons are necessarily fungible with respect to what they represent. Idols are not and cannot be fungible. What we honor is not what we worship. For example, you may have a particular family Bible with deep sentimental value, but you certainly don't value it over God.
 
+This is true even for pagan idolatry. The Israelites placed that golden calf above God, and that old golden calf ceased being a mere image and became the object of worship.
+And similarly, the golden cherubims in the ark of the covenant were functioning as religious icons and were completely fungible. In other words, destroying those images would do nothing to touch the spirit, and the golden cherubims could simply be repaired.
 
 
 
