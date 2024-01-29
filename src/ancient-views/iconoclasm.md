@@ -129,7 +129,7 @@ The concept of an image was in fact so important that our very creation was in t
 
 We often refer to icons in a specific case, but it is a general term (sacred or profane or otherwise), and even idols are a specific and sacrilegious use of an icon (graven image) where the icon becomes the object of worship, usually of an embedded spirit.
 
-Here is perhaps the most important and sacred use of an "image" (icon),
+Here is perhaps the most important and sacred use of an "image" (icon):
 
 !!! quote "Genesis 1:26"
     And God said, Let us make man in our image (**tselem**), after our likeness (**demut**): and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
