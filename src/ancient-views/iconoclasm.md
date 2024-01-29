@@ -115,6 +115,10 @@ The life of Christ is a clear testament to why we cannot worship "molten gods", 
 
 ## Icons
 
+Literally, *image*, icons refer to any religious image or symbol. 
+
+Importantly, an image in the ancient world was not a benign or trivial matter but deeply sacred, or as in the case of idols, sacrilegious and heretical. An icon is a more general term for any kind of image (sacred or profane or otherwise).
+
 !!! info "Image and Likeness"
     *Icon* is from the Greek εἰκὼν (eikōn), literally "image".
     The Hebrew is **tselem** (צלם) as in "in the image of God".
@@ -123,6 +127,7 @@ The life of Christ is a clear testament to why we cannot worship "molten gods", 
 !!! quote "Genesis 1:26"
     And God said, Let us make man in our image (**tselem**), after our likeness (**demut**): and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 
+We can best understand iconography in the Old Testament with respect to 
 iconoclasts are themselves evidence of ancient veneration of icons.
 
 !!! quote "Exodus 25:18-21"
