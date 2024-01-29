@@ -39,15 +39,15 @@ That said, were the iconoclasts right? Or were they demonically deceived? What i
 
 ## Idols
 
-!!! info "Graven Images"
-    The Hebrew **pesel** (פסל) is used in Exodus 20:4 (and related passages), referring to a carved statue that is worshipped. Additionally, **temunah** (תמונה) is referring to a likeness or similitude (see below).
-
 Ancient pagan views created idols not merely as man-made trophies to worship, but captured the essence of a specific god (a fallen spirit) such that the pagans could make offerings and sacrifice to that god.
 
 A pagan god (fallen spirit) was in a sense captured and bound by the idol and the rituals.
 This was the universal backdrop of idolatry and God worked with His chosen people and transformed this practice of idol worship from within to the life of Christ Jesus.
 
-Let's look at the second of the ten commandments:
+!!! info "Graven Images"
+    The [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) **pesel** (פסל) is used in Exodus 20:4 (and related passages), referring to a carved statue that is worshipped. Additionally, **temunah** (תמונה) is referring to a likeness or similitude.
+
+Let's look carefully at the second of the ten commandments:
 
 !!! quote "Exodus 20:4-5"
     Thou shalt not make unto thee any graven image (**pesel**), or any likeness (**temunah**) of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: 
@@ -60,7 +60,7 @@ The Levitical laws further refined this command with reference to idols:
 !!! quote "Leviticus 19:4"
     Turn ye not unto idols, nor make to yourselves molten gods: I am the LORD your God.
 
-Importantly, idols are differentiated here from "molten gods", such that we see the beginning of a broad category of idolatry -- which can be further refined in the New Testament;
+Importantly, idols are differentiated here from "molten gods", such that we see the beginning of a broad category known as idolatry -- which can be further refined in the New Testament;
 
 
 !!! quote "1 Corinthians 10:14-22"
@@ -95,11 +95,11 @@ There is a clear sense that idolatry is anything valued above God, anything that
     
     Little children, keep yourselves from idols. Amen.
 
-The Mosaic law forbids man-made graven images, "molten gods" such as the golden calf.
-Christ elevated this prohibition to anything outside of Himself.
+The Mosaic law rightly forbids man-made graven images, "molten gods" such as the golden calf -- which was a near universal practice in the ancient world.
+Christ elevated this prohibition to anything outside of Himself, fulfilling the greatest commandment to love God with all your heart, mind, and soul.
 We are to worship the one true God, whose word became flesh, the only begotten Son of God.
 
-Christ was both the sacrifice and the icon -- no molten image could contain the Son of God, but man was made in the image and likeness of God, thus the living God became a living icon (a man without sin), who was the sacrifice for our salvation.
+Christ was the image and also the sacrifice -- no molten image could contain the Son of God, but man was made in the image and likeness of God, thus the living God became a living icon (a man without sin), who was the sacrifice for our salvation.
 
 The life of Christ is a clear testament to why we cannot worship "molten gods", for we are created in the image and likeness of God and cannot worship that which is not Christ Jesus.
 
@@ -121,7 +121,6 @@ The life of Christ is a clear testament to why we cannot worship "molten gods", 
     *Icon* is from the Greek εἰκὼν (eikōn), literally "image".
     The Hebrew is **tselem** (צלם) as in "in the image of God".
     And relatedly **demut** (דמות) as in "likeness of God".
-
 
 
 iconoclasts are themselves evidence of ancient veneration of icons.
