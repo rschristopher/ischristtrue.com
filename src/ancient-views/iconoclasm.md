@@ -20,8 +20,9 @@ The iconoclasts themselves imagined they were adhering to the second commandment
     And he took the calf the people had made and burned it in the fire; then he ground it to powder, scattered it on the water and made the Israelites drink it.
 
 Iconoclasts necessarily imagined that images of Christ and images of Saints were equivalent to the worship of the golden calf (i.e., orgiastic worship of Baal).
-While our [modern view](../modern-views/index.md) sees this as wrongheaded, notice that all sides understood that images had great power.
-Images were never benign, it was either sacred or sacrilegious.
+While our [modern view](../modern-views/index.md) sees this as wrongheaded, notice that all sides in the ancient world understood that images had great power.
+Images were never benign as we think in our modern view. 
+Religious icons were either sacred or sacrilegious.
 The existence of iconoclast movements is testament to the spiritual power of images in the [ancient view](index.md).
 
 That said, were the iconoclasts right? Or were they demonically deceived? What is the truth of religious icons?
@@ -86,7 +87,7 @@ Importantly, idols are differentiated here from "molten gods", such that we see 
     In the which ye also walked some time, when ye lived in them. 
     But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.
 
-There is a clear sense that idolatry is anything sinful, anything that is not Christ Jesus:
+There is a clear sense that idolatry is anything valued above God, anything that is not Christ Jesus:
 
 !!! quote "1 John 5:19-21"
     And we know that we are of God, and the whole world lieth in wickedness. 
@@ -98,7 +99,7 @@ The Mosaic law forbids man-made graven images, "molten gods" such as the golden 
 Christ elevated this prohibition to anything outside of Himself.
 We are to worship the one true God, whose word became flesh, the only begotten Son of God.
 
-Christ was both the sacrifice and the idol -- no molten image could contain the Son of God, but man was made in the image and likeness of God, thus the living God became a living idol (a man without sin), who was the sacrifice for our salvation.
+Christ was both the sacrifice and the icon -- no molten image could contain the Son of God, but man was made in the image and likeness of God, thus the living God became a living icon (a man without sin), who was the sacrifice for our salvation.
 
 The life of Christ is a clear testament to why we cannot worship "molten gods", for we are created in the image and likeness of God and cannot worship that which is not Christ Jesus.
 
@@ -119,7 +120,8 @@ The life of Christ is a clear testament to why we cannot worship "molten gods", 
 !!! info "Image and Likeness"
     *Icon* is from the Greek εἰκὼν (eikōn), literally "image".
     The Hebrew is **tselem** (צלם) as in "in the image of God".
-    And relatedly **demut** () as in "likeness of God".
+    And relatedly **demut** (דמות) as in "likeness of God".
+
 
 
 iconoclasts are themselves evidence of ancient veneration of icons.
@@ -180,7 +182,11 @@ iconoclasts are themselves evidence of ancient veneration of icons.
 
 
 
-## Icons are not an Idols 
+## Icons are not Idols 
+
+It is clear from scripture that icons are not idols, and further than veneration is not the same as worship.
+This is not only obvious but it is also inevitable and inescapable.
+We simply cannot rid ourselves of all images and only worship a transcendent God, for you would be unable to express or even think or act out your worship. Any attempt to glorify God necessitates symbolism (in image or action or word).
 
 What we worship determines what we venerate.
 We do not, and can not, choose what we venerate. What we venerate is a merely consequence of what we worship.
