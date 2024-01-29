@@ -147,7 +147,7 @@ The sacred icons in the Tabernacle are another good example:
 !!! quote "Exodus 26:1"
     Moreover thou shalt make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work shalt thou make them.
 
-And when the temple was finally built, it was adorned with icons big and small:
+And when the second temple was built, it was adorned with icons big and small:
 
 !!! quote "1 Kings 6:23-28"
     And within the oracle he made two cherubims of olive tree, each ten cubits high. 
