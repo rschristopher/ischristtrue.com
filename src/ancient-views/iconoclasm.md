@@ -157,12 +157,13 @@ And when the temple was finally built, it was adorned with icons big and small:
     And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house. 
     And he overlaid the cherubims with gold.
 
-And even the prophecied temple of Ezekiel's vision contained cherub icons:
+And even the prophecied temple in Ezekiel's vision contained cherub icons:
 
 !!! quote "Ezekiel 41:18-19"
     And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces; 
     So that the face of a man was toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side: it was made through all the house round about.
 
+Any icon, including your fellow human beings can be honored and respected (venerated) but should never be worshipped.
 
 iconoclasts are themselves evidence of ancient veneration of icons.
 
@@ -198,24 +199,28 @@ iconoclasts are themselves evidence of ancient veneration of icons.
 
 ## Icons are not Idols 
 
-It is clear from scripture that icons are not idols, and further than veneration is not the same as worship.
+It is clear from scripture that icons are not idols (although some idols are of course images/icons), and further, veneration is not the same as worship.
 
 We are created in the image and likeness of God.
 The ancient [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) words for "image and likeness" are distinct from the prohibition of "graven images" in the ten commandments, which refers directly to the worship of the idols of false gods.
-Conflating these is dangerous and heretical (see *anathemas* below).
+Conflating icons with idols is dangerous and heretical (see *anathemas* below).
 
 This distinction is not only obvious but it is also inevitable and inescapable.
-We simply cannot rid ourselves of images and still worship a transcendent God; for you would be unable to express or even think or act out your worship. Any attempt to glorify God necessitates symbolism (in image or action or word), because in our created nature we cannot directly touch the transcendent. In other words: the finite cannot touch the infinite, the created cannot touch the uncreated -- a mediator is required -- the uncreated infinite must descend down to the created finite (made possible through Christ Jesus, the alpha and omega of creation).
+We simply cannot rid ourselves of icons and still worship a transcendent God (we are ourselves icons of that transcendent God); for you would be unable to express or even think or act out your worship. Any attempt to glorify God necessitates symbolism (in image or action or word), because in our created nature we cannot directly touch the transcendent. 
+
+In other words: the finite cannot touch the infinite, the created cannot touch the uncreated -- a mediator is required -- the uncreated infinite must descend down to the created finite (made possible through Christ Jesus, the alpha and omega of creation).
+
+Icons are necessary and inevitable.
 
 As such, what we worship inevitably determines what we venerate.
-We do not, and can not, choose what we venerate, but only how we venerate what it is we have freely chosen to worship.
-Our God+given free will grants us a choice of what to worship, and then importantly *how to worship*.
-In other words, if you did not already worship God then you will feel no sense of honor or respect (veneration) for Christ Jesus.
+We do not, and can not, choose what we venerate, but only how we venerate what we have freely chosen to worship.
+Our God-given free will grants us a choice of what to worship, and importantly *how to worship*.
+In other words, if you did not already worship God then you will feel no need to honor or respect images of Christ, including the person of Christ.
 
 If we worship money (mammon) then we will venerate sources and symbols of wealth.
 If we worship ourselves then we will venerate images of ourselves (as is so common on social media today).
 If we worship nothing, we will venerate symbols of nothingness, such as postmodern philosophy, moral relativism, fashion trends, and absurdism.
-If we worship our career, we will venerate symbols of our career status, such as business cards, titles and so forth.
+If we worship our career, we will venerate symbols of our career status, such as business cards, job titles and so forth.
 
 Importantly, if we worship God, we will venerate the Saints that inspire in us a deeper sense of worship.
 If we worship Christ Jesus, then we will venerate His mother who birthed the God-man who is the spirit of truth.
