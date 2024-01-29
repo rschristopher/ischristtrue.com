@@ -195,7 +195,7 @@ We simply cannot rid ourselves of images and still worship a transcendent God; f
 
 As such, what we worship inevitably determines what we venerate.
 We do not, and can not, choose what we venerate, but only how we venerate what it is we have freely chosen to worship.
-Our free will grants us a choice of what to worship, and then importantly *how to worship*.
+Our God+given free will grants us a choice of what to worship, and then importantly *how to worship*.
 In other words, if you did not already worship God then you will feel no sense of honor or respect (veneration) for Christ Jesus.
 
 If we worship money (mammon) then we will venerate sources and symbols of wealth.
