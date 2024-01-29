@@ -157,7 +157,7 @@ And when the second temple was built, it was adorned with icons big and small:
     And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house. 
     And he overlaid the cherubims with gold.
 
-And even the prophecied temple in Ezekiel's vision contained cherub icons:
+Even the prophecied temple in Ezekiel's vision contained cherub icons:
 
 !!! quote "Ezekiel 41:18-19"
     And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces; 
