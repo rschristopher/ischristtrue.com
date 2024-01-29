@@ -8,15 +8,20 @@ Iconoclast movements have been an ongoing pattern *within* Christianity, such as
 Iconoclastic consequences occur to this day and have resulted in bland protestant churches standing in sharp contrast to the iconographic beauty of orthodox churches.
 
 While the charge was usually *idolatry*, the end result was the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
-Much blood and ink have been spilled through the ages on the topic of icons.
+Much 
+ blood 
+ and 
+ ink 
+ have been spilled through the ages on the topic of icons.
 The iconoclasts themselves imagined they were adhering to the second commandment, perhaps reacting as Moses did to the golden calf.
 
 !!! quote "Exodus 32:19-20"
     When Moses approached the camp and saw the calf and the dancing, his anger burned and he threw the tablets out of his hands, breaking them to pieces at the foot of the mountain. 
     And he took the calf the people had made and burned it in the fire; then he ground it to powder, scattered it on the water and made the Israelites drink it.
 
-Iconoclasts necessarily imagined that images of Christ and images of Saints were equivalent to the worship of a golden calf (i.e., orgiastic worship of Baal).
+Iconoclasts necessarily imagined that images of Christ and images of Saints were equivalent to the worship of the golden calf (i.e., orgiastic worship of Baal).
 While our [modern view](../modern-views/index.md) sees this as wrongheaded, notice that all sides understood that images had great power.
+Images were never benign, it was either sacred or sacrilegious.
 The existence of iconoclast movements is testament to the spiritual power of images in the [ancient view](index.md).
 
 That said, were the iconoclasts right? Or were they demonically deceived? What is the truth of religious icons?
@@ -33,6 +38,9 @@ That said, were the iconoclasts right? Or were they demonically deceived? What i
 
 ## Idols
 
+!!! info "Graven Images"
+    The Hebrew **pesel** (פסל) is used in Exodus 20:4 (and related passages), referring to a carved statue that is worshipped. Additionally, **temunah** (תמונה) is referring to a likeness or similitude (see below).
+
 Ancient pagan views created idols not merely as man-made trophies to worship, but captured the essence of a specific god (a fallen spirit) such that the pagans could make offerings and sacrifice to that god.
 
 A pagan god (fallen spirit) was in a sense captured and bound by the idol and the rituals.
@@ -41,7 +49,7 @@ This was the universal backdrop of idolatry and God worked with His chosen peopl
 Let's look at the second of the ten commandments:
 
 !!! quote "Exodus 20:4-5"
-    Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: 
+    Thou shalt not make unto thee any graven image (**pesel**), or any likeness (**temunah**) of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: 
     Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me
 
 God commanded the Israelites not to make images of spiritual things and worship them.
@@ -107,6 +115,12 @@ The life of Christ is a clear testament to why we cannot worship "molten gods", 
 
 
 ## Icons
+
+!!! info "Image and Likeness"
+    *Icon* is from the Greek εἰκὼν (eikōn), literally "image".
+    The Hebrew is **tselem** (צלם) as in "in the image of God".
+    And relatedly **demut** () as in "likeness of God".
+
 
 iconoclasts are themselves evidence of ancient veneration of icons.
 
@@ -222,7 +236,6 @@ The most interesting example of an icon is the person of Christ Jesus, that thro
     Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;
 
 
-εἰκὼν (eikōn)
 
 
 !!! quote "Colossians 1:15"
