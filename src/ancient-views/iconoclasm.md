@@ -19,8 +19,8 @@ The iconoclasts themselves believed they were adhering to the second commandment
     And he took the calf the people had made and burned it in the fire; then he ground it to powder, scattered it on the water and made the Israelites drink it.
 
 Iconoclasts necessarily believed that images of Christ and images of Saints were equivalent to the worship of the golden calf (i.e., orgiastic worship of Baal immediately after God told you not to do that).
-While our [modern view](../modern-views/index.md) can make little sense of this, notice that all sides in the ancient world understood that images had great power.
-Humans are "imaging" beings, made to glorify God we act out our worship and our behavior reflects the images around us.
+While our [modern view](../modern-views/index.md) can make little sense of this, notice that all sides of this debate in the ancient world understood that images had great power.
+Humans are "imaging" beings, made to glorify God. We act out our worship and our behavior reflects the images around us.
 
 Images were never benign as we think in modern views. 
 Religious icons were either extremely sacred or extremely sacrilegious.
