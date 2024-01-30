@@ -140,7 +140,7 @@ In terms of sacred icons, here is perhaps the most important and sacred use of a
     And God said, Let us make man in our image (**tselem**), after our likeness (**demut**): and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 
 Images are not just important but they are the most important power at our disposal (because we are in the image of God).
-And contrary to the sacrilegious golden calf that Moses destroyed, inages were used in the most sacred places, such as the icons of gold cherubims protecting the ark of the covenant:
+And contrary to the sacrilegious golden calf that Moses destroyed, images were used in the most sacred places, such as the icons of gold cherubims protecting the ark of the covenant:
 
 !!! quote "Exodus 25:18-21"
     And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat. 
