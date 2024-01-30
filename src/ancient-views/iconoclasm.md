@@ -1,10 +1,10 @@
 # Iconoclasm
 
-Literally, *breaking of images* -- iconoclasm is the deliberate destruction of artwork, typically religious artwork.
+Literally, *breaking of images* -- an iconoclasm is the deliberate destruction of artwork, typically religious artwork.
 
 Iconoclast movements have been an ongoing pattern *within* Christianity, such as the [Byzantine Iconoclasm](https://en.wikipedia.org/wiki/Byzantine_Iconoclasm)
  or more recently during the
-[Reformation](https://folgerpedia.folger.edu/Idolatry:_Icons_and_Iconoclasm). The influences of which have persisted through the ages and have resulted in bland protestant churches standing in sharp contrast to the iconographic beauty of orthodox churches.
+[Reformation](https://folgerpedia.folger.edu/Idolatry:_Icons_and_Iconoclasm). The influences of iconoclasms have persisted through the ages and have resulted in bland protestant churches standing in sharp contrast to the iconographic beauty of orthodox churches.
 
 While the accusation was usually *idolatry*, an icococlasm was the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
 Much 
@@ -12,17 +12,17 @@ Much
  and 
  ink 
  have been spilled through the ages on the topic of icons.
-The iconoclasts themselves believed they were adhering to the second commandment, perhaps reacting as Moses did to the golden calf.
+The iconoclasts themselves believed they were adhering to the second commandment, reacting as Moses did to the golden calf.
 
 !!! quote "Exodus 32:19-20"
     When Moses approached the camp and saw the calf and the dancing, his anger burned and he threw the tablets out of his hands, breaking them to pieces at the foot of the mountain. 
     And he took the calf the people had made and burned it in the fire; then he ground it to powder, scattered it on the water and made the Israelites drink it.
 
-Iconoclasts necessarily believed that images of Christ and images of Saints were equivalent to the worship of the golden calf (i.e., orgiastic worship of Baal immediately after God told you not to do that).
+Iconoclasts necessarily believed that images of Christ and images of Saints were equivalent to the Israelites worshipping the golden calf (i.e., orgiastic worship of Baal immediately after God told them not to do that).
 While our [modern view](../modern-views/index.md) can make little sense of this, notice that all sides of this debate in the ancient world understood that images had great power.
 Humans are "imaging" beings, made to glorify God. We act out our worship and our behavior reflects the images around us.
 
-Images were never benign as we think in modern views. 
+Images were never benign as we think in our modern age. 
 Religious icons were either extremely sacred or extremely sacrilegious.
 The existence of iconoclast movements is itself testament to the spiritual power of images in the [ancient view](index.md).
 
@@ -46,13 +46,13 @@ A pagan god (fallen spirit) was in a sense captured and bound by a physical idol
 This was the universal backdrop of idol worship, and God worked within that backdtop through His chosen people and transformed this abhorrent practice from within, first into mediated communion in the Tabernacle, and then eventually into the life of Christ Jesus.
 
 !!! info "Graven Images"
-    The [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) **pesel** (פסל) is used in Exodus 20:4 (and related passages), referring to a carved statue that is worshipped. Additionally, **temunah** (תמונה) is referring to a likeness or similitude.
+    The [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) word **pesel** (פסל) is used in Exodus 20:4 (and related passages), referring to a carved statue that is worshipped. Additionally, **temunah** (תמונה) is referring to a likeness or similitude.
 
-Let's look carefully at the second of the ten commandments:
+Let's look carefully at the second of the ten commandments, the prohibition of graven images:
 
 !!! quote "Exodus 20:4-5"
     Thou shalt not make unto thee any graven image (**pesel**), or any likeness (**temunah**) of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: 
-    Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me
+    Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me.
 
 God commanded the Israelites not to make images of spiritual things and worship them (which they immediately did anyway).
 And this of course follows the first commandment to have no other gods before Him.
@@ -214,7 +214,7 @@ We simply cannot rid ourselves of iconographic symbolism and still worship a tra
 Iconographic symbolism *will happen* no matter how much you suppress or destroy images.
 *Icons are necessary and inevitable.*
 
-To explain this is metaphysical language: the finite cannot touch the infinite, the created cannot touch the uncreated -- *a mediator is required* -- the uncreated infinite must descend down into the created finite and express itself through created forms, that is, icons (of which Christ is the alpha and omega).
+To explain this in metaphysical language: the finite cannot touch the infinite, the created cannot touch the uncreated -- *a mediator is required* -- the uncreated infinite must descend down into the created finite and express itself through created forms, that is, icons (of which Christ is the alpha and omega).
 
 
 
@@ -267,33 +267,32 @@ We all worship something, and our actions and words will reveal what it is we ar
 
 ## Anathema!
 
-Ultimately, iconoclasm impedes us from expressing our worship of God (worship of truth) -- effectively removing the primary means (imaging) to express our worship, confining how we worship -- making us vulnerable to image-based idolatry (such as pornography).
+Ultimately, an iconoclasm impedes us from expressing our worship of God (worship of truth) -- effectively removing the primary means (imaging) to express our worship, confining how we worship -- making us vulnerable to image-based idolatry (such as pornography).
 The bad fruits of iconoclastic churches demonstrate exactly this: they are more likely to produce a lukewarm faith, where God becomes a lesser concern in people's daily life (giving God only an hour on Sunday).
 
 It is difficult in our
  [modern view](../modern-view/index.md)
  to understand the importance of religious icons.
-Today, we are saturated with images which have lost all sacred value, and as a result we barely understand the ancient iconoclasts because were surrounded in our modern world by mundane and profane images.
-If we look at today's overabundance of images, profane images such as pornography, or mundane political imagery, and then examine how those images influence and shape our behavior, then it is clear that these images are as powerful as they ever were in the ancient world, and that idolatry is as present as ever.
+Today, we are saturated with images which have lost all sacred value, and as a result we barely understand the ancient iconoclasts because we're surrounded in our modern world by mundane and profane images.
+If we look at today's overabundance of images, profane images such as pornography, or mundane political memes, and then examine how those images influence and shape our behavior, then it is clear that these images are as powerful as they ever were in the ancient world, and that idolatry is as present as ever.
 The reformation iconoclasts have not saved our modern world from image-based idolatry, quite the contrary it has only made us weaker.
 
 Today, while most iconoclastic protestants would never adorn their church with holy icons, they do not question a nativity scene in their own front yard during Christmas.
 Should we destroy nativity scenes?
 
 We ought never condone such reprehensible behavior.
-
 Venerating icons is like venerating the words of scripture. That is, to treat scripture as the divine source of truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
 
 Worshipping icons would be wrong, and should be condemned as heretical.
 Likewise, conflating icons with idol worship should similarly be condemned.
-Iconoclasm should be condemned.
+Iconoclasms should be condemned.
 
 Imagine burning Bibles because someone thought people were worshipping Bibles.
 If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
 
 While the iconoclasts destroy what they see as graven images, idols -- let us not grant piety to destruction of what are clearly not idols and in many cases are sacred.
 In fact, the 
- [seventh ecumenical counci](http://andronicus-athanasia.org/synodikon_seventh__ecumenical_council.html)
+ [seventh ecumenical council](http://andronicus-athanasia.org/synodikon_seventh__ecumenical_council.html)
  did not mince words in the pronouncement of anathemas to the iconoclasts.
 
 ???+ danger "Anathemas from the Seventh Ecumenical Synodikon"
