@@ -413,16 +413,23 @@ https://orthodoxbridge.com/2011/07/12/is-there-a-biblical-basis-for-icons/
 
 ## Icons of Mary
 
-Mary, the Theotokos, remains the most controversial of any icons or sources of veneration.
-The calls of "Mary worship" resound from reformation iconoclasts.
-And this is odd because if anyone is deserving of honor (veneration), is it not the mother of Christ, the Theotokos.
+Icons of Mary are extremely popular yet controversial.
+Even today, the calls of "Mary worship" resound from reformation iconoclasts. This is odd because if anyone is deserving of honor (veneration), it is the mother of Christ, the Theotokos.
 
 !!! quote "Luke 1:28"
     And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women.
 
 ![icon-mary](/images/icon-mary.jpg)
 
+There are many reasons icons of Mary are so controversial amongst protestants. The first is because Roman Catholicism (papal protestantism) insists that Mary was born without original sin (the immaculate conception). This is due to a false and non-orthodox understanding of sin, a logical consequence to the Augustinian error of original sin as inherited guilt.
+The reformers were reacting to the many abuses and innovations in Rome, and they rejected what they saw aa "Mary worship", but interestingly they kept the Augustinian understanding of original sin as inherited guilt.
+Iconoclasm becomes a way for the reformers to avoid the "immaculate conception" issue by just ignoring Mary and all icons.
 
+The second reason is that Mary is not Christ, and venerating Mary or any of the saints involves intercession, e.g., that Mary prays for you.
+Most protestants will reject this and ask, "why not pray directly to Christ?"
+Obviously one should pray to Christ, but we should also pray for others (intercessory prayer) and ask them to pray for us.
+
+Christ has a human and divine will, being both God and man -- and it is from Mary that He gets his humanity.
 
 
 
