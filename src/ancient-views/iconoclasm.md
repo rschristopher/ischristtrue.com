@@ -210,11 +210,11 @@ The ancient [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-f
 Conflating icons with idols is dangerous and heretical (see *anathemas* below).
 
 This categorical distinction of idols and icons is not only obvious but it is also inevitable and inescapable.
-We simply cannot rid ourselves of iconographic symbolism and still worship a transcendent God (we are ourselves icons of that transcendent God); for you would be unable to express or act out your worship. Any attempt to glorify God necessitates symbolism (in image or action or word), because in our created nature we cannot directly touch the transcendent.
+We cannot rid ourselves of iconographic symbolism and still worship a transcendent God (we are ourselves icons of that transcendent God). Any attempt to glorify God necessitates symbolism (in image or action or word).
 Iconographic symbolism *will happen* no matter how much you suppress or destroy images.
 *Icons are necessary and inevitable.*
 
-To explain this in metaphysical language: the finite cannot touch the infinite, the created cannot touch the uncreated -- *a mediator is required* -- the uncreated infinite must descend down into the created finite and express itself through created forms, that is, icons (of which Christ is the alpha and omega).
+To explain this in metaphysical language: the finite cannot touch the infinite, the created cannot touch the uncreated -- *a mediator is required* -- the uncreated infinite must descend down into the created finite and express itself through created forms, that is, icons (of which Christ is the alpha and the omega).
 
 
 
@@ -251,7 +251,7 @@ And then from worship of God:
 * If we worship the one true God, then we will venerate all the symbols of the one true God, such as scripture, hymns, and icons.
 
 If, on the other hand, we do not feel any respect or honor to the saints, or to the Theotokos, or to the scriptures, then it is not God that we worship.
-We all worship something, and our actions and words will reveal what it is we are really worshipping.
+We all worship, and our actions and words will reveal what it is we are really worshipping.
 
 
 
@@ -273,21 +273,21 @@ The bad fruits of iconoclastic churches demonstrate exactly this: they are more 
 It is difficult in our
  [modern view](../modern-view/index.md)
  to understand the importance of religious icons.
-Today, we are saturated with images which have lost all sacred value, and as a result we barely understand the ancient iconoclasts because we're surrounded in our modern world by mundane and profane images.
-If we look at today's overabundance of images, profane images such as pornography, or mundane political memes, and then examine how those images influence and shape our behavior, then it is clear that these images are as powerful as they ever were in the ancient world, and that idolatry is as present as ever.
-The reformation iconoclasts have not saved our modern world from image-based idolatry, quite the contrary it has only made us weaker.
+Today, we are saturated with images which we pretend have lost all sacred value, and as a result we barely understand the ancient iconoclasts because we're surrounded in our modern world by seemingly mundane and profane images.
+If we look at today's overabundance of images, profane images such as pornography, or mundane political memes, and then examine how those images influence and shape our behavior, then it is clear that these images are as powerful and as sacred as they ever were in the ancient world, and that idolatry is as present as ever.
+The reformation iconoclasts have not saved our modern world from image-based idolatry, quite the contrary.
 
 Today, while most iconoclastic protestants would never adorn their church with holy icons, they do not question a nativity scene in their own front yard during Christmas.
 Should we destroy nativity scenes?
 
-We ought never condone such reprehensible behavior.
-Venerating icons is like venerating the words of scripture. That is, to treat scripture as the divine source of truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
+We ought never condone the destruction of images. It is reprehensible behavior.
+Venerating icons is like venerating the words of scripture. That is, treat scripture as the divine source of truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
 
 Worshipping icons would be wrong, and should be condemned as heretical.
 Likewise, conflating icons with idol worship should similarly be condemned.
 Iconoclasms should be condemned.
 
-Imagine burning Bibles because someone thought people were worshipping Bibles.
+Imagine burning Bibles because someone thought people were worshipping Bibles and not God.
 If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
 
 While the iconoclasts destroy what they see as graven images, idols -- let us not grant piety to destruction of what are clearly not idols and in many cases are sacred.
@@ -341,6 +341,7 @@ In fact, the
 ## Icons of Christ 
 
 The most interesting example of an icon is the person of Christ Jesus, that through Him we may look upon the face of the Father.
+This means -- necessarily -- that images of Christ the man allow us to see the face (the image and likeness) of the Father.
 
 
 !!! quote "John 14:9"
@@ -355,8 +356,7 @@ The most interesting example of an icon is the person of Christ Jesus, that thro
 
 
 !!! quote "Hebrews 1:3"
-    Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;
-
+    Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high
 
 
 
@@ -387,8 +387,6 @@ This is a radical cosmological shift..
     While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.
 
 
-
-https://www.goarch.org/-/the-seventh-ecumenical-council
 
 
 
