@@ -267,14 +267,29 @@ We all worship something, and our actions and words will reveal what it is we ar
 
 ## Anathema!
 
-Ultimately, iconoclasm impedes us from expressing our worship of Christ -- effectively removing the primary means (imaging) to express our worship, confining how we worship -- making us vulnerable to image-based idolatry (such as pornography).
-The bad fruits of iconoclastic churches demonstrate exactly this: they are more likely to produce a lukewarm faith, where God becomes a lesser concern in people's daily life (giving God an hour on Sunday).
+Ultimately, iconoclasm impedes us from expressing our worship of God (worship of truth) -- effectively removing the primary means (imaging) to express our worship, confining how we worship -- making us vulnerable to image-based idolatry (such as pornography).
+The bad fruits of iconoclastic churches demonstrate exactly this: they are more likely to produce a lukewarm faith, where God becomes a lesser concern in people's daily life (giving God only an hour on Sunday).
 
 It is difficult in our
  [modern view](../modern-view/index.md)
  to understand the importance of religious icons.
-Today, we are saturated with images which have lost all sacred value -- thus they cannot even be sacrilegious but instead are usually just mundane or profane.
-Yet if we look at today's overabundance of images, even profane images such as pornography, or mundane political imagery, it is clear that images are as powerful as they ever were in the ancient world, and that idolatry is as present as ever.
+Today, we are saturated with images which have lost all sacred value, and as a result we barely understand the ancient or even reformation iconoclasts because were surrounded by mundane and profane images.
+If we look at today's overabundance of images, profane images such as pornography, or mundane political imagery, and then examine how those images influence and shape our behavior, then it is clear that these images are as powerful as they ever were in the ancient world, and that idolatry is as present as ever.
+The reformation iconoclasts have not saved our modern world from image-based idolatry, quite the contrary it has only made us weaker.
+
+Today, while most iconoclastic protestants would never adorn their church with holy icons, they do not question a nativity scene in their front yard during Christmas.
+Should we destroy nativity scenes?
+
+We ought never condone such reprehensible behavior.
+
+Venerating icons is like venerating the words of scripture. That is, to treat scripture as the divine source of truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
+
+Worshipping icons would be wrong, and should be condemned as heretical.
+Likewise, conflating icons with idol worship should similarly be condemned.
+Iconoclasm should be condemned.
+
+Imagine burning Bibles because someone thought people were worshipping Bibles.
+If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
 
 While the iconoclasts destroy what they see as graven images, idols -- let us not grant piety to destruction of what are clearly not idols and in many cases are sacred.
 In fact, the 
@@ -282,6 +297,18 @@ In fact, the
  did not mince words in the pronouncement of anathemas to the iconoclasts.
 
 ???+ danger "Anathemas from the Seventh Ecumenical Synodikon"
+    Believing in one God, celebrated in Trinity, we salute the honorable images!
+    Those who do not so hold: Let them be anathema!
+    
+    Those who do not thus think: Let them be driven far away from the Church.
+    
+    We follow the most ancient legislation of the Catholic Church.
+    We keep the laws of the Fathers.
+    We anathematize those who add anything to or take anything away from the Catholic Church.
+    We anathematize the introduced novelty of the revilers of Christians.
+    
+    We salute the venerable images.
+    We place under anathema those who do not do this.
     To those who presume to apply to the venerable images the things said in Holy Scripture about as idols: Anathema!
     
     To those who do not salute the holy and venerable images: Anathema!
@@ -295,28 +322,6 @@ In fact, the
     To those who dare to say that at any time the Catholic Church received idols Anathema!
 
 
-http://wmm.dormitionpress.org/archives/522
-
-Humans venerate and praise, and they are to worship only God.
-
-Today, while most iconoclastic protestants would never adorn their church with iconography, they do not question a nativity scene in their front yard during Christmas.
-Should we destroy nativity scenes wherever we see them?
-Is this not the behavior of the adversary?
-
-We ought never condone such reprehensible behavior.
-
-Venerating icons is like venerating the words of scripture. That is, to treat it as the divine source of truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
-
-Worshipping icons would be wrong, and should be condemned as heretical.
-Likewise, conflating icons with idol worship should similarly be condemned.
-Iconoclasm should be condemned.
-Imagine burning Bibles because someone thought people were worshipping Bibles.
-If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
-
-A very simple test, icons are necessarily fungible with respect to what they represent. Idols are not and cannot be fungible. For example, you may have a particular family Bible with deep sentimental value, but you certainly don't value it over God.
-
-This is true even for pagan idolatry. The Israelites placed that golden calf above God, and it ceased being a mere image and became the object of worship.
-And similarly, the golden cherubims in the ark of the covenant were functioning as religious icons and thus were completely fungible. In other words, destroying those images would do nothing to touch the spirit they depicted. If damaged, the golden cherubims could simply be repaired or replaced.
 
 
 
