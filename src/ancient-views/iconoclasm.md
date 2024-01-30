@@ -214,7 +214,7 @@ We simply cannot rid ourselves of iconographic symbolism and still worship a tra
 Iconographic symbolism *will happen* no matter how much you suppress or destroy images.
 *Icons are necessary and inevitable.*
 
-To explain this is metaphysical language: the finite cannot touch the infinite, the created cannot touch the uncreated -- *a mediator is required* -- the uncreated infinite must descend down into the created finite and express itself through creation forms, that is, icons (of which Christ is the alpha and omega).
+To explain this is metaphysical language: the finite cannot touch the infinite, the created cannot touch the uncreated -- *a mediator is required* -- the uncreated infinite must descend down into the created finite and express itself through created forms, that is, icons (of which Christ is the alpha and omega).
 
 
 
