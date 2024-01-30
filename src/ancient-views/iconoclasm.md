@@ -121,7 +121,7 @@ The life of Christ is a clear testament to why we cannot worship "molten gods" o
 
 ## Icons (Images)
 
-Literally, *image*, an icon is any kind of image.
+Literally, *image*: an icon is any kind of image.
 Importantly, images in the ancient world were not benign nor mundane like they are today. Images were and are powerful. Images were deeply sacred, or as in the case of idols, deeply sacrilegious and heretical. 
 The concept of an image was in fact so important that our very creation was in the "image of God".
 
