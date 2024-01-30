@@ -235,7 +235,7 @@ In other words, we can choose how we express our respect for something we worshi
 
 Our God-given free will grants us a choice of what to worship, and then separately *how to worship*.
 If you do not worship God then you will feel no need to honor or respect icons of Christ, including the person of Christ.
-And likewise if you worship God then you will feel no desire to honor or respect idolatrous images.
+And likewise if you worship God then you will feel no desire to respect idolatrous images.
 
 Let's examine this carefully, first from idolatry:
 
@@ -265,19 +265,21 @@ We all worship something, and our actions and words will reveal what it is we ar
 
 
 
-## Anathema
+## Anathema!
 
-Ultimately, iconoclasm impedes us from expressing our worship of Christ -- effectively removing the primary means (images) to express our worship, confining how we worship to Bible study and prayer -- making us vulnerable to idolatry (career, money, social status, etc).
-The bad fruits of iconoclastic churches demonstrate exactly this: they are more likely to produce a lukewarm faith, where God becomes a lesser concern in people's life (giving God time on Sunday out of habit).
+Ultimately, iconoclasm impedes us from expressing our worship of Christ -- effectively removing the primary means (imaging) to express our worship, confining how we worship -- making us vulnerable to image-based idolatry (such as pornography).
+The bad fruits of iconoclastic churches demonstrate exactly this: they are more likely to produce a lukewarm faith, where God becomes a lesser concern in people's daily life (giving God an hour on Sunday).
 
 It is difficult in our
  [modern view](../modern-view/index.md)
  to understand the importance of religious icons.
-Today, we are saturated with images, which have lost all sacred value -- thus they cannot even be sacrilegious but instead are usually just mundane or profane.
-Yet if we look at today's images, even profane images such as pornography, or mundane political imagery, it is clear that images are as powerful as they ever were in the ancient world, and that idolatry is as present as ever.
+Today, we are saturated with images which have lost all sacred value -- thus they cannot even be sacrilegious but instead are usually just mundane or profane.
+Yet if we look at today's overabundance of images, even profane images such as pornography, or mundane political imagery, it is clear that images are as powerful as they ever were in the ancient world, and that idolatry is as present as ever.
 
-While the iconoclasts destroy what they see as graven images, idols -- let us not grant piety to destruction of what are clearly not idols. 
-In fact, the seventh ecumenical council did not mince words in the pronouncement of anathemas to the iconoclasts.
+While the iconoclasts destroy what they see as graven images, idols -- let us not grant piety to destruction of what are clearly not idols and in many cases are sacred.
+In fact, the 
+ [seventh ecumenical counci](http://andronicus-athanasia.org/synodikon_seventh__ecumenical_council.html)
+ did not mince words in the pronouncement of anathemas to the iconoclasts.
 
 ???+ danger "Anathemas from the Seventh Ecumenical Synodikon"
     To those who presume to apply to the venerable images the things said in Holy Scripture about as idols: Anathema!
@@ -292,7 +294,6 @@ In fact, the seventh ecumenical council did not mince words in the pronouncement
     
     To those who dare to say that at any time the Catholic Church received idols Anathema!
 
-http://andronicus-athanasia.org/synodikon_seventh__ecumenical_council.html
 
 http://wmm.dormitionpress.org/archives/522
 
