@@ -6,27 +6,27 @@ Iconoclast movements have been an ongoing pattern *within* Christianity, such as
  or more recently during the
 [Reformation](https://folgerpedia.folger.edu/Idolatry:_Icons_and_Iconoclasm). The influences of which have persisted through the ages and have resulted in bland protestant churches standing in sharp contrast to the iconographic beauty of orthodox churches.
 
-While the accusation was usually *idolatry*, the end result was the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
+While the accusation was usually *idolatry*, an icococlasm was the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
 Much 
  blood 
  and 
  ink 
  have been spilled through the ages on the topic of icons.
-The iconoclasts themselves imagined they were adhering to the second commandment, perhaps reacting as Moses did to the golden calf.
+The iconoclasts themselves believed they were adhering to the second commandment, perhaps reacting as Moses did to the golden calf.
 
 !!! quote "Exodus 32:19-20"
     When Moses approached the camp and saw the calf and the dancing, his anger burned and he threw the tablets out of his hands, breaking them to pieces at the foot of the mountain. 
     And he took the calf the people had made and burned it in the fire; then he ground it to powder, scattered it on the water and made the Israelites drink it.
 
-Iconoclasts necessarily imagined that images of Christ and images of Saints were equivalent to the worship of the golden calf (i.e., orgiastic worship of Baal).
+Iconoclasts necessarily believed that images of Christ and images of Saints were equivalent to the worship of the golden calf (i.e., orgiastic worship of Baal immediately after God told you not to do that).
 While our [modern view](../modern-views/index.md) can make little sense of this, notice that all sides in the ancient world understood that images had great power.
+Humans are "imaging" beings, made to glorify God we act out our worship and our behavior reflects the images around us.
+
 Images were never benign as we think in modern views. 
-Religious icons were either sacred or sacrilegious.
-The existence of iconoclast movements is testament to the spiritual power of images in the [ancient view](index.md).
+Religious icons were either extremely sacred or extremely sacrilegious.
+The existence of iconoclast movements is itself testament to the spiritual power of images in the [ancient view](index.md).
 
-That said, were the iconoclasts right? Or were they demonically deceived? What is the truth of religious icons?
-
-
+That said, were the iconoclasts right to destroy icons? Or were the iconoclasts demonically deceived? What is the truth of religious icons?
 
 
 
@@ -36,12 +36,14 @@ That said, were the iconoclasts right? Or were they demonically deceived? What i
 
 
 
-## Idols
+
+
+## Idols and Idolatry 
 
 Ancient pagans created idols not merely as man-made trophies to worship, but in order to capture the essence of a specific god (a fallen spirit) such that people could make offerings and sacrifice to that god.
 
-A pagan god (fallen spirit) was in a sense captured and bound by an idol, allowing that spirit to act within rituals that the worshippers participated in.
-This was the universal backdrop of idol worship, and God worked with His chosen people and transformed this abhorrent practice from within, first into mediated communion in the Tabernacle, and then eventually into the life of Christ Jesus.
+A pagan god (fallen spirit) was in a sense captured and bound by a physical idol, allowing that spirit to act within rituals that the worshippers participated in.
+This was the universal backdrop of idol worship, and God worked within that backdtop through His chosen people and transformed this abhorrent practice from within, first into mediated communion in the Tabernacle, and then eventually into the life of Christ Jesus.
 
 !!! info "Graven Images"
     The [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) **pesel** (פסל) is used in Exodus 20:4 (and related passages), referring to a carved statue that is worshipped. Additionally, **temunah** (תמונה) is referring to a likeness or similitude.
@@ -52,7 +54,7 @@ Let's look carefully at the second of the ten commandments:
     Thou shalt not make unto thee any graven image (**pesel**), or any likeness (**temunah**) of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth: 
     Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me
 
-God commanded the Israelites not to make images of spiritual things and worship them.
+God commanded the Israelites not to make images of spiritual things and worship them (which they immediately did anyway).
 And this of course follows the first commandment to have no other gods before Him.
 The Levitical laws further refined this command with reference to idols:
 
@@ -86,7 +88,7 @@ Note how the sacrifice of Christ and His body and blood are compared to the paga
     In the which ye also walked some time, when ye lived in them. 
     But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.
 
-There is a clear sense that idolatry is anything valued above God, not just images but anything that is not Christ Jesus:
+There is a clear understanding that idolatry is anything valued above God, not just images but anything that is not Christ Jesus:
 
 !!! quote "1 John 5:19-21"
     And we know that we are of God, and the whole world lieth in wickedness. 
@@ -94,13 +96,13 @@ There is a clear sense that idolatry is anything valued above God, not just imag
     
     Little children, keep yourselves from idols. Amen.
 
-The Mosaic law rightly forbids man-made graven images, "molten gods" such as the golden calf -- which was a near universal practice in the ancient world.
-Christ elevated this prohibition to anything outside of Himself, towards the greatest commandment to love God with all your heart, mind, and soul.
+The Mosaic law rightly forbids man-made graven images, "molten gods" such as the golden calf. That kind of idol worship was a near universal practice in the ancient world.
+Christ elevated this prohibition of idol worship to anything outside of Himself, perfectly expressed in the greatest commandment to love God with all your heart, mind, and soul.
 We are to worship the one true God, whose word became flesh, the only begotten Son of God.
 
 Christ is the image and also the sacrifice -- no molten idol can contain the Son of God -- but man was made in the image and likeness of God, thus the living God became a living icon (a man without sin), who is the sacrifice for our salvation.
 
-The life of Christ is a clear testament to why we cannot worship "molten gods", for we are created in the image and likeness of the one true God and cannot worship that which is beneath us, and as Christ ascended as a man into heaven, so we have only Christ Jesus to worship -- there is nothing higher than God.
+The life of Christ is a clear testament to why we cannot worship "molten gods" or "graven images", for we are created in the image and likeness of the one true God and cannot worship anything that is beneath us, and as Christ ascended as a man into heaven, so we have only Christ Jesus to worship -- there is nothing higher for us to worship than God.
 
 
 
@@ -117,10 +119,10 @@ The life of Christ is a clear testament to why we cannot worship "molten gods", 
 
 
 
-## Icons
+## Icons (Images)
 
-Literally, *image*, any kind of image.
-Importantly, images in the ancient world were not benign or mundane like they are today. Images were powerful. Most were deeply sacred, or as in the case of idols, sacrilegious and heretical. 
+Literally, *image*, an icon is any kind of image.
+Importantly, images in the ancient world were not benign nor mundane like they are today. Images were and are powerful. Images were deeply sacred, or as in the case of idols, deeply sacrilegious and heretical. 
 The concept of an image was in fact so important that our very creation was in the "image of God".
 
 !!! info "Image and Likeness"
@@ -130,13 +132,15 @@ The concept of an image was in fact so important that our very creation was in t
 
 We often refer to icons as a specific religious image, but it is a general term (sacred or profane or otherwise).
 If an icon becomes an object of worship, such as a pagan idol (graven image), then this is idolatry.
+And because imaging is so fundamental to our being, image-based idolatry is so dangerous.
 
 In terms of sacred icons, here is perhaps the most important and sacred use of an "image" (icon):
 
 !!! quote "Genesis 1:26"
     And God said, Let us make man in our image (**tselem**), after our likeness (**demut**): and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 
-And contrary to the sacrilegious golden calf that Moses destroyed, there were sacred icons of gold cherubims protecting the ark of the covenant:
+Images are not just important but they are the most important power at our disposal (because we are in the image of God).
+And contrary to the sacrilegious golden calf that Moses destroyed, inages were used in the most sacred places, such as the icons of gold cherubims protecting the ark of the covenant:
 
 !!! quote "Exodus 25:18-21"
     And thou shalt make two cherubims of gold, of beaten work shalt thou make them, in the two ends of the mercy seat. 
@@ -159,6 +163,7 @@ And when the second temple was built, it was adorned with icons big and small:
     And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house. 
     And he overlaid the cherubims with gold.
 
+Note that cherubim were the highest of the heavenly hosts, and the most sacred thing in heaven one could make it into icon (but never as idol, never to worship).
 Even the prophecied temple in Ezekiel's vision contained cherub icons:
 
 !!! quote "Ezekiel 41:18-19"
@@ -166,8 +171,8 @@ Even the prophecied temple in Ezekiel's vision contained cherub icons:
     So that the face of a man was toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side: it was made through all the house round about.
 
 It is clear that icons were sometimes idolatrous -- like the golden calf -- or sometimes sacred -- like the golden cherubims.
-Importantly, they were me we mundane.
-Any icon -- including any of your fellow human beings -- can be honored and respected (venerated) but should never be worshipped.
+Importantly, they were never mundane.
+Any icon -- including your fellow human beings -- should never be worshipped, but can be honored and respected (venerated).
 
 
 
