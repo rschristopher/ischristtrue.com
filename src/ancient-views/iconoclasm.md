@@ -277,7 +277,7 @@ Today, we are saturated with images which have lost all sacred value, and as a r
 If we look at today's overabundance of images, profane images such as pornography, or mundane political imagery, and then examine how those images influence and shape our behavior, then it is clear that these images are as powerful as they ever were in the ancient world, and that idolatry is as present as ever.
 The reformation iconoclasts have not saved our modern world from image-based idolatry, quite the contrary it has only made us weaker.
 
-Today, while most iconoclastic protestants would never adorn their church with holy icons, they do not question a nativity scene in their front yard during Christmas.
+Today, while most iconoclastic protestants would never adorn their church with holy icons, they do not question a nativity scene in their own front yard during Christmas.
 Should we destroy nativity scenes?
 
 We ought never condone such reprehensible behavior.
