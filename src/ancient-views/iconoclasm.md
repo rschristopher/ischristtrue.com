@@ -248,9 +248,9 @@ And then from worship of God:
 
 * If we worship God, we will venerate the Saints that inspire in us a deeper sense of worship.
 * If we worship Christ, then we will venerate His mother who birthed the God-man, the spirit of truth, the word made flesh.
-* If we worship the one true God, then we will venerate all the symbols of the one true God, including scripture.
+* If we worship the one true God, then we will venerate all the symbols of the one true God, such as scripture, hymns, and icons.
 
-If, on the other hand, we do not feel any respect or honor to the Saints, or to the Theotokos, or to the scriptures, then it is not God that we worship.
+If, on the other hand, we do not feel any respect or honor to the saints, or to the Theotokos, or to the scriptures, then it is not God that we worship.
 We all worship something, and our actions and words will reveal what it is we are really worshipping.
 
 
