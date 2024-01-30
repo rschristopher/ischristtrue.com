@@ -231,7 +231,7 @@ To explain this is metaphysical language: the finite cannot touch the infinite, 
 What we worship inevitably determines what we venerate.
 We cannot force ourselves to respect something.
 We do not, and can not, choose what we venerate, but only how we venerate.
-In other words, we can chose how we express our respect for something we worship.
+In other words, we can choose how we express our respect for something we worship.
 
 Our God-given free will grants us a choice of what to worship, and then separately *how to worship*.
 If you do not worship God then you will feel no need to honor or respect icons of Christ, including the person of Christ.
