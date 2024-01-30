@@ -235,6 +235,7 @@ In other words, we can choose how we express our respect for something we worshi
 
 Our God-given free will grants us a choice of what to worship, and then separately *how to worship*.
 If you do not worship God then you will feel no need to honor or respect icons of Christ, including the person of Christ.
+And likewise if you do worship God then you will feel no desire to honor or respect idolatrous images.
 
 Let's examine this carefully, first from idolatry:
 
