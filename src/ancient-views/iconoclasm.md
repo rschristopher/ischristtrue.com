@@ -273,7 +273,7 @@ The bad fruits of iconoclastic churches demonstrate exactly this: they are more 
 It is difficult in our
  [modern view](../modern-view/index.md)
  to understand the importance of religious icons.
-Today, we are saturated with images which have lost all sacred value, and as a result we barely understand the ancient or even reformation iconoclasts because were surrounded by mundane and profane images.
+Today, we are saturated with images which have lost all sacred value, and as a result we barely understand the ancient iconoclasts because were surrounded in our modern world by mundane and profane images.
 If we look at today's overabundance of images, profane images such as pornography, or mundane political imagery, and then examine how those images influence and shape our behavior, then it is clear that these images are as powerful as they ever were in the ancient world, and that idolatry is as present as ever.
 The reformation iconoclasts have not saved our modern world from image-based idolatry, quite the contrary it has only made us weaker.
 
