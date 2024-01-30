@@ -1,6 +1,6 @@
 # Iconoclasm
 
-Literally, the *breaking of images* -- iconoclasm is the deliberate destruction of artwork, typically religious artwork.
+Literally, *breaking of images* -- iconoclasm is the deliberate destruction of artwork, typically religious artwork.
 
 Iconoclast movements have been an ongoing pattern *within* Christianity, such as the [Byzantine Iconoclasm](https://en.wikipedia.org/wiki/Byzantine_Iconoclasm)
  or more recently during the
