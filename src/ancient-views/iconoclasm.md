@@ -237,12 +237,14 @@ Our God-given free will grants us a choice of what to worship, and then separate
 If you do not worship God then you will feel no need to honor or respect icons of Christ, including the person of Christ.
 
 Let's examine this carefully, first from idolatry:
+
 * If we worship money (mammon) then we will venerate sources and symbols of wealth.
 * If we worship ourselves then we will venerate images of ourselves (as is so common on social media today).
 * If we worship nothing, we will venerate symbols of nothingness, such as postmodern philosophy, moral relativism, fashion trends, and absurdism.
 * If we worship our career, we will venerate symbols of our career, such as business cards, job titles and so forth.
 
 And then from worship of God:
+
 * If we worship God, we will venerate the Saints that inspire in us a deeper sense of worship.
 * If we worship Christ, then we will venerate His mother who birthed the God-man, the spirit of truth, the word made flesh.
 * If we worship the one true God, then we will venerate all the symbols of the one true God, including scripture.
