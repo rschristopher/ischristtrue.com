@@ -7,7 +7,7 @@ Iconoclast movements have been an ongoing pattern *within* Christianity, such as
 
 Iconoclastic influences have persisted through the ages and have resulted in bland protestant churches which stand in sharp contrast to the iconographic beauty of orthodox churches.
 
-!!! example "Consequences of Iconoclasm"
+!!! example "Icons vs Iconoclasm"
     ![icon-veneration](/images/icon-veneration.jpg)
 
     ----
