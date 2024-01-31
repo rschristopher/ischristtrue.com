@@ -401,6 +401,7 @@ The person of Christ is literally the icon of God. And through Christ, through a
     And have put on the new man, which is renewed in knowledge after the image of him that created him
 
 To be clear, just as Moses beheld God in the Tabernacle, where God condescended down into creation (into the holy of holies, surrounded by venerated golden cherubims and other sacred icons), so too do we behold God in the image of Christ Jesus.
+
 This is a radical cosmological shift, renewing us through Christ, such that through Christ we are no longer under the dominion of principalities and powers, no longer corrupted by sin, no longer bound by death.
 And this is what we experience when venerating icons of Christ.
 
