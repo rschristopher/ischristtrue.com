@@ -422,8 +422,8 @@ https://orthodoxbridge.com/2011/07/12/is-there-a-biblical-basis-for-icons/
 
 ## Icons of Mary
 
-Icons of Mary are extremely popular (second only to Christ) yet are sometimes the source of controversy and misunderstanding between Christians.
-Even today, accusations of "Mary worship" resound from protestant iconoclasts. 
+Icons of Mary are extremely popular (second only to Christ) yet are sometimes the source of controversy and misunderstanding between well-meaning Christians.
+Even today, accusations of "Mary worship" resound from protestants. 
 
 If anyone is deserving of honor (veneration), it is the mother of Christ, the Theotokos.
 
@@ -435,19 +435,21 @@ If anyone is deserving of honor (veneration), it is the mother of Christ, the Th
 Let's examine some of the iconoclastic reactions to icons of Mary:
 
 ???+ example "Reaction to Immaculate Conception"
-    Roman Catholicism (papal protestantism) insists that Mary was born without original sin (the immaculate conception). This is due to a false and non-orthodox understanding of sin, a logical consequence to the Augustinian error of original sin as inherited guilt.
+    Roman Catholicism (papal protestantism) insists that Mary was born without original sin (the immaculate conception). This is due to a non-orthodox (and false) understanding of sin, a logical consequence to the Augustinian error of original sin as inherited guilt.
     
-    The reformers were reacting to the many abuses and innovations in Rome, and thus rejected what they saw aa "Mary worship", but interestingly they kept the Augustinian understanding of original sin as inherited guilt.
+    The reformers were reacting to the many abuses and innovations from Rome, and thus rejected what they saw as "Mary worship", but interestingly they kept the Augustinian view that leads to immaculate conception (original sin as inherited guilt).
     
-    Iconoclastic views become a way for the reformers to avoid the "immaculate conception" of Mary but still keep to Augustinian presupositions, effectively by just ignoring Mary.
+    Iconoclastic views become a way for the reformers to avoid the "immaculate conception" of Mary but still keep to Augustinian presupositions, effectively by just ignoring Mary, icons and all.
 
 ???+ example "Reaction to Intercessions"
      Venerating Mary involves intercession, i.e., Mary prays for you.
      Most protestants will reject this and ask, "why not pray directly to Christ?"
      
-     Obviously one should pray to Christ, but we should also pray for others (intercessory prayers) and ask them to pray for us.
+     Obviously one should pray to Christ, but we should also pray for others (what are known as intercessory prayers) and ask others to pray for us. The reasons for intercessory prayer are many, and the protestant view seems to be that only people living in the world can do intercessory prayer, and that there's no living spirits other than Christ (which is a nihilistic view).
 
-Christ has a human and divine will, being both God and man -- and it is from Mary that He gets his humanity.
+Ultimately, Christ has a human and divine will, being both God and man -- and it is from Mary that Christ gets His humanity.
+The Orthodox view is that Mary is alive with her Som and is very much able to hear and respond to prayer requests.
+Intercessions from Mary are a way to connect directly to the human side of Christ.
 
 
 
