@@ -503,7 +503,7 @@ Here are a few informative examples of icons of saints:
 ???+ example "Parable of the Good Samaritan"
     ![icon-good-samaritan](/images/icon-good-samaritan.jpeg)
 
-    In this icon we have the parable of the good Samaritan. The parable itself is depicted, not a naned saint, although in Christ's telling of this parable he seemed to be referring to an actual event (of a man traveling from Jerusalem to Jericho).
+    In this icon we have the parable of the good Samaritan. The parable itself is depicted, not a named saint, although in Christ's telling of this parable he seemed to be referring to an actual event (of a man traveling from Jerusalem to Jericho).
 
     Venerating this icon is to venerate the very words of Christ, as well as venerating the good Samaritan and appealing to the spirit of the good Samaritan for help and intercession.
 
