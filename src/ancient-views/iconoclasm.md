@@ -468,17 +468,17 @@ Regardless, we should show honor and respect to icons of the Theotokos because s
 ## Icons of Saints
 
 Similar to the icons of Mary, venerating saints often involves intercessory prayers from those saints.
-The orthodox view is that the saints and the angels are praying for you, and by venerating a given saint you are participating in the spirit of that saint, opening yourself to them, which could be as simple as gaining inspiration from their life story, from their deep humility in their worship of Christ.
+The orthodox view is that the saints and the angels are praying for you, and by venerating an icon you are participating in the spirit of that saint or angel, opening yourself to them, which could be as simple as gaining inspiration from their life story, such as their deep humility or in their struggles with sin and their salvation in Christ.
 
 Here are a few informative examples of icons of saints:
 
-!!! example "Sts. Paul and Peter"
+???+ example "Sts. Paul and Peter"
     ![icon-paul-peter](/images/icon-paul-peter.jpg)
 
     We see in this icon the spread of Christianity, the spread of Christ's church through the missions of Sts. Paul and Peter, reaching to the Gentiles and to the Jews alike. It is a mission that continues very much to this day.
 
 
-!!! example "The Good Thief in Paradise"
+???+ example "The Good Thief in Paradise"
     ![icon-good-thief](/images/icon-good-thief.jpg)
 
     One of my favorite icons is the traditional depiction of the good (or penitent) thief who was crucified alongside Christ.
@@ -486,11 +486,13 @@ Here are a few informative examples of icons of saints:
     
     Very little is known of this man, other than the what is written in [Luke 23:39-43](https://www.biblegateway.com/passage/?search=luke%2023:39-43&version=KJV), including the merciful words from Christ, *Verily I say unto thee, Today shalt thou be with me in paradise*.
     
-    Importantly, the good thief repented and turned to Christ, recognizing Jesus as the Messiah, but also the thief rebuked a sinner (the other criminal who hurled insults at Christ). In doing so the good thief confessed his sins, stating that his punishment is just. And most importantly, he experienced a baptismal death (the old man died and the new man was born into Christ).
+    Importantly, the good thief repented and turned to Christ, recognizing Jesus as the Messiah, but also this thief rebuked a sinner (the other criminal who hurled insults at Christ). In doing so this thief confessed his own sins, stating that his punishment is just. And most importantly, he experienced a baptismal death (the old man died and the new man was born into Christ). The entirety of Christian salvation is captured in this very short story (baptism, justification, redemption, confession, and even theosis).
 
 
-![icon-good-samaritan](/images/icon-good-samaritan.jpeg)
+???+ example "Parable of the Good Samaritan"
+    ![icon-good-samaritan](/images/icon-good-samaritan.jpeg)
 
+    In this icon we have the parable of the good Samaritan. The parable itself is depicted, not naned saint, although in Christ's telling of this parable he seemed to be referring to an actual event (of a man traveling from Jerusalem to Jericho).
 
 
 
