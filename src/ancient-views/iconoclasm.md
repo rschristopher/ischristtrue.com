@@ -259,7 +259,7 @@ And then from worship of God:
 * If we worship Christ, then we will venerate His mother who birthed the God-man, the spirit of truth, the word made flesh.
 * If we worship the one true God, then we will venerate all the symbols of the one true God, such as scripture, hymns, and icons.
 
-If, on the other hand, we do not feel any respect or honor to the saints, or to the Theotokos, or to the scriptures, then it is not God that we worship.
+If we do not feel any respect or honor to the saints, or to the Theotokos, or to the scriptures, then it is not God that we worship.
 We all worship, and our actions and words will reveal what it is we are really worshipping.
 
 
@@ -276,10 +276,10 @@ We all worship, and our actions and words will reveal what it is we are really w
 
 ## Anathema!
 
-While iconoclasts suppress and destroy what they see as idols -- let us not grant piety nor tolerance to the destruction of what are clearly not idols but are actually sacred images.
+While iconoclasts suppress and destroy what they see as idols, let us not grant piety nor tolerance to the destruction of sacred images, which are clearly not idols.
 In fact, the 
  [seventh ecumenical council](http://andronicus-athanasia.org/synodikon_seventh__ecumenical_council.html)
- did not mince words in the pronouncement of anathema to the iconoclasts.
+ did not mince words in the pronouncement of [anathema](http://orthodoxinfo.com/ecumenism/anathema.aspx) onto the iconoclasts.
 
 ???+ danger "from the Seventh Ecumenical Synodikon"
     Believing in one God, celebrated in Trinity, we salute the honorable images!
@@ -306,16 +306,17 @@ In fact, the
     
     To those who dare to say that at any time the Catholic Church received idols Anathema!
 
-In the orthodox church (the one holy catholic and apostolic church), *anathema* is the most severe condemnation possible. It is reserved for schisms and heresies, a recognition that those with anathema are not members of the body of Christ, that they are separated from Christ and are left to the dominion of the adversary.
+In the orthodox church (the one holy catholic and apostolic church), [anathema](https://www.orthodoxpath.org/catechisms-and-articles/what-is-an-anathema/) is the most severe condemnation possible. Whereas *excommunication* meant you are still a member but would be denied participation in the eucharist until you repented, *anathema* was a complete separation from the church until you repented, such as for schisms and severe heresies.
+In other words, iconoclasts were expelled from the church, the body of Christ, unless and until they repented.
 
-Ultimately, an iconoclasm impedes us from expressing our worship of God (worship of truth) -- effectively removing the primary means (imaging) to express our worship, confining how we worship -- making us vulnerable to image-based idolatry (such as pornography).
-The bad fruits of iconoclastic churches demonstrate exactly this: they are not just ugly, but are more likely to produce a lukewarm faith, where God becomes a lesser concern in people's daily life (such as giving God only an hour on Sunday).
+Ultimately, iconoclasts impede us from expressing our worship of God (worship of truth) -- effectively removing the primary means (imaging) of expressing our worship, confining how we worship -- making us vulnerable to image-based idolatry (such as pornography).
+The bad fruits of iconoclastic churches demonstrate exactly this: they are not just ugly, but are likely to produce a lukewarm faith, where God becomes a lesser concern in people's daily life (such as giving God only an hour on Sunday).
 
 It is difficult in our
  [modern view](../modern-view/index.md)
  to understand the importance of religious icons.
 Today, we are saturated with images which we pretend have lost all sacred value, and as a result we barely understand the ancient iconoclasts let alone the anathema because we're surrounded in our modern world by seemingly mundane and profane images.
-If we look at today's overabundance of images, profane images such as pornography, or mundane political memes, and then examine how those images influence and shape our behavior, then it is clear that these images are as powerful and as sacred as they ever were in the ancient world, and that idolatry is as present as ever.
+If we look at today's overabundance of images, profane images such as pornography, or mundane political memes, and then examine how those images influence and shape our behavior, then it is clear that these images are as powerful and as sacred as images ever were in the ancient world, and that idolatry is as present as ever.
 The reformation iconoclasts have clearly not saved our modern world from image-based idolatry, quite the contrary.
 
 Today, while most iconoclastic protestants would never adorn their church with holy icons, they do not question a nativity scene in their own front yard during Christmas.
@@ -323,14 +324,14 @@ Again, icons are inevitable.
 Should protestants destroy nativity scenes?
 
 We ought never condone the destruction of images. It is reprehensible behavior.
-Venerating icons is like venerating scripture. That is, we ought to treat scripture as divinely revealed truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
+Venerating icons is the same as venerating scripture. That is, we ought to treat scripture as divinely revealed truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
 
 Worshipping icons would of course be wrong. It would be idolatry and should be condemned as heretical.
 Likewise, conflating icons with idol worship should also be condemned.
 Iconoclasms should be condemned as heretical.
 
 Imagine someone burning Bibles because they thought people were worshipping Bibles instead of God.
-If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
+If you can understand that you're not worshipping a Bible while venerating the words of the gospel, then you can understand that icon veneration is not idol worship.
 
 
 
