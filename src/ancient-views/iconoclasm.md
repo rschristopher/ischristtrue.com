@@ -4,7 +4,7 @@ Literally, *breaking of images* -- an iconoclasm is the deliberate destruction o
 
 Iconoclast movements have been an ongoing pattern *within* Christianity, such as the [Byzantine Iconoclasm](https://en.wikipedia.org/wiki/Byzantine_Iconoclasm)
  or more recently during the
-[Reformation](https://folgerpedia.folger.edu/Idolatry:_Icons_and_Iconoclasm). The influences of iconoclasms have persisted through the ages and have resulted in bland protestant churches standing in sharp contrast to the iconographic beauty of orthodox churches.
+[Reformation](https://folgerpedia.folger.edu/Idolatry:_Icons_and_Iconoclasm). Iconoclastic influences have persisted through the ages and have resulted in bland protestant churches which stand in sharp contrast to the iconographic beauty of orthodox churches.
 
 !!! example "Consequences of Iconoclasm"
     ![icon-veneration](/images/icon-veneration.jpg)
@@ -14,7 +14,7 @@ Iconoclast movements have been an ongoing pattern *within* Christianity, such as
     ![icon-iconoclasm](/images/icon-iconoclasm.jpg)
 
 
-While the accusation was usually *idolatry*, an icococlasm was the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
+While the accusation is usually *idolatry*, an icococlasm is the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
 Much 
  blood 
  and 
@@ -34,7 +34,7 @@ Images were never benign as we think in our modern age.
 Religious icons were either extremely sacred or extremely sacrilegious.
 The existence of iconoclast movements is itself testament to the spiritual power of images in the [ancient view](index.md).
 
-That said, were the iconoclasts right to destroy icons? Or were the iconoclasts demonically deceived? What is the truth of religious icons?
+That said, were the iconoclasts right to destroy icons? Were the reformers right to build bland churches? Or were the iconoclasts demonically deceived? What is the truth of religious icons?
 
 
 
