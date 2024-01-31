@@ -11,8 +11,6 @@ Iconoclast movements have been an ongoing pattern *within* Christianity, such as
 
     ----
 
-    A typical Christian church today:
-    
     ![icon-iconoclasm](/images/icon-iconoclasm.jpg)
 
 
