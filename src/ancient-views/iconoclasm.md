@@ -448,14 +448,14 @@ Christ has a human and divine will, being both God and man -- and it is from Mar
 ...
 
 
+![icon-paul-peter](/images/icon-paul-peter.jpg)
 
 
 
+![icon-good-thief](/images/icon-good-thief.jpg)
 
 
-
-
-
+![icon-good-samaritan](/images/icon-samaritan.jpg)
 
 
 
