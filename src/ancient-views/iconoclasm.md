@@ -439,17 +439,19 @@ Let's examine some of the iconoclastic reactions to icons of Mary:
     
     The reformers were reacting to the many abuses and innovations from Rome, and thus rejected what they saw as "Mary worship", but interestingly they kept the Augustinian view that leads to immaculate conception (original sin as inherited guilt).
     
-    Iconoclastic views become a way for the reformers to avoid the "immaculate conception" of Mary but still keep to Augustinian presupositions, effectively by just ignoring Mary, icons and all.
+    Iconoclasm become a way for the reformers to avoid the "immaculate conception" of Mary but still keep to Augustinian presupositions, effectively by just ignoring Mary, icons and all.
 
 ???+ example "Reaction to Intercessions"
      Venerating Mary involves intercession, i.e., Mary prays for you.
      Most protestants will reject this and ask, "why not pray directly to Christ?"
      
-     Obviously one should pray to Christ, but we should also pray for others (what are known as intercessory prayers) and ask others to pray for us. The reasons for intercessory prayer are many, and the protestant view seems to be that only people living in the world can do intercessory prayer, and that there's no living spirits other than Christ (which is a nihilistic view).
+     Obviously one should pray to Christ, but we should also pray for others (what are known as intercessory prayers) and ask others to pray for us. The reasons for intercessory prayes are many, and the protestant belief seems to be that only people living in the world can do intercessory prayers, and otherwise there's no living spirits who can intercede (which is a nihilistic view).
 
 Ultimately, Christ has a human and divine will, being both God and man -- and it is from Mary that Christ gets His humanity.
-The Orthodox view is that Mary is alive with her Som and is very much able to hear and respond to prayer requests.
-Intercessions from Mary are a way to connect directly to the human side of Christ.
+The Orthodox view is that Mary is alive with her Son and is very much able to hear and respond to prayer requests.
+Intercessions from Mary are a way to connect directly to Christ's humanity.
+
+Regardless, we should show honor and respect to icons of the Theotokos because she is the human mother of Christ. We ought never destroy or suppress such images.
 
 
 
@@ -465,14 +467,26 @@ Intercessions from Mary are a way to connect directly to the human side of Chris
 
 ## Icons of Saints
 
-...
+Similar to the icons of Mary, venerating saints often involves intercessory prayers from those saints.
+The orthodox view is that the saints and the angels are praying for you, and by venerating a given saint you are participating in the spirit of that saint, opening yourself to them, which could be as simple as gaining inspiration from their life story, from their deep humility in their worship of Christ.
+
+Here are a few informative examples of icons of saints:
+
+!!! example "Sts. Paul and Peter"
+    ![icon-paul-peter](/images/icon-paul-peter.jpg)
+
+    We see in this icon the spread of Christianity, the spread of Christ's church through the missions of Sts. Paul and Peter, reaching to the Gentiles and to the Jews alike. It is a mission that continues very much to this day.
 
 
-![icon-paul-peter](/images/icon-paul-peter.jpg)
+!!! example "The Good Thief in Paradise"
+    ![icon-good-thief](/images/icon-good-thief.jpg)
 
-
-
-![icon-good-thief](/images/icon-good-thief.jpg)
+    One of my favorite icons is the traditional depiction of the good (or penitent) thief who was crucified alongside Christ.
+    He is traditionally depicted as carrying his cross everywhere he goes, and as such stands out in any of the icons where he appears.
+    
+    Very little is known of this man, other than the what is written in [Luke 23:39-43](https://www.biblegateway.com/passage/?search=luke%2023:39-43&version=KJV), including the merciful words from Christ, *Verily I say unto thee, Today shalt thou be with me in paradise*.
+    
+    Importantly, the good thief repented and turned to Christ, recognizing Jesus as the Messiah, but also the thief rebuked a sinner (the other criminal who hurled insults at Christ). In doing so the good thief confessed his sins, stating that his punishment is just. And most importantly, he experienced a baptismal death (the old man died and the new man was born into Christ).
 
 
 ![icon-good-samaritan](/images/icon-good-samaritan.jpeg)
