@@ -132,14 +132,14 @@ The life of Christ is a clear testament to why we cannot worship "molten gods" o
 
 Literally, *image*: an icon is any kind of image.
 Importantly, images in the ancient world were not benign nor mundane like they are today. Images were and are powerful. Images were deeply sacred, or as in the case of idols, deeply sacrilegious and heretical. 
-The concept of an image was in fact so important that our very creation was in the "image of God".
+The concept of an image is in fact so important that our very creation was in the "image and likeness of God".
 
 !!! info "Image and Likeness"
     *Icon* is from the Greek εἰκὼν (eikōn), literally "image".
     The Hebrew is **tselem** (צלם) as in "in the image of God".
     And relatedly **demut** (דמות) as in "likeness of God".
 
-We often refer to icons as a specific religious image, but it is a general term (sacred or profane or otherwise).
+We often refer to icons as specific religious images, but it is a general term (sacred or profane or otherwise).
 If an icon becomes an object of worship, such as a pagan idol (graven image), then this is idolatry.
 And because imaging is so fundamental to our being, image-based idolatry is so dangerous.
 
@@ -148,7 +148,7 @@ In terms of sacred icons, here is perhaps the most important and sacred use of a
 !!! quote "Genesis 1:26"
     And God said, Let us make man in our image (**tselem**), after our likeness (**demut**): and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 
-Images are not just important but they are the most important power at our disposal (because we are in the image of God).
+Images are not just important but they are the most important power at our disposal (because we are made in the image of God).
 And contrary to the sacrilegious golden calf that Moses destroyed, images were used in the most sacred places, such as the icons of gold cherubims protecting the ark of the covenant:
 
 !!! quote "Exodus 25:18-21"
@@ -172,7 +172,7 @@ And when the second temple was built, it was adorned with icons big and small:
     And he set the cherubims within the inner house: and they stretched forth the wings of the cherubims, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the midst of the house. 
     And he overlaid the cherubims with gold.
 
-Note that cherubim were the highest of the heavenly hosts, and the most sacred created thing in heaven one could make into an icon (but never as idol, never to worship).
+Note that cherubim were the highest of the heavenly hosts, and the most sacred created being in heaven one could make into an icon (but never as idol, never to worship).
 Even the prophecied temple in Ezekiel's vision contained cherub icons:
 
 !!! quote "Ezekiel 41:18-19"
@@ -181,7 +181,7 @@ Even the prophecied temple in Ezekiel's vision contained cherub icons:
 
 It is clear that icons were sometimes idolatrous -- like the golden calf -- or sometimes sacred -- like the golden cherubims.
 Importantly, icons were never mundane.
-Any icon -- including your fellow human beings -- should never be worshipped, but can be honored and respected (venerated).
+Any icon, including your fellow human beings, should never be worshipped, but can be honored and respected (venerated).
 
 
 
@@ -209,9 +209,9 @@ Any icon -- including your fellow human beings -- should never be worshipped, bu
 ## Icons are not Idols 
 
 It is clear from scripture that icons are not idols (although some idols are of course images), and further, [veneration](http://orthodoxinfo.com/general/icon_faq.aspx) is not the same as worship. 
-We are to worship only God, and venerate all things that point us to God (from scriptures to icons).
+We are to worship only God, and will inevitably venerate all things that point us to God (from scriptures to icons).
 
-Importantly, most idols today are not physical images -- for example, modern people oftem worship money or their career, that is, they put their career above God (this is clearly idolatry, but not related to an icon). Icons and Idols are two very different categories, and while there exists an intersection (graven images), we should never confuse idols and icons.
+Importantly, most idols today are not physical images -- for example, modern people oftem worship money or career, that is, they put their career above God (this is clearly idolatry, but not related to an icon). Icons and Idols are two very different categories, and while there exists an intersection (graven images), we should never confuse idols and icons.
 
 Remember, we are created in the image and likeness of God.
 We ourselves are icons of God.
@@ -222,10 +222,12 @@ This categorical distinction of idols and icons is not only obvious but it is al
 We cannot rid ourselves of iconographic symbolism and still worship a transcendent God (we are ourselves icons of that transcendent God). Any attempt to glorify God necessitates symbolism (in image or action or word).
 Iconographic symbolism *will happen* no matter how much we suppress or destroy sacred images.
 
-Destroying images does not remove all images. The result is never "no image". The result is *ugly*, *bland*, *industrial* inages. There will always be an image as long as there's a church where we are trying to worship God. The risk of idolatry in iconoclasm is the same if not greater because they've replaced images of Christ with images of bland ugliness.
+Destroying images does not remove all images. The result is never "no image". The result is *ugly*, *bland*, *industrial* inages. There will always be an image as long as there's a church where we are trying to worship God. The risk of idolatry after iconoclasm is the same if not greater because they've replaced images of Christ with images of bland ugliness.
 
-A bland spartan church is as idolatrous as a golden calf, because in both it is not aimed at Christ, and there is clearly a higher principle being worshipped (rather than God). Destroying sacred images does not clear a path to God. The Tabernacle was adorned with golden cherubims for a reason.
-And there was a reason Moses ground up the golden calf into powder, sprinkled it into water, and forced the idolatrous Israelites to drink (water symbolizes precosmogonic chaos). Moses attacked the idol itself, not the very concept of images (which were still necessary in the Tabernacle).
+A bland spartan church is as idolatrous as a golden calf, because in both it is not aimed at Christ, and there is clearly a higher principle being worshipped (above God). 
+
+Destroying sacred images does not clear a path to God. The Tabernacle was adorned with golden cherubims for a reason.
+And there was a reason Moses ground up the golden calf into powder, sprinkled it into water, and forced the idolatrous Israelites to drink (water here symbolizes precosmogonic chaos). Moses attacked the idol itself, not the very concept of images (which were obviously necessary in the Tabernacle).
 
 Just like "*nothing* is not a reference point", *nothing* is not an image that clears a path for communion with God. Destroying images results in images of bland brokenness and not nothingness. And if the goal is truly nothingness, then it is *nihilism* and not Christ that iconoclasts are worshipping.
 
@@ -247,7 +249,7 @@ To explain this in metaphysical language: the finite cannot touch the infinite, 
 
 What we worship inevitably determines what we venerate.
 We cannot force ourselves to respect something.
-We do not, and can not, choose what we venerate, but only how we venerate.
+We do not, and can not, choose what we venerate, but only how we worship.
 
 Our God-given free will grants us a choice of what to worship, and then separately *how to worship*.
 If you do not worship God then you will feel no need to honor or respect icons of Christ, including the person of Christ.
@@ -269,7 +271,7 @@ And then from worship of God:
 If we do not feel any respect or honor to the saints, nor to the Theotokos, nor to the scriptures, then it is probably not God that we worship.
 We all worship, and our actions and words will reveal what it is we are really worshipping.
 
-Worshipping physical icons would of course be wrong (and somewhat absurd in our modern age). It would be idolatry and should be condemned as heretical.
+Worshipping physical icons would of course be wrong (and somewhat absurd in our modern age). It would clearly be idolatry and should be condemned as heretical.
 Likewise, conflating icons with idol worship should also be condemned.
 Iconoclasts should be condemned as heretical.
 
@@ -328,10 +330,11 @@ It is difficult in our
  [modern view](../modern-view/index.md)
  to understand the importance of religious icons.
 Today, we are saturated with images which we pretend have lost all sacred value, and as a result we barely understand the ancient iconoclasts let alone the anathema because we're surrounded in our modern world by seemingly mundane and profane images.
+
 If we look at today's overabundance of images, profane images such as pornography, or mundane political memes, and then examine how those images influence and shape our behavior, then it is clear that these images are as powerful and as sacred as images ever were in the ancient world, and that idolatry is as present as ever.
 The reformation iconoclasts have clearly not saved our modern world from image-based idolatry, quite the contrary.
 
-Today, while most iconoclastic protestants would never adorn their church with holy icons, they do not question a nativity scene in their own front yard during Christmas (good for them).
+Today, while most iconoclastic protestants would never adorn their church with holy icons, they do not question a nativity scene in their own front yard during Christmas (good for them and may God bless them).
 Again, icons are inevitable.
 Should iconoclasts destroy nativity scenes?
 
@@ -361,7 +364,7 @@ Venerating icons is the same as venerating scripture. That is, we ought to treat
 ## Icons of Christ 
 
 The most interesting and most sacred icon is the person of Christ Jesus, that through Him we may look upon the face of the Father.
-This means -- necessarily -- that images of Christ the man allow us to see the face (the image and likeness) of God the Father.
+This means -- necessarily -- that images of Christ allow us to see the image of God the Father. And through the life of Christ do we see the image and likeness of God.
 
 
 !!! quote "John 14:9"
@@ -380,7 +383,7 @@ The icon that is Christ Jesus reveals that we are (even in our fallen state) in 
 !!! quote "Hebrews 1:3"
     Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high
 
-And to dispel any iconoclast confusion, the word *icon* is used throughout scripture (typically translated as *image*) when referring to Christ.
+To dispel any iconoclast confusion, the word *icon* is used throughout scripture (typically translated as *image*) when referring to Christ.
 
 !!! quote "Colossians 1:15"
     ὅς ἐστιν **εἰκὼν** τοῦ Θεοῦ τοῦ ἀοράτου, πρωτότοκος πάσης κτίσεως,
@@ -399,11 +402,11 @@ The person of Christ is literally the icon of God. And through Christ, through a
 
 To be clear, just as Moses beheld God in the Tabernacle, where God condescended down into creation (into the holy of holies, surrounded by venerated golden cherubims and other sacred icons), so too do we behold God in the image of Christ Jesus.
 This is a radical cosmological shift, renewing us through Christ, such that through Christ we are no longer under the dominion of principalities and powers, no longer corrupted by sin, no longer bound by death.
-And this is what we see when venerating icons of Christ.
+And this is what we experience when venerating icons of Christ.
 
 But again, we each freely choose what to worship. 
 If in your heart you feel no respect when looking at icons of Christ, then perhaps it is not Christ that you worship.
-Perhaps it is not the face of God you are seeking.
+Perhaps it is not the face of God you are seeking (but ought to be seeking, as He is the spirit of truth).
 
 
 !!! quote "2 Corinthians 4:16-18"
@@ -430,7 +433,7 @@ Perhaps it is not the face of God you are seeking.
 ## Icons of Mary
 
 Icons of Mary are extremely popular (second only to Christ) yet are sometimes the source of controversy and misunderstanding between well-meaning Christians.
-Even today, accusations of "Mary worship" resound from protestants. 
+Even today, accusations of "Mary worship" resound from protestants (iconoclasts and otherwise).
 
 If anyone is deserving of honor (veneration), it is the mother of Christ, the Theotokos.
 
@@ -499,7 +502,9 @@ Here are a few informative examples of icons of saints:
 ???+ example "Parable of the Good Samaritan"
     ![icon-good-samaritan](/images/icon-good-samaritan.jpeg)
 
-    In this icon we have the parable of the good Samaritan. The parable itself is depicted, not naned saint, although in Christ's telling of this parable he seemed to be referring to an actual event (of a man traveling from Jerusalem to Jericho).
+    In this icon we have the parable of the good Samaritan. The parable itself is depicted, not a naned saint, although in Christ's telling of this parable he seemed to be referring to an actual event (of a man traveling from Jerusalem to Jericho).
+
+    Venerating this icon is to venerate the very words of Christ, as well as venerating the good Samaritan and appealing to the spirit of the good Samaritan for help and intercession.
 
 
 
