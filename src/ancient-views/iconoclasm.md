@@ -17,9 +17,9 @@ Iconoclastic influences have persisted through the ages and have resulted in bla
 
 While the accusation is usually *idolatry*, an icococlasm is the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
 Much 
- blood 
+[blood](https://www.thecollector.com/what-was-iconoclasm-in-byzantium/) 
  and 
- ink 
+ [ink](https://orthodoxbridge.com/2011/07/12/is-there-a-biblical-basis-for-icons/) 
  have been spilled through the ages on the topic of icons.
 The iconoclasts themselves believed they were adhering to the second commandment, reacting as Moses did to the golden calf.
 
@@ -208,7 +208,7 @@ Any icon -- including your fellow human beings -- should never be worshipped, bu
 
 ## Icons are not Idols 
 
-It is clear from scripture that icons are not idols (although some idols are of course icons), and further, veneration is not the same as worship. 
+It is clear from scripture that icons are not idols (although some idols are of course icons), and further, [veneration](http://orthodoxinfo.com/general/icon_faq.aspx) is not the same as worship. 
 We are to worship only God, and venerate all things that point us to God (from scriptures to icons).
 
 Importantly, most idols are not physical images -- for example, modern people oftem worship money or their career, that is, they put their career above God (this is clearly idolatry, but not related to an icon). Icons and Idols are two very different categories, and while there exists an intersection (graven images), we should never confuse idols and icons.
@@ -240,7 +240,6 @@ To explain this in metaphysical language: the finite cannot touch the infinite, 
 What we worship inevitably determines what we venerate.
 We cannot force ourselves to respect something.
 We do not, and can not, choose what we venerate, but only how we venerate.
-In other words, we can choose how we express our respect for something we worship.
 
 Our God-given free will grants us a choice of what to worship, and then separately *how to worship*.
 If you do not worship God then you will feel no need to honor or respect icons of Christ, including the person of Christ.
@@ -250,7 +249,7 @@ Let's examine this carefully, first from idolatry:
 
 * If we worship money (mammon) then we will venerate sources and symbols of wealth.
 * If we worship ourselves then we will venerate images of ourselves (as is so common on social media today).
-* If we worship nothing, we will venerate symbols of nothingness, such as postmodern philosophy, moral relativism, fashion trends, and absurdism.
+* If we worship nothing, we will venerate symbols of nothingness, such as postmodern philosophy, moral relativism, fashion trends, and absurdism such as celebrity gossip.
 * If we worship our career, we will venerate symbols of our career, such as business cards, job titles and so forth.
 
 And then from worship of God:
@@ -259,11 +258,15 @@ And then from worship of God:
 * If we worship Christ, then we will venerate His mother who birthed the God-man, the spirit of truth, the word made flesh.
 * If we worship the one true God, then we will venerate all the symbols of the one true God, such as scripture, hymns, and icons.
 
-If we do not feel any respect or honor to the saints, or to the Theotokos, or to the scriptures, then it is not God that we worship.
+If we do not feel any respect or honor to the saints, or to the Theotokos, or to the scriptures, then it is probably not God that we worship.
 We all worship, and our actions and words will reveal what it is we are really worshipping.
 
+Worshipping icons would of course be wrong. It would be idolatry and should be condemned as heretical.
+Likewise, conflating icons with idol worship should also be condemned.
+Iconoclasts should be condemned as heretical.
 
-
+Imagine someone burning Bibles because they thought people were worshipping Bibles instead of God.
+If you can understand that you're not worshipping a Bible while venerating the words of the gospel, then you can understand that icon veneration is not idol worship.
 
 
 
@@ -276,9 +279,10 @@ We all worship, and our actions and words will reveal what it is we are really w
 
 ## Anathema!
 
-While iconoclasts suppress and destroy what they see as idols, let us not grant piety nor tolerance to the destruction of sacred images, which are clearly not idols.
+While iconoclasts suppress and destroy what they believe are idols, let us not grant piety nor tolerance to the destruction of sacred images, which are clearly not idols.
 In fact, the 
- [seventh ecumenical council](http://andronicus-athanasia.org/synodikon_seventh__ecumenical_council.html)
+ [seventh ecumenical council](https://orthodoxwiki.org/Seventh_Ecumenical_Council) 
+ ([full text](http://andronicus-athanasia.org/synodikon_seventh__ecumenical_council.html))
  did not mince words in the pronouncement of [anathema](http://orthodoxinfo.com/ecumenism/anathema.aspx) onto the iconoclasts.
 
 ???+ danger "from the Seventh Ecumenical Synodikon"
@@ -306,8 +310,9 @@ In fact, the
     
     To those who dare to say that at any time the Catholic Church received idols Anathema!
 
-In the orthodox church (the one holy catholic and apostolic church), [anathema](https://www.orthodoxpath.org/catechisms-and-articles/what-is-an-anathema/) is the most severe condemnation possible. Whereas *excommunication* meant you are still a member but would be denied participation in the eucharist until you repented, *anathema* was a complete separation from the church until you repented, such as for schisms and severe heresies.
-In other words, iconoclasts were expelled from the church, the body of Christ, unless and until they repented.
+In the orthodox church (the one holy catholic and apostolic church), [anathema](https://www.orthodoxpath.org/catechisms-and-articles/what-is-an-anathema/) is the most severe condemnation possible. Whereas *excommunication* means you are still a member but will be denied participation in the eucharist until you repent, *anathema* is a complete separation from the church until you repent.
+In other words, iconoclasts w
+have been expelled from the church, the body of Christ, unless and until they repent.
 
 Ultimately, iconoclasts impede us from expressing our worship of God (worship of truth) -- effectively removing the primary means (imaging) of expressing our worship, confining how we worship -- making us vulnerable to image-based idolatry (such as pornography).
 The bad fruits of iconoclastic churches demonstrate exactly this: they are not just ugly, but are likely to produce a lukewarm faith, where God becomes a lesser concern in people's daily life (such as giving God only an hour on Sunday).
@@ -326,12 +331,6 @@ Should protestants destroy nativity scenes?
 We ought never condone the destruction of images. It is reprehensible behavior.
 Venerating icons is the same as venerating scripture. That is, we ought to treat scripture as divinely revealed truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
 
-Worshipping icons would of course be wrong. It would be idolatry and should be condemned as heretical.
-Likewise, conflating icons with idol worship should also be condemned.
-Iconoclasms should be condemned as heretical.
-
-Imagine someone burning Bibles because they thought people were worshipping Bibles instead of God.
-If you can understand that you're not worshipping a Bible while venerating the words of the gospel, then you can understand that icon veneration is not idol worship.
 
 
 
@@ -355,7 +354,7 @@ If you can understand that you're not worshipping a Bible while venerating the w
 ## Icons of Christ 
 
 The most interesting example of an icon is the person of Christ Jesus, that through Him we may look upon the face of the Father.
-This means -- necessarily -- that images of Christ the man allow us to see the face (the image and likeness) of the Father.
+This means -- necessarily -- that images of Christ the man allow us to see the face (the image and likeness) of God the Father.
 
 
 !!! quote "John 14:9"
@@ -404,15 +403,6 @@ This is a radical cosmological shift..
 
 
 
-https://orthodoxwiki.org/Seventh_Ecumenical_Council
-
-
-
-http://orthodoxinfo.com/general/icon_faq.aspx
-
-
-
-https://orthodoxbridge.com/2011/07/12/is-there-a-biblical-basis-for-icons/
 
 
 
