@@ -13,7 +13,7 @@ Iconoclast movements have been an ongoing pattern *within* Christianity, such as
 
     A typical Christian church today:
     
-    ![icon-iconoclasm](/images/icon-icococlasm.jpg)
+    ![icon-iconoclasm](/images/icon-iconoclasm.jpg)
 
 
 While the accusation was usually *idolatry*, an icococlasm was the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
