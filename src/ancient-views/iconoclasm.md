@@ -355,8 +355,8 @@ This means -- necessarily -- that images of Christ the man allow us to see the f
 
 !!! quote "John 14:9"
     Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?
-
-![icon-christ](/images/icon-christ.jpg)
+    
+    ![icon-christ](/images/icon-christ.jpg)
 
 !!! quote "1 John 1:1-2"
     That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; 
@@ -429,8 +429,8 @@ If anyone is deserving of honor (veneration), it is the mother of Christ, the Th
 
 !!! quote "Luke 1:28"
     And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women.
-
-![icon-mary](/images/icon-mary.jpg)
+    
+    ![icon-mary](/images/icon-mary.jpg)
 
 Let's examine some of the iconoclastic reactions to icons of Mary:
 
