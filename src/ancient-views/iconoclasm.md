@@ -6,6 +6,14 @@ Iconoclast movements have been an ongoing pattern *within* Christianity, such as
  or more recently during the
 [Reformation](https://folgerpedia.folger.edu/Idolatry:_Icons_and_Iconoclasm). The influences of iconoclasms have persisted through the ages and have resulted in bland protestant churches standing in sharp contrast to the iconographic beauty of orthodox churches.
 
+!!! example "Consequences of Iconoclasm"
+    ...
+    
+    ![icon-veneration](/images/icon-veneration.jpg)
+
+    ![icon-iconoclasm](/images/icon-icococlasm.jpg)
+
+
 While the accusation was usually *idolatry*, an icococlasm was the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
 Much 
  blood 
@@ -455,7 +463,7 @@ Christ has a human and divine will, being both God and man -- and it is from Mar
 ![icon-good-thief](/images/icon-good-thief.jpg)
 
 
-![icon-good-samaritan](/images/icon-samaritan.jpg)
+![icon-good-samaritan](/images/icon-samaritan.jpeg)
 
 
 
