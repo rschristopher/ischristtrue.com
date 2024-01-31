@@ -276,35 +276,12 @@ We all worship, and our actions and words will reveal what it is we are really w
 
 ## Anathema!
 
-Ultimately, an iconoclasm impedes us from expressing our worship of God (worship of truth) -- effectively removing the primary means (imaging) to express our worship, confining how we worship -- making us vulnerable to image-based idolatry (such as pornography).
-The bad fruits of iconoclastic churches demonstrate exactly this: they are more likely to produce a lukewarm faith, where God becomes a lesser concern in people's daily life (giving God only an hour on Sunday).
-
-It is difficult in our
- [modern view](../modern-view/index.md)
- to understand the importance of religious icons.
-Today, we are saturated with images which we pretend have lost all sacred value, and as a result we barely understand the ancient iconoclasts because we're surrounded in our modern world by seemingly mundane and profane images.
-If we look at today's overabundance of images, profane images such as pornography, or mundane political memes, and then examine how those images influence and shape our behavior, then it is clear that these images are as powerful and as sacred as they ever were in the ancient world, and that idolatry is as present as ever.
-The reformation iconoclasts have not saved our modern world from image-based idolatry, quite the contrary.
-
-Today, while most iconoclastic protestants would never adorn their church with holy icons, they do not question a nativity scene in their own front yard during Christmas.
-Should we destroy nativity scenes?
-
-We ought never condone the destruction of images. It is reprehensible behavior.
-Venerating icons is like venerating the words of scripture. That is, treat scripture as the divine source of truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
-
-Worshipping icons would be wrong, and should be condemned as heretical.
-Likewise, conflating icons with idol worship should similarly be condemned.
-Iconoclasms should be condemned.
-
-Imagine burning Bibles because someone thought people were worshipping Bibles and not God.
-If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
-
-While the iconoclasts destroy what they see as graven images, idols -- let us not grant piety to destruction of what are clearly not idols and in many cases are sacred.
+While iconoclasts suppress and destroy what they see as idols -- let us not grant piety nor tolerance to the destruction of what are clearly not idols but are actually sacred images.
 In fact, the 
  [seventh ecumenical council](http://andronicus-athanasia.org/synodikon_seventh__ecumenical_council.html)
- did not mince words in the pronouncement of anathemas to the iconoclasts.
+ did not mince words in the pronouncement of anathema to the iconoclasts.
 
-???+ danger "Anathemas from the Seventh Ecumenical Synodikon"
+???+ danger "from the Seventh Ecumenical Synodikon"
     Believing in one God, celebrated in Trinity, we salute the honorable images!
     Those who do not so hold: Let them be anathema!
     
@@ -328,6 +305,33 @@ In fact, the
     To those who say that any other delivered us from idols except Christ our God: Anathema!
     
     To those who dare to say that at any time the Catholic Church received idols Anathema!
+
+In the orthodox church (the one holy catholic and apostolic church), *anathema* is the most severe condemnation possible. It is reserved for schisms and heresies, a recognition that those with anathema are not members of the body of Christ, that they are separated from Christ and are left to the dominion of the adversary.
+
+Ultimately, an iconoclasm impedes us from expressing our worship of God (worship of truth) -- effectively removing the primary means (imaging) to express our worship, confining how we worship -- making us vulnerable to image-based idolatry (such as pornography).
+The bad fruits of iconoclastic churches demonstrate exactly this: they are not just ugly, but are more likely to produce a lukewarm faith, where God becomes a lesser concern in people's daily life (such as giving God only an hour on Sunday).
+
+It is difficult in our
+ [modern view](../modern-view/index.md)
+ to understand the importance of religious icons.
+Today, we are saturated with images which we pretend have lost all sacred value, and as a result we barely understand the ancient iconoclasts let alone the anathema because we're surrounded in our modern world by seemingly mundane and profane images.
+If we look at today's overabundance of images, profane images such as pornography, or mundane political memes, and then examine how those images influence and shape our behavior, then it is clear that these images are as powerful and as sacred as they ever were in the ancient world, and that idolatry is as present as ever.
+The reformation iconoclasts have clearly not saved our modern world from image-based idolatry, quite the contrary.
+
+Today, while most iconoclastic protestants would never adorn their church with holy icons, they do not question a nativity scene in their own front yard during Christmas.
+Again, icons are inevitable.
+Should protestants destroy nativity scenes?
+
+We ought never condone the destruction of images. It is reprehensible behavior.
+Venerating icons is like venerating scripture. That is, we ought to treat scripture as divinely revealed truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
+
+Worshipping icons would of course be wrong. It would be idolatry and should be condemned as heretical.
+Likewise, conflating icons with idol worship should also be condemned.
+Iconoclasms should be condemned as heretical.
+
+Imagine someone burning Bibles because they thought people were worshipping Bibles instead of God.
+If you can understand that you're not worshipping a Bible then you can understand that icon veneration is not idol worship.
+
 
 
 
