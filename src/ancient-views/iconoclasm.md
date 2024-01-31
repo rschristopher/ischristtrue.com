@@ -421,21 +421,27 @@ https://orthodoxbridge.com/2011/07/12/is-there-a-biblical-basis-for-icons/
 
 ## Icons of Mary
 
-Icons of Mary are extremely popular yet controversial.
-Even today, the calls of "Mary worship" resound from reformation iconoclasts. This is odd because if anyone is deserving of honor (veneration), it is the mother of Christ, the Theotokos.
+Icons of Mary are extremely popular yet are unfortunately the source of controversy and misunderstanding between Christian.
+Even today, accusations of "Mary worship" resound from protestant iconoclasts. This is odd because if anyone is deserving of honor (veneration), it is the mother of Christ, the Theotokos.
+
+![icon-mary](/images/icon-mary.jpg)
 
 !!! quote "Luke 1:28"
     And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women.
 
-![icon-mary](/images/icon-mary.jpg)
+There are many reasons icons of Mary are controversial amongst protestants. Let's examine some of those reasons.
 
-There are many reasons icons of Mary are so controversial amongst protestants. The first is because Roman Catholicism (papal protestantism) insists that Mary was born without original sin (the immaculate conception). This is due to a false and non-orthodox understanding of sin, a logical consequence to the Augustinian error of original sin as inherited guilt.
-The reformers were reacting to the many abuses and innovations in Rome, and they rejected what they saw aa "Mary worship", but interestingly they kept the Augustinian understanding of original sin as inherited guilt.
-Iconoclasm becomes a way for the reformers to avoid the "immaculate conception" issue by just ignoring Mary and all icons.
+???+ example "Reaction to Immaculate Conception"
+    Roman Catholicism (papal protestantism) insists that Mary was born without original sin (the immaculate conception). This is due to a false and non-orthodox understanding of sin, a logical consequence to the Augustinian error of original sin as inherited guilt.
+    
+    The reformers were reacting to the many abuses and innovations in Rome, and they rejected what they saw aa "Mary worship", but interestingly they kept the Augustinian understanding of original sin as inherited guilt.
 
-The second reason is that Mary is not Christ, and venerating Mary or any of the saints involves intercession, e.g., that Mary prays for you.
+Iconoclastic views become a way for the reformers to avoid the "immaculate conception" issue of Mary by just ignoring the Theotokos and all icons.
+
+???+ example "Reaction to Intercessions"
+     Venerating Mary involves intercession, i.e., Mary prays for you.
 Most protestants will reject this and ask, "why not pray directly to Christ?"
-Obviously one should pray to Christ, but we should also pray for others (intercessory prayer) and ask them to pray for us.
+Obviously one should pray to Christ, but we should also pray for others (intercessory prayers) and ask them to pray for us.
 
 Christ has a human and divine will, being both God and man -- and it is from Mary that He gets his humanity.
 
