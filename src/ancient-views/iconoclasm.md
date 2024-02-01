@@ -372,7 +372,7 @@ This means -- necessarily -- that images of Christ allow us to see the image of 
     
     ![icon-christ](/images/icon-christ.jpg)
 
-The life of Christ, as He is both human and divine, allows us to know what is otherwise ineffable and transcendent. God ceases being an untouchable transcendent category and is revealed to us not just as a man but as relationships such that the *will* is a person (the Father), the *word* is a person (the Son), and the *love* of will to word (Father to Son) is a person.
+The life of Christ, as He is both human and divine, allows us to know what is otherwise ineffable and transcendent. God ceases being an untouchable transcendent category and is revealed to us not just as a man but as relationships such that the *will* is a person (the Father), the *word* is a person (the Son), and the *love* from will to word (Father to Son) is a person.
 
 !!! quote "1 John 1:1-2"
     That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life; 
