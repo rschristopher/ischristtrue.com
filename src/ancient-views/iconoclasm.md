@@ -179,9 +179,9 @@ Even the prophecied temple in Ezekiel's vision contained cherub icons:
     And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces; 
     So that the face of a man was toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side: it was made through all the house round about.
 
-It is clear that icons were sometimes idolatrous -- like the golden calf -- or sometimes sacred -- like the golden cherubims.
+It is clear that icons were sometimes idolatrous, like the golden calf -- and sometimes sacred, like the golden cherubims.
 Importantly, icons were never mundane.
-Any icon, including your fellow human beings, should never be worshipped, but can be honored and respected (venerated).
+Any icon, including your fellow human beings, should never be worshipped, but they can be honored and respected (venerated).
 
 
 
