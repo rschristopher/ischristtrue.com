@@ -111,7 +111,7 @@ We are to worship the one true God, whose word became flesh, the only begotten S
 
 Christ is the image and also the sacrifice -- no molten idol can contain the Son of God -- but man was made in the image and likeness of God, thus the living God became a living icon (a man without sin), who is the sacrifice for our salvation.
 
-The life of Christ is a clear testament to why we cannot worship "molten gods" or "graven images", for we are created in the image and likeness of the one true God and cannot worship anything that is beneath us, and as Christ ascended as a man into heaven, so we have only Christ Jesus to worship -- there is nothing higher for us to worship than God.
+The life of Christ is a clear testament to why we cannot worship "molten gods" or "graven images", for we are created in the image and likeness of the one true God and cannot worship anything that is beneath us, and as Christ ascended as a man into heaven, so we have only Christ Jesus to worship -- there is nothing higher for us to worship.
 
 
 
