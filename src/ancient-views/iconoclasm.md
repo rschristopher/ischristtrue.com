@@ -451,13 +451,16 @@ Let's examine some of the iconoclastic reactions to icons of Mary:
      Venerating Mary involves intercession, i.e., Mary prays for you.
      Most protestants will reject this and ask, "why not pray directly to Christ?"
      
-     Obviously one should pray to Christ, but we should also pray for others (what are known as intercessory prayers) and ask others to pray for us. The reasons for intercessory prayes are many, and the protestant belief seems to be that only people living in the world can do intercessory prayers, and otherwise there's no living spirits who can intercede (which is a nihilistic view).
+     Obviously one should pray to Christ, but we should also pray for others (what are known as intercessory prayers) and ask others to pray for us. The reasons for intercessory prayes are many, and the protestant belief seems to be that only people living in the world can do intercessory prayers, and otherwise there's no living spirits who can intercede (which is a nihilistic view and should be rejected on those terms alone).
 
 Ultimately, Christ has a human and divine will, being both God and man -- and it is from Mary that Christ gets His humanity.
 The Orthodox view is that Mary is alive with her Son and is very much able to hear and respond to prayer requests.
 Intercessions from Mary are a way to connect directly to Christ's humanity.
 
-Regardless, we should show honor and respect to icons of the Theotokos because she is the human mother of Christ. We ought never destroy or suppress such images.
+As has been the tradition for two thousand years, we honor and respect icons of the Theotokos because she is the human mother of Christ. We ought never destroy or suppress such images.
+
+
+
 
 
 
