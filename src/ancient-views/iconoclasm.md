@@ -364,7 +364,7 @@ Venerating icons is the same as venerating scripture. That is, we ought to treat
 ## Icons of Christ 
 
 The most interesting and most sacred icon is the person of Christ Jesus, that through Him we may look upon the face of the Father.
-This means -- necessarily -- that images of Christ allow us to see the image of God the Father. And through the life of Christ do we see the image and likeness of God.
+This means -- necessarily -- that images of Christ allow us to see the image of God the Father. And through the life of Christ do we see the image *and* the likeness of God.
 
 
 !!! quote "John 14:9"
