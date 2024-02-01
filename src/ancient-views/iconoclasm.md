@@ -410,11 +410,6 @@ If in your heart you feel no respect when looking at icons of Christ, then perha
 Perhaps it is not the face of God you are seeking (but ought to be seeking, as He is the spirit of truth).
 
 
-!!! quote "2 Corinthians 4:16-18"
-    For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day. 
-    For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory; 
-    While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.
-
 
 
 
