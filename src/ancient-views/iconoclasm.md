@@ -31,7 +31,7 @@ Iconoclasts necessarily believed that images of Christ and images of Saints were
 While our [modern view](../modern-views/index.md) can make little sense of this, notice that all sides of this debate in the ancient world understood that images had great power.
 Humans are "imaging" beings, made to glorify God. We act out our worship and our behavior reflects the images around us.
 
-Images were never benign as we think in our modern age. 
+Images were never as benign as we think in our modern age. 
 Religious icons were either extremely sacred or extremely sacrilegious.
 The existence of iconoclast movements is itself testament to the spiritual power of images in the [ancient view](index.md).
 
