@@ -70,7 +70,7 @@ The Levitical laws further refined this command with reference to idols:
 !!! quote "Leviticus 19:4"
     Turn ye not unto idols, nor make to yourselves molten gods: I am the LORD your God.
 
-Importantly, idols are differentiated here from "molten gods", such that we see the beginning of a broad category known as idolatry -- which can be further refined in the New Testament;
+Importantly, idols are differentiated here from "molten gods", such that we see the beginning of a broad category known as idolatry -- which can be further refined in the New Testament:
 
 !!! quote "1 Corinthians 10:14-22"
     Wherefore, my dearly beloved, flee from idolatry. 
