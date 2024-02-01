@@ -222,7 +222,7 @@ This categorical distinction of idols and icons is not only obvious but it is al
 We cannot rid ourselves of iconographic symbolism and still worship a transcendent God (we are ourselves icons of that transcendent God). Any attempt to glorify God necessitates symbolism (in image or action or word).
 Iconographic symbolism *will happen* no matter how much we suppress or destroy sacred images.
 
-Destroying images does not remove all images. The result is never "no image". The result is *ugly*, *bland*, *industrial* inages. There will always be an image as long as there's a church where we are trying to worship God. The risk of idolatry after iconoclasm is the same if not greater because they've replaced images of Christ with images of bland ugliness.
+Destroying images does not remove all images. The result is never "no image". The result is *ugly*, *bland*, *industrial* images. There will always be an image as long as there's a church where we are trying to worship God. The risk of idolatry after iconoclasm is the same if not greater because they've replaced sacred images of Christ with mundane images of bland ugliness.
 
 A bland spartan church is as idolatrous as a golden calf, because in both it is not aimed at Christ, and there is clearly a higher principle being worshipped (above God). 
 
