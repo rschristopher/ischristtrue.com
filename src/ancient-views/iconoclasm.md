@@ -222,9 +222,9 @@ This categorical distinction of idols and icons is not only obvious but it is al
 We cannot rid ourselves of iconographic symbolism and still worship a transcendent God (we are ourselves icons of that transcendent God). Any attempt to glorify God necessitates symbolism (in image or action or word).
 Iconographic symbolism *will happen* no matter how much we suppress or destroy sacred images.
 
-Destroying images does not remove all images. The result is never "no image". The result is *ugly*, *bland*, *industrial* images. There will always be an image as long as there's a church where we are trying to worship God. The risk of idolatry after iconoclasm is the same if not greater because they've replaced sacred images of Christ with mundane images of bland ugliness.
+Destroying images does not remove man-made images. The result is never "no image". The result is *ugly*, *bland*, *industrial* images in what was supposed to be a sacred place (the church). The risk of idolatry from iconoclasts is the same if not greater because they've replaced intentionally sacred images of Christ with intentionally bland images.
 
-A bland spartan church is as idolatrous as a golden calf, because in both it is not aimed at Christ, and there is clearly a higher principle being worshipped (above God). 
+In many cases, a bland spartan church is as idolatrous as the golden calf, because in both it is not aimed at God, and there is clearly a higher principle being worshipped (above Christ). 
 
 Destroying sacred images does not clear a path to God. The Tabernacle was adorned with golden cherubims for a reason.
 And there was a reason Moses ground up the golden calf into powder, sprinkled it into water, and forced the idolatrous Israelites to drink (water here symbolizes precosmogonic chaos). Moses attacked the idol itself, not the very concept of images (which were obviously necessary in the Tabernacle).
