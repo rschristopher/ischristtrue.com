@@ -211,7 +211,7 @@ Any icon, including your fellow human beings, should never be worshipped, but th
 It is clear from scripture that icons are not idols (although some idols are of course images), and further, [veneration](http://orthodoxinfo.com/general/icon_faq.aspx) is not the same as worship. 
 We are to worship only God, and will inevitably venerate all things that point us to God (from scriptures to icons).
 
-Importantly, most idols today are not physical images -- for example, modern people oftem worship money or career, that is, they put their career above God (this is clearly idolatry, but not related to an icon). Icons and Idols are two very different categories, and while there exists an intersection (graven images), we should never confuse idols and icons.
+Importantly, most idols today are not physical images -- for example, modern people often worship money or career, that is, they put their career above God (this is clearly idolatry, but not related to an icon). Icons and Idols are two very different categories, and while there exists an intersection (graven images), we should never confuse idols and icons.
 
 Remember, we are created in the image and likeness of God.
 We ourselves are icons of God.
