@@ -445,7 +445,7 @@ Let's examine some of the iconoclastic reactions to icons of Mary:
     
     The reformers were reacting to the many abuses and innovations from Rome, and thus rejected what they saw as "Mary worship", but interestingly they kept the Augustinian view that leads to immaculate conception (original sin as inherited guilt).
     
-    Iconoclasm become a way for the reformers to avoid the "immaculate conception" of Mary but still keep to Augustinian presupositions, effectively by just ignoring Mary, icons and all.
+    Iconoclasm became a way for the reformers to avoid the "immaculate conception" of Mary but still keep to Augustinian presupositions, effectively by just ignoring Mary, icons and all.
 
 ???+ example "Reaction to Intercessions"
      Venerating Mary involves intercession, i.e., Mary prays for you.
