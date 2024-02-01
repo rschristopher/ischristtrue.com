@@ -257,16 +257,16 @@ And likewise if you worship God then you will feel no desire to respect idolatro
 
 Let's examine this carefully, first from idolatry:
 
-* If we worship money (mammon) then we will venerate sources and symbols of wealth.
-* If we worship ourselves then we will venerate images of ourselves (as is so common on social media today).
-* If we worship nothing, we will venerate symbols of nothingness, such as postmodern philosophy, moral relativism, fashion trends, and absurdism such as celebrity gossip.
-* If we worship our career, we will venerate symbols of our career, such as business cards, job titles and so forth.
+* If we worship money (mammon), then we will venerate symbols of wealth.
+* If we worship ourselves, then we will venerate images of ourselves (as is so common on social media today).
+* If we worship "nothing", then we will venerate symbols of nothingness: such as postmodern philosophy, moral relativism, fashion trends, and absurdism such as celebrity gossip.
+* If we worship our career, then we will venerate symbols of our career: such as business cards, job titles and so forth.
 
 And then from worship of God:
 
-* If we worship God, we will venerate the Saints that inspire in us a deeper sense of worship.
+* If we worship God, then we will venerate the Saints that inspire in us a deeper sense of worship.
 * If we worship Christ, then we will venerate His mother who birthed the God-man, the spirit of truth, the word made flesh.
-* If we worship the one true God, then we will venerate all the symbols of the one true God, such as scripture, hymns, and icons.
+* If we worship the one true God, then we will venerate all the symbols of the one true God: such as scripture, hymns, and icons.
 
 If we do not feel any respect or honor to the saints, nor to the Theotokos, nor to the scriptures, then it is probably not God that we worship.
 We all worship, and our actions and words will reveal what it is we are really worshipping.
