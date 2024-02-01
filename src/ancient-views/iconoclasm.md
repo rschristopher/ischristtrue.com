@@ -392,13 +392,13 @@ To dispel any iconoclast confusion, the word *icon* is used throughout scripture
 
 
 !!! quote "2 Corinthians 4:4"
-    In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the *image of God*, should shine unto them.
+    In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the **image of God**, should shine unto them.
 
-The person of Christ is literally the icon of God. And through Christ, through a baptismal death, are we renewed into the *image of Christ*.
+The person of Christ is literally the icon of God. And through Christ, through a baptismal death, are we renewed into the *image* of Christ.
 
 !!! quote "Colossians 3:9-10"
     Lie not one to another, seeing that ye have put off the old man with his deeds; 
-    And have put on the new man, which is renewed in knowledge after the image of him that created him
+    And have put on the new man, which is renewed in knowledge after the **image** of him that created him
 
 To be clear, just as Moses beheld God in the Tabernacle, where God condescended down into creation (into the holy of holies, surrounded by venerated golden cherubims and other sacred icons), so too do we behold God in the image of Christ Jesus.
 
