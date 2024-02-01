@@ -264,9 +264,9 @@ Let's examine this carefully, first from idolatry:
 
 And then from worship of God:
 
-* If we worship God, then we will venerate the Saints that inspire in us a deeper sense of worship.
-* If we worship Christ, then we will venerate His mother who birthed the God-man, the spirit of truth, the word made flesh.
-* If we worship the one true God, then we will venerate all the symbols of the one true God: such as scripture, hymns, and icons.
+* If we worship God, then we will venerate the saints that inspire in us a deeper sense of worship.
+* If we worship God, then we will venerate the mother of God, the Theotokos, who birthed Christ Jesus, who is the spirit of truth and the word made flesh.
+* If we worship God, then we will venerate all the symbols of the one true God: such as scripture, hymns, and icons.
 
 If we do not feel any respect or honor to the saints, nor to the Theotokos, nor to the scriptures, then it is probably not God that we worship.
 We all worship, and our actions and words will reveal what it is we are really worshipping.
