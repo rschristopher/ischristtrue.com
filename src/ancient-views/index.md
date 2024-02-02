@@ -1,5 +1,13 @@
 # Ancient Views
 
+<!--
+Lord Jesus Christ
+ Son of God
+ Have mercy on me, a sinner
+
+Lord, grant me wisdom and the articulation of truth
+-->
+
 Ancient Pagan views are the background for which we can best understood Christianity and how it succeeded against seemingly overwhelming opposition.
 
 animism, ancestor worship
