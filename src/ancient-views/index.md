@@ -12,15 +12,23 @@ Protect me from the evil one.
 Lord, grant me wisdom and the articulation of the truth that is Christ Jesus 
 -->
 
-All worldviews attempt to "make sense" of all other worldviews. 
-They are all (if they are honest) attempts at unifying observed behavior, patterns, and phenomena into a coherent model that "makes sense" of the world.
-A worldview contains all presuppositions necessary for which one thinks, plans, and acts in the world.
-Even sense-making itself must fit into a worldview.
+Ancient worldviews are what got us here, and our modern worldview is clearly destructive nihilism.
+If we are at all interested in human flourishing then we must necessarily rediscover the ancient worldviews that made civilization possible.
+...
 
-Worldviews are not optional.
+## What is a worldview?
+
+A worldview contains all presuppositions necessary for which one thinks, plans, and acts.
+All worldviews (if they are honest) attempt to "make sense" of all other worldviews. 
+In other words, worldviews are attempts at unifying observed behavior, patterns, and phenomena into a coherent model that "makes sense" of the perceived "world".
+
+Worldviews are not optional, but a necessary foundation for human consciousness.
 Everything we experience and think we understand is based on our current worldview.
 This includes moral judgments, purpose, meaning, and knowledge about ourselves and the universe we perceive.
 
+Worldviews are not thoughts. One does not reason themselves into a new worldview. Worldviews are the presuppositions needed to even have thoughts. As such, worldviews are arrived at through submission, through religious faith.
+
+Worldviews are not all equal...
 Anomalies and Sense Making...
 
 An interesting trait of the 
