@@ -21,7 +21,7 @@ Modern western secularism attempts to "make sense" of other worldviews by falsif
 
 
 ???+ example "Kali Maa"
-    ![kali](/imageskKali.jpg)
+    ![kali](/imagesk/kali.jpg)
 
     The "goddess" Kali in all her destructive devouring glory. We are witnessing exactly this spirit in the modeen world, emerging in the west through feminism as a destructive force. We see explicit signs of this in 1972:
 
