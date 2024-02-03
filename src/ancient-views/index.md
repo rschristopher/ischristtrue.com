@@ -8,16 +8,28 @@ Lord Jesus Christ
 Lord, grant me wisdom and the articulation of truth
 -->
 
-All worldviews attempt to make sense of all other worldviews. They are all, if they are honest, attempts at unifying all experiences and phenomena into something that "makes sense" of everything.
+All worldviews attempt to make sense of all other worldviews. They are all, if they are honest, attempts at unifying human experiences and observed phenomena into something that "makes sense".
+Even sense-making must fit into the worldview.
+
+An interesting mistake of modernity is to assume ancient worldviews were superstitious and incomplete, products of "less evolved" end "pre-scientific" thinking.
 
 A worldview is syncretic by nature, *even* and especially the 
  [modern worldview](../modern-views/index.md).
-Modern western secularism attempts to "make sense" of other worldviews by falsification, that in, an implicit presupposition of objective knowable truth, with rationality as the highest ordering principle -- which can be used to evaluate worldviews as believable or not. The consensus is that all ancient views are thus false, hence the inevitable nihilism that follows secularism.
-
-This is unquestioned 
+Modern western secularism attempts to "make sense" of other worldviews by falsification, that in, an implicit presupposition of objective knowable truth, with rationality as the highest ordering principle -- which can be used to evaluate other worldviews as believable or not. The modern bias is that all ancient views are false, hence the inevitable nihilism that follows secularism, and the postmodern reactions that make nihilism more explicit.
 
 
 
+
+???+ example "Kali Maa"
+    ![kali](/imageskKali.jpg)
+
+    The "goddess" Kali in all her destructive devouring glory. We are witnessing exactly this spirit in the modeen world, emerging in the west through feminism as a destructive force. We see explicit signs of this in 1972:
+
+    ![kali-ms](/images/kali-ms.jpg)
+
+    And should anyone think this is benign and some misunderstanding or misrepresentation, here is more recent article that makes these claims even more [explicit](https://qz.com/1768545/hinduisms-kali-is-the-feminist-icon-the-world-desperately-needs):
+
+    > This makes Kali the feminist icon we need today, in that she is a complex figure of many contrasting traits, all of which are equally worthy expressions of female strength—unapologetic because it doesn’t even consider that there could be anything to apologise for.
 
 
 
