@@ -12,15 +12,36 @@ Protect me from the evil one.
 Lord, grant me wisdom and the articulation of the truth that is Christ Jesus 
 -->
 
-All worldviews attempt to make sense of all other worldviews. They are all, if they are honest, attempts at unifying human experiences and observed phenomena into something that "makes sense".
-Even sense-making must fit into the worldview.
+All worldviews attempt to "make sense" of all other worldviews. They are all, if they are honest, attempts at unifying human behavior and observed phenomena into something that "makes sense".
+Even sense-making itself must fit into a worldview.
 
-An interesting mistake of modernity is to assume ancient worldviews were superstitious and incomplete, products of "less evolved" end "pre-scientific" thinking.
+Anomalies and Sense Making...
 
-A worldview is syncretic by nature, *even* and especially the 
+An interesting trait of the 
+ [modern worldview](../modern-views/index.md) is that it assumes ancient worldviews were superstitious and incomplete, products of "less evolved" and "pre-scientific" thinking.
+We imagine a list of different religious systems that we can pick and choose from, maybe even choose "none" from the list (as atheists are want to do). 
+Then we imagine people of other religions are simply those who chose differently, usually defaulting to the religion they were born into.
+What we're doing is subordinating different worldviews into a higher principle, making the highest principle our own intellect and passions.
+Ironically, this is the default worldview that we in our modern age are born into (worship of self).
+This is why we see so many shallow modern religions, because people are subordinating the ancient views of their ancestors into modern secularism.
+This is why, for example, so many people in modern churches don't seem to actually believe what they're preaching (because they don't -- if they did they would behave very differently).
+
+If we want to understand ancient worldviews, we can approach this in two ways:
+
+1. recognize that our [modern worldview](../modern-views/index.md) is just one of many worldviews, and that all ancient worldviews also "made sense" of other worldviews, typically through explicit syncretism.
+2. recognize that our [modern worldview](../modern-views/index.md) fails to fully make sense of its own presuppositions, with no defensible epistemology or ethic, and this produces persistent nihilism such that it's clear this view is false and could not have been the foundational view from which our civilization emerged.
+
+In other words, we know there are other worldviews, and we know our current worldview is inferior to one of the ancient views from our civilization emerged.
+
+
+
+
+Worldview are syncretic by nature, *even* and especially the 
  [modern worldview](../modern-views/index.md).
-Modern western secularism attempts to "make sense" of other worldviews by falsification, that in, an implicit presupposition of objective knowable truth, with rationality as the highest ordering principle -- which can be used to evaluate other worldviews as believable or not. The modern bias is that all ancient views are false, hence the inevitable nihilism that follows secularism, and the postmodern reactions that make nihilism more explicit.
+Western secularism attempts to "make sense" of other worldviews by falsification, hence the inevitable nihilism that follows secularism, and the postmodern reactions that make nihilism explicit.
 
+That said, the ostensible failures of the 
+ [modern worldview](../modern-views/index.md) have led to anomalies and a recognition that at least one of the ancient worldviews must have been more correct, more [true](../truth.md), because it produced good fruits, while the modern view is producing bad fruits of its own destruction.
 
 
 
