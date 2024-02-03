@@ -12,24 +12,30 @@ Protect me from the evil one.
 Lord, grant me wisdom and the articulation of the truth that is Christ Jesus 
 -->
 
-All worldviews attempt to "make sense" of all other worldviews. They are all, if they are honest, attempts at unifying human behavior and observed phenomena into something that "makes sense".
+All worldviews attempt to "make sense" of all other worldviews. 
+They are all (if they are honest) attempts at unifying observed behavior, patterns, and phenomena into a coherent model that "makes sense" of the world.
+A worldview contains all presuppositions necessary for which one thinks, plans, and acts in the world.
 Even sense-making itself must fit into a worldview.
+
+Worldviews are not optional.
+Everything we experience and think we understand is based on our current worldview.
+This includes moral judgments, purpose, meaning, and knowledge about ourselves and the universe we perceive.
 
 Anomalies and Sense Making...
 
 An interesting trait of the 
  [modern worldview](../modern-views/index.md) is that it assumes ancient worldviews were superstitious and incomplete, products of "less evolved" and "pre-scientific" thinking.
-We imagine a list of different religious systems that we can pick and choose from, maybe even choose "none" from the list (as atheists are want to do). 
+We imagine there's a list of different religious systems that we can pick and choose from, maybe even choose "none" from the list (as atheists are want to do). 
 Then we imagine people of other religions are simply those who chose differently, usually defaulting to the religion they were born into.
 What we're doing is subordinating different worldviews into a higher principle, making the highest principle our own intellect and passions.
 Ironically, this is the default worldview that we in our modern age are born into (worship of self).
-This is why we see so many shallow modern religions, because people are subordinating the ancient views of their ancestors into modern secularism.
+This is why we see so many shallow modern religions, because they are subordinating the ancient views of their ancestors into modern secularism.
 This is why, for example, so many people in modern churches don't seem to actually believe what they're preaching (because they don't -- if they did they would behave very differently).
 
-If we want to understand ancient worldviews, we can approach this in two ways:
+If we want to understand *ancient worldviews*, we can approach this systematically;
 
 1. recognize that our [modern worldview](../modern-views/index.md) is just one of many worldviews, and that all ancient worldviews also "made sense" of other worldviews, typically through explicit syncretism.
-2. recognize that our [modern worldview](../modern-views/index.md) fails to fully make sense of its own presuppositions, with no defensible epistemology or ethic, and this produces persistent nihilism such that it's clear this view is false and could not have been the foundational view from which our civilization emerged.
+2. recognize that our [modern worldview](../modern-views/index.md) fails to fully make sense of its own presuppositions, with no defensible epistemology or ethic, and points towards  nihilism such that it's clear this view is not only false but could not have been the foundational worldview from which our civilization emerged. In other words, our worldview is insufficient for continued human flourishing, and the ancient worldviews 
 
 In other words, we know there are other worldviews, and we know our current worldview is inferior to one of the ancient views from our civilization emerged.
 
