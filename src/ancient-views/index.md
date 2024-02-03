@@ -8,7 +8,24 @@ Lord Jesus Christ
 Lord, grant me wisdom and the articulation of truth
 -->
 
-Ancient Pagan views are the background for which we can best understood Christianity and how it succeeded against seemingly overwhelming opposition.
+All worldviews attempt to make sense of all other worldviews. They are all, if they are honest, attempts at unifying all experiences and phenomena into something that "makes sense" of everything.
+
+A worldview is syncretic by nature, *even* and especially the 
+ [modern worldview](../modern-views/index.md).
+Modern western secularism attempts to "make sense" of other worldviews by falsification, that in, an implicit presupposition of objective knowable truth, with rationality as the highest ordering principle -- which can be used to evaluate worldviews as believable or not. The consensus is that all ancient views are thus false, hence the inevitable nihilism that follows secularism.
+
+This is unquestioned 
+
+
+
+
+
+
+
+
+ 
+
+Ancient Pagan views are the background for which we can best understand Christianity and how it succeeded against seemingly overwhelming opposition.
 
 animism, ancestor worship
 
@@ -20,9 +37,13 @@ order out of chaos, ordo ab chao
 
 great mother
 
-Hermes Trismigestus
+[monad](https://en.m.wikipedia.org/wiki/Monad_(philosophy)) 
 
-monad
+[Hermes Trismigestus](https://en.m.wikipedia.org/wiki/Hermes_Trismegistus) 
+
+[alchemy](https://en.m.wikipedia.org/wiki/Alchemy) 
+
+
 
 
 no objectively knowable truth, reality was determined by the gods to which mankind is but a plaything.
