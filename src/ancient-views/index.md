@@ -12,9 +12,12 @@ Protect me from the evil one.
 Lord, grant me wisdom and the articulation of the truth that is Christ Jesus 
 -->
 
-Ancient worldviews are what got us here, and our modern worldview is clearly destructive nihilism.
-If we are at all interested in human flourishing then we must necessarily rediscover the ancient worldviews that made civilization possible.
-...
+Ancient worldviews are seemingly antiquated and no longer relevant.
+And normally this would be the case, however, when the modern vuew is destructive nihilism then this means, necessarily, that the ancient precursor views were the foundation from which civilization survived and thrived.
+If we are at all interested in human flourishing then we must rediscover the ancient worldviews that made our civilization possible, that made truth knowable.
+
+
+
 
 ## What is a worldview?
 
