@@ -3,9 +3,13 @@
 <!--
 Lord Jesus Christ
  Son of God
- Have mercy on me, a sinner
+Have mercy on me
+ a sinner
 
-Lord, grant me wisdom and the articulation of truth
+Protect me from dark powers and principalities.
+Protect me from the evil one.
+
+Lord, grant me wisdom and the articulation of the truth that is Christ Jesus 
 -->
 
 All worldviews attempt to make sense of all other worldviews. They are all, if they are honest, attempts at unifying human experiences and observed phenomena into something that "makes sense".
