@@ -12,43 +12,66 @@ Protect me from the evil one.
 Lord, grant me wisdom and the articulation of the truth that is Christ Jesus 
 -->
 
-Ancient worldviews are seemingly antiquated and no longer relevant.
-And normally this would be the case, however, when the modern vuew is destructive nihilism then this means, necessarily, that the ancient precursor views were the foundation from which civilization survived and thrived.
-If we are at all interested in human flourishing then we must rediscover the ancient worldviews that made our civilization possible, that made truth knowable.
+Our [modern](../modern-views/index.md) worldview of continuous destructive revolution and nihilistic secularism is blatantly failing; failing not only to advance civilization but also failing to sustain civilization.
+We all know this on a gut level, that something is not quite right, and it's only getting worse.
+As a result, we should expect an inevitable resurgence of ancient worldviews as we seek answers to the fundamental questions that our modern view simply cannot answer.
+
+To be clear, this is not a voluntary return to ancient worldviews.
+Ancient worldviews are returning to us whether we like it or not.
+These are ancient patterns of reality that are manifesting in the midst of the decay of western civilization.
+
+To put it plainly; the old gods are returning.
+
+
+
+
 
 
 
 
 ## What is a worldview?
 
-A worldview contains all presuppositions necessary for which one thinks, plans, and acts.
-All worldviews (if they are honest) attempt to "make sense" of all other worldviews. 
-In other words, worldviews are attempts at unifying observed behavior, patterns, and phenomena into a coherent model that "makes sense" of the perceived "world".
+A worldview is a set of beliefs and presuppositions needed to think, plan, and act in the world.
+These are the patterns of reality that we participate in.
+All worldviews (if they are honest) attempt to "make sense" of all other worldviews, subordinating the competing worldviews under a higher principle.
+These are attempts at unifying observed behavior and phenomena into a coherent model that "makes sense" of everything.
 
-Worldviews are not optional, but a necessary foundation for human consciousness.
-Everything we experience and think we understand is based on our current worldview.
-This includes moral judgments, purpose, meaning, and knowledge about ourselves and the universe we perceive.
 
-Worldviews are not thoughts. We cannot reason our way into a new worldview. Worldviews are the presuppositions needed to even have thoughts. As such, worldviews require submission through religious faith.
+!!! example "pantheons and archetypes"
+    A common method of subordinating competing worldviews is through syncretism, that is, combining various religious principles under a higher principle. For example:
+    
+    * The Romans added the gods of conquered people to their pantheon, subordinating those foreign gods (competing worldviews) under Rome: worshipped in temples and given Latin names, e.g., Athena to Minerva, Zeus to Jupiter, etc.
+    
+    * Our modern worldview subordinates competing worldviews to falsification and secularism, e.g., Zeus and Athena are not real, at most archetypal patterns of reality, but you're free to practice whatever religion you want.
+
+
+
+Worldviews are not optional and there is no "neutral" or "unbiased" worldview.
+Everything we experience and understand is based on our current worldview.
+This includes moral judgments, purpose, meaning, and knowledge about ourselves and the universe.
+
+Worldviews are not thoughts. We cannot think our way into a new worldview. Worldviews are the presuppositions needed to even have thoughts.
 
 Worldviews are not all equal...
+
+We adopt new worldviews only as a psychological response to persistent anomalies in our existing worldview.
 Anomalies and Sense Making...
 
 An interesting trait of the 
- [modern worldview](../modern-views/index.md) is that it assumes ancient worldviews were superstitious and incomplete, products of "less evolved" and "pre-scientific" thinking.
+ [modern](../modern-views/index.md) secular worldview is that it assumes ancient worldviews were superstitious and incomplete, products of "less evolved" and "pre-scientific" thinking.
 We imagine there's a list of different religious systems that we can pick and choose from, maybe even choose "none" from the list (as atheists are want to do). 
-Then we imagine people of other religions are simply those who chose differently, usually defaulting to the religion they were born into.
-What we're doing is subordinating different worldviews into a higher principle, making the highest principle our own intellect and passions.
+Then we imagine people of other religions are those who chose differently, usually defaulting to the religion they were born into.
+What we're doing is subordinating competing worldviews into a higher principle, making the highest principle our own intellect and passions.
 Ironically, this is the default worldview that we in our modern age are born into (worship of self).
+
 This is why we see so many shallow modern religions, because they are subordinating the ancient views of their ancestors into modern secularism.
-This is why, for example, so many people in modern churches don't seem to actually believe what they're preaching (because they don't -- if they did they would behave very differently).
+This is why, for example, so many people in modern churches don't seem to actually believe what they're preaching (because they don't believe it -- if they did they would behave very differently).
 
-If we want to understand *ancient worldviews*, we can approach this systematically;
+So what happens when secularism fails? What happens when this ordering principle that subordinates all those ancient worldviews fails to hold everything together?
 
-1. recognize that our [modern worldview](../modern-views/index.md) is just one of many worldviews, and that all ancient worldviews also "made sense" of other worldviews, typically through explicit syncretism.
-2. recognize that our [modern worldview](../modern-views/index.md) fails to fully make sense of its own presuppositions, with no defensible epistemology or ethic, and points towards  nihilism such that it's clear this view is not only false but could not have been the foundational worldview from which our civilization emerged. In other words, our worldview is insufficient for continued human flourishing, and the ancient worldviews 
 
-In other words, we know there are other worldviews, and we know our current worldview is inferior to one of the ancient views from our civilization emerged.
+
+
 
 
 
@@ -57,8 +80,8 @@ Worldview are syncretic by nature, *even* and especially the
  [modern worldview](../modern-views/index.md).
 Western secularism attempts to "make sense" of other worldviews by falsification, hence the inevitable nihilism that follows secularism, and the postmodern reactions that make nihilism explicit.
 
-That said, the ostensible failures of the 
- [modern worldview](../modern-views/index.md) have led to anomalies and a recognition that at least one of the ancient worldviews must have been more correct, more [true](../truth.md), because it produced good fruits, while the modern view is producing bad fruits of its own destruction.
+
+
 
 
 
