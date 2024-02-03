@@ -83,6 +83,18 @@ Western secularism attempts to "make sense" of other worldviews by falsification
 
 
 
+How ougjt Christians subordinate competing worldviews?
+
+In other words, what is the orthodox worldview for subordinating pagan views?
+
+
+!!! quote "Matthew 7:5"
+    Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
+
+
+Christ is truth, meaning that through Christ truth is knowable, and the other worldviews are making deceptive and false claims -- these are fallen spirits with dominion over humans, but Christ rules in the midst of His enemies and we can let Christ into our hearts, saving our souls.
+
+
 
 
 ???+ example "Kali Maa"
