@@ -26,7 +26,7 @@ Worldviews are not optional, but a necessary foundation for human consciousness.
 Everything we experience and think we understand is based on our current worldview.
 This includes moral judgments, purpose, meaning, and knowledge about ourselves and the universe we perceive.
 
-Worldviews are not thoughts. One does not reason themselves into a new worldview. Worldviews are the presuppositions needed to even have thoughts. As such, worldviews are arrived at through submission, through religious faith.
+Worldviews are not thoughts. We cannot reason our way into a new worldview. Worldviews are the presuppositions needed to even have thoughts. As such, worldviews require submission through religious faith.
 
 Worldviews are not all equal...
 Anomalies and Sense Making...
