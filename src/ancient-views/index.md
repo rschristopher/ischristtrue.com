@@ -85,8 +85,8 @@ This is why, for example, so many people in modern churches don't seem to actual
 So what happens when this subordinating principle fails? What happens when those competing worldviews (the ancient gods) are no longer subordinated?
 
 We are living through exactly such a failure.
-As modernism gives in to postmodernism and nihilism, that is, the rejection of knowable objective truth, than gone too is the subordinating principle that kept those ancient worldviews bound to their mythology books.
-We are thus experiencing powers and principalities that our Christian ancestors understood as demonic, and were very much part of the struggles of daily life.
+As modernism gives in to postmodernism and nihilism, that is, the rejection of knowable objective truth, than gone too is the subordinating principle that kept those ancient worldviews bound to their respective mythology books.
+We are thus experiencing powers and principalities that early Christians  understood as demonic, and were very much part of the struggles of daily life.
 
 
 
@@ -103,14 +103,16 @@ We are thus experiencing powers and principalities that our Christian ancestors 
 
 The ancient worldviews all share a basic premise: there is no objectively knowable truth, reality is determined by the gods to which mankind is but a plaything.
 
-The innovation of Judaism was the radical assertion that man is created in the image and likeness of God.
+And it was in this context where Judaism changed everything.
+The innovation of Judaism was the radical assertion that man is created in the image and likeness of the creator of the universe.
 In a world suffering under powers and principalities, this was an outrageous claim.
-Explicit in that worldview is universal human rights and dignity (which propagated with the success of Christianity into the world).
+Pagan religions understood that man was nothing to the gods but at most idle amusement.
+Explicit in the Jewish worldview is universal human rights and dignity (which propagated with the success of Christianity into the world).
 As a result, even the most hard-nosed atheist will today use a Christian ethic to criticize modern Christianity (completely unaware of where their ethic came from).
 
 To be clear: there is no ancient pre-Jewish sources for universal human rights and dignity. There was caste systems, slavery, and oppression from gods and their various priests. There was genocide, cannibalism, and ritualized child sacrifice. We were ruled by principalities and powers. Demonic spirits didn't just tempt us, they had real power over our lives and our bodies, even the lives of our children.
 
-The pre-Christian world did not recognize any implicit value to a human life. A person's value was not earned by merit -- value was granted by the gods.
+The ancient pre-Christian world did not recognize any implicit value to human life. A person's value was not earned by merit -- value was granted by the gods.
 In the ancient worldviews men and women have no implicit value, which is exactly what is resurfacing today.
 
 
@@ -119,10 +121,10 @@ In the ancient worldviews men and women have no implicit value, which is exactly
 
 
 
-## Return of ancient sexual idolatry 
+### Ancient sexual idolatry 
 
 Ancient social structures were about survival in a world of gods that cared little about our survival (if not openly antagonist to our survival).
-Polygamy was the norm, not marriage as we understand it today. There were harems, eunuchs, homosexuality, and pedophilia -- all of it normalized.
+Polygamy was the norm, not marriage as we understand it today. There were harems, eunuchs, homosexuality, bestiality, and pedophilia -- all of it normalized.
 There was also procreation with the gods, the ubiquitous god-kings in the ancient world, what the Bible refers to as Nephilim.
 
 We see the re-emergence of these ancient sexual views through modern activism (mostly from western academia). 
@@ -130,7 +132,7 @@ Activists talk of "the patriarchy", hence the latest destructive revolution is t
 
 But what are the fruits of these activist movements?
 
-Modern progressive will claim that all the rights women now enjoy are due to this activism, completely ignoring that human rights and dignity were due to a prior generation's Christian ethic. 
+Modern progressive will claim that all the rights women now enjoy are due to this activism, completely ignoring that human rights and dignity were due to a prior generation's Christian ethic (the very rights the modern activist is eroding). 
 The modern activists have instead brought us wide scale chemical castration, genital mutilation, normalization of sexual deviance (making one's sexual desire an idol), and the dismantling of knowable truth, to name but a few of the nihilistic fruits of our modern views.
 
 This is a clear regression into an ancient worldview.
@@ -142,28 +144,28 @@ This is a clear regression into an ancient worldview.
 
 
 
-## Return of ancient gender roles
+### Ancient gender roles
 
-We imagine there's a battle of the sexes -- male versus female -- while simultaneously denying a gender binary. Masculinity is considered "toxic" unless it's coming from a women, which then makes her "brave". 
+We imagine today there's a battle of the sexes -- male versus female -- while simultaneously denying a gender binary. Masculinity is considered "toxic" unless it's coming from a women, which then makes her "brave". 
 
 Femininity is scorned unless it's aped by a man identifying as a woman. To a rationalist this all seems absurd, but that's because rationalism fails to account for this very real phenomena.
-If we look to those previously subordinated ancient worldviews this all makes perfect sense.
+However, if we look to those previously subordinated ancient worldviews this all makes perfect sense.
 
-We can find the modern "battle of the sexes" rhetoric pointing back to the industrial revolution and the so-called age of enlightenment.
+We can find the modern "battle of the sexes" rhetoric in industrial revolution and the so-called age of enlightenment. It is nothing new.
 
 The industrial revolution increasingly took fathers out of the family business (mostly farms) and into factories, a trend we see exacerbated during periods such as the great depression (tractors changing the economic reality of family farms). And as the trend continued so too emerged feminist attacks on masculinity. 
 
-Each "wave" of feminism was proceeded by major erosions to the family.
+Consider that every "wave" of feminism was proceeded by erosions to the family.
 At the same time, we see enlightenment-era thinkers rationalizing these problems in Darwinian terms, that in the survival of the fittest men had dominated women. As always, the "intellectuals" provide cover for what is clearly a demonic end.
 
-This ongoing disruption of the natural order (breaking families) results in ancient pagan gender roles -- and resurgence of the old idols. 
+This ongoing disruption of the natural order (attacking families) results in ancient pagan gender roles -- and resurgence of the old idols. 
 We see today polygamy and sneaky fuckers and eunuchs (castrated men) and many many disposable men and women.
-We see this abhorrent sexual behavior normalized and treated as if it's innovative and new, rather than more of the same ancient demonism.
+We see abhorrent sexual behavior normalized and treated as if it's innovative and new, rather than more of the same ancient demonism.
 
-Secular "masculinity" is emasculating men to pre-Christian archetypes, slavish obedience to their "gods". This is clearly demonic and anti-Christian.
+Secular "masculinity" is emasculating men into a pre-Christian archetype of slavish obedience to their "gods". This is clearly demonic and anti-Christian.
 
 Similarly, secular feminity is reducing the value of women, paradoxically replacing femininity with masculine energy as the only valuable energy (putting women in a decided disadvantage in the battle of the sexes they imagine themselves playing).
-Beauty and grace are replaced with fashion and idolatry, ironically played out most successfully by biological men (further reducing women such that biological men routinely become "woman of the year").
+Beauty and grace are replaced with fashion and idolatry, ironically played out most successfully by biological men pretending to be women (further reducing the value of women such that biological men routinely become "woman of the year").
 
 ...
 
@@ -175,6 +177,7 @@ See Aristotle's view of women to better understand ancient views about women and
 
 The consequences of secular activists have not empowered anyone but instead reduced God-given human rights to "privileges", things granted by the powers and principalities, the false gods of our worship.
 We've even come to believe these false gods can take those "privileges" away.
+Always remember, human rights are God-given and can never be taken away by demonic powers.
 
 
 
@@ -187,7 +190,7 @@ We've even come to believe these false gods can take those "privileges" away.
 
 
 
-## Return of ancient gods
+### Ancient gods
 
 ...
 
