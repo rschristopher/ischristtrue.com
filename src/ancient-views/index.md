@@ -12,7 +12,7 @@ Protect me from the evil one.
 Lord, grant me wisdom and the articulation of the truth that is Christ Jesus 
 -->
 
-Our [modern](../modern-views/index.md) worldview of continuous destructive revolution and nihilistic secularism is blatantly failing; failing not only to advance civilization but also failing to sustain civilization.
+Our [modern](../modern-views/index.md) worldview of continuous destructive revolutions and nihilistic secularism is blatantly failing; failing not only to advance civilization but also failing to sustain civilization.
 We all know this on a gut level, that something is not quite right, and it's only getting worse.
 As a result, we should expect an inevitable resurgence of ancient worldviews as we seek answers to the fundamental questions that our modern view simply cannot answer.
 
@@ -33,57 +33,58 @@ To put it plainly; the old gods are returning.
 
 A worldview is a set of beliefs and presuppositions needed to think, plan, and act in the world.
 These are the patterns of reality that we participate in.
-All worldviews (if they are honest) attempt to "make sense" of all other worldviews, subordinating the competing worldviews under a higher principle.
-These are attempts at unifying observed behavior and phenomena into a coherent model that "makes sense" of everything.
+All worldviews (if they are honest) attempt to "make sense" of all other worldviews, subordinating any competing worldviews under a higher principle.
+These are attempts at unifying all observed behavior and phenomena (including the people with a different worldview) into a coherent model that "makes sense" of everything.
 
 
 !!! example "pantheons and archetypes"
     A common method of subordinating competing worldviews is through syncretism, that is, combining various religious principles under a higher principle. For example:
     
-    * The Romans added the gods of conquered people to their pantheon, subordinating those foreign gods (competing worldviews) under Rome: worshipped in temples and given Latin names, e.g., Athena to Minerva, Zeus to Jupiter, etc.
+    * The Romans added the gods of conquered people to their pantheon, subordinating the foreign gods (competing worldviews) under Rome: worshipped in temples and given Latin names, e.g., Athena to Minerva, Zeus to Jupiter, etc.
     
-    * Our modern worldview subordinates competing worldviews to falsification and secularism, e.g., Zeus and Athena are not real, at most archetypal patterns of reality, but you're free to practice whatever religion you want.
+    * Our modern worldview subordinates competing worldviews by falsification and secularism, e.g., we will claim Zeus and Athena are not real, they're make believe, at most archetypal patterns of reality, but you're free to practice whatever religion you want. Note that there's an assumption of knowable objective truth in the modern view.
 
-
-
-Worldviews are not optional and there is no "neutral" or "unbiased" worldview.
+Worldviews are not optional, and there is no "neutral" nor "unbiased" worldview.
 Everything we experience and understand is based on our current worldview.
 This includes moral judgments, purpose, meaning, and knowledge about ourselves and the universe.
 
 Worldviews are not thoughts. We cannot think our way into a new worldview. Worldviews are the presuppositions needed to even have thoughts.
 
-Worldviews are not all equal...
+We adopt new worldviews only as a psychological response to persistent anomalies in our existing worldview. If we experience anomalies, that is, things that don't make sense, we will need to integrate the new phenomena into the old worldview -- failure to do so results in a kind of existential crisis (and even hysteria) until a new worldview is adopted which can better make sense of the new phenomena.
 
-We adopt new worldviews only as a psychological response to persistent anomalies in our existing worldview.
-Anomalies and Sense Making...
 
+
+
+Worldviews are not all equal. Some are clearly more survivable and amenable to human flourishing than others.
 An interesting trait of the 
  [modern](../modern-views/index.md) secular worldview is that it assumes ancient worldviews were superstitious and incomplete, products of "less evolved" and "pre-scientific" thinking.
 We imagine there's a list of different religious systems that we can pick and choose from, maybe even choose "none" from the list (as atheists are want to do). 
 Then we imagine people of other religions are those who chose differently, usually defaulting to the religion they were born into.
-What we're doing is subordinating competing worldviews into a higher principle, making the highest principle our own intellect and passions.
+What we're doing is subordinating the competing worldviews into a higher principle, which in the modern view is our own intellect and passions.
 Ironically, this is the default worldview that we in our modern age are born into (worship of self).
 
-This is why we see so many shallow modern religions, because they are subordinating the ancient views of their ancestors into modern secularism.
-This is why, for example, so many people in modern churches don't seem to actually believe what they're preaching (because they don't believe it -- if they did they would behave very differently).
+This is why we see so many shallow modern religions, because we are subordinating the ancient religions of our ancestors into modern secularism.
+This is why, for example, so many people in modern churches don't seem to actually believe what they're preaching (because they don't actually believe it -- if they did they would behave very differently).
 
-So what happens when secularism fails? What happens when this ordering principle that subordinates all those ancient worldviews fails to hold everything together?
-
-
+So what happens when this subordinating principle fails? What happens when those competing worldviews (the ancient gods) are no longer subordinated?
 
 
 
 
 
 
-Worldview are syncretic by nature, *even* and especially the 
- [modern worldview](../modern-views/index.md).
-Western secularism attempts to "make sense" of other worldviews by falsification, hence the inevitable nihilism that follows secularism, and the postmodern reactions that make nihilism explicit.
 
 
 
 
-How ougjt Christians subordinate competing worldviews?
+
+
+
+
+
+
+
+How ought Christians subordinate competing worldviews?
 
 In other words, what is the orthodox worldview for subordinating pagan views?
 
