@@ -13,7 +13,7 @@ Lord, grant me wisdom and the articulation of the truth that is Christ Jesus
 -->
 
 Our [modern](../modern-views/index.md) worldview of continuous destructive revolutions and nihilistic secularism is blatantly failing; failing not only to advance civilization but also failing to sustain civilization.
-We all know this on a gut level, that something is not quite right, and it's only getting worse.
+We all know this on a gut level, that something is not quite right, and it's only getting worse (as if there's forces at work actively seeking to harm us).
 As a result, we should expect an inevitable resurgence of ancient worldviews as we seek answers to the fundamental questions that our modern view simply cannot answer.
 
 To be clear, this is not a voluntary return to ancient worldviews.
@@ -34,33 +34,42 @@ To put it plainly; the old gods are returning.
 A worldview is a set of beliefs and presuppositions needed to think, plan, and act in the world.
 These are the patterns of reality that we participate in.
 All worldviews (if they are honest) attempt to "make sense" of all other worldviews, subordinating any competing worldviews under a higher principle.
-These are attempts at unifying all observed behavior and phenomena (including the people with a different worldview) into a coherent model that "makes sense" of everything.
+These are attempts at unifying all observed behavior and phenomena into a coherent model that "makes sense" of everything (including the people with a different worldview).
 
 
 !!! example "pantheons and archetypes"
-    A common method of subordinating competing worldviews is through syncretism, that is, combining various religious principles under a higher principle. For example:
+    Each worldview attempts to subordinate competing worldviews usually through syncretism, that is, combining various religious principles under a higher principle. For example:
     
     * The Romans added the gods of conquered people to their pantheon, subordinating the foreign gods (competing worldviews) under Rome: worshipped in temples and given Latin names, e.g., Athena to Minerva, Zeus to Jupiter, etc.
     
-    * Our modern worldview subordinates competing worldviews by falsification and secularism, e.g., we will claim Zeus and Athena are not real, they're make believe, at most archetypal patterns of reality, but you're free to practice whatever religion you want. Note that there's an assumption of knowable objective truth in the modern view.
+    * Our modern worldview subordinates competing worldviews by falsification and secularism, e.g., we will claim Zeus and Athena are not real, that they're make believe, but that everyone is free to practice whatever religion they want. Note the presupposition of knowable objective truth in the modern view.
 
 Worldviews are not optional, and there is no "neutral" nor "unbiased" worldview.
 Everything we experience and understand is based on our current worldview.
 This includes moral judgments, purpose, meaning, and knowledge about ourselves and the universe.
 
 Worldviews are not thoughts. We cannot think our way into a new worldview. Worldviews are the presuppositions needed to even have thoughts.
+We adopt new worldviews only as a psychological response to persistent anomalies in our existing worldview. 
 
-We adopt new worldviews only as a psychological response to persistent anomalies in our existing worldview. If we experience anomalies, that is, things that don't make sense, we will need to integrate the new phenomena into the old worldview -- failure to do so results in a kind of existential crisis (and even hysteria) until a new worldview is adopted which can better make sense of the new phenomena.
-
-
-
+If we experience anomalies, that is, things that don't make sense, we will seek to integrate the new phenomena into the old worldview -- failure to do so results in a kind of existential crisis (and hysteria) until a new worldview is adopted which can better make sense of the new phenomena.
 
 Worldviews are not all equal. Some are clearly more survivable and amenable to human flourishing than others.
 An interesting trait of the 
- [modern](../modern-views/index.md) secular worldview is that it assumes ancient worldviews were superstitious and incomplete, products of "less evolved" and "pre-scientific" thinking.
-We imagine there's a list of different religious systems that we can pick and choose from, maybe even choose "none" from the list (as atheists are want to do). 
+ [modern](../modern-views/index.md)
+ [enlightenment](../modern-views/enlightenment.md) worldview is that it assumes ancient worldviews were superstitious and incomplete, products of "less evolved" and "pre-scientific" thinking.
+We imagine there's a list of different religious systems that we can pick and choose from, maybe defaulting to "none" (as atheists are want to do). 
 Then we imagine people of other religions are those who chose differently, usually defaulting to the religion they were born into.
-What we're doing is subordinating the competing worldviews into a higher principle, which in the modern view is our own intellect and passions.
+
+
+
+
+
+
+## Collapse of the modern worldview
+
+Western civilization was born from a Christian worldview that over time gave in to pride, clearly evident in the [enlightenment](../modern-views/enlightenment.md) that produced our modern secular worldview.
+We have been subordinating the competing worldviews beneath our own intellect and passions.
+When we claim something is "superstitious nonsense", we are presupposing knowable objective truth, that we *know* what is and what is not truth.
 Ironically, this is the default worldview that we in our modern age are born into (worship of self).
 
 This is why we see so many shallow modern religions, because we are subordinating the ancient religions of our ancestors into modern secularism.
@@ -68,6 +77,9 @@ This is why, for example, so many people in modern churches don't seem to actual
 
 So what happens when this subordinating principle fails? What happens when those competing worldviews (the ancient gods) are no longer subordinated?
 
+We are living through exactly such a failure.
+As modernism gives in to postmodernism and nihilism, that is, the rejection of knowable objective truth, than gone too is the subordinating principle that kept those other worldviews bound to their mythology books.
+We are thus experiencing powers and principalities that our Christian ancestors understood as demonic.
 
 
 
@@ -80,22 +92,7 @@ So what happens when this subordinating principle fails? What happens when those
 
 
 
-
-
-
-
-How ought Christians subordinate competing worldviews?
-
-In other words, what is the orthodox worldview for subordinating pagan views?
-
-
-!!! quote "Matthew 7:5"
-    Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
-
-
-Christ is truth, meaning that through Christ truth is knowable, and the other worldviews are making deceptive and false claims -- these are fallen spirits with dominion over humans, but Christ rules in the midst of His enemies and we can let Christ into our hearts, saving our souls.
-
-
+## Return of the ancient worldviews 
 
 
 ???+ example "Kali Maa"
@@ -186,6 +183,21 @@ We are living through the messianic age, where Christ is ruling in the midst of 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+## Messianic Age 
+
+Importantly, we are not in the ancient pre-Christian world. We are in the messianic age where Christ is ruling in the midst of His enemies.
+
 Importantly, traditional Christianity restores man and woman to their God-given roles, as icons of God.
 This is available to everyone, right now -- Christ is calling us to participate in His victory as He crushes the serpent's seeds.
 
@@ -211,6 +223,17 @@ For He is ruling in the midst of His enemies, and to align ourselves with Christ
 
 
 
+How ought Christians subordinate competing worldviews?
+
+In other words, what is the orthodox worldview for subordinating pagan views?
+
+
+!!! quote "Matthew 7:5"
+    Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
+
+
+Christ is truth, meaning that through Christ truth is knowable, and the other worldviews are making deceptive and false claims -- these are fallen spirits with dominion over humans, but Christ rules in the midst of His enemies and we can let Christ into our hearts, saving our so
+uls.
 
 
 
