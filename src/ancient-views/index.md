@@ -190,7 +190,7 @@ Always remember, human rights are God-given and can never be taken away by demon
 
 
 
-### Ancient gods
+### Ancient "gods"
 
 ...
 
