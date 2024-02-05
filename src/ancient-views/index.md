@@ -144,6 +144,9 @@ We mistakenly believe this is something new, some kind of technological fascism,
 
 
 
+
+
+
 ### Ancient sexual idolatry 
 
 Sex and gender roles in ancient times were about survival in a world of gods that cared little about our survival (if not openly antagonist to our survival).
@@ -162,6 +165,11 @@ Modern progressive will claim that all the rights women now enjoy are due to thi
 The modern activists have instead brought us wide-scale chemical castration, genital mutilation, normalization of sexual deviance (making one's sexual desire an idol), and the dismantling of knowable truth, to name but a few of the nihilistic fruits of our modern views.
 
 This is a clear regression into ancient sexual idolatry, where once dormant spirits are resurfacing as principles of worship.
+
+
+
+
+
 
 
 
@@ -215,6 +223,9 @@ See Aristotle's view of women to better understand ancient views about women and
 The consequences of activists and liberation movements have not empowered or liberated anyone, but instead degraded God-given human rights into "privileges", things granted by the powers and principalities, the false gods of modern worship.
 We've even come to believe these false gods can take those "privileges" away.
 Always remember, human rights are God-given and can never be taken away by demonic powers.
+
+
+
 
 
 
@@ -284,9 +295,11 @@ Ancient Pagan views are the background for which we can best understand Christia
     ![babel](/images/babel.jpg)
 
 
+???+ "Leviathan, Behemoth, Ziz"
+    ![lev-beh-ziz](/images/lev-beh-ziz.jpg)
 
-
-
+???+ "Leviathan and Behemoth by William Blake"
+    ![lev-beh](/images/lev-beh.jpg)
 
 
 
