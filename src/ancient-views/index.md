@@ -272,10 +272,8 @@ order out of chaos, ordo ab chao
 [alchemy](https://en.m.wikipedia.org/wiki/Alchemy) 
 
 
-
-----
-
-
+???+ example "Satan"
+    ![satan](/images/satan.jpg)
 
 
 Ancient Pagan views are the background for which we can best understand Christianity and how it succeeded against seemingly overwhelming opposition.
