@@ -315,7 +315,7 @@ And of course if we want to see the ultimate resurgence of the serpent, we have 
     ![satan](/images/satan.jpg)
 
 Modern use of satanic imagery has become so common as to be dull from an artistic perspective.
-It has become so predictable and ubiquitous that you're almost surprised when modern art or a music video don't feature explicit satanic imagery.
+It has become so predictable and ubiquitous that you're almost surprised when modern art or a music video doesn't feature explicit satanic imagery.
 
 
 
