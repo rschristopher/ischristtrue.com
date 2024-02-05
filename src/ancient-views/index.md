@@ -276,16 +276,35 @@ Let's look at some other examples.
 
 The [ouroboros](https://en.m.wikipedia.org/wiki/Ouroboros), *that old serpent* eating its own tail.
 
-order out of chaos, ordo ab chao
-
-[monad](https://en.m.wikipedia.org/wiki/Monad_(philosophy)) 
+[alchemy](https://en.m.wikipedia.org/wiki/Alchemy) 
 
 [Hermes Trismigestus](https://en.m.wikipedia.org/wiki/Hermes_Trismegistus) 
 
-[alchemy](https://en.m.wikipedia.org/wiki/Alchemy) 
+Hermeticism and the modern worship of medical doctors and the 
+ [caduceus](https://en.m.wikipedia.org/wiki/Caduceus), which is the staff of Hermes Trismigestus.
+
+[monad](https://en.m.wikipedia.org/wiki/Monad_(philosophy)) 
+
+order out of chaos, ordo ab chao
 
 ???+ example "Leviathan, Behemoth, Ziz"
     ![lev-beh-ziz](/images/lev-beh-ziz.jpg)
+
+[Leviathan](https://en.m.wikipedia.org/wiki/Leviathan)
+
+The world serpent 
+
+Dragon
+
+Tiamat
+
+Typhon 
+
+Hellmouth 
+
+[Behemoth](https://en.m.wikipedia.org/wiki/Behemoth)
+
+[Ziz](https://en.m.wikipedia.org/wiki/Ziz)
 
 ???+ example "Leviathan and Behemoth by William Blake"
     ![lev-beh](/images/lev-beh.jpg)
@@ -296,7 +315,7 @@ And of course if we want to see the ultimate resurgence of the serpent, we have 
     ![satan](/images/satan.jpg)
 
 Modern use of satanic imagery has become so common as to be dull from an artistic perspective.
-It has become so predictable and ubiquitous that you're almost surprised when modern art or a music video doesn't feature explicit satanic imagery.
+It has become so predictable and ubiquitous that you're almost surprised when modern art or a music video don't feature explicit satanic imagery.
 
 
 
