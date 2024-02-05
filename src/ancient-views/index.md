@@ -278,7 +278,10 @@ order out of chaos, ordo ab chao
 
 Ancient Pagan views are the background for which we can best understand Christianity and how it succeeded against seemingly overwhelming opposition.
 
-animism, ancestor worship
+
+
+???+ "Tower of Babel"
+    ![babel](/images/babel.jpg)
 
 
 
