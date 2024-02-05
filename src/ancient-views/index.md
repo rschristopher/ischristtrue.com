@@ -353,6 +353,8 @@ Ancient Pagan views are the background for which we can best understand Christia
     ![last-judgment](/images/last-judgment.jpg)
 
 
+[mark of the beast](https://www.orthodoxroad.com/the-mark-of-the-beast/)
+
 ...
 Fortunately, the ancient gods have no real power, and have already been defeated by Christ.
 
