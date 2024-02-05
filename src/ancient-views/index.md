@@ -177,11 +177,11 @@ We imagine today that there's an ongoing battle of the sexes -- male versus fema
 Masculinity is considered "toxic" unless it's coming from a women, which then makes her "brave". 
 Femininity is scorned unless it's aped by a man identifying as a woman.
 
-To an enlightenment era rationalist this all seems absurd, but that's because rationalism fails to account for this very real phenomena.
+To an enlightenment-era rationalist this would all seems absurd, but that's because rationalism fails to account for this very real phenomena.
 However, if we look to ancient worldviews then this all makes perfect sense.
 This absurdity merely reflects the ancient gender roles resurfacing.
 
-We can find the "battle of the sexes" rhetoric starting in the industrial revolution and the so-called age of enlightenment.
+We can find the "battle of the sexes" rhetoric emerging in the industrial revolution and in the so-called age of enlightenment.
 Importantly, this rhetoric did not exist in early Christianity nor in Judaism.
 
 The industrial revolution increasingly took fathers out of the family business (mostly farms) and into factories, a trend we see exacerbated during periods such as the 
@@ -190,29 +190,29 @@ The industrial revolution increasingly took fathers out of the family business (
 And as this trend continued (breaking up families) so too emerged feminist attacks on masculinity. 
 
 Consider that every "wave" of feminism was *proceeded* by erosions to the nuclear family.
-We saw enlightenment-era thinkers rationalizing these problems in Darwinian terms, that in the "survival of the fittest" men had dominated women. As always, the "intellectuals" provided cover for what is clearly a demonic end.
+And just as modern "intellectuals" explain this as progress, we saw enlightenment-era "intellectuals" rationalizing these problems in Darwinian terms, that men had dominated women in an evolutionary sense. 
 
-This ongoing disruption of the natural order (nuclear families) results in ancient pagan gender roles. 
+This ongoing breakdown of families results in the emergence of ancient gender roles. 
 We see today polygamy and 
  [sneaky fuckers](https://en.m.wiktionary.org/wiki/kleptogyny)
  and eunuchs (castrated men) and many many disposable men and women.
 We see abhorrent sexual behavior normalized and treated as if it's innovative and new, rather than more of the same ancient demonism.
 
-Secular "masculinity" is emasculating men into a pre-Christian archetype of slavish obedience to their "gods" (whatever ideology they follow). 
-This in turn creates reactionary masculinity leading to violence.
+Secular "masculinity" is emasculating men into a pre-Christian archetype of slavish obedience to the powers and principalities ruling over us. 
+This in turn creates reactionary masculinity leading to violence which only strengthens the principalities.
 This is clearly demonic and anti-Christian.
 
 Similarly, secular feminity is diminishing the value of women, paradoxically replacing femininity with masculine energy as the only valuable energy (putting women in a decided disadvantage in the battle of the sexes they imagine themselves playing).
-Beauty and grace are replaced with fashion and idolatry, ironically played out most successfully by biological men pretending to be women (further reducing the value of women such that biological men routinely become "woman of the year").
+Beauty and grace are replaced with fashion and idolatry, ironically played out most successfully by biological men pretending to be women (further reducing the value of women such that biological men now routinely become "woman of the year").
 
-The end result of this game is to devalue men and women back into ancient gender roles.
-Rather than being made in the image and likeness of God to minister to one another, men and women become as valueless as they were in the ancient world.
+The end result of this nihilistic program is to devalue men and women back into ancient gender roles.
+Rather than being made in the image and likeness of God to minister to one another in marriage, men and women become as valueless as they were in the ancient world.
 See Aristotle's view of women to better understand ancient views about women and where this is all headed.
 
 !!! warning "Aristotle"
     The female is as it were a deformed male
 
-The consequences of activists and liberation movements have not empowered or liberated anyone, but instead degraded God-given human rights to "privileges", things granted by the powers and principalities, the false gods of our worship.
+The consequences of activists and liberation movements have not empowered or liberated anyone, but instead degraded God-given human rights into "privileges", things granted by the powers and principalities, the false gods of modern worship.
 We've even come to believe these false gods can take those "privileges" away.
 Always remember, human rights are God-given and can never be taken away by demonic powers.
 
@@ -229,26 +229,29 @@ Always remember, human rights are God-given and can never be taken away by demon
 
 ### Ancient "gods"
 
-As our modern worldview continues its nihilistic program, and we see the resurgence of ancient views, we will also see iconographic symbolism of ancient "gods" -- the emerging powers and principalities making themselves manifest.
+As our modern worldview continues its nihilistic program, we see the resurgence of ancient idols, symbols of ancient "gods". 
+These are the ancient powers and principalities making themselves manifest.
 
 Let's explore some examples.
 
 
 ???+ example "Kali Maa"
-    Kali is the Hindu goddess of destruction and creation.
     ![kali](/images/kali.jpg)
 
-    The "goddess" [Kali](https://en.m.wikipedia.org/wiki/Kali) in all her destructive devouring glory. We are witnessing exactly this spirit of Kali emerging in the west through feminism. We see this connection made explicit in 1972:
+[Kali](https://en.m.wikipedia.org/wiki/Kali) is the Hindu goddess of destruction and creation.
+And for reasons that should surprise no one, Kali symbolism is emerging in the decay of western secularism (which otherwise never had much Hindu influence).
+While this is arguably a perversion of orthodox Hinduism, the symbolism is clear and western feminists are appropriating Kali Maa quite explicitly.
 
+???+ example "Ms. magazine cover in 1972"
     ![kali-ms](/images/kali-ms.jpg)
 
-    And should anyone think this is benign and some misunderstanding or misrepresentation, here is more recent article that makes these claims [explicit](https://qz.com/1768545/hinduisms-kali-is-the-feminist-icon-the-world-desperately-needs):
+And should anyone think this is benign and some misunderstanding or misrepresentation, here is a more recent article that makes these claims [explicit](https://qz.com/1768545/hinduisms-kali-is-the-feminist-icon-the-world-desperately-needs):
 
-    > This makes Kali the feminist icon we need today, in that she is a complex figure of many contrasting traits, all of which are equally worthy expressions of female strength—unapologetic because it doesn’t even consider that there could be anything to apologise for.
+> This makes Kali the feminist icon we need today, in that she is a complex figure of many contrasting traits, all of which are equally worthy expressions of female strength—unapologetic because it doesn’t even consider that there could be anything to apologise for.
 
-Transforming the creative power of feminity and motherhood into a demon is perhaps not something we should explain away with cultural anthropology and moral relativism, nor symbolic rationalizations about how ancient Kali worship is misunderstood.
-The spirit symbolized by Kali iconography is very clear. It is demonic and completely unbounded by any pretense of goodness or truth.
-Try to articulate a truth claim about Kali that all cultures worshipping Kali would agree with.
+While a sincere scholar of Hinduism could say this is a "misunderstanding" of Kali, and of course that's true, but the spirit symbolized by Kali iconography is very clear. 
+It is demonic and completely unbounded by any pretense of goodness or truth.
+Try to articulate an honest truth claim about Kali that all cultures that worship Kali would agree with.
 What fruits do we see from Kali worship?
 
 
