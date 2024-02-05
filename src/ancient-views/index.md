@@ -295,6 +295,11 @@ And of course if we want to see the ultimate resurgence of the serpent, we have 
 ???+ example "Satan"
     ![satan](/images/satan.jpg)
 
+Modern use of satanic imagery has become so common as to be dull from an artistic perspective.
+It has become so predictable and ubiquitous that you're almost surprised when modern art or a music video doesn't feature explicit satanic imagery.
+
+
+
 
 Ancient Pagan views are the background for which we can best understand Christianity and how it succeeded against seemingly overwhelming opposition.
 
