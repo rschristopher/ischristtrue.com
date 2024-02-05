@@ -240,7 +240,7 @@ Always remember, human rights are God-given and can never be taken away by demon
 
 ### Ancient "gods"
 
-As our modern worldview continues its nihilistic program, we see the resurgence of ancient idols, symbols of ancient "gods". 
+As our modern worldview continues its nihilistic path, we see the resurgence of ancient idols, symbols of ancient "gods". 
 These are the ancient powers and principalities making themselves manifest.
 
 Let's explore some examples.
@@ -249,25 +249,27 @@ Let's explore some examples.
 ???+ example "Kali Maa"
     ![kali](/images/kali.jpg)
 
-[Kali](https://en.m.wikipedia.org/wiki/Kali) is the Hindu goddess of destruction and creation.
-And for reasons that should surprise no one, Kali symbolism is emerging in the decay of western secularism (which otherwise never had much Hindu influence).
-We see this intentionally in the [Rolling Stones Logo](https://en.m.wikipedia.org/wiki/Tongue_and_lips_logo), [Jungian archetypes](https://en.m.wikipedia.org/wiki/Jungian_archetypes) of the "devouring mother", and countless novels and comics.
+[Kali](https://en.m.wikipedia.org/wiki/Kali) is a Hindu goddess of destruction and creation.
+And for reasons that should surprise no one, Kali symbolism is emerging within western secularism (which otherwise never had much Hindu influence).
+We see this intentionally in the [Rolling Stones Logo](https://en.m.wikipedia.org/wiki/Tongue_and_lips_logo), as well as [Jungian archetypes](https://en.m.wikipedia.org/wiki/Jungian_archetypes) of the "devouring mother", as well as countless novels and comics.
 
 While this is arguably a perversion of orthodox Hinduism, the symbolism is clear and even western feminists are appropriating Kali Maa quite explicitly.
 
 ???+ example "Ms. magazine cover in 1972"
     ![kali-ms](/images/kali-ms.jpg)
 
-And should anyone think this is benign and some misunderstanding or misrepresentation, here is a more recent article that makes these claims [explicit](https://qz.com/1768545/hinduisms-kali-is-the-feminist-icon-the-world-desperately-needs):
+And should anyone think this is benign and some misunderstanding or misrepresentation, here is a more recent article that makes these claims very [explicit](https://qz.com/1768545/hinduisms-kali-is-the-feminist-icon-the-world-desperately-needs):
 
 > This makes Kali the feminist icon we need today, in that she is a complex figure of many contrasting traits, all of which are equally worthy expressions of female strength—unapologetic because it doesn’t even consider that there could be anything to apologise for.
 
-While a sincere scholar of Hinduism could say this is a blatant "misunderstanding" of Kali, and of course that's true, the spirit symbolized by Kali iconography is very clear within the nihilistic decay of western secularism. 
-It is demonic and completely unbounded by any pretense of goodness or truth.
+While a sincere scholar of Hinduism could say this is a blatant misunderstanding of Kali, and of course that's true, the symbolism of Kali is very clear. 
+Perhaps it's the scholars that are misunderstanding the deeper truth of Kali, especially if they can't explain why her image is suddenly so popular within the declining western culture.
+
+Kali imagery is clearly demonic and completely unbounded by any pretense of goodness or truth.
 Try to articulate an honest truth claim about Kali that all cultures that worship Kali would agree with.
 What fruits do we see from Kali worship?
 
-----
+Let's look at some other examples.
 
 ???+ example "Ouroboros"
     ![ouroboros](/images/ouroboros.jpg)
@@ -282,6 +284,13 @@ order out of chaos, ordo ab chao
 
 [alchemy](https://en.m.wikipedia.org/wiki/Alchemy) 
 
+???+ example "Leviathan, Behemoth, Ziz"
+    ![lev-beh-ziz](/images/lev-beh-ziz.jpg)
+
+???+ example "Leviathan and Behemoth by William Blake"
+    ![lev-beh](/images/lev-beh.jpg)
+
+And of course if we want to see the ultimate resurgence of the serpent, we have Satan.
 
 ???+ example "Satan"
     ![satan](/images/satan.jpg)
@@ -295,11 +304,7 @@ Ancient Pagan views are the background for which we can best understand Christia
     ![babel](/images/babel.jpg)
 
 
-???+ example "Leviathan, Behemoth, Ziz"
-    ![lev-beh-ziz](/images/lev-beh-ziz.jpg)
 
-???+ example "Leviathan and Behemoth by William Blake"
-    ![lev-beh](/images/lev-beh.jpg)
 
 ???+ example "Last Judgment"
     ![last-judgment](/images/last-judgment.jpg)
