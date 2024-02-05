@@ -198,13 +198,15 @@ We see today polygamy and
  and eunuchs (castrated men) and many many disposable men and women.
 We see abhorrent sexual behavior normalized and treated as if it's innovative and new, rather than more of the same ancient demonism.
 
-Secular "masculinity" is emasculating men into a pre-Christian archetype of slavish obedience to their "gods". This is clearly demonic and anti-Christian.
+Secular "masculinity" is emasculating men into a pre-Christian archetype of slavish obedience to their "gods" (whatever ideology they follow). 
+This in turn creates reactionary masculinity leading to violence.
+This is clearly demonic and anti-Christian.
 
 Similarly, secular feminity is diminishing the value of women, paradoxically replacing femininity with masculine energy as the only valuable energy (putting women in a decided disadvantage in the battle of the sexes they imagine themselves playing).
 Beauty and grace are replaced with fashion and idolatry, ironically played out most successfully by biological men pretending to be women (further reducing the value of women such that biological men routinely become "woman of the year").
 
-The end result of this game is to devalue men and women.
-Rather than being made in the image and likeness of God, men and women become as valueless as they were in the ancient world.
+The end result of this game is to devalue men and women back into ancient gender roles.
+Rather than being made in the image and likeness of God to minister to one another, men and women become as valueless as they were in the ancient world.
 See Aristotle's view of women to better understand ancient views about women and where this is all headed.
 
 !!! warning "Aristotle"
