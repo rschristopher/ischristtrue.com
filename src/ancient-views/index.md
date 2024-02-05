@@ -291,15 +291,19 @@ Ancient Pagan views are the background for which we can best understand Christia
 
 
 
-???+ "Tower of Babel"
+???+ example "Tower of Babel"
     ![babel](/images/babel.jpg)
 
 
-???+ "Leviathan, Behemoth, Ziz"
+???+ example "Leviathan, Behemoth, Ziz"
     ![lev-beh-ziz](/images/lev-beh-ziz.jpg)
 
-???+ "Leviathan and Behemoth by William Blake"
+???+ example "Leviathan and Behemoth by William Blake"
     ![lev-beh](/images/lev-beh.jpg)
+
+???+ example "Last Judgment"
+    ![last-judgment](/images/last-judgment.jpg)
+
 
 
 
