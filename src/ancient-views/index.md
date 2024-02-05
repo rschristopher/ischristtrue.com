@@ -256,13 +256,11 @@ It is demonic and completely unbounded by any pretense of goodness or truth.
 Try to articulate an honest truth claim about Kali that all cultures that worship Kali would agree with.
 What fruits do we see from Kali worship?
 
+----
 
+???+ example "Ouroboros"
+    ![ouroboros](/images/ouroboros.jpg)
 
- 
-
-Ancient Pagan views are the background for which we can best understand Christianity and how it succeeded against seemingly overwhelming opposition.
-
-animism, ancestor worship
 
 ouroboros
 
@@ -270,14 +268,22 @@ dualism
 
 order out of chaos, ordo ab chao
 
-great mother
-
 [monad](https://en.m.wikipedia.org/wiki/Monad_(philosophy)) 
 
 [Hermes Trismigestus](https://en.m.wikipedia.org/wiki/Hermes_Trismegistus) 
 
 [alchemy](https://en.m.wikipedia.org/wiki/Alchemy) 
 
+
+
+----
+
+
+
+
+Ancient Pagan views are the background for which we can best understand Christianity and how it succeeded against seemingly overwhelming opposition.
+
+animism, ancestor worship
 
 
 
