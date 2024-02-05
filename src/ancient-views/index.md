@@ -324,14 +324,7 @@ Ancient Pagan views are the background for which we can best understand Christia
 
 
 
-???+ example "Tower of Babel"
-    ![babel](/images/babel.jpg)
 
-
-
-
-???+ example "Last Judgment"
-    ![last-judgment](/images/last-judgment.jpg)
 
 
 
@@ -345,6 +338,20 @@ Ancient Pagan views are the background for which we can best understand Christia
 
 
 ## Messianic Age 
+
+
+
+???+ example "Tower of Babel"
+    ![babel](/images/babel.jpg)
+
+
+???+ example "Ladder of Divine Ascent"
+    ![ladder](/images/ladder.jpg)
+
+
+???+ example "Last Judgment"
+    ![last-judgment](/images/last-judgment.jpg)
+
 
 ...
 Fortunately, the ancient gods have no real power, and have already been defeated by Christ.
@@ -385,8 +392,7 @@ In other words, what is the orthodox worldview for subordinating pagan views?
     Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
 
 
-Christ is truth, meaning that through Christ truth is knowable, and the other worldviews are making deceptive and false claims -- these are fallen spirits with dominion over humans, but Christ rules in the midst of His enemies and we can let Christ into our hearts, saving our so
-uls.
+Christ is truth, meaning that through Christ truth is knowable, and the other worldviews are making deceptive and false claims -- these are fallen spirits with dominion over humans, but Christ rules in the midst of His enemies and we can let Christ into our hearts, saving our souls.
 
 
 
