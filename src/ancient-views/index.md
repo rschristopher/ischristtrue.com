@@ -261,10 +261,7 @@ What fruits do we see from Kali worship?
 ???+ example "Ouroboros"
     ![ouroboros](/images/ouroboros.jpg)
 
-
-ouroboros
-
-dualism
+The [ouroboros](https://en.m.wikipedia.org/wiki/Ouroboros), *that old serpent* eating its own tail.
 
 order out of chaos, ordo ab chao
 
