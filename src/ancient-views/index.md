@@ -220,9 +220,9 @@ See Aristotle's view of women to better understand ancient views about women and
 !!! quote "Aristotle"
     The female is as it were a deformed male
 
-The consequences of activists and liberation movements have not empowered or liberated anyone, but instead degraded God-given human rights into "privileges", things granted by the powers and principalities, the false gods of modern worship.
-We've even come to believe these false gods can take those "privileges" away.
-Always remember, human rights are God-given and can never be taken away by demonic powers.
+The consequences of modern activism and liberation movements have not empowered or liberated anyone, but instead degraded God-given human rights into "privileges", things granted by the powers and principalities, the false gods of modern worship.
+We've even come to believe these principalities can take those "privileges" away.
+Always remember that human rights are God-given and can never be taken away by demonic powers.
 
 
 
@@ -250,10 +250,10 @@ Let's explore some examples.
     ![kali](/images/kali.jpg)
 
 [Kali](https://en.m.wikipedia.org/wiki/Kali) is a Hindu goddess of destruction and creation.
-And for reasons that should surprise no one, Kali symbolism is emerging within western secularism (which otherwise never had much Hindu influence).
-We see this intentionally in the [Rolling Stones Logo](https://en.m.wikipedia.org/wiki/Tongue_and_lips_logo), as well as [Jungian archetypes](https://en.m.wikipedia.org/wiki/Jungian_archetypes) of the "devouring mother", as well as countless novels and comics.
+And for reasons that should surprise no one, Kali symbolism is emerging within modern western culture (which otherwise never had much Hindu influence).
+We see this intentionally in the [Rolling Stones Logo](https://en.m.wikipedia.org/wiki/Tongue_and_lips_logo), as well as in [Jungian archetypes](https://en.m.wikipedia.org/wiki/Jungian_archetypes) such as the "devouring mother", as well as in countless novels and comics.
 
-While this is arguably a perversion of orthodox Hinduism, the symbolism is clear and even western feminists are appropriating Kali Maa quite explicitly.
+While this is arguably a perversion of orthodox Hinduism, the symbolism is clear and even western feminists are appropriating Kali Maa.
 
 ???+ example "Ms. magazine cover in 1972"
     ![kali-ms](/images/kali-ms.jpg)
@@ -262,8 +262,8 @@ And should anyone think this is benign and some misunderstanding or misrepresent
 
 > This makes Kali the feminist icon we need today, in that she is a complex figure of many contrasting traits, all of which are equally worthy expressions of female strength—unapologetic because it doesn’t even consider that there could be anything to apologise for.
 
-While a sincere scholar of Hinduism could say this is a blatant misunderstanding of Kali, and of course that's true, the symbolism of Kali is very clear. 
-Perhaps it's the scholars that are misunderstanding the deeper truth of Kali, especially if they can't explain why her image is suddenly so popular within the declining western culture.
+While a sincere scholar of Hinduism could say this is a blatant misunderstanding of Kali, and of course that's true in the traditional usage of Kali, but the symbolism of Kali is very clear. 
+Perhaps it's the scholars that are misunderstanding Kali, especially if they can't explain why her image is suddenly so popular within the declining western culture.
 
 Kali imagery is clearly demonic and completely unbounded by any pretense of goodness or truth.
 Try to articulate an honest truth claim about Kali that all cultures that worship Kali would agree with.
@@ -275,22 +275,16 @@ Let's look at some other examples.
     ![ouroboros](/images/ouroboros.jpg)
 
 The [ouroboros](https://en.m.wikipedia.org/wiki/Ouroboros), *that old serpent* eating its own tail.
-
-[alchemy](https://en.m.wikipedia.org/wiki/Alchemy) 
-
-[Hermes Trismigestus](https://en.m.wikipedia.org/wiki/Hermes_Trismegistus) 
-
-Hermeticism and the modern worship of medical doctors and the 
+We see this imagery from ancient Egyptian and Babylonian culture, and all throughout the ancient world.
+It was associated with 
+[alchemy](https://en.m.wikipedia.org/wiki/Alchemy), such as in the mythos of
+[Hermes Trismigestus](https://en.m.wikipedia.org/wiki/Hermes_Trismegistus).
+This is also the background of Hermeticism and the modern worship of medical doctors and the 
  [caduceus](https://en.m.wikipedia.org/wiki/Caduceus), which is the staff of Hermes Trismigestus.
-
-[monad](https://en.m.wikipedia.org/wiki/Monad_(philosophy)) 
 
 order out of chaos, ordo ab chao
 
-???+ example "Leviathan, Behemoth, Ziz"
-    ![lev-beh-ziz](/images/lev-beh-ziz.jpg)
-
-[Leviathan](https://en.m.wikipedia.org/wiki/Leviathan)
+We see the ouroboros in ancient Christian views, primary in images of [Leviathan](https://en.m.wikipedia.org/wiki/Leviathan)
 
 The world serpent 
 
@@ -302,6 +296,9 @@ Typhon
 
 Hellmouth 
 
+???+ example "Leviathan, Behemoth, Ziz"
+    ![lev-beh-ziz](/images/lev-beh-ziz.jpg)
+
 [Behemoth](https://en.m.wikipedia.org/wiki/Behemoth)
 
 [Ziz](https://en.m.wikipedia.org/wiki/Ziz)
@@ -309,7 +306,12 @@ Hellmouth
 ???+ example "Leviathan and Behemoth by William Blake"
     ![lev-beh](/images/lev-beh.jpg)
 
-And of course if we want to see the ultimate resurgence of the serpent, we have Satan.
+
+
+[monad](https://en.m.wikipedia.org/wiki/Monad_(philosophy)) 
+
+
+And of course if we want to see the ultimate serpent imagery, we have Satan.
 
 ???+ example "Satan"
     ![satan](/images/satan.jpg)
@@ -318,9 +320,7 @@ Modern use of satanic imagery has become so common as to be dull from an artisti
 It has become so predictable and ubiquitous that you're almost surprised when modern art or a music video doesn't feature explicit satanic imagery.
 
 
-
-
-Ancient Pagan views are the background for which we can best understand Christianity and how it succeeded against seemingly overwhelming opposition.
+Ancient "gods" are the background for which we can best understand Christianity and how it succeeded against seemingly overwhelming opposition.
 
 
 
