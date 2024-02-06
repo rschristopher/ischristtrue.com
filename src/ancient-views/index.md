@@ -217,7 +217,7 @@ The end result of this nihilistic program is to devalue men and women back into 
 Rather than being made in the image and likeness of God to minister to one another in marriage, men and women become as valueless as they were in the ancient world.
 See Aristotle's view of women to better understand ancient views about women and where this is all headed.
 
-!!! warning "Aristotle"
+!!! quote "Aristotle"
     The female is as it were a deformed male
 
 The consequences of activists and liberation movements have not empowered or liberated anyone, but instead degraded God-given human rights into "privileges", things granted by the powers and principalities, the false gods of modern worship.
