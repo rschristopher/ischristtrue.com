@@ -368,9 +368,13 @@ This means -- necessarily -- that images of Christ allow us to see the image of 
 
 
 !!! quote "John 14:9"
-    Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?
+    Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? 
+
+    **he that hath seen me hath seen the Father**
+
+    and how sayest thou then, Shew us the Father?
     
-    ![icon-christ](/images/icon-christ.jpg)
+    <center>![icon-christ](/images/icon-christ.jpg)</center>
 
 The life of Christ, as He is both human and divine, allows us to know what is otherwise ineffable and transcendent. God ceases being an untouchable transcendent category and is revealed to us not just as a man but as relationships such that the *will* is a person (the Father), the *word* is a person (the Son), and the *love* from will to word (Father to Son) is a person.
 
@@ -434,9 +438,11 @@ Even today, accusations of "Mary worship" resound from protestants (iconoclasts 
 If anyone is deserving of honor (veneration), it is the mother of Christ, the Theotokos.
 
 !!! quote "Luke 1:28"
-    And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women.
+    And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: 
+
+    **blessed art thou among women**
     
-    ![icon-mary](/images/icon-mary.jpg)
+    <center>![icon-mary](/images/icon-mary.jpg)</center>
 
 Let's examine some of the iconoclastic reactions to icons of Mary:
 
@@ -482,13 +488,13 @@ The orthodox view is that the saints and the angels are praying for you, and by 
 Here are a few informative examples of icons of saints:
 
 ???+ example "Sts. Paul and Peter"
-    ![icon-paul-peter](/images/icon-paul-peter.jpg)
+    <center>![icon-paul-peter](/images/icon-paul-peter.jpg)</center>
 
     We see in this icon the spread of Christianity, the spread of Christ's church through the missions of Sts. Paul and Peter, reaching to the Gentiles and to the Jews alike. It is a mission that continues very much to this day.
 
 
 ???+ example "The Good Thief in Paradise"
-    ![icon-good-thief](/images/icon-good-thief.jpg)
+    <center>![icon-good-thief](/images/icon-good-thief.jpg)</center>
 
     One of my favorite icons is the traditional depiction of the good (or penitent) thief who was crucified alongside Christ.
     He is traditionally depicted as carrying his cross everywhere he goes, and as such stands out in any of the icons where he appears.
@@ -499,7 +505,7 @@ Here are a few informative examples of icons of saints:
 
 
 ???+ example "Parable of the Good Samaritan"
-    ![icon-good-samaritan](/images/icon-good-samaritan.jpeg)
+    <center>![icon-good-samaritan](/images/icon-good-samaritan.jpeg)</center>
 
     In this icon we have the parable of the good Samaritan. The parable itself is depicted, not a named saint, although in Christ's telling of this parable he seemed to be referring to an actual event (of a man traveling from Jerusalem to Jericho).
 

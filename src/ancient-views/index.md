@@ -247,7 +247,7 @@ Let's explore some examples.
 
 
 ???+ example "Kali Maa"
-    ![kali](/images/kali.jpg)
+    <center>![kali](/images/kali.jpg)</center>
 
 [Kali](https://en.m.wikipedia.org/wiki/Kali) is a Hindu goddess of destruction and creation.
 And for reasons that should surprise no one, Kali symbolism is emerging within modern western culture (which otherwise never had much Hindu influence).
@@ -256,7 +256,7 @@ We see this intentionally in the [Rolling Stones Logo](https://en.m.wikipedia.or
 While this is arguably a perversion of orthodox Hinduism, the symbolism is clear and even western feminists are appropriating Kali Maa.
 
 ???+ example "Ms. magazine cover in 1972"
-    ![kali-ms](/images/kali-ms.jpg)
+    <center>![kali-ms](/images/kali-ms.jpg)</center>
 
 And should anyone think this is benign and some misunderstanding or misrepresentation, that Kali isn't a feminist icon, here is a more recent article that makes these claims very [explicit](https://qz.com/1768545/hinduisms-kali-is-the-feminist-icon-the-world-desperately-needs):
 
@@ -273,7 +273,7 @@ What fruits do we see from Kali worship?
 Let's look at some other examples.
 
 ???+ example "Ouroboros"
-    ![ouroboros](/images/ouroboros.jpg)
+    <center>![ouroboros](/images/ouroboros.jpg)</center>
 
 Behold, the [ouroboros](https://en.m.wikipedia.org/wiki/Ouroboros), *that old serpent* eating its own tail.
 We see this imagery throughout the ancient world, especially in ancient Egyptian and Babylonian culture.
@@ -286,7 +286,7 @@ Which, incidentally, is also where we get Hermeticism and the modern worship of 
 We see the ouroboros in ancient Christian iconography in images of [Leviathan](https://en.m.wikipedia.org/wiki/Leviathan), sometimes described as the world serpent, a primordial dragon of chaos. We see the same imagery in Tiamat (Mesopotamian) and Typhon (Greek).
 
 ???+ example "Leviathan, Behemoth, Ziz"
-    ![lev-beh-ziz](/images/lev-beh-ziz.jpg)
+    <center>![lev-beh-ziz](/images/lev-beh-ziz.jpg)</center>
 
 That particular icon shows Leviathan in the classic ouroboros position, and also shows 
 [Behemoth](https://en.m.wikipedia.org/wiki/Behemoth),
@@ -297,7 +297,7 @@ Not all ancient images of Leviathan were as an ouroboros, sometimes Leviathan is
 But Leviathan is almost always a serpent.
 
 ???+ example "Leviathan and Behemoth by William Blake"
-    ![lev-beh](/images/lev-beh.jpg)
+    <center>![lev-beh](/images/lev-beh.jpg)</center>
 
 Sometimes, as in this William Blake artwork, an ouroboros-like motif is created using *both* Behemoth and Leviathan, making a kind of beastly *ying yang*, contrasting order and chaos in the form of primordial beasts
 (note the related the beasts from Book of Daniel and Book of Revelation).
@@ -319,7 +319,7 @@ Contrast this with the *broken ouroboros* imagery where there's a different orde
 Of course if we want to see the ultimate Luciferian serpent imagery (ouroboros or otherwise), we have "that old serpent" himself, Satan.
 
 ???+ example "Satan"
-    ![satan](/images/satan.jpg)
+    <center>![satan](/images/satan.jpg)</center>
 
 Modern use of satanic imagery has become so common as to become dull and hackneyed from an artistic perspective.
 It has become so predictable and ubiquitous in our culture that you're almost surprised when modern art or a music video doesn't feature explicit satanic imagery.
@@ -352,15 +352,15 @@ However, these ancient "gods" are the background for which we can best understan
 
 
 ???+ example "Tower of Babel"
-    ![babel](/images/babel.jpg)
+    <center>![babel](/images/babel.jpg)</center>
 
 
 ???+ example "Ladder of Divine Ascent"
-    ![ladder](/images/ladder.jpg)
+    <center>![ladder](/images/ladder.jpg)</center>
 
 
 ???+ example "Last Judgment"
-    ![last-judgment](/images/last-judgment.jpg)
+    <center>![last-judgment](/images/last-judgment.jpg)</center>
 
 
 [mark of the beast](https://www.orthodoxroad.com/the-mark-of-the-beast/) is a mockery of the divine mark (forehead as in faith, hand as in action)
