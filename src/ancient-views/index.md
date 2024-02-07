@@ -264,7 +264,7 @@ And should anyone think this is benign and some misunderstanding or misrepresent
     This makes Kali the feminist icon we need today, in that she is a complex figure of many contrasting traits, all of which are equally worthy expressions of female strength—unapologetic because it doesn’t even consider that there could be anything to apologise for.
 
 While a sincere scholar of Hinduism could say this is a blatant misunderstanding of Kali, and of course that's true in the sense that Hinduism isn't exactly very *feminist*, but the symbolism of Kali is very clear. 
-Perhaps it's the scholars that are misunderstanding Kali, especially if they can't explain why her image is suddenly so popular within the declining western culture.
+Perhaps it's the scholars that are misunderstanding Kali, especially if they can't explain why her image is suddenly so popular within the declining western culture (try explaining that without appealing to modern secularism as an ordering principle).
 
 Kali imagery is clearly demonic and completely unbounded by any pretense of goodness or truth.
 Try to articulate an honest truth claim about Kali that all cultures that worship Kali would agree with.
@@ -275,53 +275,62 @@ Let's look at some other examples.
 ???+ example "Ouroboros"
     ![ouroboros](/images/ouroboros.jpg)
 
-The [ouroboros](https://en.m.wikipedia.org/wiki/Ouroboros), *that old serpent* eating its own tail.
-We see this imagery from ancient Egyptian and Babylonian culture, and all throughout the ancient world.
-It was associated with 
+Behold, the [ouroboros](https://en.m.wikipedia.org/wiki/Ouroboros), *that old serpent* eating its own tail.
+We see this imagery throughout the ancient world, especially in ancient Egyptian and Babylonian culture.
+It was also associated with 
 [alchemy](https://en.m.wikipedia.org/wiki/Alchemy), such as in the mythos of
 [Hermes Trismigestus](https://en.m.wikipedia.org/wiki/Hermes_Trismegistus).
-This is also the background of Hermeticism and the modern worship of medical doctors and the 
- [caduceus](https://en.m.wikipedia.org/wiki/Caduceus), which is the staff of Hermes Trismigestus.
+Which, incidentally, is also where we get Hermeticism and the modern worship of medical doctors, with the 
+ [caduceus](https://en.m.wikipedia.org/wiki/Caduceus) icon, which is the staff of Hermes Trismigestus (note in this case the serpents are bound to the staff, explicitly breaking the ouroboros)
 
-order out of chaos, ordo ab chao
-
-We see the ouroboros in ancient Christian views, primary in images of [Leviathan](https://en.m.wikipedia.org/wiki/Leviathan)
-
-The world serpent 
-
-Dragon
-
-Tiamat
-
-Typhon 
-
-Hellmouth 
+We see the ouroboros in ancient Christian iconography in images of [Leviathan](https://en.m.wikipedia.org/wiki/Leviathan), sometimes described as the world serpent, a primordial dragon of chaos. We see the same imagery in Tiamat (Mesopotamian) and Typhon (Greek).
 
 ???+ example "Leviathan, Behemoth, Ziz"
     ![lev-beh-ziz](/images/lev-beh-ziz.jpg)
 
-[Behemoth](https://en.m.wikipedia.org/wiki/Behemoth)
+That particular icon shows Leviathan in the classic ouroboros position, and also shows 
+[Behemoth](https://en.m.wikipedia.org/wiki/Behemoth),
+the great primordial beast, and also
+[Ziz](https://en.m.wikipedia.org/wiki/Ziz) -- a lesser known creature (that is, Ziz has not yet nade in an explicit resurgence in our declining culture).
 
-[Ziz](https://en.m.wikipedia.org/wiki/Ziz)
+Not all ancient images of Leviathan were as an ouroboros, sometimes Leviathan is depicted as a "hellmouth", literally eating damned souls.
+But Leviathan is almost always a serpent.
 
 ???+ example "Leviathan and Behemoth by William Blake"
     ![lev-beh](/images/lev-beh.jpg)
 
+Sometimes, as in this William Blake artwork, an ouroboros-like motif is created using *both* Behemoth and Leviathan, making a kind of beastly *ying yang*, contrasting order and chaos in the form of primordial beasts
+(note the related the beasts from Book of Daniel and Book of Revelation).
 
+The key to understanding the ouroboros is that it represents cyclical completion. It explicitly represents a
+ [Luciferian](https://en.m.wikipedia.org/wiki/Luciferianism)
+ worldview where creation is complete and total in and of itself, requiring no external creator (neither essence nor energy), that nothing is uncreated.
+The serpent in an ouroboros is sufficient in and of itself (needing nothing else).
 
-[monad](https://en.m.wikipedia.org/wiki/Monad_(philosophy)) 
+Not only do we see *ouroboros* iconography resurging in modern culture, it is usually part of a broader Luciferian resurgence.
+Here's an explicit example from 1971,
 
+!!! quote "Saul Alinsky, Rule for Radicals"
+    Lest we forget at least an over-the-shoulder acknowledgment to the very first radical: from all our legends, mythology, and history (and who is to know where mythology leaves off and history begins or which is which), the first radical known to man who rebelled against the establishment and did it so effectively that he at least won his own kingdom – Lucifer
 
-And of course if we want to see the ultimate serpent imagery, we have Satan.
+An easy way to understand *serpent* iconography is as a primordial chaos, and when in an ouroboros position it is explicitly Luciferian, or at least trying to be.
+Contrast this with the *broken ouroboros* imagery where there's a different ordering principle, typically a staff (such as the staff of Moses from Exodus, or the staff of Hermes Trismigestus) but also on the cross where Christianity is explicitly breaking the ouroboros and putting the serpent in its place under a divine ordering principle (uniting the heavens with the world).
+
+Of course if we want to see the ultimate Luciferian serpent imagery (ouroboros or otherwise), we have "that old serpent" himself, Satan.
 
 ???+ example "Satan"
     ![satan](/images/satan.jpg)
 
-Modern use of satanic imagery has become so common as to be dull from an artistic perspective.
-It has become so predictable and ubiquitous that you're almost surprised when modern art or a music video doesn't feature explicit satanic imagery.
+Modern use of satanic imagery has become so common as to become dull and hackneyed from an artistic perspective.
+It has become so predictable and ubiquitous in our culture that you're almost surprised when modern art or a music video doesn't feature explicit satanic imagery.
+When not using explicit imagery, the themes of modern stories often follow the Luciferian theme, "you can be anything you want", "you are what you dream", and so on.
 
-
-Ancient "gods" are the background for which we can best understand Christianity and how it succeeded against seemingly overwhelming opposition.
+The list of ancient "gods" (Satan included) will seem endless, but in all you'll find deceit and confusion -- such as with Kali or Satan or even the ancient myths like Prometheus.
+When you try to pin down an objective truth claim (what is its exact meaning and purpose?) you'll never really get a complete answer, but always vague inferences, such as themes of power and influence, order out of chaos, etc.
+And to be clear, these are the ancient "gods" in all their deceitful glory -- there is never objective knowable truth when dealing with them, never explicit meaning to life.
+This is the case whether you're studying Jungian archetypes, or attempting to worship pagan gods directly, or indirectly as in the [modern](../modern-views/index.md) worldview.
+It's always deceit.
+However, these ancient "gods" are the background for which we can best understand Christianity and how it succeeded against seemingly overwhelming opposition.
 
 
 
