@@ -116,22 +116,25 @@ We are thus experiencing powers and principalities that early Christians  unders
 
 ## Return of ancient worldviews 
 
-Ancient worldviews all share a basic presupposition: there is no objective knowable truth, reality is determined by the gods to which mankind is but a plaything.
+Ancient worldviews all share a basic presupposition: there is no objective knowable truth, and qreality is determined by the gods to which mankind is but a plaything.
 
 It was in this context that Judaism changed everything in the ancient world.
 The first innovation of Judaism was the radical assertion that man is created in the image and likeness of the creator of the universe.
 This was an outrageous claim.
 Ancient worldviews understood that man was nothing to the gods but at most idle amusement like a child playing with ants.
-The second innovation was a monotheistic God who was transcendent to creation, to the "gods" of worldly worship.
-In fact, those "gods" turned out to be fallen spirits in the Jewish worldview.
-And explicit in the Jewish worldview was universal human rights and dignity (which propagated into the entire world with the success of Christianity).
 
-The modern enlightenment worldview attempted to maintain the Christian ethic but without Christ.
+The second innovation was a monotheistic God who was transcendent to creation, transcendent to the "gods" of worldly worship, and yet loves us and is knowable to us thru revelation.
+Those "gods" we worshipped turned out to be fallen spirits.
+And explicit in this worldview was universal human rights and dignity (which propagated into the entire world with the success of Christianity).
+This is why Israel was to be a nation of priests, a model for the rest of the world, a model of freeing ourselves fron the "gods" who held dominion over us.
+
+The modern enlightenment worldview attempted to maintain these Judeo+Christian fruits but without God (without Christ).
 In our pride we wanted to dispense with God but keep the morality of being created in the image and likeness of God.
 Even today, hard-nosed atheists will often use a Christian ethic to criticize modern Christianity.
-Unfortunately, as we follow the nihilistic depredation of truth, we're left with moral relativism and a return of pre-Christian morality.
+Unfortunately, as we follow the nihilistic degradation of truth, we're left with moral relativism and a return of ancient morality.
 
-To be clear: there is no ancient pre-Jewish sources for universal human rights and dignity. There was caste systems, slavery, and oppression from "gods" and their various priests. There was genocide, cannibalism, and ritualized child sacrifice. We were ruled by principalities and powers. Demonic spirits didn't just tempt us, they had real power over our lives and our bodies, even the lives of our children.
+To be clear: there is no ancient pre-Jewish sources for universal human rights and dignity. 
+There was caste systems, slavery, and oppression from "gods" and their various priests. There was genocide, cannibalism, and ritualized child sacrifice. We were ruled by principalities and powers. Demonic spirits didn't just tempt us, they had real power over our lives and our bodies, even the lives of our children.
 
 The ancient pre-Christian world did not recognize any implicit value to human life. 
 A person's value was was granted by the gods (the principalities that ruled over us), which meant that there can be no inalienable rights, and no intrinsic value to a human life, which is exactly what is resurfacing today.
@@ -156,20 +159,20 @@ We mistakenly believe this is something new, some kind of technological fascism,
 
 ### Ancient sexual idolatry 
 
-Sex and gender roles in ancient times were about survival in a world of gods that cared little about our survival (if not openly antagonist to our survival).
+Sex and gender roles in ancient times were about survival in a world of "gods" that cared little about our survival (if not openly antagonist to our survival).
 Polygamy was the norm, not marriage as we understand it today. 
 There were harems, eunuchs, homosexuality, and pedophilia -- all completely normalized.
 These weren't immoral things, because the ruling principalities embraced and encouraged them.
 
 There was also procreation with these "gods", such as the ubiquitous god-kings of the ancient world, or what the Bible refers to as Nephilim.
 
-We are witnessing the re-emergence of this ancient sexual idolatry. 
+We are today witnessing the re-emergence of this ancient sexual idolatry. 
 Modern "intellectuals" and activists talk of "the patriarchy", and the latest destructive revolution is to "dismantle the patriarchy", or to "decolonize" whatever institution they believe has power and influence (a euphemistic way to say: let's take over the institutions).
 
 But what are the fruits of these activist movements?
 
 Modern progressive will claim that all the rights women now enjoy are due to this activism, completely ignoring that human rights and dignity were due to a prior generation's Christian ethic (the very rights that modern activism is eroding). 
-The modern activists have instead brought us wide-scale chemical castration, genital mutilation, normalization of sexual deviance (making one's sexual desire an idol), and the dismantling of knowable truth, to name but a few of the nihilistic fruits of our modern views.
+The modern activists have instead brought us wide-scale chemical castration, genital mutilation, normalization of sexual deviance (making one's sexual desire an idol), and the dismantling of knowable truth, to name but a few of the nihilistic fruits.
 
 This is a clear regression into ancient sexual idolatry, where once dormant spirits are resurfacing as principles of worship.
 
@@ -188,13 +191,13 @@ This is a clear regression into ancient sexual idolatry, where once dormant spir
 
 ### Ancient gender roles
 
-We imagine today that there's an ongoing battle of the sexes -- male versus female -- while simultaneously denying a gender binary. 
+We imagine today that there's an ongoing battle of the sexes -- *male versus female* -- while simultaneously denying a gender binary. 
 Masculinity is considered "toxic" unless it's coming from a women, which then makes her "brave". 
 Femininity is scorned unless it's aped by a man identifying as a woman.
 
-To an enlightenment-era rationalist this would all seems absurd, but that's because rationalism fails to account for this very real phenomena.
+To an enlightenment-era rationalist this would all seem absurd, but that's because rationalism fails to account for this very real phenomena.
 However, if we look to ancient worldviews then this all makes perfect sense.
-This absurdity merely reflects the ancient gender roles resurfacing.
+This absurdity merely reflects the ancient gender roles resurfacing, specifically where men and women become playthings of ancient gods.
 
 We can find the "battle of the sexes" rhetoric emerging in the industrial revolution and in the so-called age of enlightenment.
 Importantly, this rhetoric did not exist in early Christianity nor in Judaism.
@@ -204,8 +207,9 @@ The industrial revolution increasingly took fathers out of the family business (
  (where tractors changed the economic reality of family farms). 
 And as this trend continued (breaking up families) so too emerged feminist attacks on masculinity. 
 
-Consider that every "wave" of feminism was *proceeded* by erosions to the nuclear family.
-And just as modern "intellectuals" explain this as progress, we saw enlightenment-era "intellectuals" rationalizing these problems in Darwinian terms, that men had dominated women in an evolutionary sense. 
+Consider that every "wave" of feminism was *preceded* by erosions to the nuclear family.
+And just as modern "intellectuals" explain this as progress, earlier enlightenment-era "intellectuals" rationalized these problems in Darwinian terms, that men had dominated women in an evolutionary sense.
+They believed that men won that battle of the sexes (a demonic trick, a lose/lose battle distracting from the erosion of families and hunan rights).
 
 This ongoing breakdown of families results in the emergence of ancient gender roles. 
 We see today polygamy and 
@@ -227,8 +231,11 @@ See Aristotle's view of women to better understand ancient views about women and
 !!! quote "Aristotle"
     The female is as it were a deformed male
 
+Ironic that we're now seeing men deform themselves and pretending to be women.
+
 The consequences of modern activism and liberation movements have not empowered or liberated anyone, but instead degraded God-given human rights into "privileges", things granted by the powers and principalities, the false gods of modern worship.
 We've even come to believe these principalities can take those "privileges" away.
+
 Always remember that human rights are God-given and can never be taken away by demonic powers.
 
 
