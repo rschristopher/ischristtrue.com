@@ -15,8 +15,8 @@ Lord, grant me wisdom and the articulation of the truth that is Christ Jesus
 Our [modern](../modern-views/index.md) worldview of enlightenment and secularism is blatantly failing; failing not only to advance civilization but also failing to sustain civilization.
 We all feel this on a gut level, as if there's forces at work actively seeking to harm us.
 We can blame globalism or populism or whatever machination of political elites, but these are mere symptoms, the rotten fruits of a deeper nihilism.
-As a result of our failing worldview, we should expect an inevitable resurgence of ancient worldviews as we seek answers to the fundamental questions that our modern worldview view simply cannot answer.
 
+As a result of our failing worldview, we should expect an inevitable resurgence of ancient worldviews as we seek answers to the fundamental questions that our modern worldview view simply cannot answer.
 To be clear, this is not a voluntary return to ancient religions.
 Ancient worldviews are returning to us whether we like it or not.
 These are ancient patterns of reality that are manifesting in the midst of the decay of western civilization.
@@ -65,7 +65,7 @@ An interesting trait of the
  [enlightenment](../modern-views/enlightenment.md) worldview is that it assumes ancient worldviews were superstitious and incomplete, products of "less evolved" and "pre-scientific" thinking.
 In the enlightenment worldview we imagine there's a list of different religious systems that we can pick and choose from, defaulting to "none" (as atheists are want to do).
 We then imagine that people of other religions are those who chose differently, usually defaulting to the religion they were born into.
-This approach only works when everyone in a society agrees to the enlightenment worldview as a higher principle to all other worldviews.
+This approach only works when everyone in a society agrees to the enlightenment worldview as a higher principle to subordinate all other worldviews.
 
 
 
@@ -81,15 +81,20 @@ This approach only works when everyone in a society agrees to the enlightenment 
 ## Failure of the modern worldview
 
 Western civilization was born from a Christian worldview.
-Unfortunately, we succumbed to pride, starting in the age of scholasticism and again in the [enlightenment](../modern-views/enlightenment.md), which produced our modern rationalistic secular worldview, denying God and it is now producing nihilism.
-Our secular worldview had been subordinating ancient worldviews, pushing them beneath our own intellect and passions.
-When we claim ancient worldviews are "superstitious nonsense", we are presupposing knowable objective truth, that we *know* what is and what is not truth (and thus what is nonsense).
-Ironically, this nihilistic worldview has become the default worldview that we in our modern age are born into (worship of self).
+Unfortunately, we succumbed to pride, starting in the age of scholasticism and again in the [enlightenment](../modern-views/enlightenment.md), which produced our modern rationalistic secular worldview, denying God, which produces nihilism.
+We obviously wanted to keep the fruits of Christendom (the morality, the epistemology, even the subordinating principle to make sense of other worldviews), but without God, and we wanted to avoid nihilism.
+We thought we had it.
+Our secular worldview has been trying to subordinate ancient worldviews, pushing them beneath our own intellect and passions.
+But it is failing, and thus nihilism has become inevitable.
 
-This is why we've seen so many shallow modern religions in western culture, because we are subordinating the ancient religious traditions of our ancestors into our secularism.
+When we claim ancient worldviews are "superstitious nonsense", we are presupposing knowable objective truth, that we *know* what is and what is not truth (and thus what is nonsense).
+As we fall into nihilism we increasingly lose that subordinating principle, and we can't really discern truth from nonsense (as truth becomes relative).
+Ironically, this nihilistic worldview has become the default worldview that we in our modern age are born into (our culture went from no one believing nonsense to now everybody believing nonsense and trying to keep an open mind about it).
+
+This is why we've seen so many shallow modern religions in our modern culture, because we are subordinating the ancient religious traditions of our ancestors into this nihilistic secularism.
 This is why, for example, so many people in modern churches don't seem to actually believe what they're preaching (because they don't believe it -- if they did they would behave very differently).
 
-So what happens when this subordinating principle fails, when we can't subordinate the ancient gods beneath our intellect and passions? What happens when those competing worldviews (the ancient gods) are no longer subordinated?
+So what happens when this subordinating principle fails completely, when we can't subordinate the ancient gods beneath our intellect and passions? What happens when those competing worldviews (the ancient gods) are no longer subordinated at all?
 
 We are living through exactly such a failure.
 As modernism gives way to postmodernism and nihilism, that is, the rejection of knowable objective truth, than gone too is the subordinating principle that kept those ancient worldviews bound to their respective mythology textbooks.
@@ -97,6 +102,8 @@ We are thus experiencing powers and principalities that early Christians  unders
 
 !!! quote "Ephesians 6:12"
     For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
+
+
 
 
 
@@ -299,12 +306,12 @@ But Leviathan is almost always a serpent.
 ???+ example "Leviathan and Behemoth by William Blake"
     <center>![lev-beh](/images/lev-beh.jpg)</center>
 
-Sometimes, as in this William Blake artwork, an ouroboros-like motif is created using *both* Behemoth and Leviathan, making a kind of beastly *yin-yang*, contrasting order and chaos in the form of primordial beasts
-(note the related beasts from Book of Daniel and Book of Revelation).
+Sometimes, as in this William Blake artwork, an ouroboros-like motif is created using *both* Behemoth and Leviathan, making a kind of beastly *[yin-yang](https://en.m.wikipedia.org/wiki/Yin_and_yang)*, contrasting order and chaos in the form of primordial beasts
+(note the related beasts from the Book of Daniel and Book of Revelation).
 
 The key to understanding the ouroboros is that it represents cyclical completion. It explicitly represents a
  [Luciferian](https://en.m.wikipedia.org/wiki/Luciferianism)
- worldview where creation is complete and total in and of itself, requiring no external creator (neither essence nor energy), that nothing is uncreated.
+ worldview where creation is complete and total, self-sustaining in and of itself, requiring no external creator (neither essence nor energy), that nothing is uncreated.
 The serpent in an ouroboros is sufficient in and of itself (needing nothing else).
 
 Not only do we see *ouroboros* iconography resurging in modern culture, it is usually part of a broader Luciferian resurgence.
