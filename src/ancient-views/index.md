@@ -12,11 +12,11 @@ Protect me from the evil one.
 Lord, grant me wisdom and the articulation of the truth that is Christ Jesus 
 -->
 
-Our [modern](../modern-views/index.md) worldview of enlightenment and secularism is blatantly failing; failing not only to advance civilization but also failing to sustain civilization.
+Our [modern](../modern-views/index.md) worldview is failing; failing not only to advance civilization but also failing to sustain civilization.
 We all feel this on a gut level, as if there's forces at work actively seeking to harm us.
 We can blame globalism or populism or whatever machination of political elites, but these are mere symptoms, the rotten fruits of a deeper nihilism.
 
-As a result of our failing worldview, we should expect an inevitable resurgence of ancient worldviews as we seek answers to the fundamental questions that our modern worldview view simply cannot answer.
+As a result of our failing worldview, there is an inevitable resurgence of ancient worldviews.
 To be clear, this is not a voluntary return to ancient religions.
 Ancient worldviews are returning to us whether we like it or not.
 These are ancient patterns of reality that are manifesting in the midst of the decay of western civilization.
@@ -37,7 +37,7 @@ It is how we "make sense" of the world.
 This includes the patterns of reality that we participate in.
 
 All worldviews attempt to "make sense" of all other worldviews, subordinating those competing worldviews under a unifying principle.
-These are attempts at integrating all observed behavior and phenomena into a coherent model that "makes sense" of everything (including the existence of different worldviews).
+These are attempts at integrating all observed behavior and phenomena into a coherent model that "makes sense" of reality (including the existence of different worldviews).
 
 
 !!! example "pantheons and archetypes"
@@ -45,13 +45,14 @@ These are attempts at integrating all observed behavior and phenomena into a coh
     
     * The Romans added the gods of conquered people to their pantheon, subordinating the foreign gods (competing worldviews) under Rome: worshipping those gods in temples and giving them Latin names, e.g., Athena became Minerva, Zeus became Jupiter, etc.
     
-    * Our modern worldview subordinates competing worldviews by falsification and secularism, e.g., we claim Zeus and Athena are not real, that they're make believe, but that everyone is still free to practice whatever religion they want. Note the presupposition of knowable objective truth in this view.
+    * Our modern worldview subordinates competing worldviews by falsification and secularism, e.g., we claim Zeus and Athena are not real, mere archetypes, but that everyone is still free to practice whatever religion they want. Note the presupposition of knowable objective truth in this view.
 
-Worldviews are not optional, and there is no "neutral" nor "unbiased" worldview.
+Worldviews are not optional.
+There is no "neutral" nor "unbiased" worldview.
 Everything we experience and understand is based on our current worldview.
 This includes moral judgments, purpose, meaning, and knowledge about ourselves and the universe.
 
-Worldviews are not thoughts nor mere beliefs. 
+Worldviews are not thoughts nor beliefs. 
 We cannot think our way into a new worldview. 
 Worldviews are the presuppositions needed to even have thoughts.
 We adopt new worldviews only as a psychological reaction to persistent anomalies in our existing worldview. 
@@ -59,13 +60,15 @@ A worldview is in a sense empirically validated by its coherence and lack of ano
 
 If we experience anomalies (things that don't make sense) we will seek to integrate the anomalous phenomena into our worldview -- failure to do so results in a kind of existential crisis (and hysteria) until a new worldview is adopted which can better make sense of the new phenomena.
 
-Worldviews are not all equal. Some are clearly more survivable and amenable to human flourishing than others.
+Worldviews are not all equal. 
+Some are clearly more survivable and amenable to human flourishing than others.
+
 An interesting trait of the 
  [modern](../modern-views/index.md)
  [enlightenment](../modern-views/enlightenment.md) worldview is that it assumes ancient worldviews were superstitious and incomplete, products of "less evolved" and "pre-scientific" thinking.
 In the enlightenment worldview we imagine there's a list of different religious systems that we can pick and choose from, defaulting to "none" (as atheists are want to do).
 We then imagine that people of other religions are those who chose differently, usually defaulting to the religion they were born into.
-This approach only works when everyone in a society agrees to the enlightenment worldview as a higher principle to subordinate all other worldviews.
+This approach only works when everyone in a society agrees to the enlightenment worldview, but then as everyone adopts this worldview they simultaneously descend into nihilism (as we are witnessing in western culture).
 
 
 
@@ -81,17 +84,19 @@ This approach only works when everyone in a society agrees to the enlightenment 
 ## Failure of the modern worldview
 
 Western civilization was born from a Christian worldview.
-Unfortunately, we succumbed to pride, starting in the age of scholasticism and again in the [enlightenment](../modern-views/enlightenment.md), which produced our modern rationalistic secular worldview, denying God, which produces nihilism.
-We obviously wanted to keep the fruits of Christendom (the morality, the epistemology, even the subordinating principle to make sense of other worldviews), but without God, and we wanted to avoid nihilism.
+Unfortunately, we succumbed to pride, starting in the age of scholasticism and again during the [enlightenment](../modern-views/enlightenment.md), which produced our rationalistic secular worldview, denying God, which produces nihilism.
+We obviously wanted to keep the fruits of Christendom (the morality, the epistemology, even the subordinating principle to make sense of other worldviews), but without God.
 We thought we had it.
 Our secular worldview has been trying to subordinate ancient worldviews, pushing them beneath our own intellect and passions.
 But it is failing, and thus nihilism has become inevitable.
 
 When we claim ancient worldviews are "superstitious nonsense", we are presupposing knowable objective truth, that we *know* what is and what is not truth (and thus what is nonsense).
 As we fall into nihilism we increasingly lose that subordinating principle, and we can't really discern truth from nonsense (as truth becomes relative).
-Ironically, this nihilistic worldview has become the default worldview that we in our modern age are born into (our culture went from no one believing nonsense to now everybody believing nonsense and trying to keep an open mind about it).
+Ironically, this nihilistic worldview has become the default worldview that we are born into.
+Our culture went from no one believing nonsense to now everybody believing nonsense and trying to keep an open mind about it.
 
-This is why we've seen so many shallow modern religions in our modern culture, because we are subordinating the ancient religious traditions of our ancestors into this nihilistic secularism.
+This is why we've seen so many shallow religions in our modern culture. 
+We are subordinating the ancient religious traditions of our ancestors into this nihilistic secularism.
 This is why, for example, so many people in modern churches don't seem to actually believe what they're preaching (because they don't believe it -- if they did they would behave very differently).
 
 So what happens when this subordinating principle fails completely, when we can't subordinate the ancient gods beneath our intellect and passions? What happens when those competing worldviews (the ancient gods) are no longer subordinated at all?
@@ -118,7 +123,7 @@ We are thus experiencing powers and principalities that early Christians  unders
 
 Ancient worldviews all share a basic presupposition: there is no objective knowable truth, reality is determined by the gods to which mankind is but a plaything.
 
-It was in this context that Judaism changed everything in the ancient world.
+It was in this context that Judaism changed everything.
 The first innovation of Judaism was the radical assertion that man is created in the image and likeness of the creator of the universe.
 This was an outrageous claim.
 Ancient worldviews understood that man was nothing to the gods but at most idle amusement like a child playing with ants.
@@ -128,18 +133,18 @@ Those "gods" we worshipped turned out to be fallen spirits.
 And explicit in this worldview was universal human rights and dignity (which propagated into the entire world with the success of Christianity).
 This is why Israel was to be a nation of priests, a model for the rest of the world, a model of freeing ourselves from the "gods" who held dominion over us.
 
-The modern enlightenment worldview attempted to maintain these Judeo+Christian fruits but without God (without Christ).
+The modern enlightenment worldview attempted to maintain these Judeo-Christian fruits but without God (without Christ).
 In our pride we wanted to dispense with God but keep the morality of being created in the image and likeness of God.
-Even today, hard-nosed atheists will often use a Christian ethic to criticize modern Christianity.
+Even today, hard-nosed atheists will use a Christian ethic to criticize modern Christianity.
 Unfortunately, as we follow the nihilistic degradation of truth, we're left with moral relativism and a return of ancient morality.
 
 To be clear: there is no ancient pre-Jewish sources for universal human rights and dignity. 
 There was caste systems, slavery, and oppression from "gods" and their various priests. There was genocide, cannibalism, and ritualized child sacrifice. We were ruled by principalities and powers. Demonic spirits didn't just tempt us, they had real power over our lives and our bodies, even the lives of our children.
 
 The ancient pre-Christian world did not recognize any implicit value to human life. 
-A person's value was was granted by the gods (the principalities that ruled over us), which meant that there can be no inalienable rights, and no intrinsic value to a human life, which is exactly what is resurfacing today.
+A person's value was granted by the gods (the principalities that ruled over us), which meant that there can be no inalienable rights, and no intrinsic value to a human life, which is exactly what is resurfacing today.
 
-To be clear, what is emerging today as our modern worldview caves into nihilism, is the erosion of human value and human rights, and the emergence of powers and principalities that have dominion over us (where rights become privileges, all at the whims of systems that no one quite understands).
+To be clear, what is emerging today is the erosion of human value and human rights, and the emergence of powers and principalities that have dominion over us (where rights become privileges, all at the whims of systems that no one quite understands).
 We mistakenly believe this is something new, some kind of technological fascism, but it turns out, it is very ancient.
 
 
@@ -162,14 +167,14 @@ We mistakenly believe this is something new, some kind of technological fascism,
 Sex and gender roles in ancient times were about survival in a world of "gods" that cared little about our survival (if not openly antagonist to our survival).
 Polygamy was the norm, not marriage as we understand it today. 
 There were harems, eunuchs, homosexuality, and pedophilia -- all completely normalized.
-These weren't immoral things, because the ruling principalities embraced and encouraged them.
+These weren't immoral behaviors, because the ruling principalities embraced and encouraged them.
 
 There was also procreation with these "gods", such as the ubiquitous god-kings of the ancient world, or what the Bible refers to as Nephilim.
 
 We are today witnessing the re-emergence of this ancient sexual idolatry. 
 Modern "intellectuals" and activists talk of "the patriarchy", and the latest destructive revolution is to "dismantle the patriarchy", or to "decolonize" whatever institution they believe has power and influence (a euphemistic way to say: let's take over the institutions).
 
-But what are the fruits of these activist movements?
+What are the fruits of these activist movements?
 
 Modern progressive will claim that all the rights women now enjoy are due to this activism, completely ignoring that human rights and dignity were due to a prior generation's Christian ethic (the very rights that modern activism is eroding). 
 The modern activists have instead brought us wide-scale chemical castration, genital mutilation, normalization of sexual deviance (making one's sexual desire an idol), and the dismantling of knowable truth, to name but a few of the nihilistic fruits.
@@ -197,12 +202,12 @@ Femininity is scorned unless it's aped by a man identifying as a woman.
 
 To an enlightenment-era rationalist this would all seem absurd, but that's because rationalism fails to account for this very real phenomena.
 However, if we look to ancient worldviews then this all makes perfect sense.
-This absurdity merely reflects the ancient gender roles resurfacing, specifically where men and women become playthings of ancient gods.
+The absurd behavior merely reflects the ancient gender roles resurfacing, specifically where men and women become playthings of ancient gods.
 
 We can find the "battle of the sexes" rhetoric emerging in the industrial revolution and in the so-called age of enlightenment.
 Importantly, this rhetoric did not exist in early Christianity nor in Judaism.
 
-The industrial revolution increasingly took fathers out of the family business (mostly farms) and into factories, a trend we see exacerbated during periods such as the 
+The industrial revolution increasingly took fathers out of the family business (mostly farms) and put them into factories, a trend we see exacerbated during periods such as the 
  *Great Depression* 
  (where tractors changed the economic reality of family farms). 
 And as this trend continued (breaking up families) so too emerged feminist attacks on masculinity. 
@@ -217,14 +222,14 @@ We see today polygamy and
  and eunuchs (castrated men) and many many disposable men and women.
 We see abhorrent sexual behavior normalized and treated as if it's innovative and new, rather than more of the same ancient demonism.
 
-Secular "masculinity" is emasculating men into a pre-Christian archetype of slavish obedience to the powers and principalities ruling over us. 
+Secular "masculinity" is to emasculate men into a pre-Christian archetype of slavish obedience to the powers and principalities ruling over us. 
 This in turn creates reactionary masculinity leading to violence which only strengthens the principalities.
 This is clearly demonic and anti-Christian.
 
 Similarly, secular feminity is diminishing the value of women, paradoxically replacing femininity with masculine energy as the only valuable energy (putting women in a decided disadvantage in the battle of the sexes they imagine themselves playing).
 Beauty and grace are replaced with fashion and idolatry, ironically played out most successfully by biological men pretending to be women (further reducing the value of women such that biological men now routinely become "woman of the year").
 
-The end result of this nihilistic program is to devalue men and women back into ancient gender roles.
+The end result of this nihilistic program is to devalue men and women back into their ancient gender roles.
 Rather than being made in the image and likeness of God to minister to one another in marriage, men and women become as valueless as they were in the ancient world.
 See Aristotle's view of women to better understand ancient views about women and where this is all headed.
 
