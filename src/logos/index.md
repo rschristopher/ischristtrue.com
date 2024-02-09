@@ -1,6 +1,34 @@
 # Logos
 
-Literally *the word*. In a Christian context the logos is the word of God; and Christ is the word made flesh. The plural of logos is *logoi*.
+Literally *the word*. In a Christian context the logos is the word of God; and Christ is the word made flesh. 
+
+
+
+http://orthodoxinfo.com/general/doctrine1.aspx
+
+
+
+
+These are the doctrines of Christ, of the Logos incarnate, His life, death, resurrection and ascension.
+
+* [Annunciation](annunciation.md)
+
+* [Nativity](nativity.md)
+
+* [Baptism](baptism.md)
+
+* [Temptations](temptations.md)
+
+* [Ministry](ministry.md) (salvation)
+
+* [Death on the Cross](cross.md) (coronation)
+
+* [Harrowing of Hades](harrowing.md)
+
+* [Resurrection](resurrection.md)
+
+* [Ascension](ascension.md)
+
 
 
 
@@ -8,6 +36,7 @@ Literally *the word*. In a Christian context the logos is the word of God; and C
 
 ## Logia
 
+The plural of logos is *logoi*.
 Logia is the plural form of *logion* which typically refers to divinely inspired words or stories. 
 *Logia* was used to reference the divinely inspired word of God, i.e., scripture.
 
@@ -58,29 +87,6 @@ Let us not use our God-given mind to worship our self, but instead worship and g
 
 
 
-
-
-http://orthodoxinfo.com/general/doctrine1.aspx
-
-the doctrines of his life, death, resurrection and ascension
-
-Annunciation 
-
-Nativity
-
-Baptism 
-
-Temptations
-
-Ministry / salvation 
-
-Crucifixion / coronation
-
-Harrowing of Hades
-
-Resurrection 
-
-Ascension
 
 
 
