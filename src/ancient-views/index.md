@@ -116,7 +116,7 @@ We are thus experiencing powers and principalities that early Christians  unders
 
 ## Return of ancient worldviews 
 
-Ancient worldviews all share a basic presupposition: there is no objective knowable truth, and qreality is determined by the gods to which mankind is but a plaything.
+Ancient worldviews all share a basic presupposition: there is no objective knowable truth, reality is determined by the gods to which mankind is but a plaything.
 
 It was in this context that Judaism changed everything in the ancient world.
 The first innovation of Judaism was the radical assertion that man is created in the image and likeness of the creator of the universe.
@@ -126,7 +126,7 @@ Ancient worldviews understood that man was nothing to the gods but at most idle 
 The second innovation was a monotheistic God who was transcendent to creation, transcendent to the "gods" of worldly worship, and yet loves us and is knowable to us thru revelation.
 Those "gods" we worshipped turned out to be fallen spirits.
 And explicit in this worldview was universal human rights and dignity (which propagated into the entire world with the success of Christianity).
-This is why Israel was to be a nation of priests, a model for the rest of the world, a model of freeing ourselves fron the "gods" who held dominion over us.
+This is why Israel was to be a nation of priests, a model for the rest of the world, a model of freeing ourselves from the "gods" who held dominion over us.
 
 The modern enlightenment worldview attempted to maintain these Judeo+Christian fruits but without God (without Christ).
 In our pride we wanted to dispense with God but keep the morality of being created in the image and likeness of God.
@@ -231,7 +231,7 @@ See Aristotle's view of women to better understand ancient views about women and
 !!! quote "Aristotle"
     The female is as it were a deformed male
 
-Ironic that we're now seeing men deform themselves and pretending to be women.
+Ironic that we're now seeing men deform themselves in vain efforts to become women.
 
 The consequences of modern activism and liberation movements have not empowered or liberated anyone, but instead degraded God-given human rights into "privileges", things granted by the powers and principalities, the false gods of modern worship.
 We've even come to believe these principalities can take those "privileges" away.
