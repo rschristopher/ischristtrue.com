@@ -124,7 +124,7 @@ Ancient worldviews all share a basic presupposition: there is no objective knowa
 
 It was in this context that Judaism changed everything.
 The first innovation of Judaism was the radical assertion that man is created in the image and likeness of the creator of the universe.
-This was an outrageous claim.
+This was an outrageous claim in the ancient world.
 Ancient worldviews understood that man was nothing to the gods but at most idle amusement, like a child playing with ants.
 
 The second innovation was a monotheistic God, transcendent to creation and yet loves us and is knowable to us thru revelation.
@@ -132,21 +132,23 @@ Those "gods" we worshipped turned out to be fallen spirits.
 And explicit in this worldview was universal human rights and dignity (which propagated to the entire world through Christianity).
 This is why Israel was to be a nation of priests, intended as a model for the rest of the world, a model of liberation from the "gods" who held dominion over us.
 
-These innovations led to the spread of the Christian ethos throughout the world, giving us a calendar system (that we take for granted), knowable objective truth, and a universal morality which includes inalienable human rights and dignity.
+These innovations led to the spread throughout the world through Christianity, giving us a calendar system (that we take for granted), knowable objective truth, and a universal morality which includes human rights and dignity.
 The modern enlightenment worldview attempted to copy these Christian fruits but without God (without Christ).
 
 In our pride we wanted to dispense with God but keep the morality of being created in the image and likeness of God.
-Even today, hard-nosed atheists will use a Christian ethic to criticize modern Christianity.
+Even today, hard-nosed atheists will use a Christian ethic to criticize religion.
 Unfortunately, as we follow the nihilistic degradation of truth, we're left with moral relativism and a return of ancient morality.
 
 To be clear: there is no ancient pre-Jewish sources for universal human rights and dignity. 
-There was caste systems, slavery, and oppression from "gods" and their various priests. There was genocide, cannibalism, and ritualized child sacrifice. We were ruled by principalities and powers. Demonic spirits didn't just tempt us, they had real power over our lives and our bodies, even the lives of our children.
+There was caste systems, slavery, and oppression from "gods" and their various priests. There was genocide, cannibalism, and ritualized child sacrifice. 
+We were ruled by principalities and powers. 
+Demonic spirits didn't just tempt us, they had real power over our lives and our bodies, even the lives of our children.
 
 The ancient pre-Christian world did not recognize any implicit value to human life. 
 A person's value was granted by the gods (the principalities that ruled over us), which meant that there could be no inalienable rights, and no intrinsic value to a human life, which is exactly what is resurfacing today (that we're all just clumps of cells).
 
-To be clear, what is emerging today is the erosion of human value and human rights, and the emergence of powers and principalities that have dominion over us (where rights become "privileges", all at the whims of systems that no one quite understands).
-We mistakenly believe this is something new, some kind of technological fascism, but it turns out, it is very ancient.
+To be clear, we are witnessing the erosion of human value and human rights, and the emergence of powers and principalities that have dominion over us (where rights become "privileges", all at the whims of systems that no one quite understands).
+We mistakenly believe this is something new, some kind of technological fascism, but as we'll see, it is very ancient.
 
 
 
@@ -168,19 +170,24 @@ We mistakenly believe this is something new, some kind of technological fascism,
 Sexuality in ancient times was about survival in a world of "gods" that cared little about our survival (if not openly antagonist to our survival).
 Polygamy was the norm, not marriage as we understand it today. 
 There were harems, eunuchs, homosexuality, and pedophilia -- all completely normalized.
-These weren't considered immoral behaviors, because the "gods" (principalities) embraced and encouraged them.
+And these weren't considered immoral behaviors, because the "gods" (principalities) embraced and encouraged these behaviors.
 
-There was also procreation with these "gods", producing the ubiquitous god-kings of the ancient world, or what the Bible refers to as Nephilim.
+There was also procreation with these "gods", producing the ubiquitous god-kings of the ancient world, or what the Bible refers to as 
+[Nephilim](angels-demons.md).
 
 We are today witnessing the re-emergence of this ancient sexual idolatry. 
-Modern "intellectuals" and activists talk of "the patriarchy", and the latest destructive revolution is to "dismantle the patriarchy", or to "decolonize" whatever institution they believe has power and influence (a very euphemistic way to say: let's take over the institutions).
+Modern "intellectuals" and activists talk of "the patriarchy", and the latest destructive revolution is to "dismantle the patriarchy", or to "decolonize" whatever institution they believe has power and influence (a euphemism for taking over the institutions).
 
 What are the fruits of these activist movements?
 
 Modern progressive will claim that all the rights women now enjoy are due to their activism, completely ignoring that human rights and dignity were all due to a prior generation's Christian ethic. 
-The modern activists have instead brought us wide-scale chemical castration, genital mutilation, normalization of sexual deviance (making one's sexual desire an idol), and the dismantling of knowable truth, to name but a few of their nihilistic fruits.
+The modern activists have instead brought us wide-scale chemical castration, genital mutilation, normalization of sexual deviance, and of course making one's sexual desires into an idol.
+In other words, one's sexual desires become an identity, an object of worship.
 
-This is a clear regression into ancient sexual idolatry, where once dormant spirits are resurfacing as objects of worship.
+Importantly, your true identity is in the image and likeness of God.
+What you identify with is what you worship.
+Making your sexual desires (your sexual "preference") into your identity is to worship those desires as your "god".
+This is a clear regression into ancient sexual idolatry, where once dormant spirits (demons) are resurfacing as objects of worship.
 
 
 
@@ -208,7 +215,7 @@ This absurd behavior merely reflects the ancient gender roles resurfacing, speci
 We can find the "battle of the sexes" rhetoric emerging in the industrial revolution and in the so-called age of enlightenment.
 Importantly, this rhetoric did not exist in early Christianity.
 
-The industrial revolution increasingly took fathers out of the family business (mostly farms) and put them into factories, a trend we see exacerbated during periods such as the 
+The industrial revolution increasingly took fathers out of the family business (mostly farms) and put them into factories away from home, a trend we see exacerbated during periods such as the 
  *Great Depression* 
  (where tractors changed the economic reality of family farms). 
 And as this trend continued (breaking up families) so too emerged feminist attacks on masculinity. 
@@ -228,7 +235,7 @@ Moderm "masculinity" means to emasculate men into a pre-Christian archetype of s
 This in turn creates reactionary masculinity leading to unnecessary violence which only strengthens the principalities.
 This is clearly demonic and anti-Christian.
 
-Similarly, modern "femininity" is diminishing the value of women, paradoxically pushing masculine energy as the only valuable energy (putting women in a decided disadvantage in the battle of the sexes they imagine themselves playing).
+Similarly, modern "femininity" is diminishing the value of women, paradoxically encouraging masculine energy as the only valuable energy to a woman (putting women in a decided disadvantage in the battle of the sexes they imagine themselves playing).
 Beauty and grace are replaced with fashion and power, ironically played out most successfully by biological men pretending to be women (further reducing the value of women such that biological men now routinely become "woman of the year").
 
 The end result of this nihilistic program is to devalue men and women back into their ancient gender roles.
@@ -242,7 +249,7 @@ Ironic that we're now seeing men deform themselves in vain efforts to look like 
 
 The consequences of modern activism and liberation movements have not empowered or liberated anyone, but instead degraded God-given human rights into "privileges".
 Which implies those rights are granted to us by the false gods that we know of as politics and ideologies.
-We've even come to believe these evil principalities can take those "privileges" away.
+We've even come to believe these evil principalities can take those rights away (treating them as privileges).
 
 Always remember that human rights are not privileges, they are God-given and can never be taken away by demonic powers.
 
@@ -262,7 +269,7 @@ Always remember that human rights are not privileges, they are God-given and can
 
 ### Ancient "gods"
 
-As our modern worldview continues its nihilistic decline, we see the resurgence of ancient idols, symbols of ancient "gods". 
+As our modern worldview continues its nihilistic decline, we see the resurgence of ancient idols, symbols of these ancient "gods". 
 These are the ancient powers and principalities making themselves manifest for our worship, that is, principalities that we participate within.
 
 Let's explore some examples.
@@ -298,12 +305,12 @@ Let's look at some other examples.
     <center>![ouroboros](/images/ouroboros.jpg)</center>
 
 The [ouroboros](https://en.m.wikipedia.org/wiki/Ouroboros), *that old serpent* eating its own tail.
-We see this image throughout the ancient world, especially in ancient Egyptian and Babylonian culture.
-It was also associated with 
+We see this image throughout the ancient world, especially in ancient Egypt and Babylon.
+It is associated with 
 [alchemy](https://en.m.wikipedia.org/wiki/Alchemy), such as in the mythos of
 [Hermes Trismigestus](https://en.m.wikipedia.org/wiki/Hermes_Trismegistus).
 Which, incidentally, is also where we get Hermeticism and the modern worship of medical doctors, with the 
- [caduceus](https://en.m.wikipedia.org/wiki/Caduceus) icon, which is the staff of Hermes Trismigestus (note in this case the serpents are bound to the staff, explicitly breaking the ouroboros)
+ [caduceus](https://en.m.wikipedia.org/wiki/Caduceus) icon, which is the staff of Hermes Trismigestus (note in this case the serpents are bound to the staff, explicitly *breaking* the ouroboros)
 
 We see the ouroboros in ancient Christian iconography in images of [Leviathan](https://en.m.wikipedia.org/wiki/Leviathan), sometimes described as the world serpent, a primordial dragon of chaos. We see the same imagery in Tiamat (Mesopotamian) and Typhon (Greek).
 
@@ -313,8 +320,8 @@ We see the ouroboros in ancient Christian iconography in images of [Leviathan](h
 The above icon shows Leviathan in the classic ouroboros position, and also shows 
 [Behemoth](https://en.m.wikipedia.org/wiki/Behemoth),
 the great primordial beast, and also
-[Ziz](https://en.m.wikipedia.org/wiki/Ziz). 
-Ziz has not yet nade an explicit resurgence in our declining culture.
+[Ziz](https://en.m.wikipedia.org/wiki/Ziz), the primordial bird.
+
 
 Not all ancient images of Leviathan were as an ouroboros, sometimes Leviathan is depicted as a "hellmouth", literally eating damned souls.
 But Leviathan is universally a serpent.
@@ -326,7 +333,7 @@ Sometimes, as in the above William Blake artwork, an ouroboros-like motif is cre
 (note the related beasts from the Book of Daniel and Book of Revelation).
 
 The key to understanding the ouroboros is that it represents cyclical completion. 
-This represents a
+This is a
  [Luciferian](https://en.m.wikipedia.org/wiki/Luciferianism)
  worldview where creation is complete and total, self-sustaining in and of itself, requiring no external creator (neither essence nor energy), that nothing is uncreated.
 The serpent in an ouroboros is sufficient in and of itself (needing nothing else).
@@ -337,24 +344,25 @@ Here's an explicit example from 1971,
 !!! quote "Saul Alinsky, Rule for Radicals"
     Lest we forget at least an over-the-shoulder acknowledgment to the very first radical: from all our legends, mythology, and history (and who is to know where mythology leaves off and history begins or which is which), the first radical known to man who rebelled against the establishment and did it so effectively that he at least won his own kingdom – Lucifer
 
-An easy way to understand *serpent* iconography is as a primordial chaos, and when in an ouroboros position it is explicitly Luciferian, or at least trying to be.
-Contrast this with the *broken ouroboros* imagery where there's a different ordering principle, typically a staff (such as the staff of Moses from Exodus, or the staff of Hermes Trismigestus) but also on the cross where Christ is as the serpent, explicitly breaking the ouroboros and putting the serpent in its place under a divine ordering principle (uniting the heavens with the world).
+An easy way to understand *serpent* iconography is as primordial chaos, and when in an ouroboros position it is explicitly Luciferian, or at least trying to be.
+Contrast this with the *broken ouroboros* imagery where there's a higher ordering principle touching heaven, typically a staff (such as the staff of Moses in Exodus, or the staff of Hermes Trismigestus) but also the cross where Christ is as the serpent, explicitly breaking the ouroboros in the cross and putting the serpent in its place under a divine ordering principle.
 
-Of course if we want to see the ultimate Luciferian serpent imagery (ouroboros or otherwise), we have "that old serpent" himself, Satan.
+This points to the original Luciferian serpent imagery (ouroboros or otherwise), "that old serpent" himself, Satan.
 
 ???+ example "Satan"
     <center>![satan](/images/satan.jpg)</center>
 
 From an artistic perspective, modern use of satanic imagery has become so common as to become dull and hackneyed.
 It has become so predictable and ubiquitous in our culture that you're almost surprised when modern art or a music video doesn't feature explicit satanic imagery.
-When not using explicit imagery, the themes of modern stories often follow the Luciferian theme, "you can be anything you want", "you are what you dream", and so on.
+When not using explicit imagery, the themes of modern film and television often promote Luciferian themes: "you can be anything you want", "the power was in you all alomg", "you just need to believe in yourself", and so on.
 
-The list of ancient "gods" (Satan included) will seem endless, but in all you'll find deceit and confusion -- such as with Kali or Satan or even the ancient stories like Prometheus.
+The list of ancient "gods" (Satan included) seem endless, but in all you'll find deceit and confusion -- such as with Kali or Satan or even ancient stories like Prometheus.
 When you try to pin down an objective truth claim (what is its exact meaning and purpose?) you'll never really get a complete answer, but always vague inferences, such as themes of power and influence, order out of chaos, etc.
-And to be clear, these are the ancient "gods" in all their deceitful glory -- there is never objective knowable truth when dealing with them, never explicit meaning to life.
+
+And to be clear, these are the ancient "gods" in all their deceitful glory -- there is never objective knowable truth when dealing with them, never explicit meaning.
 This is the case whether you're studying Jungian archetypes, or attempting to worship pagan gods directly, or indirectly as in the [modern](../modern-views/index.md) worldview.
 It's always deceit.
-However, these ancient "gods" are the background for which we can best understand Christianity and how it succeeded against seemingly overwhelming opposition.
+However, these ancient "gods" are the background for which we can understand ancient Christianity and how it succeeded against seemingly overwhelming opposition.
 
 
 
@@ -372,8 +380,6 @@ However, these ancient "gods" are the background for which we can best understan
 
 
 ## Messianic Age 
-
-
 
 ???+ example "Tower of Babel"
     <center>![babel](/images/babel.jpg)</center>
