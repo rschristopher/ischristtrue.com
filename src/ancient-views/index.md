@@ -362,7 +362,7 @@ When you try to pin down an objective truth claim (what is its exact meaning and
 And to be clear, these are the ancient "gods" in all their deceitful glory -- there is never objective knowable truth when dealing with them, never explicit meaning.
 This is the case whether you're studying Jungian archetypes, or attempting to worship pagan gods directly, or indirectly as in the [modern](../modern-views/index.md) worldview.
 It's always deceit.
-However, these ancient "gods" are the background for which we can understand ancient Christianity and how it succeeded against seemingly overwhelming opposition.
+However, these ancient "gods" are the background for which we can understand ancient Christianity and how it succeeds against seemingly overwhelming opposition.
 
 
 
