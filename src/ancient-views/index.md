@@ -214,7 +214,8 @@ And as this trend continued (breaking up families) so too emerged feminist attac
 
 Consider that every "wave" of feminism was *preceded* by erosions to the Christian family.
 And just as modern "intellectuals" explain this as progress, earlier enlightenment-era "intellectuals" rationalized these problems in Darwinian terms, that men had dominated women in an evolutionary game.
-They believed that men won that battle of the sexes (a demonic trick, a lose/lose battle distracting from the erosion of families and hunan rights).
+They believed that men won that battle of the sexes (a demonic trick).
+A battle of the sexes is a lose/lose game distracting from the erosion of families and hunan rights.
 
 This ongoing breakdown of families results in the emergence of ancient gender roles. 
 We see today polygamy and 
