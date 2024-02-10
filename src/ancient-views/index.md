@@ -341,7 +341,7 @@ The serpent in an ouroboros is sufficient in and of itself (needing nothing else
 Not only do we see *ouroboros* iconography resurging in modern culture, it is usually part of a broader Luciferian resurgence.
 Here's an explicit example from 1971,
 
-!!! quote "Saul Alinsky, Rule for Radicals"
+!!! quote "Saul Alinsky, Rules for Radicals, 1971"
     Lest we forget at least an over-the-shoulder acknowledgment to the very first radical: from all our legends, mythology, and history (and who is to know where mythology leaves off and history begins or which is which), the first radical known to man who rebelled against the establishment and did it so effectively that he at least won his own kingdom – Lucifer
 
 An easy way to understand *serpent* iconography is as primordial chaos, and when in an ouroboros position it is explicitly Luciferian, or at least trying to be.
