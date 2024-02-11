@@ -23,7 +23,7 @@ And this is because conversion to Christianity involves a radical change in one'
 One's *nous* opens into a relationship with the creator of the universe , the sprit of truth, which is Christ, and one develops an orthodox Christian [phronema](https://en.m.wikipedia.org/wiki/Phronema), the first step to theosis, of becoming like Christ.
 
 
-One of the most interesting uses of *metanoia* is the words of John the Baptist where the imperative "metanoeite" is translated as *repent*.
+One of the most interesting uses of *metanoia* is the words of John the Baptist where it is translated as *repent*.
 
 ???+ quote "John the Baptist"
     **Μετανοεῖτε**· ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν.
