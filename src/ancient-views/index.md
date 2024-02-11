@@ -12,9 +12,12 @@ Protect me from the evil one.
 Lord, grant me wisdom and the articulation of the truth that is Christ Jesus 
 -->
 
-Our [modern](../modern-views/index.md) worldview is failing; failing not only to advance civilization but also failing to sustain civilization.
+Our 
+ [modern](../modern-views/index.md)
+ [enlightenment](../modern-views/enlightenment.md)
+ worldview is failing; failing not only to advance civilization but also failing to sustain civilization.
 We all feel this on some level, as if there's forces at work actively seeking to harm us.
-We can blame globalism or populism or whatever machination of political elites, but these are mere symptoms, the rotten fruits of a deeper nihilism.
+We can blame globalism or populism or the latest machination of political elites, but these are mere symptoms, the rotten fruits of a deeper nihilism.
 
 As a result of our failing worldview, there is an inevitable resurgence of ancient worldviews.
 To be clear, this is not a voluntary return to ancient religions.
@@ -91,7 +94,7 @@ But it is failing, and nihilism has become inevitable.
 
 When we claim ancient worldviews are "superstitious nonsense", we are presupposing knowable objective truth, that we *know* what is and what is not truth (and thus what is nonsense).
 And then as we fall into nihilism we increasingly lose that subordinating principle, and we can't really discern truth from nonsense (as truth becomes relative).
-Ironically, this nihilistic worldview has become the default worldview that we are born into.
+Ironically, this nihilistic worldview has become the default worldview that our children are born into.
 Our culture went from no one believing nonsense to now everybody believing nonsense and trying to keep an open mind about it.
 
 This is why we've seen so many shallow religions in our modern culture. 
@@ -102,7 +105,7 @@ So what happens when this subordinating principle fails completely, when we can'
 
 We are living through exactly such a failure.
 As modernism gives way to postmodernism and nihilism, that is, the rejection of knowable objective truth, than gone too is the subordinating principle that kept those ancient worldviews bound to their respective mythology textbooks.
-We are thus experiencing powers and principalities that early Christians  understood as demonic, which were very much part of the struggles of daily life.
+We are thus experiencing powers and principalities that early Christians  understood as demonic, which were very much part of the struggles of daily life in the ancient world.
 
 !!! quote "Ephesians 6:12"
     For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
@@ -128,8 +131,8 @@ This was an outrageous claim in the ancient world.
 Ancient worldviews understood that man was nothing to the gods but at most idle amusement, like a child playing with ants.
 
 The second innovation was a monotheistic God, transcendent to creation and yet loves us and is knowable to us thru revelation.
-Those "gods" we worshipped turned out to be fallen spirits.
-And explicit in this worldview was universal human rights and dignity (which propagated to the entire world through Christianity).
+Those other "gods" we worshipped turned out to be fallen spirits.
+And explicit in Judaism is universal human rights and dignity (which propagated to the entire world through Christianity).
 This is why Israel was to be a nation of priests, intended as a model for the rest of the world, a model of liberation from the "gods" who held dominion over us.
 
 These innovations led to the spread throughout the world through Christianity, giving us a calendar system (that we take for granted), knowable objective truth, and a universal morality which includes human rights and dignity.
