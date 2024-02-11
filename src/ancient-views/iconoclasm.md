@@ -503,6 +503,11 @@ Here are a few informative examples of icons of saints:
     
     Importantly, the good thief repented and turned to Christ, recognizing Jesus as the Messiah, but also this thief rebuked a sinner (the other criminal who hurled insults at Christ). In doing so this thief confessed his own sins, stating that his punishment is just. And most importantly, he experienced a baptismal death (the old man died and the new man was born into Christ). The entirety of Christian salvation is captured in this very short story (baptism, justification, redemption, confession, and even theosis).
 
+???+ example "John the Baptist"
+    <center>![john-the-baptist](/images/john-the-baptist.jpg)</center>
+
+    This is another uniquely recognizable icon. John the Baptist is traditionally depicted with wings and holding his severed head. This is an example of how orthodox icons emphasize symbolic meaning over candid realism.
+
 
 ???+ example "Parable of the Good Samaritan"
     <center>![icon-good-samaritan](/images/icon-good-samaritan.jpeg)</center>
