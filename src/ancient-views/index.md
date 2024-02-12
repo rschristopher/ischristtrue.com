@@ -312,7 +312,8 @@ We see this image throughout the ancient world, especially in ancient Egypt and 
 It is associated with 
 [alchemy](https://en.m.wikipedia.org/wiki/Alchemy), such as in the mythos of
 [Hermes Trismigestus](https://en.m.wikipedia.org/wiki/Hermes_Trismegistus).
-Which, incidentally, is also where we get Hermeticism and the modern worship of medical doctors, with the 
+Which, incidentally, is also where we get Hermeticism and the modern worship of medical doctors.
+See the 
  [caduceus](https://en.m.wikipedia.org/wiki/Caduceus) icon, which is the staff of Hermes Trismigestus (note in this case the serpents are bound to the staff, explicitly *breaking* the ouroboros)
 
 We see the ouroboros in ancient Christian iconography in images of [Leviathan](https://en.m.wikipedia.org/wiki/Leviathan), sometimes described as the world serpent, a primordial dragon of chaos. We see the same imagery in Tiamat (Mesopotamian) and Typhon (Greek).
