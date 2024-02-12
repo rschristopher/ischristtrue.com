@@ -251,8 +251,8 @@ See Aristotle's view of women to better understand where this is all headed.
 Ironic that we're now seeing men deform themselves in vain efforts to look like women.
 
 The consequences of modern activism and liberation movements have not empowered or liberated anyone, but instead degraded God-given human rights into "privileges".
-Which implies those rights are granted to us by the false gods that we know of as politics and ideologies.
-We've even come to believe these evil principalities can take those rights away (treating them as privileges).
+Which implies those rights are granted to us by the false gods (the principalities and political ideologies).
+We've even come to believe these principalities can take those rights away (inevitable if you consider them privileges).
 
 Always remember that human rights are not privileges, they are God-given and can never be taken away by demonic powers.
 
