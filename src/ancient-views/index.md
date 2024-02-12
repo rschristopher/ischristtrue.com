@@ -208,7 +208,7 @@ This is a clear regression into ancient sexual idolatry, where once dormant spir
 ### Ancient gender roles
 
 We imagine today that there's an ongoing battle of the sexes, *male versus female*, while simultaneously denying a gender binary. 
-Masculinity is considered "toxic" unless it's coming from a women, which then makes her "brave". 
+Masculinity is considered "toxic" unless it's coming from a woman, which then makes her "brave". 
 Femininity is scorned unless it's aped by a man identifying as a woman.
 
 To an enlightenment-era rationalist this would all seem absurd, but that's because rationalism fails to account for this very real phenomena.
