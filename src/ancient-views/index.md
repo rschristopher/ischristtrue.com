@@ -314,9 +314,15 @@ It is associated with
 [Hermes Trismigestus](https://en.m.wikipedia.org/wiki/Hermes_Trismegistus).
 Which, incidentally, is also where we get Hermeticism and the modern worship of medical doctors.
 See the 
- [caduceus](https://en.m.wikipedia.org/wiki/Caduceus) icon, which is the staff of Hermes Trismigestus (note in this case the serpents are bound to the staff, explicitly *breaking* the ouroboros)
+ [caduceus](https://en.m.wikipedia.org/wiki/Caduceus) icon, which is the staff of Hermes Trismigestus.
+In the caduceus the serpents are bound to the staff, explicitly *breaking* the ouroboros
+ (subordinating the serpents under a higher principle).
 
-We see the ouroboros in ancient Christian iconography in images of [Leviathan](https://en.m.wikipedia.org/wiki/Leviathan), sometimes described as the world serpent, a primordial dragon of chaos. We see the same imagery in Tiamat (Mesopotamian) and Typhon (Greek).
+???+ example "Caduceus"
+    <center>![caduceus](/images/caduceus.jpg)</center>
+
+
+We also see the ouroboros in ancient Christian iconography in images of [Leviathan](https://en.m.wikipedia.org/wiki/Leviathan), sometimes described as the world serpent, a primordial dragon of chaos. We see the same imagery in Tiamat (Mesopotamian) and Typhon (Greek).
 
 ???+ example "Leviathan, Behemoth, Ziz"
     <center>![lev-beh-ziz](/images/lev-beh-ziz.jpg)</center>
@@ -351,7 +357,7 @@ Here's an explicit example from 1971,
 An easy way to understand *serpent* iconography is as primordial chaos, and when in an ouroboros position it is explicitly Luciferian, or at least trying to be.
 Contrast this with the *broken ouroboros* imagery where there's a higher ordering principle touching heaven, typically a staff (such as the staff of Moses in Exodus, or the staff of Hermes Trismigestus) but also the cross where Christ is as the serpent, explicitly breaking the ouroboros in the cross and putting the serpent in its place under a divine ordering principle.
 
-This points to the original Luciferian serpent imagery (ouroboros or otherwise), "that old serpent" himself, Satan.
+And finally there's the original Luciferian serpent imagery (ouroboros or otherwise), "that old serpent" himself, Satan.
 
 ???+ example "Satan"
     <center>![satan](/images/satan.jpg)</center>
@@ -360,10 +366,13 @@ From an artistic perspective, modern use of satanic imagery has become so common
 It has become so predictable and ubiquitous in our culture that you're almost surprised when modern art or a music video doesn't feature explicit satanic imagery.
 When not using explicit imagery, the themes of modern film and television often promote Luciferian themes: "you can be anything you want", "the power was in you all along", "you just need to believe in yourself", and so on.
 
-The list of ancient "gods" (Satan included) seem endless, but in all you'll find deceit and confusion -- such as with Kali or Satan or even ancient stories like Prometheus.
-When you try to pin down an objective truth claim (what is its exact meaning and purpose?) you'll never really get a complete answer, but always vague inferences, such as themes of power and influence, order out of chaos, etc.
+The list of ancient "gods" (Satan included) seem endless, but in all you'll find deceit and confusion
+ -- such as with Kali or Satan or the many inversions such as the Prometheus mythology.
+When you try to pin down an objective truth claim (what is its exact meaning and purpose?) you'll never really get a complete answer,
+ but always vague inferences as if they're approaching an answer that is forever out of reach:
+ themes of power and influence, order out of chaos, destructive revolutions, etc.
 
-And to be clear, these are the ancient "gods" in all their deceitful glory -- there is never objective knowable truth when dealing with them, never explicit meaning.
+And to be clear, these are the ancient "gods" in all their deceitful glory -- there is never objective knowable truth when dealing with them, never explicit meaning or answers to the fundamental questions.
 This is the case whether you're studying Jungian archetypes, or attempting to worship pagan gods directly, or indirectly as in the [modern](../modern-views/index.md) worldview.
 It's always deceit.
 However, these ancient "gods" are the background for which we can understand ancient Christianity and how it succeeds against seemingly overwhelming opposition.
