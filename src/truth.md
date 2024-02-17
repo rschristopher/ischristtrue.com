@@ -648,8 +648,8 @@ That is, the Spirit of Truth is God,
  who was crucified for us,
  and on the third day He
  rose again.
-All Truth is the word of God, and any articulation of Truth is revealed to you personally, and that revealed Truth is the literal person of Christ Jesus.
-From mathematics to philosophy to literature, Truth in those fields is the revealed word of God who is Christ Jesus.
+All Truth is the word of God, and any articulation of Truth is revealed to you personally, and it is the literal person of Christ Jesus.
+In other words, from mathematics to philosophy to literature, Truth in those fields is the revealed word of God, the [logos](logos/index.md), who is Christ Jesus.
 
 To be clear, there is no justifiable 
  epistemology outside of Christianity
