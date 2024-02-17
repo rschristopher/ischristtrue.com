@@ -641,13 +641,16 @@ The Christian answer to Truth is,
  an outrageous claim;
  and on the other hand,
  a necessary claim for
- truth to be knowable.
-That is, the Spirit of Truth is
+ Truth to be knowable.
+That is, the Spirit of Truth is God,
  the creator of the universe,
  who was incarnate as man,
  who was crucified for us,
  and on the third day He
  rose again.
+All Truth is the word of God, and any articulation of Truth is revealed to you personally, and that revealed Truth is the literal person of Christ Jesus.
+From mathematics to philosophy to literature, Truth in those fields is the revealed word of God who is Christ Jesus.
+
 To be clear, there is no justifiable 
  epistemology outside of Christianity
  and these seemingly outrageous claims.
@@ -663,8 +666,7 @@ Rejecting the uniquely Christian notion
  
 And even more outrageous,
  Christ is the mediator between
- God and man, between God the Father 
- and man -- and thus between
+ the transcendent and man, between God the Father and man -- and thus between
  God's will and man.
 In other words, the creator of the
  universe is knowable to you,
