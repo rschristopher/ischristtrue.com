@@ -392,7 +392,9 @@ However, these ancient "gods" are the background for which we can understand anc
 
 
 
-## Messianic Age 
+## Messianic Age
+
+We are living in the Messianic Age, where Christ is ruling in the midst of His enemies.
 
 ???+ example "Tower of Babel"
     <center>![babel](/images/babel.jpg)</center>
