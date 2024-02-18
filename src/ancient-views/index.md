@@ -372,10 +372,12 @@ When you try to pin down an objective truth claim (what is its exact meaning and
  but always vague inferences as if they're approaching an answer that is forever out of reach:
  themes of power and influence, order out of chaos, destructive revolutions, etc.
 
-And to be clear, these are the ancient "gods" in all their deceitful glory -- there is never objective knowable truth when dealing with them, never explicit meaning or answers to the fundamental questions.
+And to be clear, these are the ancient "gods" in all their deceitful glory. 
+There is never objective knowable truth when dealing with them, never explicit meaning or answers to the fundamental questions.
 This is the case whether you're studying Jungian archetypes, or attempting to worship pagan gods directly, or indirectly as in the [modern](../modern-views/index.md) worldview.
 It's always deceit.
-However, these ancient "gods" are the background for which we can understand ancient Christianity and how it succeeds against seemingly overwhelming opposition.
+
+That said, these ancient "gods" are the background for which we can understand ancient Christianity and how it succeeds against seemingly overwhelming opposition.
 
 
 
@@ -394,7 +396,17 @@ However, these ancient "gods" are the background for which we can understand anc
 
 ## Messianic Age
 
-We are living in the Messianic Age, where Christ is ruling in the midst of His enemies.
+Unlike the milquetoast shallowness of 
+ [modern Christianity](../modern-views/christianity.md),
+ which attempts to subordinate Christ beneath an
+ [enlightenment](../modern-views/enlightenment.md)
+ worldview,
+ [ancient Christianity](../logos/index.md)
+ understood that Christ is God, the Spirit of Truth, the logos incarnate, *who* subordinates all other worldviews, all other "gods", restoring mankind to His created purpose.
+ 
+This ancient Christian worldview recognized that we are living in the Messianic Age, where Christ has triumphed over death and sin, and is ruling in the midst of His enemies.
+In other words, there was no denying the existence and spiritual reality of the ancient "gods", but they lost their dominion over man, and through Christ man is saved from sin and death.
+Early Christians further understood that they were living amodst powers and principalities that had dominion and 
 
 ???+ example "Tower of Babel"
     <center>![babel](/images/babel.jpg)</center>
