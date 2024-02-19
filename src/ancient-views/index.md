@@ -434,7 +434,7 @@ These "enemies" are the fallen spirits, the powers and principalities that once 
     <center>![babel](/images/babel.jpg)</center>
 
 
-These are among the ancient "gods", the territorial spirits (*shedim*), many of which participated in the rebellions, and it is in this backdrop that Christ arose.
+These are among the ancient "gods", the territorial spirits (*shedim*), many of which participated in [rebellions](https://biblehub.com/bsb/psalms/82.htm), and it is in this backdrop that Christ arose.
 It was in that scattered world of subjugation by ancient "gods" that Israel emerged and the prophets cried out for a savior, where John the Baptist prepared the way. *"Repent, for the kingdom of heaven is at hand"*.
 
 
