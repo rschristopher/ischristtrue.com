@@ -399,7 +399,7 @@ That said, these deceitful "gods" are the background for which we can understand
 
 Today, the ancient "gods" have no real power other than to deceive.
 We know this because of Christ Jesus.
-This salvation is available to everyone.
+Salvation is available to everyone.
 Christ is calling us to participate in His victory as He crushes the seeds of the serpent.
 
 Unlike the milquetoast shallowness of 
@@ -417,7 +417,7 @@ The competing worldviews are beams in our eye, deceiving us and drawing us away 
 Christ is Truth.
 We can let Christ into our hearts, saving our souls, or we turn away and fall prey to the nihilistic deceptions of those ancient "gods".
  
-For we are in the Messianic Age.
+For this is the Messianic Age.
 Christ triumphed over death and sin, and He is now ruling in the midst of His enemies.
 These "enemies" are the fallen spirits, the powers and principalities that once had unquestioned dominion over mankind; the consequence of the third rebellion against God:
 
@@ -432,13 +432,13 @@ These "enemies" are the fallen spirits, the powers and principalities that once 
 
 
 These are the ancient "gods", many of which participated in the rebellions, and it is in this backdrop that Christ arose.
-It was in that scattered world of subjugation under ancient "gods" that Israel emerged and the prophets cried out for a savior, where John the Baptist prepared the way. *"Repent, for the kingdom of heaven is at hand"*.
+It was in that scattered world of subjugation by ancient "gods" that Israel emerged and the prophets cried out for a savior, where John the Baptist prepared the way. *"Repent, for the kingdom of heaven is at hand"*.
 
 
 ???+ example "Ladder of Divine Ascent"
     <center>![ladder](/images/ladder.jpg)</center>
 
-The fallen spirits are subject to Christ and all who come in His name.
+The fallen spirits are completely subject to Christ and all who come in His name.
 They tempt and torment, pulling us down and away from God, but they have no power over Christ and His kingdom.
 
 And we who are born of this age are called to participate in His triumph over death and sin.
@@ -447,7 +447,7 @@ We are called to choose Christ, to choose the kingdom of heaven over the kingdom
 ???+ example "Last Judgment"
     <center>![last-judgment](/images/last-judgment.jpg)</center>
 
-And in the Christian worldview we find two callings, monasticism and marriage.
+And in this Christian worldview we find not one but two callings, monasticism and marriage.
 Marriage is the path for raising children in a consecrated union. 
 Monasticism is a consecrated celibacy, a divine spiritual calling. 
 
@@ -457,14 +457,11 @@ In a Christian marriage,
 the husband/father is the head of the household, raising children, ministering to his wife, and worshipping God.
 The wife/mother is the heart of the family, nurturing and raising children, ministering to her husband, and worshipping God.
 
-And the families who are baptized in water and spirit, with Christ in their hearts, they have the divine mark of faith such that they act out God's will.
+And these families who are baptized in water and spirit, with Christ in their hearts, they have the divine mark of faith such that they act out God's will.
 In fact, the so-called 
-[mark of the beast](https://www.orthodoxroad.com/the-mark-of-the-beast/) is nothing but a mockery of that divine mark (forehead as in faith, hand as in action), where all are individuals serving the seeds of the serpent.
+[mark of the beast](https://www.orthodoxroad.com/the-mark-of-the-beast/) is nothing but a mockery of that divine mark (forehead as in faith, hand as in action).
 
-In a Christian marriage, the family is an institution that triumphs over worldly empires.
-Let us remember the value of a single human life to God.
-The saints from the calling of monasticism bring us revelations from God.
-The saints from the calling of marriage bring us the foundation from which Christ defeats His enemies.
+In a Christian marriage, the family is an institution that triumphs over worldly empires, because such families worship Christ and not worldly powers.
 For He is ruling in the midst of His enemies, and to align ourselves with Christ is to make ourselves like David in his battle with Goliath.
 
 
