@@ -421,7 +421,7 @@ For this is the Messianic Age.
 Christ triumphed over death and sin, and He is now ruling in the midst of His enemies.
 These "enemies" are the fallen spirits, the powers and principalities that once had unquestioned dominion over mankind; the consequence of the third rebellion against God:
 
-???+ quote "Genesis 11:6-8 Tower of Babel"
+???+ quote "Genesis 11:6-8 -- Tower of Babel"
     And the LORD said, Behold, the people is one, and they have all one language; and this they begin to do: and now *nothing will be restrained from them, which they have imagined to do*.
     
     Go to, let us go down, and there confound their language, that they may not understand one another's speech. 
@@ -434,7 +434,7 @@ These "enemies" are the fallen spirits, the powers and principalities that once 
     <center>![babel](/images/babel.jpg)</center>
 
 
-These are the ancient "gods", many of which participated in the rebellions, and it is in this backdrop that Christ arose.
+These are among the ancient "gods", the territorial spirits (*shedim*), many of which participated in the rebellions, and it is in this backdrop that Christ arose.
 It was in that scattered world of subjugation by ancient "gods" that Israel emerged and the prophets cried out for a savior, where John the Baptist prepared the way. *"Repent, for the kingdom of heaven is at hand"*.
 
 
