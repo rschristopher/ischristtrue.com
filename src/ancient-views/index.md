@@ -419,16 +419,18 @@ These "enemies" are the fallen spirits, the powers and principalities that once 
 
 
 These were the ancient "gods", many of which participated in the rebellions against God, and it is in this backdrop that Christ arose.
-It was in that scattered world of subjugation under ancient "gods" that Israel emerged and the prophets cried out for a savior, where John the Baptist prepared the way, "Repent, for the kingdom of heaven is at hand".
-And in the person of Christ Jesus the kingdom is at hand.
+It was in that scattered world of subjugation under ancient "gods" that Israel emerged and the prophets cried out for a savior, where John the Baptist prepared the way. *"Repent, for the kingdom of heaven is at hand"*.
 
-The fallen spirits are now subject to Christ and all who come in His name.
-They can tempt and torment, but they have no power over Christ and the kingdom that is at hand.
-And we who are born of this age are called to participate in His triumph over death and sin.
-We are called to choose Christ, the kingdom of heaven over the kingdoms of man that end in a lake of fire.
 
 ???+ example "Ladder of Divine Ascent"
     <center>![ladder](/images/ladder.jpg)</center>
+
+The fallen spirits are now subject to Christ and all who come in His name.
+They tempt and torment, pulling us down and away from God, but they have no power over Christ and His kingdom.
+
+And we who are born of this age are called to participate in His triumph over death and sin.
+We are called to choose Christ, to choose the kingdom of heaven over the kingdoms of man.
+
 
 
 ???+ example "Last Judgment"
