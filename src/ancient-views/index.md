@@ -447,11 +447,11 @@ We are called to choose Christ, to choose the kingdom of heaven over the kingdom
 ???+ example "Last Judgment"
     <center>![last-judgment](/images/last-judgment.jpg)</center>
 
-And in this Christian worldview we find not one but two callings, monasticism and marriage.
-Marriage is the path for raising children in a consecrated union. 
-Monasticism is a consecrated celibacy, a divine spiritual calling. 
+And in Christ we find not one but two callings, two paths, monasticism and marriage.
+Marriage is the path for raising children in a consecrated union of man and woman. 
+Monasticism is the path for divine spiritual ascent in a consecrated celibacy. 
 
-The two paths intertwine and are mutually supportive of one another. In fact, these represent the two natures of Christ, for Christ is both man and God. Christ was born of a good marriage and lived in the world as a carpenter, and He simultaneously lived in consecrated celibacy, preaching and fulfilling the law.
+These two paths intertwine and are mutually supportive of one another. In fact, these represent the two natures of Christ, for Christ is both man and God. Christ was born of a good marriage and lived in the world as a carpenter, and He simultaneously lived in consecrated celibacy, preaching and fulfilling the law.
 
 In a Christian marriage, 
 the husband/father is the head of the household, raising children, ministering to his wife, and worshipping God.
@@ -459,9 +459,9 @@ The wife/mother is the heart of the family, nurturing and raising children, mini
 
 And these families who are baptized in water and spirit, with Christ in their hearts, they have the divine mark of faith such that they act out God's will.
 In fact, the so-called 
-[mark of the beast](https://www.orthodoxroad.com/the-mark-of-the-beast/) is nothing but a mockery of that divine mark (forehead as in faith, hand as in action).
+[mark of the beast](https://www.orthodoxroad.com/the-mark-of-the-beast/) is nothing but a mockery of this divine mark (forehead as in faith, hand as in action).
 
-In a Christian marriage, the family is an institution that triumphs over worldly empires, because such families worship Christ and not worldly powers.
+In a Christian marriage, the family is an institution that triumphs over worldly empires, because those families serve Christ and not worldly powers.
 For He is ruling in the midst of His enemies, and to align ourselves with Christ is to make ourselves like David in his battle with Goliath.
 
 
