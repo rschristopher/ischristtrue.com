@@ -340,7 +340,7 @@ But Leviathan is universally a serpent.
     <center>![lev-beh](/images/lev-beh.jpg)</center>
 
 Sometimes, as in the above William Blake artwork, an ouroboros-like motif is created using *both* Behemoth and Leviathan, making a kind of beastly *[yin-yang](https://en.m.wikipedia.org/wiki/Yin_and_yang)*, contrasting order and chaos in the form of primordial beasts
-(note the related beasts from the Book of Daniel and Book of Revelation).
+(note the related *beasts* from the Book of Daniel and the Book of Revelation).
 
 The key to understanding the ouroboros is that it represents cyclical completion. 
 This is a
