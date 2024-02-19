@@ -427,6 +427,9 @@ These "enemies" are the fallen spirits, the powers and principalities that once 
     Go to, let us go down, and there confound their language, that they may not understand one another's speech. 
     
     So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city.
+
+???+ quote "Deuteronomy 32:8"
+    When the Most High gave to the nations their inheritance, when he divided mankind, he fixed the borders of the peoples according to the number of the sons of God.
     
     <center>![babel](/images/babel.jpg)</center>
 
