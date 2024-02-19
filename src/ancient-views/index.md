@@ -398,13 +398,13 @@ That said, these deceitful "gods" are the background for which we can understand
 ## Messianic Age
 
 Today, the ancient "gods" have no real power other than to deceive.
-We know this because of Christ Jesus.
+We know this because Christ has triumphed over them.
 Salvation is available to everyone.
 Christ is calling us to participate in His victory as He crushes the seeds of the serpent.
 
 Unlike the milquetoast shallowness of 
  [modern Christianity](../modern-views/christianity.md),
- which attempts to subordinate Christ within an
+ which attempts to subordinate Christ into an
  [enlightenment](../modern-views/enlightenment.md)
  worldview,
  [ancient Christianity](../logos/index.md)
@@ -458,7 +458,7 @@ the husband/father is the head of the household, raising children, ministering t
 The wife/mother is the heart of the family, nurturing and raising children, ministering to her husband, and worshipping God.
 And these families who are baptized in water and spirit, with Christ in their hearts, they have the divine mark of faith that is Christ Jesus such that they act out God's will.
 In fact, the so-called 
-[mark of the beast](https://www.orthodoxroad.com/the-mark-of-the-beast/) is nothing but a mockery of this divine mark (forehead as in faith, hand as in action).
+[mark of the beast](https://www.orthodoxroad.com/the-mark-of-the-beast/) is nothing but a mockery of this divine mark (forehead representing faith, hand representing action).
 
 In a Christian marriage, the family is an institution that triumphs over worldly empires, because those families serve Christ and not worldly powers.
 For He is ruling in the midst of His enemies, and to align ourselves with Christ is to make ourselves like David in his battle with Goliath.
