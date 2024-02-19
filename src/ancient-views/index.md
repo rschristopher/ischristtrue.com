@@ -441,23 +441,22 @@ It was in that scattered world of subjugation by ancient "gods" that Israel emer
 The fallen spirits are completely subject to Christ and all who come in His name.
 They tempt and torment, pulling us down and away from God, but they have no power over Christ and His kingdom.
 
-And we who are born of this age are called to participate in His triumph over death and sin.
+And we who are born in this age are called to participate in His triumph over death and sin.
 We are called to choose Christ, to choose the kingdom of heaven over the kingdom of man.
 
 ???+ example "Last Judgment"
     <center>![last-judgment](/images/last-judgment.jpg)</center>
 
-And in Christ we find not one but two callings, two paths, monasticism and marriage.
+And we find not one but two callings, two paths into the kingdom of God, monasticism and marriage.
 Marriage is the path for raising children in a consecrated union of man and woman. 
 Monasticism is the path for divine spiritual ascent in a consecrated celibacy. 
 
-These two paths intertwine and are mutually supportive of one another. In fact, these represent the two natures of Christ, for Christ is both man and God. Christ was born of a good marriage and lived in the world as a carpenter, and He simultaneously lived in consecrated celibacy, preaching and fulfilling the law.
+These two paths are mutually supportive of one another. In fact, they represent the two natures of Christ, for Christ is both man and God. Christ was born of a good marriage and lived in the world as a carpenter, and He simultaneously lived in consecrated celibacy, preaching and fulfilling the law.
 
 In a Christian marriage, 
 the husband/father is the head of the household, raising children, ministering to his wife, and worshipping God.
 The wife/mother is the heart of the family, nurturing and raising children, ministering to her husband, and worshipping God.
-
-And these families who are baptized in water and spirit, with Christ in their hearts, they have the divine mark of faith such that they act out God's will.
+And these families who are baptized in water and spirit, with Christ in their hearts, they have the divine mark of faith that is Christ Jesus such that they act out God's will.
 In fact, the so-called 
 [mark of the beast](https://www.orthodoxroad.com/the-mark-of-the-beast/) is nothing but a mockery of this divine mark (forehead as in faith, hand as in action).
 
