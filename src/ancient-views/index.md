@@ -366,18 +366,19 @@ From an artistic perspective, modern use of satanic imagery has become so common
 It has become so predictable and ubiquitous in our culture that you're almost surprised when modern art or a music video doesn't feature explicit satanic imagery.
 When not using explicit imagery, the themes of modern film and television often promote Luciferian themes: "you can be anything you want", "the power was in you all along", "you just need to believe in yourself", and so on.
 
-The list of ancient "gods" (Satan included) seem endless, but in all you'll find deceit and confusion
+The list of ancient "gods" (Satan included) seem endless, and in all you'll find deceit and confusion
  -- such as with Kali or Satan or the many inversions such as the Prometheus mythology.
 When you try to pin down an objective truth claim (what is its exact meaning and purpose?) you'll never really get a complete answer,
  but always vague inferences as if they're approaching an answer that is forever out of reach:
  themes of power and influence, order out of chaos, destructive revolutions, etc.
+You'll get a snake eating its own tail.
 
 And to be clear, these are the ancient "gods" in all their deceitful glory. 
 There is never objective knowable truth when dealing with them, never explicit meaning or answers to the fundamental questions.
 This is the case whether you're studying Jungian archetypes, or attempting to worship pagan gods directly, or indirectly as in the [modern](../modern-views/index.md) worldview.
-It's always deceit.
+It's always deceit at every level.
 
-That said, these ancient "gods" are the background for which we can understand ancient Christianity and how it succeeds against seemingly overwhelming opposition.
+That said, these deceitful "gods" are the background for which we can understand ancient Christianity and how it succeeded against what would seem like overwhelming opposition.
 
 
 
@@ -396,15 +397,27 @@ That said, these ancient "gods" are the background for which we can understand a
 
 ## Messianic Age
 
+Today, the ancient "gods" have no real power other than to deceive.
+We know this because of Christ Jesus.
+This salvation is available to everyone.
+Christ is calling us to participate in His victory as He crushes the seeds of the serpent.
+
 Unlike the milquetoast shallowness of 
  [modern Christianity](../modern-views/christianity.md),
- which attempts to subordinate Christ Jesus within an
+ which attempts to subordinate Christ within an
  [enlightenment](../modern-views/enlightenment.md)
  worldview,
  [ancient Christianity](../logos/index.md)
- understood that Christ is both God and man, the Spirit of Truth, the logos incarnate, *who* subordinates all other worldviews, all the so-called "gods" of the ancient world.
+ understood that Christ is both God and man, the Spirit of Truth, the logos incarnate, *who* subordinates all other worldviews, including the so-called "gods" of the ancient world.
+
+!!! quote "Matthew 7:5"
+    Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
+
+The competing worldviews are beams in our eye, deceiving us and drawing us away from Truth.
+Christ is Truth.
+We can let Christ into our hearts, saving our souls, or we turn away and fall prey to the nihilistic deceptions of those ancient "gods".
  
-For this is the Messianic Age.
+For we are in the Messianic Age.
 Christ triumphed over death and sin, and He is now ruling in the midst of His enemies.
 These "enemies" are the fallen spirits, the powers and principalities that once had unquestioned dominion over mankind; the consequence of the third rebellion against God:
 
@@ -418,67 +431,46 @@ These "enemies" are the fallen spirits, the powers and principalities that once 
     <center>![babel](/images/babel.jpg)</center>
 
 
-These were the ancient "gods", many of which participated in the rebellions against God, and it is in this backdrop that Christ arose.
+These are the ancient "gods", many of which participated in the rebellions, and it is in this backdrop that Christ arose.
 It was in that scattered world of subjugation under ancient "gods" that Israel emerged and the prophets cried out for a savior, where John the Baptist prepared the way. *"Repent, for the kingdom of heaven is at hand"*.
 
 
 ???+ example "Ladder of Divine Ascent"
     <center>![ladder](/images/ladder.jpg)</center>
 
-The fallen spirits are now subject to Christ and all who come in His name.
+The fallen spirits are subject to Christ and all who come in His name.
 They tempt and torment, pulling us down and away from God, but they have no power over Christ and His kingdom.
 
 And we who are born of this age are called to participate in His triumph over death and sin.
-We are called to choose Christ, to choose the kingdom of heaven over the kingdoms of man.
-
-
+We are called to choose Christ, to choose the kingdom of heaven over the kingdom of man.
 
 ???+ example "Last Judgment"
     <center>![last-judgment](/images/last-judgment.jpg)</center>
 
-
-[mark of the beast](https://www.orthodoxroad.com/the-mark-of-the-beast/) is a mockery of the divine mark (forehead as in faith, hand as in action)
-
-...
-Fortunately, the ancient gods have no real power, and have already been defeated by Christ.
-
-Importantly, we are not in the ancient pre-Christian world. We are in the messianic age where Christ is ruling in the midst of His enemies.
-
-Traditional Christianity restores man and woman to their God-given roles, as icons of God.
-This is available to everyone, right now -- Christ is calling us to participate in His victory as He crushes the serpent's seeds.
-
-In the ancient Christian view, what do traditional gender roles look like?
-
-Monasticism and Marriage, two callings, 
-
+And in the Christian worldview we find two callings, monasticism and marriage.
 Marriage is the path for raising children in a consecrated union. 
 Monasticism is a consecrated celibacy, a divine spiritual calling. 
-The two paths intertwine and are mutually supportive of one another -- in fact, these represent the two natures of Christ, for Christ is both man and God. Christ was born of a good marriage and lived in the world as a carpenter, and yet he simultaneously lived in consecrated celibacy, preaching and fulfilling the law.
+
+The two paths intertwine and are mutually supportive of one another. In fact, these represent the two natures of Christ, for Christ is both man and God. Christ was born of a good marriage and lived in the world as a carpenter, and He simultaneously lived in consecrated celibacy, preaching and fulfilling the law.
 
 In a Christian marriage, 
-the husband/father is the head of the household, protecting and raising children, ministering to his wife and worshipping God.
-The wife/mother is the heart of the family, nurturing and raising children, ministering to her husband and worshipping God.
+the husband/father is the head of the household, raising children, ministering to his wife, and worshipping God.
+The wife/mother is the heart of the family, nurturing and raising children, ministering to her husband, and worshipping God.
 
-Through the love between husband and wife comes children and the strengthening of family.
+And the families who are baptized in water and spirit, with Christ in their hearts, they have the divine mark of faith such that they act out God's will.
+In fact, the so-called 
+[mark of the beast](https://www.orthodoxroad.com/the-mark-of-the-beast/) is nothing but a mockery of that divine mark (forehead as in faith, hand as in action), where all are individuals serving the seeds of the serpent.
+
+In a Christian marriage, the family is an institution that triumphs over worldly empires.
 Let us remember the value of a single human life to God.
-The saints of the monastics bring us revelations from God.
-The saints of marriage and family is the core foundation from which Christ defeats His enemies.
+The saints from the calling of monasticism bring us revelations from God.
+The saints from the calling of marriage bring us the foundation from which Christ defeats His enemies.
 For He is ruling in the midst of His enemies, and to align ourselves with Christ is to make ourselves like David in his battle with Goliath.
 
 
 
 
 
-How ought Christians subordinate competing worldviews?
-
-In other words, what is the orthodox worldview for subordinating pagan views?
-
-
-!!! quote "Matthew 7:5"
-    Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
-
-
-Christ is truth, meaning that through Christ truth is knowable, and the other worldviews are making deceptive and false claims -- these are fallen spirits with dominion over humans, but Christ rules in the midst of His enemies and we can let Christ into our hearts, saving our souls.
 
 
 
