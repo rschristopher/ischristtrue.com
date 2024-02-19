@@ -348,7 +348,7 @@ This is a
  worldview where creation is complete and total, self-sustaining in and of itself, requiring no external creator (neither essence nor energy), that nothing is uncreated.
 The serpent in an ouroboros is sufficient in and of itself (needing nothing else).
 
-Not only do we see *ouroboros* iconography resurging in modern culture, it is usually part of a broader Luciferian resurgence.
+Not only do we see *ouroboros* iconography resurging in modern culture, it is part of a broader Luciferian resurgence.
 Here's an explicit example from 1971,
 
 !!! quote "Saul Alinsky, Rules for Radicals, 1971"
