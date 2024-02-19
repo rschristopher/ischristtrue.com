@@ -1,6 +1,6 @@
 # Logos
 
-Literally *the word*. In a Christian context the logos is the word of God; and Christ is the word made flesh. 
+Literally *the word*. In a Christian context the logos is the word of God; and Christ is the logos incarnate, the word made flesh. 
 
 
 
