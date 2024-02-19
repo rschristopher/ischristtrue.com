@@ -398,19 +398,34 @@ That said, these ancient "gods" are the background for which we can understand a
 
 Unlike the milquetoast shallowness of 
  [modern Christianity](../modern-views/christianity.md),
- which attempts to subordinate Christ beneath an
+ which attempts to subordinate Christ Jesus within an
  [enlightenment](../modern-views/enlightenment.md)
  worldview,
  [ancient Christianity](../logos/index.md)
- understood that Christ is God, the Spirit of Truth, the logos incarnate, *who* subordinates all other worldviews, all other "gods", restoring mankind to His created purpose.
+ understood that Christ is both God and man, the Spirit of Truth, the logos incarnate, *who* subordinates all other worldviews, all the so-called "gods" of the ancient world.
  
-This ancient Christian worldview recognized that we are living in the Messianic Age, where Christ has triumphed over death and sin, and is ruling in the midst of His enemies.
-In other words, there was no denying the existence and spiritual reality of the ancient "gods", but they lost their dominion over man, and through Christ man is saved from sin and death.
-Early Christians further understood that they were living amodst powers and principalities that had dominion and 
+For this is the Messianic Age.
+Christ triumphed over death and sin, and He is now ruling in the midst of His enemies.
+These "enemies" are the fallen spirits, the powers and principalities that once had unquestioned dominion over mankind; the consequence of the third rebellion against God:
 
-???+ example "Tower of Babel"
+???+ quote "Genesis 11:6-8 Tower of Babel"
+    And the LORD said, Behold, the people is one, and they have all one language; and this they begin to do: and now *nothing will be restrained from them, which they have imagined to do*.
+    
+    Go to, let us go down, and there confound their language, that they may not understand one another's speech. 
+    
+    So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city.
+    
     <center>![babel](/images/babel.jpg)</center>
 
+
+These were the ancient "gods", many of which participated in the rebellions against God, and it is in this backdrop that Christ arose.
+It was in that scattered world of subjugation under ancient "gods" that Israel emerged and the prophets cried out for a savior, where John the Baptist prepared the way, "Repent, for the kingdom of heaven is at hand".
+And in the person of Christ Jesus the kingdom is at hand.
+
+The fallen spirits are now subject to Christ and all who come in His name.
+They can tempt and torment, but they have no power over Christ and the kingdom that is at hand.
+And we who are born of this age are called to participate in His triumph over death and sin.
+We are called to choose Christ, the kingdom of heaven over the kingdoms of man that end in a lake of fire.
 
 ???+ example "Ladder of Divine Ascent"
     <center>![ladder](/images/ladder.jpg)</center>
