@@ -183,7 +183,7 @@ Modern "intellectuals" and activists talk of "the patriarchy", and the latest de
 
 What are the fruits of these activist movements?
 
-Modern progressive will claim that all the rights women now enjoy are due to their activism, completely ignoring that human rights and dignity were all due to a prior generation's Christian ethic. 
+Modern progressives will claim that all the rights women now enjoy are due to their political activism, completely ignoring that human rights and dignity were all due to a prior generation's Christian ethic. 
 The modern activists have instead brought us wide-scale chemical castration, genital mutilation, normalization of sexual deviance, and of course making one's sexual desires into an idol.
 In other words, one's sexual desires become an identity, an object of worship.
 
