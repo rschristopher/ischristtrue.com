@@ -56,7 +56,7 @@ None of these make much sense, however, if we recognize the etymological root of
     * technology -- revealed truth of techne (art, skill, technique)
 
 The ancient understanding of *Logia* dispels much of the confusion found in our modern view, and reveals the divine nature of knowledge and revelatory truth across all disciplines (and note that an academic discipline means literally to be a *disciple*).
-It would seem that "the study of" ethos is a vain and demonic attempt to remove God, replacing God with self-worship, mas if man were God.
+It would seem that "the study of" ethos is a vain and demonic attempt to remove God, replacing God with self-worship, as if man were God.
 
 These are echoes of that same snake in the garden,
 
