@@ -39,12 +39,13 @@ This can be demonstrated by the fact that most *-ology* suffixes make no referen
     * apology -- the study of from/of?
 
 *Note* the **ap-** in *apology* simply means "from" or "of", but what is an apology the study of, exactly? The study of *of*?
-None of these make much sense, however, if we recognize the etymological root of *logia* and *Logos* then these all make sense, e.g.,
+
+None of these make much sense, however, if we recognize the etymological root of *Logia* and *Logos* then these all make perfect sense, e.g.,
 
 !!! info "Logos/Logia suffix"
     * trilogy -- 3 stories
     * epistemology -- understanding the word (revealed truth)
-    * apology -- from the word of God. We still have this connotation in *Christian Apologetics*, but more generally if you're making an apology you're probably explaining something said or written.
+    * apology -- from the word of God. We still have this connotation with *Christian Apologetics*, but more generally if you're making an apology you're probably explaining something previously spoken or written.
     
     We can even get a better sense of the supposed "study of" scholastic disciplines,
     
@@ -55,9 +56,9 @@ None of these make much sense, however, if we recognize the etymological root of
     * technology -- revealed truth of techne (art, skill, technique)
 
 The ancient understanding of *Logia* dispels much of the confusion found in our modern view, and reveals the divine nature of knowledge and revelatory truth across all disciplines (and note that an academic discipline means literally to be a *disciple*).
-It would seem that "the study of" ethos is a vain and demonic attempt to remove God, replacing God with self-worship, making "the study of" nature as if man were God.
+It would seem that "the study of" ethos is a vain and demonic attempt to remove God, replacing God with self-worship, mas if man were God.
 
-Once again, echoes of that same snake in the garden,
+These are echoes of that same snake in the garden,
 
 > Ye shall be as gods
 
