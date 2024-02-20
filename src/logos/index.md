@@ -76,7 +76,7 @@ Let us not use our God-given mind for self-worship, but instead worship and glor
 
 ## Christology
 
-Christology, the doctrines of Christ, or literally; the stories (Logia) of Christ (the Logos incarnate).
+Christology, the doctrines of Christ, or literally: the stories (Logia) of Christ (the Logos incarnate).
 In other words, how we can know the truth (revealed truth) of Truth.
 This is the only fully justified and sufficient epistemology, as the person of Christ is the origin of "epistemology".
 
