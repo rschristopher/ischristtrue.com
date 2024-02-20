@@ -20,7 +20,13 @@ It was in the person of Christ that knowable objective truth was born, literally
 The only scholastic invention was the demonic attempt to remove God from truth and epistemology, as if truth was merely an attribute, a human articulation, rather than the person of Christ.
 
 
-## The study of ...
+
+
+
+
+
+
+## -ology
 
 The plural of *Logos* is *logoi*.
 *Logia* is the plural form of *logion* which refers to divinely inspired words or stories (revealed truth) such as scripture.
@@ -50,8 +56,8 @@ None of these make much sense, however, if we recognize the etymological root of
     * geology -- the ground/soil story
     * technology -- revealed truth of techne (art, skill, technique)
 
-The ancient understanding of *Logia* dispels much of the confusion found in the modern view, and reveals the divine nature of knowledge and revelatory truth in every discipline.
-It would seem that "the study of" is a vain and demonic attempt to remove God, replacing God with self-worship, making "the study of" nature as if man were God.
+The ancient understanding of *Logia* dispels much of the confusion found in our modern view, and reveals the divine nature of knowledge and revelatory truth across all disciplines (and note that an academic discipline means literally to be a *disciple*).
+It would seem that "the study of" ethos is a vain and demonic attempt to remove God, replacing God with self-worship, making "the study of" nature as if man were God.
 
 Once again, echoes of that same snake in the garden,
 
@@ -60,7 +66,23 @@ Once again, echoes of that same snake in the garden,
 Let us not use our God-given mind for self-worship, but instead worship and glorify God, our creator -- the Spirit of Truth made known to us through Christ Jesus.
 
 
-## Doctrines of Christ
+
+
+
+
+
+
+## Christology
+
+Christology, the doctrines of Christ, or literally, the stories (Logia) of Christ (the Logos incarnate).
+In other words, how we can know the truth (revealed truth) of Truth.
+This is the only fully justified and sufficient epistemology, as the person of Christ is the origin of "epistemology".
+
+!!! quote "John 14:6"
+    Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
+
+As affirmed in traditional Orthodox Christology, Christ Jesus is both God and man, fully human and fully God. He has two natures, two wills, human and divine working in perfect synergy.
+The person who is the Word (Logos) of God condescended into His creation, and then into death (the actual death of God), that He may overcome sin and death in order to save us.
 
 These are the doctrines of Christ, of the Logos incarnate, His life, death, resurrection and ascension.
 
