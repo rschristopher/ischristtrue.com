@@ -1,7 +1,7 @@
 # Logos
 
-Traditionally, Logos is the Word of God.
-Christ is the Logos incarnate, the Word made flesh. 
+Traditionally, Logos (Λόγος) is the *Word of God*.
+Christ is the *Logos incarnate*, the Word made flesh. 
 More specifically, Christ, the Logos, is the Spirit of Truth made flesh.
 
 [Modern views](../modern-views/index.md) offer a subtle nihilism where truth is relativistic and reductionist, a reversion to the [ancient](../ancient-views/index.md) "gods" where there was no objective knowable truth.
@@ -9,6 +9,11 @@ Even modern
  [Orthodox](http://orthodoxinfo.com/general/doctrine1.aspx)
  Christians sometimes make this mistake, shying away from "truth" as if it was a western scholastic invention.
 Orthodox means literally *right* (Ortho) *praise* or *worship* (Doxa), and there is nothing more *Orthodox* than the Logos, the Truth, made flesh.
+
+!!! quote "John 1:1-5"
+    In the beginning was the Word (Logos), and the Word (Logos) was with God, and the Word (Logos) was God.
+
+    <center>![icon-christ](/images/icon-christ.jpg)</center>
 
 Truth is transcendent but it is objectively knowable to us through Christ Jesus.
 It was in the person of Christ that knowable objective truth was born, literally born in Bethlehem.
