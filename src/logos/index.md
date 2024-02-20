@@ -8,6 +8,7 @@ More specifically, Christ, the Logos, is the Spirit of Truth revealed.
 Even modern
  [Orthodox](http://orthodoxinfo.com/general/doctrine1.aspx)
  Christians sometimes make this mistake, shying away from "truth" as if it was a western scholastic invention.
+
 "Orthodox" means, literally, *right* (Ortho) *praise* or *worship* (Doxa), and there is nothing more *Orthodox* than the Logos, the Truth, made flesh.
 
 !!! quote "John 1:1-5"
