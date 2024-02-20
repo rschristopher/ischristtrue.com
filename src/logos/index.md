@@ -71,9 +71,12 @@ Let us not use our God-given mind for self-worship, but instead worship and glor
 
 
 
+
+
+
 ## Christology
 
-Christology, the doctrines of Christ, or literally, the stories (Logia) of Christ (the Logos incarnate).
+Christology, the doctrines of Christ, or literally; the stories (Logia) of Christ (the Logos incarnate).
 In other words, how we can know the truth (revealed truth) of Truth.
 This is the only fully justified and sufficient epistemology, as the person of Christ is the origin of "epistemology".
 
@@ -81,7 +84,7 @@ This is the only fully justified and sufficient epistemology, as the person of C
     Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
 
 As affirmed in traditional Orthodox Christology, Christ Jesus is both God and man, fully human and fully God. He has two natures, two wills, human and divine working in perfect synergy.
-The person who is the Word (Logos) of God condescended into His creation, and then into death (the actual death of God), that He may overcome sin and death in order to save us.
+The person who is the Word (Logos) of God condescended down into His creation, and then into death (the actual death of God), all that He may save us by overcoming sin and death.
 
 These are the doctrines of Christ, of the Logos incarnate, His life, death, resurrection and ascension.
 
