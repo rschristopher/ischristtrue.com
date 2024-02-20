@@ -1,61 +1,25 @@
 # Logos
 
-Literally *the word*. 
-Classically speaking, the logos is the word of God.
-Christ is the logos incarnate, the word made flesh. 
-Oe more specifically, the Spirit of Truth made flesh.
+Traditionally, Logos is the Word of God.
+Christ is the Logos incarnate, the Word made flesh. 
+More specifically, Christ, the Logos, is the Spirit of Truth made flesh.
 
 [Modern views](../modern-views/index.md) offer a subtle nihilism where truth is relativistic and reductionist, a reversion to the [ancient](../ancient-views/index.md) "gods" where there was no objective knowable truth.
 Even modern
  [Orthodox](http://orthodoxinfo.com/general/doctrine1.aspx)
- Christians make this mistake, shying away from "truth" as if it was a western scholastic invention.
-Orthodox means literally *right* (Ortho) *praise* or *worship* (Doxa), and there is nothing more Orthodox than the Truth made flesh, that Truth is no longer transcendent but objectively knowable to us through Christ Jesus.
+ Christians sometimes make this mistake, shying away from "truth" as if it was a western scholastic invention.
+Orthodox means literally *right* (Ortho) *praise* or *worship* (Doxa), and there is nothing more *Orthodox* than the Logos, the Truth, made flesh.
 
-It was in the person of Christ Jesus that the knowable objective truth was born, literally born in Bethlehem.
-To be clear, Christ is the Truth.
-Truth is a person who is knowable to us.
-And this person is God and man.
-
+Truth is transcendent but it is objectively knowable to us through Christ Jesus.
+It was in the person of Christ that knowable objective truth was born, literally born in Bethlehem.
+The only scholastic invention was the demonic attempt to remove God from Truth, as if truth was merely an attribute, a human articulation, rather than the person of Christ.
 
 
-
-
-
-
-
-
-
-
-These are the doctrines of Christ, of the Logos incarnate, His life, death, resurrection and ascension.
-
-* [Annunciation](annunciation.md)
-
-* [Nativity](nativity.md)
-
-* [Baptism](baptism.md)
-
-* [Temptations](temptations.md)
-
-* [Ministry](ministry.md) (salvation)
-
-* [Death on the Cross](cross.md) (coronation)
-
-* [Harrowing of Hades](harrowing.md)
-
-* [Resurrection](resurrection.md)
-
-* [Ascension](ascension.md)
-
-
-
-
-
-
-## Logia
+## Logos and Logia
 
 The plural of logos is *logoi*.
 Logia is the plural form of *logion* which typically refers to divinely inspired words or stories. 
-*Logia* was used to reference the divinely inspired word of God, i.e., scripture.
+*Logia* is the divinely inspired word of God, i.e., scripture.
 
 
 ## -ology
@@ -92,6 +56,40 @@ Once again, echoes of that same snake in the garden,
 > Ye shall be as gods
 
 Let us not use our God-given mind to worship our self, but instead worship and glorify God, our creator -- the spirit of truth and source of all that is good.
+
+
+
+
+
+
+
+
+
+These are the doctrines of Christ, of the Logos incarnate, His life, death, resurrection and ascension.
+
+* [Annunciation](annunciation.md)
+
+* [Nativity](nativity.md)
+
+* [Baptism](baptism.md)
+
+* [Temptations](temptations.md)
+
+* [Ministry](ministry.md) (salvation)
+
+* [Death on the Cross](cross.md) (coronation)
+
+* [Harrowing of Hades](harrowing.md)
+
+* [Resurrection](resurrection.md)
+
+* [Ascension](ascension.md)
+
+
+
+
+
+
 
 
 
