@@ -9,7 +9,7 @@ Even modern
  [Orthodox](http://orthodoxinfo.com/general/doctrine1.aspx)
  Christians sometimes make this mistake, shying away from "truth" as if it was a western scholastic invention.
 
-"Orthodox" means, literally, *right* (Ortho) *praise* or *worship* (Doxa), and there is nothing more *Orthodox* than the Logos, the Truth, made flesh.
+"Orthodox" means, literally, *right* (Ortho) *praise* or *worship* (Doxa), and there is nothing more *right worship* than the Logos, the Truth, made flesh.
 
 !!! quote "John 1:1"
     In the beginning was the Word (Logos), and the Word (Logos) was with God, and the Word (Logos) was God.
