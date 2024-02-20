@@ -30,7 +30,7 @@ The only scholastic invention was the demonic attempt to remove God from truth a
 ## -ology
 
 While our nihilistic [modern view](../modern-views/index.md) tells us that words ending in *-ology* refer to "the study of",
- the origin is of course from *Logia* and refers to stories or words, usually *the word* (Logos) who is Christ.
+ the origin is of course from *Logia* and refers to divine stories or words, usually *the word* (Logos) who is Christ.
 This can be demonstrated by the fact that most *-ology* suffixes make no reference to "the study of", e.g.,
 
 !!! question "the study of?"
