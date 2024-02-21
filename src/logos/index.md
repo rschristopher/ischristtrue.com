@@ -1,5 +1,9 @@
 # Logos
 
+!!! quote "John 15:26-27"
+    But when the Comforter is come, whom I will send unto you from the Father, even the *Spirit of truth*, which proceedeth from the Father, he shall testify of me: 
+    And ye also shall bear witness, because ye have been with me from the beginning.
+
 Traditionally, Logos (Λόγος) is the *Word of God*.
 Christ is the *Logos incarnate*, the Word made flesh. 
 More specifically, Christ, the Logos, is the Spirit of Truth revealed.
@@ -16,7 +20,11 @@ Even modern
 
     <center>![icon-christ](/images/icon-christ.jpg)</center>
 
-Truth is transcendent, and it is objectively knowable through Christ Jesus.
+!!! quote "John 15:16-17"
+    Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you. 
+    These things I command you, that ye love one another.
+
+Truth is transcendent, and objectively knowable through Christ Jesus.
 It was in the person of Christ that knowable objective truth was born, literally, born in Bethlehem.
 The only scholastic invention was the demonic attempt to remove God from truth and epistemology, as if truth was merely an attribute, a human articulation, rather than the person of Christ.
 
@@ -30,7 +38,7 @@ The only scholastic invention was the demonic attempt to remove God from truth a
 ## -ology
 
 While our nihilistic [modern view](../modern-views/index.md) tells us that words ending in *-ology* refer to "the study of",
- the origin is of course from *Logia* and refers to divine stories or words, usually *the word* (Logos) who is Christ.
+ the origin is of course from *Logia* and refers to divine stories or words, specifically  *the word* (Logos) who is Christ Jesus.
 This can be demonstrated by the fact that most *-ology* suffixes make no reference to "the study of", e.g.,
 
 !!! question "the study of?"
@@ -45,7 +53,7 @@ None of these make much sense, however, if we recognize the etymological root of
 !!! info "Logos/Logia suffix"
     * trilogy -- 3 stories
     * epistemology -- understanding the word (revealed truth)
-    * apology -- from the word of God. We still have this connotation with *Christian Apologetics*, but more generally if you're making an apology you're probably explaining something previously spoken or written.
+    * apology -- from the word of God. We still have this connotation with *Christian Apologetics*
     
     We can even get a better sense of the supposed "study of" scholastic disciplines,
     
@@ -56,13 +64,13 @@ None of these make much sense, however, if we recognize the etymological root of
     * technology -- revealed truth of techne (art, skill, technique)
 
 The ancient understanding of *Logia* dispels much of the confusion found in our modern view, and reveals the divine nature of knowledge and revelatory truth across all disciplines (and note that an academic discipline means literally to be a *disciple*).
-It would seem that "the study of" ethos is a vain and demonic attempt to remove God, replacing God with self-worship, as if man were God.
+It would seem that "the study of" belief is a vain and demonic attempt to remove God, replacing God with self-worship, as if man were God.
 
 These are echoes of that same snake in the garden,
 
 > Ye shall be as gods
 
-Let us not use our God-given mind for self-worship, but instead worship and glorify God, our creator -- the Spirit of Truth made known to us through Christ Jesus.
+Let us not use our God-given mind for self-worship or nihilism, but instead worship and glorify God, our creator -- the Spirit of Truth made known to us through Christ Jesus.
 
 
 
@@ -78,15 +86,17 @@ Let us not use our God-given mind for self-worship, but instead worship and glor
 
 Christology, the doctrines of Christ, or literally: the stories (Logia) of Christ (the Logos incarnate) -- the Logia of the Logos.
 In other words, how we can know the truth (revealed truth) of Truth.
-This is the only fully justifiable and sufficient epistemology, as the person of Christ is why we even have the word "epistemology".
+
+This is the only justifiable and sufficient epistemology, as the person of Christ is why we even have the word "epistemology".
 
 !!! quote "John 14:6"
     Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
 
-As affirmed in traditional Orthodox Christology, Christ Jesus is both God and man, fully human and fully God. He has two natures, two wills, human and divine working in perfect synergy.
-The Word (Logos) of God condescended down into His creation, and down into death (the actual death of God), all that He may save us by overcoming sin and death.
+As affirmed in traditional Orthodox Christology, Christ Jesus is both God and man, fully human and fully God. 
+He has two natures, two wills, human and divine working in perfect synergy.
+The Word (Logos) of God condescended down into His creation, and further down into death (the actual death of God), so that He may save us by overcoming sin and death.
 
-These are the doctrines of Christ, of the Logos incarnate, His life, death, resurrection and ascension.
+These are the doctrines of Christ -- of the Logos incarnate -- His life, death, resurrection and ascension.
 
 * [Annunciation](annunciation.md)
 
