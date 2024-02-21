@@ -7,8 +7,8 @@ Have mercy on me, a sinner
 -->
 
 
-!!! quote "Colossians 2:2-5"
-    That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ; In whom are hid all the treasures of wisdom and knowledge. And this I say, lest any man should beguile you with enticing words.
+!!! quote "Colossians 2:8"
+    Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.
 
 
 [Metanoia](https://en.wikipedia.org/wiki/Metanoia_%28theology%29) is a change of heart or a spiritual conversion. Or at least that's how it's referred to in our [modern](../modern-views/index.md) secular view, which can feel a bit dry and lifeless unless we really think about it what is actually happening.
