@@ -130,8 +130,8 @@ The first innovation of Judaism was the radical assertion that man is created in
 This was an outrageous claim in the ancient world.
 Ancient worldviews understood that man was nothing to the gods but at most idle amusement, like a child playing with ants.
 
-The second innovation was a monotheistic God, transcendent to creation and yet loves us and is knowable to us thru revelation.
-Those other "gods" we worshipped turned out to be fallen spirits.
+The second innovation was a monotheistic God, who is transcendent to creation, and yet loves us and is knowable to us thru revelation.
+Those other "gods" we worshipped turned out to be part of creation, fallen spirits.
 And explicit in Judaism is universal human rights and dignity (which propagated to the entire world through Christianity).
 This is why Israel was to be a nation of priests, intended as a model for the rest of the world, a model of liberation from the "gods" who held dominion over us.
 
