@@ -24,9 +24,9 @@ Even modern
     Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you. 
     These things I command you, that ye love one another.
 
-Truth is transcendent, and objectively knowable through Christ Jesus.
+Truth is transcendent, and knowable through Christ Jesus.
 It was in the person of Christ that knowable objective truth was born, literally, born in Bethlehem.
-The only scholastic invention was the demonic attempt to remove God from truth and epistemology, as if truth was merely an attribute, a human articulation, rather than the person of Christ.
+The only scholastic invention was the demonic attempt to remove God from truth and epistemology, pretending truth was merely an attribute, a human articulation, rather than the person of Christ.
 
 
 
