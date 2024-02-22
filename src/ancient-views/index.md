@@ -366,7 +366,7 @@ From an artistic perspective, modern use of satanic imagery has become so common
 It has become so predictable and ubiquitous in our culture that you're almost surprised when modern art or a music video doesn't feature explicit satanic imagery.
 When not using explicit imagery, the themes of modern film and television often promote Luciferian themes: "you can be anything you want", "the power was in you all along", "you just need to believe in yourself", and so on.
 
-The list of ancient "gods" (Satan included) seem endless, and in all you'll find deceit and confusion
+The list of ancient "gods" (Satan included) seems endless, and in all you'll find deceit and confusion
  -- such as with Kali or Satan or the many inversions such as the Prometheus mythology.
 When you try to pin down an objective truth claim (what is its exact meaning and purpose?) you'll never really get a complete answer,
  but always vague inferences as if they're approaching an answer that is forever out of reach:
