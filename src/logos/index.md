@@ -37,8 +37,9 @@ The only scholastic invention was the demonic attempt to remove God from truth a
 
 ## -ology
 
-While our nihilistic [modern view](../modern-views/index.md) tells us that words ending in *-ology* refer to "the study of",
- the origin is of course from *Logia* and refers to divine stories or words, specifically  *the word* (Logos) who is Christ Jesus.
+Our nihilistic [modern view](../modern-views/index.md) tells us that words ending in *-ology* refer to "the study of".
+The etymology is from *Logia* and refers to divine stories or words, specifically  *the word* (Logos) who is Christ Jesus.
+It does not mean "the study of".
 This can be demonstrated by the fact that most *-ology* suffixes make no reference to "the study of", e.g.,
 
 !!! question "the study of?"
@@ -48,7 +49,8 @@ This can be demonstrated by the fact that most *-ology* suffixes make no referen
 
 *Note* the **ap-** in *apology* simply means "from" or "of", but what is an apology the study of, exactly? The study of *of*?
 
-None of these make much sense, however, if we recognize the etymological root of *Logia* and *Logos* then these all make perfect sense, e.g.,
+None of these make much sense.
+However, if we recognize the etymological root *Logia* and *Logos* then these all make perfect sense, e.g.,
 
 !!! info "Logos/Logia suffix"
     * trilogy -- 3 stories
@@ -64,7 +66,7 @@ None of these make much sense, however, if we recognize the etymological root of
     * technology -- revealed truth of techne (art, skill, technique)
 
 The ancient understanding of *Logia* dispels much of the confusion found in our modern view, and reveals the divine nature of knowledge and revelatory truth across all disciplines (and note that an academic discipline means literally to be a *disciple*).
-It would seem that "the study of" belief is a vain and demonic attempt to remove God, replacing God with self-worship, as if man were God.
+It would seem that "the study of" inference is a vain and demonic attempt to remove God, replacing God with self-worship, as if man were God.
 
 These are echoes of that same snake in the garden,
 
@@ -85,7 +87,7 @@ Let us not use our God-given mind for self-worship or nihilism, but instead wors
 ## Christology
 
 Christology, the doctrines of Christ, or literally: the stories (Logia) of Christ (the Logos incarnate) -- the Logia of the Logos.
-In other words, how we can know the truth (revealed truth) of Truth.
+The revealed truth of Truth.
 
 This is the only justifiable and sufficient epistemology, as the person of Christ is why we even have the word "epistemology".
 
@@ -97,6 +99,7 @@ He has two natures, two wills, human and divine working in perfect synergy.
 The Word (Logos) of God condescended down into His creation, and further down into death (the actual death of God), so that He may save us by overcoming sin and death.
 
 These are the doctrines of Christ -- of the Logos incarnate -- His life, death, resurrection and ascension.
+This is the story of Truth, how we can know truth, and of our redemption and salvation from a fallen state.
 
 * [Annunciation](annunciation.md)
 
