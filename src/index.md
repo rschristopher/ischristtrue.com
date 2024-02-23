@@ -38,7 +38,7 @@ Our [enlightenment](modern-views/enlightenment.md) view presupposes knowable tru
 
 
 
-## Who is R.S. Christopher
+## Who is R.S. Christopher?
 
 Reprobus Saint Christopher is the dog-headed saint of travelers and [Bitcoiners](https://isbitcointrue.com). 
 While [revisionists](https://en.wikipedia.org/wiki/Saint_Christopher) like to say that St. Christopher was an ordinary man, arrogantly proclaiming that "dog-headed men" never actually existed and that it was all just a translation error or worse, a myth -- no, Reprobus actually was a dog-headed giant; a monster from beyond the fringes, haunting the marginalia of our ancient world. And, in the pursuit of power, Reprobus instead found salvation in Christ.
