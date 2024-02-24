@@ -433,6 +433,8 @@ These "enemies" are the fallen spirits, the powers and principalities that once 
     
     <center>![babel](/images/babel.jpg)</center>
 
+!!! quote "Wisdom of Sirach 17:17"
+    For in the division of the nations of the whole earth He set a ruler over every people; but Israel is the Lord's portion
 
 These territorial spirits (*shedim*) are among the ancient "gods", many of whom participated in the [rebellions](https://biblehub.com/bsb/psalms/82.htm) against God, and it is in this backdrop that Christ arose.
 It was in that scattered world of subjugation by ancient "gods" that Israel emerged and the prophets cried out for a savior, where John the Baptist prepared the way. *"Repent, for the kingdom of heaven is at hand"*.
