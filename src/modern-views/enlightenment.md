@@ -17,6 +17,12 @@ Worshipping Reason
 
 Rationalism as a supreme authority.
 
+
+[history](https://www.pravmir.com/orthodoxy-and-the-enlightenment/)
+
+[age of enlightenment](https://en.m.wikipedia.org/wiki/Age_of_Enlightenment)
+
+
 For starters,
  rationality cannot measure or contain 
  created reality,
