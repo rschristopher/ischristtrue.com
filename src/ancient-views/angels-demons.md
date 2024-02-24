@@ -83,26 +83,38 @@ Like the pagan mythologies, there seems to be something about these stories that
 ### Early Church
 
 There were ranks of created spirits, heavenly hosts, and the fall of these spirits happened more than once. 
+
 For example, a group of angels known as the watchers are the "sons of God" referenced in Genesis. 
 These are the "sons of God" that had children with the "daughters of men". 
 These hybrid children are known as *nephilim*, and are a precursor to the flood.
-
 Demons are not only fallen angels, but also the spirits of the dead nephilim.
 
-In this view, Pagan gods were not imaginary or false, but very real created spirits, most of which fell from God's grace.
+In the ancient world, Pagan gods were not imaginary or false, but very real created spirits, most of which fell from God's grace.
+In the third rebellion against God, when the tower fell, man was placed under the territorial dominion of created spirits.
+
+
+!!! quote "Deuteronomy 32:8"
+    When the Most High gave the nations their inheritance, when He divided the sons of man, He set the boundaries of the peoples according to the number of the sons of God.
+
+    <center>![babel](/images/Babel.jpg)</center>
+    
 
 The new-atheist critique that claims "you are an atheist with respect to Zeus or Thor," fails here because the ancient view (Christian or otherwise) believed in these very real powers and principalities. 
-Christians simply viewed these as created spirits as having God-given dominion over the people of the earth. 
+Ancient Christians understood that these created spirits had God-given dominion over the people of the earth. 
+And the prophets cried for a savior.
 
 !!! quote "Psalm 82"
-    God standeth in the congregation of the mighty; he judgeth among the gods.<br />
-    How long will ye judge unjustly, and accept the persons of the wicked? Selah<br />
-    Defend the poor and fatherless: do justice to the afflicted and needy.<br />
-    Deliver the poor and needy: rid them out of the hand of the wicked.<br />
-    They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.<br />
-    I have said, Ye are gods; and all of you are children of the most High.<br />
-    But ye shall die like men, and fall like one of the princes.<br />
-    Arise, O God, judge the earth: for thou shalt inherit all nations.<br />
+    God standeth in the congregation of the mighty; he judgeth among the gods.
+    How long will ye judge unjustly, and accept the persons of the wicked? Selah
+    
+    Defend the poor and fatherless: do justice to the afflicted and needy.
+    Deliver the poor and needy: rid them out of the hand of the wicked.
+    They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
+    
+    I have said, Ye are gods; and all of you are children of the most High.
+    But ye shall die like men, and fall like one of the princes.
+    
+    Arise, O God, judge the earth: for thou shalt inherit all nations.
 
 As Christians we ought to believe these spirits exist -- including Zeus, Thor, and Quetzalcoatl -- but we should see them for what they really are.
 
