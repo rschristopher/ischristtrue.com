@@ -154,9 +154,17 @@ The Tower of Babel, Genesis 11<br />
 
 ## Abrahamic Age
 
+!!! quote "Wisdom of Sirach 17:17"
+    For in the division of the nations of the whole earth he set a ruler over every people; but Israel is the Lord's portion
+
 !!! info "Covenantal Age"
     The cosmology of this age is familiar to us -- man is in a lowly state, subject to false gods (principalities and powers) and confused languages, yet in this age is the beginning of hope.
     A single seed, Abraham, will be the father of a chosen people; blessed by a priest (Melchizedek) of the most high God.
+
+!!! quote "Jubilees 15:30b-32a"
+    He chose Israel to be His people.
+And He sanctified it, and gathered it from amongst all the children of men; for there are many nations and many peoples, and all are His, and over all hath He placed spirits in authority to lead them astray from Him.
+But over Israel He did not appoint any angel or spirit, for He alone is their ruler
 
 * ~2100 BC<br />
 Job's Suffering and Faith, Job 1 - 42<br />
