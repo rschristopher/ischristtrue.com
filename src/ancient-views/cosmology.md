@@ -163,8 +163,8 @@ The Tower of Babel, Genesis 11<br />
 
 !!! quote "Jubilees 15:30b-32a"
     He chose Israel to be His people.
-And He sanctified it, and gathered it from amongst all the children of men; for there are many nations and many peoples, and all are His, and over all hath He placed spirits in authority to lead them astray from Him.
-But over Israel He did not appoint any angel or spirit, for He alone is their ruler
+    And He sanctified it, and gathered it from amongst all the children of men; for there are many nations and many peoples, and all are His, and over all hath He placed spirits in authority to lead them astray from Him. 
+    But over Israel He did not appoint any angel or spirit, for He alone is their ruler
 
 * ~2100 BC<br />
 Job's Suffering and Faith, Job 1 - 42<br />
