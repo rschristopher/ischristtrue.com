@@ -80,7 +80,7 @@ Like the pagan mythologies, there seems to be something about these stories that
 
 
 
-### Early Church
+### Ancient Church
 
 There were ranks of created spirits, heavenly hosts, and the fall of these spirits happened more than once. 
 
@@ -96,7 +96,7 @@ In the third rebellion against God, when the tower fell, man was placed under th
 !!! quote "Deuteronomy 32:8"
     When the Most High gave the nations their inheritance, when He divided the sons of man, He set the boundaries of the peoples according to the number of the sons of God.
 
-    <center>![babel](/images/Babel.jpg)</center>
+    <center>![babel](/images/babel.jpg)</center>
     
 
 The new-atheist critique that claims "you are an atheist with respect to Zeus or Thor," fails here because the ancient view (Christian or otherwise) believed in these very real powers and principalities. 
@@ -121,7 +121,7 @@ As Christians we ought to believe these spirits exist -- including Zeus, Thor, a
 !!! quote "Exodus 20:5"
     Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God
 
-In this context, you'll find most all ancient pagan mythologies contain an explicit inversion of Christianity, where mankind is reduced to the playthings of the gods, and the pantheon of pagan gods were the heros who overthrew the prior divine order, typically a tyrannical order.
+In this context, you'll find most all ancient pagan mythologies contain a deceitful inversion of Christianity, where mankind is reduced to the playthings of the gods, and the pantheon of pagan gods were the heros who overthrew the prior divine order, typically a tyrannical order.
 Compare this to Christianity, where God is the Lord of Spirits, and man is created in the image and likeness of God, meant to judge the angels (the created spirits).
 
 
@@ -176,6 +176,8 @@ They are not omniscient.
 They are not omnipresent.
 
 And thankfully for us, the fallen angels are subject to God's sovereignty, who allows this battle of will for our salvation.
+
+
 
 
 
@@ -421,6 +423,10 @@ adversary
 
 ...
 
+
+#### Ziz
+
+...
 
 
 #### Book of Daniel
