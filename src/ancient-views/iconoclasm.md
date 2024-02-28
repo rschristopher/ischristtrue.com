@@ -272,9 +272,9 @@ If we do not feel any respect or honor to the saints, nor to the Theotokos, nor 
 We all worship, and our actions and words will reveal what it is we are really worshipping.
 
 ???+ question "How are icons venerated?"
-    In the Orthodox Church, icons are venerated by bowing and [kissing](https://www.patristicfaith.com/orthodox-christianity/you-may-not-not-kiss-the-icon/), exactly as those ancient cultures greeted each other, this is how they greeted the icons in the church. 
+    In Orthodox churches, icons are venerated by bowing and [kissing](https://www.patristicfaith.com/orthodox-christianity/you-may-not-not-kiss-the-icon/), exactly as those ancient cultures greeted each other. 
     
-    We rarely think of a kiss as a form of greeting today. The closest we come in our modern world is a hug and kiss to a cloae relative, such as our own children. We don't worship our children and they don't worship their parents.
+    In most western cultures, especially anglo culture, we rarely think of a bow and a kiss as a form of greeting. The closest might be a hug and kiss between parents and children.
 
 Worshipping physical icons would of course be wrong (and somewhat absurd in our modern age). It would clearly be idolatry and should be condemned as heretical.
 Likewise, conflating icons with idol worship should also be condemned.
