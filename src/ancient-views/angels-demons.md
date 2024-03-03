@@ -288,28 +288,29 @@ It is everywhere we look.
 
 ### Hierarchy
 
-According to pseudo Dionysus the Areopagite, in his book
- [Celestial Hierarchy](http://esoteric.msu.edu/VolumeII/CelestialHierarchy.html)
- there are "three threefold Orders" of "celestial beings" known to us:
-
 ???+ example "cherubim"
     <center>![cherubim](/images/cherubim.jpg)</center>
 
-* Highest orders:
-    * Seraphim
-    * Cherubim
-    * Thrones
+According to pseudo-Dionysus the Areopagite, in his book
+ [Celestial Hierarchy](http://esoteric.msu.edu/VolumeII/CelestialHierarchy.html),
+ there are "three threefold Orders" of "celestial beings" known to us:
 
-* Middle orders:
-    * Dominions
-    * Virtues
-    * Powers
+* **Highest orders** -- *nearest to God*
+    * **Seraphim** -- *those who kindle or make hot ... unquenchable, changeless, radiant and enlightening, dispelling and destroying the shadows of darkness*
+    * **Cherubim** -- *knowing and beholding God ... participation in Divine Wisdom, and bounteously outpour to those below them from their own fount of wisdom*
+    * **Thrones** -- *exempt from and untainted by any base and earthly thing ... perfectly established in the Most High, and receive the Divine Immanence above all passion and matter*
 
-* Lowest orders:
-    * Principalities
-    * Archangels
-    * Angels
+* **Middle orders** -- *supermundane*
+    * **Dominions** - *perpetually aspiring to true lordship ... providentially fashion themselves and those below them, as far as possible, into the likeness of true lordship*
+    * **Virtues** - *unshakable virility welling forth into all their Godlike energies*
+    * **Powers** - *intellectual and supermundane power which never debases its authority by tyrannical force*
 
+* **Lowest orders** - *princeliness and authoritativeness*
+    * **Principalities** - *authoritativeness in an Order which is holy and most fitting to the princely Powers*
+    * **Archangels** - *bridging the princely authority above with the messengers below*
+    * **Angels** - *messengers from the divine above to the mundane below*
+
+This hierarchy, while speculative, traces layers of mediation between God and fallen man. The highest order is nearest to God, and the lowest order is nearest to man.
 
 !!! question "Why are all ranks still referred to as *'angels'*?"
     *Angel* simply means messenger, which is both a rank as well as how we refer to all of these celestial beings (regardless of rank). This is because, like man, they are created in the image and likeness of God, which means they perform God's will. Thus by their very nature they are divine messenging beings.
