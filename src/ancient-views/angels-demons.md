@@ -349,6 +349,13 @@ Archangel Michael is the commander of the heavenly armies, protector of Israel, 
 Archangel Gabriel brought news of the [annunciation](../logos/annunciation.md), and of Christ's [resurrection](../logos/resurrection.md).
 By tradition he was present throughout the old testament, inspiring Moses to write Genesis.
 
+???+ quote "Luke 1:19"
+    And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings.
+    
+    <center>![Gabriel](/images/icon-gabriel.jpg)</center>
+
+
+
 
 
 #### Raphael
