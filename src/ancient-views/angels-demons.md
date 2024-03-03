@@ -324,13 +324,15 @@ This hierarchy, while speculative, traces layers of mediation between God and fa
 
 ### Named by God
 
-...
+The [apocryphal](apocrypha.md) Book of Enoch lists seven archangels by name: Michael, Uriel, Raguel, Raphael, Sariel, Gabriel, and Remiel.
+Of these, Michael and Gabriel are directly referenced in canonical sources, and Raphael is indirectly referenced.
 
 
 
 #### Michael
 
-Literally, "who is like God?"
+*Mikhaʾel*, literally, "who is like God?"
+Archangel Michael is the commander of the heavenly armies, protector of Israel, of God's people.
 
 ??? quote "Revelation 12:7-9"
     And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels, 
@@ -343,13 +345,14 @@ Literally, "who is like God?"
 
 #### Gabriel
 
-...
+*Gaḇrīʾēl*, literally, "man of God".
+
 
 
 
 #### Raphael
 
-...
+*Rafa’El*, literally, "God has healed".
 
 
 
@@ -431,7 +434,7 @@ This part of our fallen nature. And only through Christ can we overcome.
 
 
 
-### Dominion
+### Dominion of Darkness 
 
 The third great evil (after sin and death) came as a consequence of Babel..
 
