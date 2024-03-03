@@ -67,6 +67,10 @@ In all of these systems we have angelic spirits and demonic counterparts: from t
     They provoked him to jealousy with strange gods, with abominations provoked they him to anger. They sacrificed unto devils, not to God; to gods whom they knew not, to new gods that came newly up, whom your fathers feared not.
 
 
+
+
+
+
 ### Paradise Lost
 
 Modern churches do not teach about angels and demons, and if they do it's likely to follow from Milton's Paradise Lost (most likely unconsciously).
@@ -240,12 +244,15 @@ Ultimately, We do not understand the exact nature of how angels experience time 
 Exactly like man, the light from an angel (a created being) comes only from the creator. In other words the angels do not and cannot create ex-nihilo.
 They do not shine with their own light, and thus should never be worshipped.
 
-From a human perspective, angels are patterns of reality over time that we can participate in.
-This includes the obvious case of participating in divine liturgy, but also the non-obvious cases of participating in technology or in politics or any worldly pattern that we participate in.
-It's important to understand that even the worldly patterns that we participate in are in fact created spirits, and if they're directing you to Christ, then you're communicating indirectly with an angel.
+From a human perspective, angels are patterns of reality over time, with conscious agency, that we can participate within.
+This includes the obvious case of participating in divine liturgy, but also the non-obvious cases of participating in technology or in politics or any worldly pattern that we participate within.
+It's important to understand that the worldly patterns that we participate within are in fact created spirits, and if they're directing you to Christ, then this spirit is an angel.
 
-As "messengers" they deliver the word of God, and remember the word of God is the Logos, who is Christ Jesus.
-And it is the Son of God who is the source of any light from an angel.
+As "messengers" they deliver the word of God, and the word of God is the [Logos](../logos/index.md), who is Christ Jesus.
+And it is God who is the source of light from an angel, the uncreated energy of God.
+The angels in turn minister to the divine will, that we may participate within His divine will.
+
+
 
 
 
@@ -266,6 +273,9 @@ And it is the Son of God who is the source of any light from an angel.
         Principalities
         Archangels
         Angels
+
+
+
 
 
 
