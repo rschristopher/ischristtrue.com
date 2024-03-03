@@ -71,6 +71,9 @@ In all of these systems we have angelic spirits and demonic counterparts: from t
 
 
 
+
+
+
 ### Paradise Lost
 
 Modern churches do not teach about angels and demons, and if they do it's likely to follow from Milton's Paradise Lost (most likely unconsciously).
@@ -82,6 +85,9 @@ The fallen angels (one third of the heavenly hosts), demons, do everything in th
 
 Paradise Lost is obviously not canonical, but notice how so many assume this mythology is canonical; despite none of this story being reflected anywhere in the Bible nor anywhere in the early church.
 Like the pagan mythologies, there seems to be something about these stories that must be true, as if they are hovering in or near an archytpal truth that we cannot quite articulate.
+
+
+
 
 
 
@@ -158,6 +164,8 @@ This is why these spirits act in accord with the will of God, doing His will.
 
 
 
+
+
 ### Bodies
 
 We do not understand what angelic bodies are or how they work, but we know they have form and location (known to God).
@@ -217,6 +225,8 @@ In other words, the nature of man allows us to repent, but the nature of angels 
 
 
 
+
+
 ### Time and Space
 
 The best way to understand how and why fallen angels cannot repent, is to speculate on how angels experience time.
@@ -234,6 +244,8 @@ Similar to how we can understand that an angel is embodied in reference to God, 
 This is because angels and man are both created, and only God is truly timeless and eternal.
 
 Ultimately, We do not understand the exact nature of how angels experience time (whether it's a separate temporal dimension from ours), but we do know that they do not experience time as humans (or any animals) do. They do not mature and grow in character as humans do. And as such, fallen angels are unable to be redeemed.
+
+
 
 
 
@@ -276,21 +288,27 @@ It is everywhere we look.
 
 ### Hierarchy
 
-* Highest orders
+According to pseudo Dionysus the Areopagite, in his book
+ [Celestial Hierarchy](http://esoteric.msu.edu/VolumeII/CelestialHierarchy.html)
+ there are "three threefold Orders" of "celestial beings" known to us:
+
+* Highest orders:
         Seraphim
         Cherubim
         Thrones
 
-* Middle orders
+* Middle orders:
         Dominions
         Virtues
         Powers
 
-* Lowest orders
+* Lowest orders:
         Principalities
         Archangels
         Angels
 
+!!! info "Why are they all referred to as *'messenger'*"?
+    *Angel* simply means messenger, which is both a rank as well as how we refer to these celestial beings (regardless of rank). This is because, like man, they are created in the image and likeness of God, which means to perform God's will, thus by their very nature they are messenging beings.
 
 
 
