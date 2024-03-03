@@ -293,22 +293,22 @@ According to pseudo Dionysus the Areopagite, in his book
  there are "three threefold Orders" of "celestial beings" known to us:
 
 * Highest orders:
-        Seraphim
-        Cherubim
-        Thrones
+  * Seraphim
+  * Cherubim
+  * Thrones
 
 * Middle orders:
-        Dominions
-        Virtues
-        Powers
+  * Dominions
+  * Virtues
+  * Powers
 
 * Lowest orders:
-        Principalities
-        Archangels
-        Angels
+  * Principalities
+  * Archangels
+  * Angels
 
-!!! info "Why are they all referred to as *'messenger'*"?
-    *Angel* simply means messenger, which is both a rank as well as how we refer to these celestial beings (regardless of rank). This is because, like man, they are created in the image and likeness of God, which means to perform God's will, thus by their very nature they are messenging beings.
+!!! question "Why are all ranks of angels still referred to as *'angels'*?"
+    *Angel* simply means messenger, which is both a rank as well as how we refer to all of these celestial beings (regardless of rank). This is because, like man, they are created in the image and likeness of God, which means they perform God's will. Thus by their very nature they are messenging beings.
 
 
 
