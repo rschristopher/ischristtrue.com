@@ -142,29 +142,29 @@ Compare this to Christianity, where God is the Lord of Spirits, and man is creat
 
 Beyond just a *messenger* of God, what exactly are these beings that we call angels?
 
-The full truth of what these spiritual beings are has never been revealed -- however we can know quite a bit about them.
-And we can confirm our speculations through the witness of scripture and early church tradition, as well as speculate through various apocryphal sources.
+The exact nature of angels has never been fully revealed -- however we do know some things through scripture and early church tradition, as well as through various apocryphal sources.
 
 We know that angels are conscious entities with free-will.
-They are invisible, incorporeal, and were also created in the image of God,
+We are know they are created.
+They are invisible, incorporeal, and like humans were also created in the image of God,
 
 !!! quote "An Exact Exposition of the Orthodox Faith, by [St. John of Damascus](https://en.wikipedia.org/wiki/John_of_Damascus)"
     [God] is the maker and creator of angels, bringing them out of non-being into being, having created them after his own image as an incorporeal nature, like some spirit or immaterial fire, as the divine David says, "who makes his angels spirits and his ministers a fiery flame," describing their lightness, ardor, warmth, extreme sharpness, and acuity with regard to their longing for God and ministry to him and their sublimity and deliverance from all material thought.
 
 The orthodox understanding of being "in the image of God" means more than just resemblance, but doing the works of God.
-This is why these spirits act in accord to the will of God, doing His will.
+This is why these spirits act in accord with the will of God, doing His will.
 
 
 
 
 
-### Body
+### Bodies
 
 We do not understand what angelic bodies are or how they work, but we know they have form and location (known to God).
 We also know they are beings of intellect and exist in their assigned intellectual places (on earth or in heaven).
 
 Importantly, angels are not corporeal beings existing within time and space as humans understand.
-They can appear to those whom God wills, and in different forms, including in human form.
+They can appear to those whom God wills, and in different forms, including in a human form.
 They are purely spiritual, and in reference to humans do not have corporeal bodies.
 But in reference to God they are embodied.
 As created beings they exist solely within creation (for God created the heavens and the earth).
@@ -172,6 +172,8 @@ As created beings they exist solely within creation (for God created the heavens
 As both tradition and scripture can attest, angels are circumscribed --
  if an angel is in heaven it is not on earth, and if it is sent to earth it is not in heaven.
 And despite their ability to extend anywhere in space (not confined by doors, locks and seals), they cannot be in two difference places simultaneously.
+
+
 
 
 
@@ -187,7 +189,7 @@ They are not omnipotent.
 They are not omniscient.
 They are not omnipresent.
 
-And thankfully for us, the fallen angels are subject to God's sovereignty, who allows this battle of will for our salvation.
+And thankfully for us, fallen angels are subject to God's sovereignty. He allows this battle of will for our salvation.
 
 
 
@@ -204,8 +206,8 @@ However, unlike man, a fallen angel cannot repent.
 !!! quote "Hebrews 2:16"
     For verily he took not on him the nature of angels; but he took on him the seed of Abraham.
 
-Importantly, some angels fell, others did not.
-Whereas with man, all men are in a fallen state by nature -- our very existence is to live out the redemption that is Christ Jesus.
+Importantly, some angels fall.
+Whereas with man, *all* of mankind is in a fallen state by nature -- our very existence is to live out the redemption that is Christ Jesus.
 
 We can infer from this that angels have  natural differences from man, that is, by their nature they are unable to repent.
 In other words, the nature of man allows us to repent, but the nature of angels is different enough from man that they -- by their nature -- are unable to repent.
@@ -229,7 +231,7 @@ Angels do not reproduce and thus are genderless.
 Angels are clearly not subject to time (and death) with the maleability that humans experience, allowing us to repent. Instead angels experience entire ages as we might experience a single moment, wherein they express their will onto an entire age. They cannot repent because their decisions have already been made from the beginning to the end of time as we understand it.
 
 Similar to how we can understand that an angel is embodied in reference to God, but not embodied in reference to man -- angels exist within time in reference to God, but outside of time in reference to man.
-This is because angels and man are created, and only God is truly timeless and eternal.
+This is because angels and man are both created, and only God is truly timeless and eternal.
 
 Ultimately, We do not understand the exact nature of how angels experience time (whether it's a separate temporal dimension from ours), but we do know that they do not experience time as humans (or any animals) do. They do not mature and grow in character as humans do. And as such, fallen angels are unable to be redeemed.
 
@@ -244,13 +246,18 @@ Ultimately, We do not understand the exact nature of how angels experience time 
 Exactly like man, the light from an angel (a created being) comes only from the creator. In other words the angels do not and cannot create ex-nihilo.
 They do not shine with their own light, and thus should never be worshipped.
 
-From a human perspective, angels are patterns of reality over time, with conscious agency, that we can participate within.
-This includes the obvious case of participating in divine liturgy, but also the non-obvious cases of participating in technology or in politics or any worldly pattern that we participate within.
-It's important to understand that the worldly patterns that we participate within are in fact created spirits, and if they're directing you to Christ, then this spirit is an angel.
+From a human perspective, angels are patterns of reality over time that we can participate within.
+This includes the obvious case of participating in divine liturgy, but also the non-obvious cases of participating in technology or in politics or any worldly pattern.
+It's important to understand that the worldly patterns that we participate within are in fact created spirits, and if they're directing you to Christ, then this is an angel, and if it's pointing in the opposite direction, then this is a fallen angel (such as the dark powers and principalities we struggle against daily).
 
-As "messengers" they deliver the word of God, and the word of God is the [Logos](../logos/index.md), who is Christ Jesus.
-And it is God who is the source of light from an angel, the uncreated energy of God.
-The angels in turn minister to the divine will, that we may participate within His divine will.
+As "messengers" angels deliver the revealed word of God, and the word of God is the [Logos](../logos/index.md), who is incarnate in the person of Christ Jesus.
+The angels minister to the divine will, that we may participate within His divine will through Christ Jesus.
+
+And further the "message" is *Logia*, the revealed stories, which includes everything, including scripture, mathematics, technology, and even geology.
+In fact every scientific discipline is itself a communion of God and man (literally the person of Christ) and is ministered to by His angels, such that we can participate in these created spirits (these patterns of reality, be it technology or even geology).
+
+Likewise, those patterns of reality that point us away from Christ, these are fallen spirits, including political ideologies, nation states, central banks, and so on. 
+We are living in the midst of spirits, angelic and demonic, everywhere we look.
 
 
 
