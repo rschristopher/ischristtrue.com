@@ -15,28 +15,31 @@ And as we'll see, this is no accident.
 ## Mythologies
 
 In our modern secular view we think of *mythology* as false or make believe, like fairy tails, or at best as primitive beliefs from "less evolved civilizations".
-However, *myth* simply means *story*, and the *-ology* suffix is derived from *logia* (divine word), and thus *mythology* is best thought of as "stories we participate in" or "stories people live by".
+However, *myth* simply means *story*, and the *-ology* suffix is derived from *logia* (divine word), and thus *mythology* is best thought of as "stories that unite a people into a culture" or "stories we participate in" or "stories people live by".
 And if we take a sober look at ancient mythologies, we find angels and demons featured in all of them.
 
 Technically, the word *angel* means a messenger of God. 
 As such, it can best be thought of as a role, like a job title. 
 However when talking of angels we typically are not referring to a job title. 
 We are referring to spiritual beings. 
-Angels are spiritual beings, and demons are evil spirits. 
+Angels are spiritual beings, and "demons" usually refer to evil spirits. 
 If we believe in God then we typically view demons as fallen angels, fallen from God's grace.
 
 The Bible, and the gospels in particular, are filled with references to angels and demons. 
 Yet there's also references to other spiritual beings such as thrones, dominions, and principalities. 
 And there's references to archangels, hinting not only to job titles but instead to a rank, a hierarchy.
-Additionally, there's references to heavenly hosts, to "sons of God", to cherubim and seraphim, and of course nephelim -- the famed *giants* precipitating the great flood.
+Additionally, there's references to heavenly hosts, to "sons of God", to cherubim and seraphim, rephaim, and of course nephelim -- the famed *giants* precipitating the great flood.
 
 And most striking, there's even references to other gods.
 While modern Christians view the idea of mythological gods as fairy tales, they must ignore their own Bibles while doing so. 
-Ancient Christians understood all of these biblical references.
+Ancient Christians understood all of these biblical references to other gods as being created (usually fallen) spirits.
 
 Interestingly, the Bible continually references these spiritual beings as if we already know what they are. 
 There's no explanation of angels or demons or devils, and no articulated taxonomy about this hierarchy of spirits.
 How are we to make sense of this?
+
+
+
 
 
 ### Paganism
@@ -45,10 +48,10 @@ The term *pagan*, like *heathen*, simply refers to religous systems outside of J
 Paganism is commonly associated with the Greek and Roman pantheon of gods, but we can analyze the broader sense of paganism within world mythologies.
 In doing so we find that the myriad of mythological gods have a lot in common.
 
-In pagan mythologies we find identical themes: regional gods have dominion over people, where man is subordinate to these gods, worshipping and giving sacrifice.
+In pagan mythologies we find identical themes: regional gods have dominion over people, where man is subordinate to these gods, worshipping these territorial gods and giving sacrifice.
 The pagan gods are typically indifferent or antagonistic to humans; such that humans are nothing but the playthings of these gods.
 
-The innovation in Judiaism is the realization (revelation) that the God most high is not only the creator of all, but also the source of morality, a universal morality, that good and evil are objectively knowable, and as such only the God most high is to be worshipped.
+The innovation in Judiaism is the realization (revelation) that the God most high is uncreated, and not only the creator of all, but also the source of morality, a universal morality, that good and evil are objectively knowable. As such only the God most high is to be worshipped.
 Contrast this with the Roman pantheon, where the gods of conquered people were collected and worshipped.
 
 Within pagan mythologies you'll even find stories of a great flood, lost civilizations, and even some heavenly rebellions -- although interestingly, the pagan gods all succeded in their rebellions:
@@ -145,7 +148,9 @@ They are invisible, incorporeal, and were also created in the image of God,
     [God] is the maker and creator of angels, bringing them out of non-being into being, having created them after his own image as an incorporeal nature, like some spirit or immaterial fire, as the divine David says, "who makes his angels spirits and his ministers a fiery flame," describing their lightness, ardor, warmth, extreme sharpness, and acuity with regard to their longing for God and ministry to him and their sublimity and deliverance from all material thought.
 
 The orthodox understanding of being "in the image of God" means more than just resemblance, but doing the works of God.
-This is why these spirits can act out the will of God.
+This is why these spirits act in accord to the will of God, doing His will.
+
+
 
 
 
@@ -165,11 +170,14 @@ As both tradition and scripture can attest, angels are circumscribed --
 And despite their ability to extend anywhere in space (not confined by doors, locks and seals), they cannot be in two difference places simultaneously.
 
 
+
+
+
 ### Power
 
 Tradition and scripture are both witness to the immense power of angels, able to influence all elements of creation.
 
-As such, a fallen angel is a truly terrifying prospect..
+As such, a fallen angel is a truly terrifying prospect.
 Yet they are not God.
 They are not omnipotent.
 They are not omniscient.
@@ -181,10 +189,13 @@ And thankfully for us, the fallen angels are subject to God's sovereignty, who a
 
 
 
+
+
+
 ### Free Will
 
 Like man, angels are created beings with free will, free to choose good or evil.
-However, unlike man, a fallen angel cannot repent...
+However, unlike man, a fallen angel cannot repent.
 
 !!! quote "Hebrews 2:16"
     For verily he took not on him the nature of angels; but he took on him the seed of Abraham.
@@ -196,6 +207,10 @@ We can infer from this that angels have  natural differences from man, that is, 
 In other words, the nature of man allows us to repent, but the nature of angels is different enough from man that they -- by their nature -- are unable to repent.
 
 
+
+
+
+
 ### Time and Space
 
 The best way to understand how and why fallen angels cannot repent, is to speculate on how angels experience time.
@@ -203,24 +218,34 @@ Angels do not experience time the way humans do (because otherwise it would be p
 
 This concept of *motion without time* infers a different temporal dimension that is otherwise unavailable to mankind.
 
-Angels are immortal..
+Angels are immortal with respect to humans, that is, they are not subject to death the way man is.
 
-Angels do not reproduce and thus are genderless..
+Angels do not reproduce and thus are genderless.
 
-Angels are clearly not subject to time (and death) with the maleability that humans experience, allowing us to repent. Instead angels experience entire ages as we might experience a single moment, wherein they express their will onto an entire age. They cannot repent because their decisions have already been made from the beginning to the end of time.
+Angels are clearly not subject to time (and death) with the maleability that humans experience, allowing us to repent. Instead angels experience entire ages as we might experience a single moment, wherein they express their will onto an entire age. They cannot repent because their decisions have already been made from the beginning to the end of time as we understand it.
 
 Similar to how we can understand that an angel is embodied in reference to God, but not embodied in reference to man -- angels exist within time in reference to God, but outside of time in reference to man.
 This is because angels and man are created, and only God is truly timeless and eternal.
 
-Ultimately, We do not understand the exact nature of how angels experience time (whether it's a separate temporal dimension from ours), but we do know that they do not experience time as humans (or any animals) do. They do not mature and grow in character as humans do. And fallen angels are unable to be redeemed.
+Ultimately, We do not understand the exact nature of how angels experience time (whether it's a separate temporal dimension from ours), but we do know that they do not experience time as humans (or any animals) do. They do not mature and grow in character as humans do. And as such, fallen angels are unable to be redeemed.
+
+
+
+
 
 
 
 ### Derivative Light 
 
-Exactly like man, the light from an angel (a created being) comes only from the creator. In other words the angels do not and cannot create ex-nihilo, do not shine with their own light, and thus should never be worshipped.
+Exactly like man, the light from an angel (a created being) comes only from the creator. In other words the angels do not and cannot create ex-nihilo.
+They do not shine with their own light, and thus should never be worshipped.
 
-...
+From a human perspective, angels are patterns of reality over time that we can participate in.
+This includes the obvious case of participating in divine liturgy, but also the non-obvious cases of participating in technology or in politics or any worldly pattern that we participate in.
+It's important to understand that even the worldly patterns that we participate in are in fact created spirits, and if they're directing you to Christ, then you're communicating indirectly with an angel.
+
+As "messengers" they deliver the word of God, and remember the word of God is the Logos, who is Christ Jesus.
+And it is the Son of God who is the source of any light from an angel.
 
 
 
