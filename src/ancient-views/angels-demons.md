@@ -296,9 +296,9 @@ According to pseudo Dionysus the Areopagite, in his book
     <center>![cherubim](/images/cherubim.jpg)</center>
 
 * Highest orders:
-** Seraphim
-** Cherubim
-** Thrones
+    * Seraphim
+    * Cherubim
+    * Thrones
 
 * Middle orders:
 ** Dominions
