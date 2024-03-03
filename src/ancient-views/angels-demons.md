@@ -330,7 +330,14 @@ This hierarchy, while speculative, traces layers of mediation between God and fa
 
 #### Michael
 
-...
+Literally, "who is like God?"
+
+??? quote "Revelation 12:7-9"
+    And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels, 
+    And prevailed not; neither was their place found any more in heaven. 
+    And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
+    
+    <center>![Michael](/images/icon-michael.jpg)</center>
 
 
 
