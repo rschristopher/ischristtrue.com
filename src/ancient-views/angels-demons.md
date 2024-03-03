@@ -401,19 +401,19 @@ By tradition, Raphael is the angel who descended into the pool at Bethesda.
 
 ## Demons
 
-The word "demon" shares the etymological root of the word *demonstrate*, much like the word "monster" means literally *to show*.
+The word "demon" shares the etymological root of the word *demonstrate*, much like the word "monster" means literally *to show*. Think of Socrates and his *daimonion*, which spoke to him and warned him of dangers (except apparently for his [trial](https://en.m.wikipedia.org/wiki/Trial_of_Socrates) and death sentence).
 
 The God-allowed purpose for demons is to show our sin, our fall from grace. In practical terms it is to tempt, to torment in the darkness away from the light of God.
 And God allows this in order to bring us towards salvation.
 
-We are made in the image and likeness of God. It is no wonder the demons hate us so.
-
-Ultimately, demons are fallen angels, and thus have very much the same nature as angels. They are incorporeal (compared to man), immortal, intellectual spirits with free-will outside of time (relative to our sense of time).
+Ultimately, demons are fallen angels, and have the same nature as angels. They are incorporeal (compared to man), immortal, intellectual spirits with free-will outside of time (relative to our sense of time).
 Any light they produce is derivative and they cannot create ex-nihilo.
+
 Importantly, demons are completely subject and obedient to God.
+This is fortunate for us, as these spirits hate God and want to hurt you and your family.
 Despite their hatred and rebellion, God allows their continued existence.
 
-They were created good, as God does not create evil.
+These spirits were created good, as God does not create evil.
 God allows evil only so that good may arise from evil, such as the redemption of man.
 
 Evil is the absence of good...
@@ -454,15 +454,17 @@ This part of our fallen nature. And only through Christ can we overcome.
 
 ### Dominion of Darkness 
 
-The third great evil (after sin and death) came as a consequence of Babel..
+The third great rebellion against God (after sin and death) came as a consequence of Babel..
+
+???+ quote "Jubilees 10:36"
+    And the Lord sent a mighty wind against the tower and overthrew it upon the earth
+
 
 !!! quote "Ephesians 6:12"
     For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
 These are demons..
 
-???+ quote "Jubilees 10:36"
-    And the Lord sent a mighty wind against the tower and overthrew it upon the earth
 
 
 
@@ -470,7 +472,7 @@ These are demons..
 
 ### Nephilim
 
-The famed *giants* referenced throughout the Bible. *Nephelim* (נְפִילִים) is from Hebrew and is usually translated as *giants* or *fallen ones".
+The famed *giants* referenced throughout the Bible. *Nephelim* (נְפִילִים) is from Hebrew and is usually translated as *giants* or *fallen ones*.
 
 !!! quote "Genesis 6:4"
     There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.
@@ -480,7 +482,7 @@ The famed *giants* referenced throughout the Bible. *Nephelim* (נְפִילִי
 
 Unlike the classic Greek giants, the nephelim were not mindless brutes, but instead *mighty*, and *men of renown*. The size seems both metaphoric as well as literal.
 
-... strongmen, metaphoric in some cases although the concept is universal across all anient religions.
+... strongmen, metaphoric in some cases although the concept is universal across all anient cultures.
 
 !!! quote "2 Peter 2:4-5"
     For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment; 
@@ -502,7 +504,7 @@ Sethite View, https://www.khouse.org/articles/1997/110/
 
 ### Satan
 
-A seraphim, a throne guardian, an angel created completely good and given the task as guardian of the earth, protector of the terrestrial order..
+A seraphim, an angel created completely good and given the task as guardian of the earth, protector of the terrestrial order..
 By his will he turned against his own nature, turned against God ...
 
 
@@ -571,6 +573,12 @@ adversary
 
 
 
+
+
+
+
+----
+
 ## Hands of God
 
 !!! quote "1 Kings 22:19-23"
@@ -585,6 +593,14 @@ They were there in the beginning, and at each of the three cosmological rebellio
 
 
 
+
+
+
+
+
+
+
+----
 
 
 ## Antichrist
