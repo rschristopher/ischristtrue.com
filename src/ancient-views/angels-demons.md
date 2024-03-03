@@ -385,6 +385,15 @@ By tradition, Raphael is the angel who descended into the pool at Bethesda.
 
 
 
+
+
+
+
+
+
+
+
+
 ----
 
 
@@ -452,6 +461,8 @@ The third great evil (after sin and death) came as a consequence of Babel..
 
 These are demons..
 
+???+ quote "Jubilees 10:36"
+    And the Lord sent a mighty wind against the tower and overthrew it upon the earth
 
 
 
