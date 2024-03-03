@@ -361,9 +361,10 @@ By tradition he was present throughout the old testament, inspiring Moses to wri
 #### Raphael
 
 *Rafa’El*, literally, "God has healed".
+By tradition, Raphael is the angel who descended into the pool at Bethesda.
 
-
-
+???+ quote "John 5:4"
+    For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had.
 
 
 
