@@ -253,10 +253,15 @@ It's important to understand that the worldly patterns that we participate withi
 As "messengers" angels deliver the revealed word of God, and the word of God is the [Logos](../logos/index.md), who is incarnate in the person of Christ Jesus.
 The angels minister to the divine will, that we may participate within His divine will through Christ Jesus.
 
-And further the "message" is *Logia*, the revealed stories, which includes everything, including scripture, mathematics, technology, and even geology.
-In fact every scientific discipline is itself a communion of God and man (literally the person of Christ) and is ministered to by His angels, such that we can participate in these created spirits (these patterns of reality, be it technology or even geology).
+And further the "message" from angels is *Logia*, the revealed stories, which includes everything, including scripture, mathematics, technology, and even geology.
+In fact every scientific discipline is itself a communion of God and man (literally the person of Christ) and is ministered to by His angels, such that we can participate in these created spirits (these patterns of reality, be it technology, biology or even geology).
 
-Likewise, those patterns of reality that point us away from Christ, these are fallen spirits, including political ideologies, nation states, central banks, and so on. 
+Likewise, those patterns of reality that point us away from Christ, away from Truth, these are fallen spirits, including political ideologies, nation states, central banks, and so on.
+Even the scientific disciplines can be demonic.
+You can know them by their fruits.
+For example, if your study of biology leads you to conclude that gender is a man-made social construct, and that a man can transition into a woman, then you are not participating in an angelic spirit, you are participating in a demonic spirit.
+
+The world is full of spirits.
 We are living in the midst of spirits, angelic and demonic, everywhere we look.
 
 
@@ -280,6 +285,8 @@ We are living in the midst of spirits, angelic and demonic, everywhere we look.
         Principalities
         Archangels
         Angels
+
+
 
 
 
@@ -351,7 +358,7 @@ Importantly, demons are completely subject and obedient to God.
 Despite their hatred and rebellion, God allows their continued existence.
 
 They were created good, as God does not create evil.
-God allows evil only so that good may arise from the evil, such as the redemption of man.
+God allows evil only so that good may arise from evil, such as the redemption of man.
 
 Evil is the absence of good...
 
@@ -361,9 +368,16 @@ Demons can best be thought of as chaos monsters..
 reducing creation back into a formless (chaos) void (emptiness).
 
 
+
+
+
 ### Death
 
 Demons are integral to the cosmology of death, devouring that which has died and thus allowing rejuvenation of life, allowing an evolutionary process of life to persist in the face of death.
+
+
+
+
 
 
 ### Sin
@@ -379,6 +393,9 @@ This part of our fallen nature. And only through Christ can we overcome.
 
 
 
+
+
+
 ### Dominion
 
 The third great evil (after sin and death) came as a consequence of Babel..
@@ -387,6 +404,9 @@ The third great evil (after sin and death) came as a consequence of Babel..
     For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
 These are demons..
+
+
+
 
 
 
@@ -400,9 +420,9 @@ The famed *giants* referenced throughout the Bible. *Nephelim* (נְפִילִי
 !!! quote "Numbers 13:33"
     And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
 
-Unlike the classic Greek giants, the nephelim were not mindless brutes, but instead *mighty* and *men of renown*. The size seems both metaphoric as well as literal.
+Unlike the classic Greek giants, the nephelim were not mindless brutes, but instead *mighty*, and *men of renown*. The size seems both metaphoric as well as literal.
 
-... strongmen, metaphoric in some cases although the concept is universal across all anient religions that they were indeed very tall.
+... strongmen, metaphoric in some cases although the concept is universal across all anient religions.
 
 !!! quote "2 Peter 2:4-5"
     For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment; 
@@ -415,6 +435,10 @@ Unlike the classic Greek giants, the nephelim were not mindless brutes, but inst
 
 
 Sethite View, https://www.khouse.org/articles/1997/110/
+
+
+
+
 
 
 
