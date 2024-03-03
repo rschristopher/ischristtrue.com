@@ -301,14 +301,15 @@ According to pseudo Dionysus the Areopagite, in his book
     * Thrones
 
 * Middle orders:
-** Dominions
-** Virtues
-** Powers
+    * Dominions
+    * Virtues
+    * Powers
 
 * Lowest orders:
-** Principalities
-** Archangels
-** Angels
+    * Principalities
+    * Archangels
+    * Angels
+
 
 !!! question "Why are all ranks still referred to as *'angels'*?"
     *Angel* simply means messenger, which is both a rank as well as how we refer to all of these celestial beings (regardless of rank). This is because, like man, they are created in the image and likeness of God, which means they perform God's will. Thus by their very nature they are divine messenging beings.
