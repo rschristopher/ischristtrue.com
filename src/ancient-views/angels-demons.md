@@ -334,7 +334,7 @@ Of these, Michael and Gabriel are directly referenced in canonical sources, and 
 *Mikhaʾel*, literally, "who is like God?"
 Archangel Michael is the commander of the heavenly armies, protector of Israel, of God's people.
 
-??? quote "Revelation 12:7-9"
+???+ quote "Revelation 12:7-9"
     And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels, 
     And prevailed not; neither was their place found any more in heaven. 
     And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
@@ -346,7 +346,8 @@ Archangel Michael is the commander of the heavenly armies, protector of Israel, 
 #### Gabriel
 
 *Gaḇrīʾēl*, literally, "man of God".
-
+Archangel Gabriel brought news of the [annunciation](../logos/annunciation.md), and of Christ's [resurrection](../logos/resurrection.md).
+By tradition he was present throughout the old testament, inspiring Moses to write Genesis.
 
 
 
