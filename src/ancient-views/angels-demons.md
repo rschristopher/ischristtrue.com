@@ -253,7 +253,7 @@ It's important to understand that the worldly patterns that we participate withi
 As "messengers" angels deliver the revealed word of God, and the word of God is the [Logos](../logos/index.md), who is incarnate in the person of Christ Jesus.
 The angels minister to the divine will, that we may participate within His divine will through Christ Jesus.
 
-And further the "message" from angels is *Logia*, the revealed stories, which includes everything, including scripture, mathematics, technology, and even geology.
+And further the "message" from angels is *Logia*, the revealed stories, which includes not only scripture, but every *logia*, such as mathematics, technology, and even geology.
 In fact every scientific discipline is itself a communion of God and man (literally the person of Christ) and is ministered to by His angels, such that we can participate in these created spirits (these patterns of reality, be it technology, biology or even geology).
 
 Likewise, those patterns of reality that point us away from Christ, away from Truth, these are fallen spirits, including political ideologies, nation states, central banks, and so on.
@@ -262,7 +262,12 @@ You can know them by their fruits.
 For example, if your study of biology leads you to conclude that gender is a man-made social construct, and that a man can transition into a woman, then you are not participating in an angelic spirit, you are participating in a demonic spirit.
 
 The world is full of spirits.
-We are living in the midst of spirits, angelic and demonic, everywhere we look.
+We are living in the midst of spirits, angelic and demonic.
+It is everywhere we look.
+
+
+
+
 
 
 
