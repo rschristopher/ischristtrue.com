@@ -3,7 +3,7 @@
 
 Despite the nihilism of our modern age, modern people still hold a vague belief in angels and demons. 
 Even non-believers flirt with the idea. 
-The prevalence of ghost stories within film and television is an indicator of how deeply this ancient idea persists.
+The prevalence of ghost stories within film and television is an indicator of just how deeply this ancient idea persists.
 
 It seems that far more people today are open to belief in angels and demons than they are to God. 
 And as we'll see, this is no accident.
@@ -15,7 +15,7 @@ And as we'll see, this is no accident.
 ## Mythologies
 
 In our modern secular view we think of *mythology* as false or make believe, like fairy tails, or at best as primitive beliefs from "less evolved civilizations".
-However, *myth* simply means *story*, and the *-ology* suffix is derived from *logia* (divine word of God), and*mythology* is best thought of as "stories that unite us as a culture" or "stories we participate in" or "stories we live by".
+However, *myth* simply means *story*, and the *-ology* suffix is derived from *logia* (divine word of God), and *mythology* is best thought of as "stories that unite us as a culture" or "stories we participate in" or "stories we live by".
 And if we take a sober look at ancient mythologies, we find angels and demons featured in *all* of them.
 
 Technically, the word *angel* means *messenger*. 
@@ -93,18 +93,37 @@ Like the pagan mythologies, there seems to be something about these stories that
 
 
 
-### Ancient Christianity 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+
+
+
+## Ancient Christianity 
 
 Christianity grew out of ancient Judaism, specifically the Second Temple period.
-And in this worldview people understood that there were ranks of created spirits, heavenly hosts, and that the fall of these spirits happened more than once. 
+And in this worldview there are ranks of created spirits, known as the heavenly hosts, and that the fall of these spirits happened more than once. 
 
 For example, a group of angels known as the *watchers* are the "sons of God" referenced in Genesis. 
 These are the "sons of God" that had children with the "daughters of men". 
-These hybrid children are known as *nephilim*, and are a precursor to the flood.
+These hybrid children are known as *nephilim*.
 Demons in this view include more than the fallen angels, but also the spirits of the dead nephilim.
 
-In this worldview, Pagan gods were not imaginary or false, but very real created spirits, most of which fell from God's grace.
-In the third rebellion against God, when the tower fell, man was placed under the territorial dominion of these created spirits.
+In this worldview, Pagan gods are not imaginary or false, but very real created spirits.
+In the third rebellion against God, when the tower fell, man was placed under the territorial dominion of these created spirits (that today we know of as pagan gods).
 
 
 !!! quote "Deuteronomy 32:8"
@@ -113,7 +132,7 @@ In the third rebellion against God, when the tower fell, man was placed under th
     <center>![babel](/images/babel.jpg)</center>
     
 
-The new-atheist critique that claims "you are an atheist with respect to Zeus and to Thor," fails here because the ancient view (Christian or otherwise) believed in these very real powers and principalities. 
+The atheist critique that claims "you are an atheist with respect to Zeus and to Thor," fails here because the ancient view (Christian or otherwise) believed in these very real powers and principalities. 
 Ancient Christians understood that these created spirits had God-given dominion over the people of the earth. 
 And the prophets cried for a savior.
 
@@ -135,9 +154,38 @@ As Christians we ought to believe these spirits exist(ed) -- including Zeus, Tho
 !!! quote "Exodus 20:5"
     Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God
 
-In this context, you'll find most all ancient pagan mythologies contain a deceitful inversion of Christianity, where mankind is reduced to the playthings of the gods, and the pagan gods were usually the "heroes" who overthrew the prior divine order, typically a tyrannical order.
+In this context, you'll find most all ancient pagan mythologies contain a deceitful inversion of Christianity, where mankind is reduced to the playthings of gods, and the pagan gods were usually the "heroes" who overthrew the prior divine order, typically a tyrannical order.
 Compare this to Christianity, where God is the Lord of Spirits, and man is created in the image and likeness of God, meant to judge the angels (the created spirits).
 
+After the rebellions, the fallen angels are still sometimes found in the presence of God, among the heavenly hosts -- such as in Job or in 1 Kings:
+
+!!! quote "1 Kings 22:19-23"
+    And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left. And the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramothgilead? And one said on this manner, and another said on that manner. And there came forth a spirit, and stood before the LORD, and said, I will persuade him. And the LORD said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade him, and prevail also: go forth, and do so. Now therefore, behold, the LORD hath put a lying spirit in the mouth of all these thy prophets, and the LORD hath spoken evil concerning thee.
+
+The spirits (angels) on the right hand of the Lord are the elect, representing God's mercy.
+The spirits (demons) on the left hand of God are the reprobate, such as the "lying spirit" in the mouth of Ahab's prophets.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
 
 
 
@@ -478,7 +526,7 @@ And through Christ can we overcome.
 
 
 
-### Dominion of Darkness 
+### Dominion
 
 The third great rebellion against God (after sin and death) came as a consequence of Babel..
 
@@ -603,17 +651,6 @@ adversary
 
 
 
-----
-
-## Hands of God
-
-!!! quote "1 Kings 22:19-23"
-    And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left. And the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramothgilead? And one said on this manner, and another said on that manner. And there came forth a spirit, and stood before the LORD, and said, I will persuade him. And the LORD said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade him, and prevail also: go forth, and do so. Now therefore, behold, the LORD hath put a lying spirit in the mouth of all these thy prophets, and the LORD hath spoken evil concerning thee.
-
-The spirits (angels) on the right hand of the Lord are the elect, representing God's mercy.
-The spirits (demons) on the left hand of God are the reprobate, serving their own evil ends, yet obeying the judgment of His decrees.
-
-They were there in the beginning, and at each of the three cosmological rebellions, tempting man, introducing death, sin, and domination by dark powers.
 
 
 
