@@ -313,7 +313,7 @@ According to pseudo-Dionysus the Areopagite, in his book
     * **Archangels** - *bridging the princely authority above with the messengers below*
     * **Angels** - *messengers from the divine above to the mundane below*
 
-This hierarchy, while speculative, traces layers of mediation between God and fallen man. The highest order is nearest to God, and the lowest order is nearest to man.
+This hierarchy, while speculative, demonstrates layers of mediation between God and fallen man. The highest order is nearest to God, and the lowest order is nearest to man.
 
 !!! question "Why are all ranks still referred to as *'angels'*?"
     *Angel* simply means messenger, which is both a rank as well as how we refer to all of these celestial beings (regardless of rank). This is because, like man, they are created in the image and likeness of God, which means they perform God's will. Thus by their very nature they are divine messenging beings.
