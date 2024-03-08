@@ -406,25 +406,29 @@ By tradition, Raphael is the angel who descended into the pool at Bethesda.
 
 The word "demon" shares the etymological root of the word *demonstrate*, much like the word "monster" means literally *to show*. Think of Socrates and his *daimonion*, which spoke to him and warned him of dangers (except apparently for his [trial](https://en.m.wikipedia.org/wiki/Trial_of_Socrates) and death sentence).
 
-The God-allowed purpose for demons is to show our sin, our fall from grace. In practical terms it is to tempt, to torment in the darkness away from the light of God.
+The God-allowed purpose for demons is to show our sin, our fall from grace. 
+In practical terms it is to tempt, to torment in the darkness away from the light of God.
 And God allows this in order to bring us towards salvation.
 
-Ultimately, demons are fallen angels, and have the same nature as angels. They are incorporeal (compared to man), immortal, intellectual spirits with free-will outside of time (relative to our sense of time).
+Ultimately, demons are fallen angels and other evil spirits (such as the disembodied souls of dead nephilim). 
+They have the same nature as angels. 
+They are incorporeal (compared to man), immortal, intellectual spirits with free-will outside of time (relative to our sense of time).
 Any light they produce is derivative and they cannot create ex-nihilo.
 
-Importantly, demons are completely subject and obedient to God.
+Importantly, demons are completely subject and obedient to God -- not by their choice but by His divine nature.
 This is fortunate for us, as these spirits hate God and want to hurt you and your family.
-Despite their hatred and rebellion, God allows their continued existence.
+Despite their hatred and rebellion, God allows their continued existence so as to serve His will, including the redemption of man.
 
 These spirits were created good, as God does not create evil.
-God allows evil only so that good may arise from evil, such as the redemption of man.
+God created them with free-will and allows evil only so that good may arise from evil.
 
-Evil is the absence of good...
+It is worth remembering that evil is not a thing (substance nor energy) in itself. Evil is simply the absence of good, much like darkness is simply the absence of light. And interestingly, demons are associated with darkness exactly as they are associated with evil.
 
-Demons seek to bring creation back to chaos and emptiness, back to the nothingness from which we came ...
+In practical terms, demons work to reduce creation back to chaos and emptiness, back to nothingness, to undo creation as it were.
+In this way, demons can be thought of as chaos monsters, reducing creation back into a formless void (chaotic emptiness).
+Their continued existence is thus inextricably linked to death, where the forces of death are conversely an inextricable part of the continuation of new life.
 
-Demons can best be thought of as chaos monsters..
-reducing creation back into a formless (chaos) void (emptiness).
+
 
 
 
@@ -432,7 +436,20 @@ reducing creation back into a formless (chaos) void (emptiness).
 
 ### Death
 
-Demons are integral to the cosmology of death, devouring that which has died and thus allowing rejuvenation of life, allowing an evolutionary process of life to persist in the face of death.
+Demons are integral to the cosmology of death, attacking life and devouring that which has died and thus allowing rejuvenation of life, allowing an evolutionary process of life to persist in the face of death.
+
+Death was the consequence of the first great rebellion against God. When the snake whispered to Eve,
+
+> Ye shall be as gods
+
+Afterwards, the entire cosmology changed. Man was expelled from paradise, and the serpent, the devil, fell from God's grace.
+
+!!! quote "Genesis 3:8"
+    And the LORD God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life
+
+The biblical reference of eating dust is to consume that which has died.
+By tradition, this serpent was a seraphim, the highest of the heavenly hosts, once near to God, and then cast down "upon thy belly" eating dust.
+
 
 
 
@@ -441,14 +458,20 @@ Demons are integral to the cosmology of death, devouring that which has died and
 
 ### Sin
 
-The second great evil (after death) of mankind.
-Sin entered the world and led to near complete corruption of mankind.. only Noah was redeemable.
+The second great evil (after death) is sin.
+Sin entered the world and led to a near complete corruption of mankind where only Noah was saved.
 
-Logismoi, thoughts, dark/evil thoughts
+!!! quote "Genesis 4:6-7"
+    And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen? If thou doest well, shalt thou not be accepted? and if thou doest not well, **sin lieth at the door**. And unto thee shall be his desire, and thou shalt rule over him.
 
-these are demons at the door, sometimes knocking, sometimes testing if the door is locked -- will you entertain those thoughts?
+To be clear, these are demons at the door (of our heart), sometimes knocking, sometimes testing if the door is locked -- will we entertain those thoughts?
+God allows sin, allows these demons to tempt, all in order to lead us to redemption.
 
-This part of our fallen nature. And only through Christ can we overcome.
+The Greek word for these dark and evil thoughts is [logismoi](https://orthodoxwiki.org/Logismoi).
+We experience this routinely.
+This is part of our fallen nature. 
+What starts as a simple interaction with a demon leads to our willful participation, producing passions and obsessions, inevitably to death (murder, suicide, castration, etc) -- such is the nature of sin.
+Only through Christ can we overcome.
 
 
 
