@@ -15,10 +15,10 @@ And as we'll see, this is no accident.
 ## Mythologies
 
 In our modern secular view we think of *mythology* as false or make believe, like fairy tails, or at best as primitive beliefs from "less evolved civilizations".
-However, *myth* simply means *story*, and the *-ology* suffix is derived from *logia* (divine word), and thus *mythology* is best thought of as "stories that unite a people into a culture" or "stories we participate in" or "stories people live by".
-And if we take a sober look at ancient mythologies, we find angels and demons featured in all of them.
+However, *myth* simply means *story*, and the *-ology* suffix is derived from *logia* (divine word of God), and*mythology* is best thought of as "stories that unite us as a culture" or "stories we participate in" or "stories we live by".
+And if we take a sober look at ancient mythologies, we find angels and demons featured in *all* of them.
 
-Technically, the word *angel* means a messenger of God. 
+Technically, the word *angel* means *messenger*. 
 As such, it can best be thought of as a role, like a job title. 
 However when talking of angels we typically are not referring to a job title. 
 We are referring to spiritual beings. 
@@ -93,14 +93,15 @@ Like the pagan mythologies, there seems to be something about these stories that
 
 
 
-### Ancient Church
+### Ancient Christianity 
 
-There were ranks of created spirits, heavenly hosts, and the fall of these spirits happened more than once. 
+Ancient Christianity grew out of ancient Judaism.
+And in this worldview there were ranks of created spirits, heavenly hosts, and the fall of these spirits happened more than once. 
 
-For example, a group of angels known as the watchers are the "sons of God" referenced in Genesis. 
+For example, a group of angels known as the *watchers* are the "sons of God" referenced in Genesis. 
 These are the "sons of God" that had children with the "daughters of men". 
 These hybrid children are known as *nephilim*, and are a precursor to the flood.
-Demons are not only fallen angels, but also the spirits of the dead nephilim.
+Demons in this view are not only fallen angels, but are the spirits of the dead nephilim.
 
 In the ancient world, Pagan gods were not imaginary or false, but very real created spirits, most of which fell from God's grace.
 In the third rebellion against God, when the tower fell, man was placed under the territorial dominion of created spirits.
@@ -129,13 +130,15 @@ And the prophets cried for a savior.
     
     Arise, O God, judge the earth: for thou shalt inherit all nations.
 
-As Christians we ought to believe these spirits exist -- including Zeus, Thor, and Quetzalcoatl -- but we should see them for what they really are.
+As Christians we ought to believe these spirits exist(ed) -- including Zeus, Thor, and Quetzalcoatl -- but we should see them for what they really are.
 
 !!! quote "Exodus 20:5"
     Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God
 
-In this context, you'll find most all ancient pagan mythologies contain a deceitful inversion of Christianity, where mankind is reduced to the playthings of the gods, and the pantheon of pagan gods were the heros who overthrew the prior divine order, typically a tyrannical order.
+In this context, you'll find most all ancient pagan mythologies contain a deceitful inversion of Christianity, where mankind is reduced to the playthings of the gods, and the pagan gods were usually the "heroes" who overthrew the prior divine order, typically a tyrannical order.
 Compare this to Christianity, where God is the Lord of Spirits, and man is created in the image and likeness of God, meant to judge the angels (the created spirits).
+
+
 
 
 
@@ -148,7 +151,7 @@ Compare this to Christianity, where God is the Lord of Spirits, and man is creat
 
 Beyond just a *messenger* of God, what exactly are these beings that we call angels?
 
-The exact nature of angels has never been fully revealed -- however we do know some things through scripture and early church tradition, as well as through various apocryphal sources.
+The exact nature of angels has never been fully revealed -- however we do know some things through scripture and church tradition, as well as through various apocryphal sources.
 
 We know that angels are conscious entities with free-will.
 We are know they are created.
@@ -157,7 +160,7 @@ They are invisible, incorporeal, and like humans were also created in the image 
 !!! quote "An Exact Exposition of the Orthodox Faith, by [St. John of Damascus](https://en.wikipedia.org/wiki/John_of_Damascus)"
     [God] is the maker and creator of angels, bringing them out of non-being into being, having created them after his own image as an incorporeal nature, like some spirit or immaterial fire, as the divine David says, "who makes his angels spirits and his ministers a fiery flame," describing their lightness, ardor, warmth, extreme sharpness, and acuity with regard to their longing for God and ministry to him and their sublimity and deliverance from all material thought.
 
-The orthodox understanding of being "in the image of God" means more than just resemblance, but doing the works of God.
+The orthodox understanding of being "in the image of God" means more than just resemblance, but doing the works (the will) of God.
 This is why these spirits act in accord with the will of God, doing His will.
 
 
@@ -172,7 +175,7 @@ We do not understand what angelic bodies are or how they work, but we know they 
 We also know they are beings of intellect and exist in their assigned intellectual places (on earth or in heaven).
 
 Importantly, angels are not corporeal beings existing within time and space as humans understand.
-They can appear to those whom God wills, and in different forms, including in a human form.
+They can appear to those whom God wills, and in different forms, including in human form.
 They are purely spiritual, and in reference to humans do not have corporeal bodies.
 But in reference to God they are embodied.
 As created beings they exist solely within creation (for God created the heavens and the earth).
@@ -197,7 +200,7 @@ They are not omnipotent.
 They are not omniscient.
 They are not omnipresent.
 
-And thankfully for us, fallen angels are subject to God's sovereignty. He allows this battle of will for our salvation.
+And thankfully for us, fallen angels are subject to God's sovereignty. He allows this spiritual battle for our salvation.
 
 
 
