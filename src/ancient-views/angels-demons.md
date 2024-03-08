@@ -470,8 +470,8 @@ God allows sin, allows these demons to tempt, all in order to lead us to redempt
 The Greek word for these dark and evil thoughts is [logismoi](https://orthodoxwiki.org/Logismoi).
 We experience this routinely.
 This is part of our fallen nature. 
-What starts as a simple interaction with a demon leads to our willful participation, producing passions and obsessions, inevitably to death (murder, suicide, castration, etc) -- such is the nature of sin.
-Only through Christ can we overcome.
+What starts as a simple interaction with a demon can lead to our willful participation, producing passions and obsessions, eventually to death (murder, suicide, castration, etc) -- such is the nature of demons and sin.
+And through Christ can we overcome.
 
 
 
