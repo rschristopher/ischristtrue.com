@@ -95,16 +95,16 @@ Like the pagan mythologies, there seems to be something about these stories that
 
 ### Ancient Christianity 
 
-Ancient Christianity grew out of ancient Judaism.
-And in this worldview there were ranks of created spirits, heavenly hosts, and the fall of these spirits happened more than once. 
+Christianity grew out of ancient Judaism, specifically the Second Temple period.
+And in this worldview people understood that there were ranks of created spirits, heavenly hosts, and that the fall of these spirits happened more than once. 
 
 For example, a group of angels known as the *watchers* are the "sons of God" referenced in Genesis. 
 These are the "sons of God" that had children with the "daughters of men". 
 These hybrid children are known as *nephilim*, and are a precursor to the flood.
-Demons in this view are not only fallen angels, but are the spirits of the dead nephilim.
+Demons in this view include more than the fallen angels, but also the spirits of the dead nephilim.
 
-In the ancient world, Pagan gods were not imaginary or false, but very real created spirits, most of which fell from God's grace.
-In the third rebellion against God, when the tower fell, man was placed under the territorial dominion of created spirits.
+In this worldview, Pagan gods were not imaginary or false, but very real created spirits, most of which fell from God's grace.
+In the third rebellion against God, when the tower fell, man was placed under the territorial dominion of these created spirits.
 
 
 !!! quote "Deuteronomy 32:8"
