@@ -113,7 +113,7 @@ In the third rebellion against God, when the tower fell, man was placed under th
     <center>![babel](/images/babel.jpg)</center>
     
 
-The new-atheist critique that claims "you are an atheist with respect to Zeus or Thor," fails here because the ancient view (Christian or otherwise) believed in these very real powers and principalities. 
+The new-atheist critique that claims "you are an atheist with respect to Zeus and to Thor," fails here because the ancient view (Christian or otherwise) believed in these very real powers and principalities. 
 Ancient Christians understood that these created spirits had God-given dominion over the people of the earth. 
 And the prophets cried for a savior.
 
