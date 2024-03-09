@@ -603,7 +603,7 @@ In Job, Satan does not necessarily refer to the same serpent in the garden, but 
     I will ascend above the heights of the clouds; I will be like the most High.
     Yet thou shalt be brought down to hell, to the sides of the pit.
     
-And in Ezekiel in the lanent over the kimg of Tyre, we find reference to a fallen cherubim.
+And in Ezekiel in the lanent over the king of Tyre, we find reference to a fallen cherubim.
 
 !!! quote "Ezekiel 28:14-19"
     Thou art the anointed cherub that covereth; and I have set thee so: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire.
