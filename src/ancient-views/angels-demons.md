@@ -528,16 +528,20 @@ And through Christ can we overcome.
 
 ### Dominion
 
-The third great rebellion against God (after sin and death) came as a consequence of Babel..
+The third great rebellion against God (after sin and death) came at the tower of Babel. After the flood man disobeyed God's command to spread out across the earth and multiply upon it. Instead they gathered in one place and built a great tower. It is implied but not stated in Genesis that God destroyed this tower, which can be confirmed by tradition and apocryphal sources.
 
 ???+ quote "Jubilees 10:36"
     And the Lord sent a mighty wind against the tower and overthrew it upon the earth
 
+In the aftermath, God scattered the people, confusing their tongues, and placing them under the dominion of the heavenly hosts. He kept only Israel as a portion for Himself, from which would come the promised savior who would crush the seeds of the serpent.
+Throughout the world, mankind was at the mercy of these territorial spirits, these powers and principalities.
 
 !!! quote "Ephesians 6:12"
     For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
-These are demons..
+To be clear, these are created spirits, and any that point away from Christ are demons.
+Our [modern](../modern-views/index.md) worldview would say these are "emergent" patterns, mere by-products of human nature.
+However, any ideology or any principality, acts with conscious agency, which in the ancient world (and in Scripture) was referred to as a spirit or god.
 
 
 
@@ -546,21 +550,31 @@ These are demons..
 
 ### Nephilim
 
-The famed *giants* referenced throughout the Bible. *Nephelim* (נְפִילִים) is from Hebrew and is usually translated as *giants* or *fallen ones*.
+*Nephilim* (נְפִילִים) is from Hebrew and is usually translated as *giants* or *fallen ones*. These are the famed *giants* referenced throughout the Bible. 
 
 !!! quote "Genesis 6:4"
     There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.
 
-!!! quote "Numbers 13:33"
-    And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
-
-Unlike the classic Greek giants, the nephelim were not mindless brutes, but instead *mighty*, and *men of renown*. The size seems both metaphoric as well as literal.
-
-... strongmen, metaphoric in some cases although the concept is universal across all anient cultures.
+We see the *Nephilim* first referenced immediately before the flood. The evil in those days was so great, the hearts of men so corrupted, that only Noah found favor with God.
 
 !!! quote "2 Peter 2:4-5"
     For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment; 
     And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly
+
+Living *Nephilim* are also referenced after the flood, which demonstrates that this was not an antediluvian phenomena, but persisted.
+
+!!! quote "Numbers 13:33"
+    And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
+
+Unlike the classic Greek giants, the *Nephilim* were not mindless brutes, but instead *mighty*, and *men of renown*.
+The size seems both metaphoric as well as literal.
+They could be understood as strongmen or warlords, metaphoric in some cases although the concept is universal across all anient and modern cultures.
+
+In the Hebrew these giants are sometimes called *rephaim*, which refers to spirits of the dead.
+And the spirits of dead *Nephilim* are among the ranks of demons.
+This is because they were understood as being the hybrid offspring of man and angel (fallen angel).
+
+
 
 
 !!! quote "Jude 1:5-6"
