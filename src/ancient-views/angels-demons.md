@@ -539,9 +539,9 @@ Throughout the world, mankind was at the mercy of these territorial spirits, the
 !!! quote "Ephesians 6:12"
     For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
-To be clear, these are created spirits, and any that point away from Christ are demons.
+To be clear, these are created spirits.
 Our [modern](../modern-views/index.md) worldview would say these are "emergent" patterns, mere by-products of human nature.
-However, any ideology or any principality, acts with conscious agency, which in the ancient world (and in Scripture) was referred to as a spirit or god.
+However, any ideology or any principality acts with conscious agency, which in the ancient world (and in Scripture) was referred to as a spirit or a god.
 
 
 
@@ -555,34 +555,28 @@ However, any ideology or any principality, acts with conscious agency, which in 
 !!! quote "Genesis 6:4"
     There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.
 
-We see the *Nephilim* first referenced immediately before the flood. The evil in those days was so great, the hearts of men so corrupted, that only Noah found favor with God.
+We see the *Nephilim* first referenced immediately before the flood, associating the *Nephilim* with the cause of the flood. The evil in those days was so great, the hearts of men so corrupted, that only Noah found favor with God.
 
 !!! quote "2 Peter 2:4-5"
     For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment; 
     And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly
 
-Living *Nephilim* are also referenced after the flood, which demonstrates that this was not an antediluvian phenomena, but persisted.
+Living *Nephilim* are also referenced after the flood, which demonstrates that this was not a uniquely antediluvian phenomena.
+And further that the descendents of Noah also produced *Nephilim*.
 
 !!! quote "Numbers 13:33"
     And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
 
-Unlike the classic Greek giants, the *Nephilim* were not mindless brutes, but instead *mighty*, and *men of renown*.
+Unlike the classic Greek giants, the *Nephilim* are not mindless brutes, but instead *mighty*, and *men of renown*.
 The size seems both metaphoric as well as literal.
-They could be understood as strongmen or warlords, metaphoric in some cases although the concept is universal across all anient and modern cultures.
+They could be understood today as strongmen or warlords, metaphoric in some cases although the concept is universal across all ancient and modern cultures.
 
-In the Hebrew these giants are sometimes called *rephaim*, which refers to spirits of the dead.
-And the spirits of dead *Nephilim* are among the ranks of demons.
-This is because they were understood as being the hybrid offspring of man and angel (fallen angel).
+In the Hebrew these giants are sometimes called *rephaim*, which refers to spirits of the dead, or as inhabitants of the underworld.
+It was believed in ancient Judaism and in Christianity that the spirits of dead *Nephilim* are among the ranks of demons.
 
-
-
-
-!!! quote "Jude 1:5-6"
-    I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not. 
-    And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.
-
-
-Sethite View, https://www.khouse.org/articles/1997/110/
+???+ warning "Sethite View"
+    The [Sethite View](https://www.khouse.org/articles/1997/110/) is a modern understanding of "sons of God" as referring to the male descendents of Seth, and the "daughters of men" referring to the female descendents of Cain. This view ignores scripture itself (both canonical and apocryphal) as well as tradition.
+    The Sethite View is a naive attempt to de-mythologize the Christian mythos, attempting to make it more appealing to other worldviews (especially materialist worldviews), but ultimately creating contradictions and absurdity in the story itself.
 
 
 
