@@ -625,12 +625,16 @@ And most explicitly, Satan is referenced by John the Theologian in the Book of R
 
 ### Beasts
 
-...
+While not necessarily demons per-se, the various beasts found in scripture are best understood in context to demons.
+The most famous of the beasts, from the Book of Revelation and also in Daniel, are interpreted as worldly empires, kings of the earth.
+
+!!! quote "Daniel 7:17-18"
+    These great beasts, which are four, are four kings, which shall arise out of the earth. But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever
 
 
 #### Leviathan
 
-...
+The great dragon, the serpent, often an ouroboros, is Leviathan.
 
 
 
