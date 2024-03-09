@@ -519,7 +519,8 @@ The Greek word for these dark and evil thoughts is [logismoi](https://orthodoxwi
 We experience this routinely.
 This is part of our fallen nature. 
 What starts as a simple interaction with a demon can lead to our willful participation, producing passions and obsessions, eventually to death (murder, suicide, castration, etc) -- such is the nature of demons and sin.
-And through Christ can we overcome.
+
+Lord have mercy on us.
 
 
 
