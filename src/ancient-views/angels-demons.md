@@ -346,7 +346,7 @@ According to pseudo-Dionysus the Areopagite, in his book
  [Celestial Hierarchy](http://esoteric.msu.edu/VolumeII/CelestialHierarchy.html),
  there are "three threefold Orders" of "celestial beings" known to us:
 
- ???+ quote "The Orders of Celestial Beings"
+???+ quote "Orders of Celestial Beings"
     * **Highest orders** -- *nearest to God*
         * **Seraphim** -- *those who kindle or make hot ... unquenchable, changeless, radiant and enlightening, dispelling and destroying the shadows of darkness*
         * **Cherubim** -- *knowing and beholding God ... participation in Divine Wisdom, and bounteously outpour to those below them from their own fount of wisdom*
