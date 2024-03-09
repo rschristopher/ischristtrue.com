@@ -578,7 +578,7 @@ It was believed in ancient Judaism and in ancient Christianity that the spirits 
 
 ???+ warning "Sethite View"
     The [Sethite View](https://www.khouse.org/articles/1997/110/) is a modern understanding of "sons of God" as referring to the male descendents of Seth, and the "daughters of men" referring to the female descendents of Cain. This view ignores scripture itself (both canonical and apocryphal) as well as ignoring tradition.
-    The Sethite View is a naive attempt to de-mythologize the Christian mythos, attempting to make it more appealing to other worldviews (especially materialist worldviews), but ultimately it creates contradictions and absurdity in the story itself.
+    The Sethite View is a naive attempt to de-mythologize the Christian mythos, attempting to make it more appealing to other worldviews (especially materialist worldviews), but ultimately it creates contradictions and absurdity.
 
 
 
