@@ -615,7 +615,7 @@ And in Ezekiel in the lanent over the kimg of Tyre, we find reference to a falle
     Thou hast defiled thy sanctuaries by the multitude of thine iniquities, by the iniquity of thy traffick; therefore will I bring forth a fire from the midst of thee, it shall devour thee, and I will bring thee to ashes upon the earth in the sight of all them that behold thee.
     All they that know thee among the people shall be astonished at thee: thou shalt be a terror, and never shalt thou be any more.
 
-And most explicitly, Satan is referenced in Revelation, e.g.,
+And most explicitly, Satan is referenced by John the Theologian in the Book of Revelation, e.g.,
 
 !!! quote "Revelation 12:9"
     And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
