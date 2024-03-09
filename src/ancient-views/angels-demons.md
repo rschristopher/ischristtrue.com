@@ -573,7 +573,7 @@ Unlike the classic Greek giants, the nephilim are not mindless brutes, but inste
 The size seems both metaphoric as well as literal.
 They could be understood today as strongmen or warlords, metaphoric in some cases although the concept is universal across all ancient and modern cultures.
 
-In the Hebrew these giants are sometimes called *rephaim*, which refers to spirits of the dead, or as inhabitants of the underworld.
+In the original Hebrew these giants are sometimes referred to as *rephaim*, which are the spirits of the dead, or inhabitants of the underworld.
 It was believed in ancient Judaism and in ancient Christianity that the spirits of dead nephilim are among the ranks of demons.
 
 ???+ warning "Sethite View"
