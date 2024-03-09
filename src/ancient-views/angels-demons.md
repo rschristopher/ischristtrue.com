@@ -513,7 +513,7 @@ Sin entered the world and led to a near complete corruption of mankind where onl
     And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen? If thou doest well, shalt thou not be accepted? and if thou doest not well, **sin lieth at the door**. And unto thee shall be his desire, and thou shalt rule over him.
 
 To be clear, these are demons at the door (of our heart), sometimes knocking, sometimes testing if the door is locked -- will we entertain those thoughts?
-God allows sin, allows these demons to tempt, all in order to lead us to redemption.
+God allows sin, allows these demons to tempt, all in order to lead us back to grace (for the path of sin leads only to death, and yet God is offering redemption).
 
 The Greek word for these dark and evil thoughts is [logismoi](https://orthodoxwiki.org/Logismoi).
 We experience this routinely.
