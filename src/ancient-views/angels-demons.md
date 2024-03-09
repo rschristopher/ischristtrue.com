@@ -588,15 +588,14 @@ It was believed in ancient Judaism and in ancient Christianity that the spirits 
 
 ### Satan
 
-A seraphim, an angel created completely good and given the task as guardian of the earth, protector of the terrestrial order..
-By his will he turned against his own nature, turned against God ...
-
-
+The *adversary* or literally the *accuser*, by tradition a seraphim (and/or cherubim), an angel created completely good and as guardian of the earth, protector of the terrestrial order.
+By his pride he turned against his own nature, turned against God.
+This is the snake in the garden, and the chief over all of the demons (fallen angels or otherwise).
 
 !!! quote "Job 1:6"
     Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.
 
-adversary
+In Job, Satan does not necessarily refer to the same serpent in the garden, but to the role of accuser. And we see prophetic passages comparing earthly kings to Lucifer (such as in Isaiah, in the song of contempt over the king of Babylon).
 
 !!! quote "Isaiah 14:12-15"
     How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
@@ -604,6 +603,7 @@ adversary
     I will ascend above the heights of the clouds; I will be like the most High.
     Yet thou shalt be brought down to hell, to the sides of the pit.
     
+And in Ezekiel in the lanent over the kimg of Tyre, we find reference to a fallen cherubim.
 
 !!! quote "Ezekiel 28:14-19"
     Thou art the anointed cherub that covereth; and I have set thee so: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire.
@@ -614,6 +614,11 @@ adversary
 
     Thou hast defiled thy sanctuaries by the multitude of thine iniquities, by the iniquity of thy traffick; therefore will I bring forth a fire from the midst of thee, it shall devour thee, and I will bring thee to ashes upon the earth in the sight of all them that behold thee.
     All they that know thee among the people shall be astonished at thee: thou shalt be a terror, and never shalt thou be any more.
+
+And most explicitly, Satan is referenced in Revelation, e.g.,
+
+!!! quote "Revelation 12:9"
+    And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 
 
 
