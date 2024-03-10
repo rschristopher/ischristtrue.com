@@ -623,29 +623,54 @@ And most explicitly, Satan is referenced by John the Theologian in the Book of R
 
 
 
+
+
 ### Beasts
 
-While not necessarily demons per-se, the various beasts found in scripture are best understood in context to demons.
-The most famous of the beasts, from the Book of Revelation and also in Daniel, are interpreted as worldly empires, kings of the earth.
+While not necessarily demons per-se, the various beasts found in scripture are best understood in context to demons, specifically dominions and dark powers.
+From the Book of Daniel, the beasts are interpreted as worldly empires, kings of the earth.
 
 !!! quote "Daniel 7:17-18"
     These great beasts, which are four, are four kings, which shall arise out of the earth. But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever
 
 
+
+
 #### Leviathan
 
-The great dragon, the serpent, often an ouroboros, is Leviathan.
+Leviathan is the great dragon, the serpent, often represented as an ouroboros.
+
+In Job, God speaks of Leviathan as an obedient pet, which is indicative of the relationship of fallen angels to the God most high.
+
+!!! quote "Job 41:34"
+    He beholdeth all high things: he is a king over all the children of pride.
+
+Leviathan is referenced as the force behind worldly powers, king over all the children of pride.
+
+!!! quote "Isaiah 27:1"
+    In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.
+
+
+!!! quote "Psalms 74:14"
+    Thou brakest the heads of leviathan in pieces, and gavest him to be meat to the people inhabiting the wilderness.
 
 
 
 #### Behemoth
 
-...
+!!! quote "Job 40:19"
+    He is the chief of the ways of God: he that made him can make his sword to approach unto him.
+
+
+1 Enoch
+
 
 
 #### Ziz
 
-...
+
+
+
 
 
 #### Book of Daniel
