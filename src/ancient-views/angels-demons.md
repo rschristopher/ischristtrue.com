@@ -716,12 +716,10 @@ Leviathan is referenced as the force behind worldly powers, king over all the ch
 
 ## Antichrist
 
-???+ example "[Preaching of the antichrist](https://en.m.wikipedia.org/wiki/The_Preaching_of_the_Antichrist) -- Luca Signorelli"
+???+ example "[Is it possible to recognize the antichrist?](https://orthochristian.com/92434.html)"
     <center>![Christ+antichrist](/images/christ-antichrist.jpg)</center>
 
 
-
-[recognizing](https://orthochristian.com/92434.html) the antichrist.
 
 
 [patristic understanding](https://orthochristian.com/106805.html) of the antichrist.
