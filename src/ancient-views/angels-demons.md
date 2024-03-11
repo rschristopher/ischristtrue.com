@@ -650,7 +650,8 @@ And in a very real sense, these "beasts" are the animating spirits -- *the demon
     These great beasts, which are four, are four kings, which shall arise out of the earth. But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever
 
 This passage from Daniel explains both the beasts and the inevitable triumph of Christ, crushing the seeds of the serpent.
-The beasts are not demons but are the worldly manifestation of demons, the *seeds of the serpent*.
+The beasts are not demons but are the worldly manifestation of demons.
+These beasts, the worldly kings, are the *seeds of the serpent*.
 
 ???+ example "Number of the Beast is 666 -- William Blake"
     <center>![blake-666](/images/blake-666.jpg)</center>
