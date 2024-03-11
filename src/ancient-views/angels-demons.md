@@ -634,7 +634,7 @@ And in a very real sense, these "beasts" are the animating spirits -- *the demon
 !!! quote "Daniel 7:17-18"
     These great beasts, which are four, are four kings, which shall arise out of the earth. But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever
 
-???+ example "Mark of the Beast -- William Blake"
+???+ example "Number of the Beast -- William Blake"
     <center>![blake-666](/images/blake-666.jpg)</center>
 
 
