@@ -692,7 +692,7 @@ Leviathan is referenced as the force behind worldly powers, king over all the ch
 
 !!! quote "1 Enoch 60:7-8"
     And on that day, two monsters will be separated from one another, a female monster whose name is Leviathan, to dwell in the depths of the sea, above the springs of the waters.
-And the name of the male is Behemoth, who occupies with his breast a desert that cannot be seen, named Dendayn, on the east ofthe Garden where the chosen and the righteous dwell. Where my great-grandfather was received, who was seventh from Adam the first man whom the Lord of Spirits made.
+    And the name of the male is Behemoth, who occupies with his breast a desert that cannot be seen, named Dendayn, on the east ofthe Garden where the chosen and the righteous dwell. Where my great-grandfather was received, who was seventh from Adam the first man whom the Lord of Spirits made.
 
 
 
