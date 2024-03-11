@@ -585,7 +585,7 @@ They could be understood today as strongmen or warlords, metaphoric in some case
 In the original Hebrew these giants are sometimes referred to as *rephaim*, which are the spirits of the dead, or inhabitants of the underworld.
 It was believed in ancient Judaism and in ancient Christianity that the spirits of dead nephilim are among the ranks of demons.
 
-???+ warning "Sethite View"
+???+ danger "Sethite View"
     The [Sethite view](https://www.khouse.org/articles/1997/110/) is a [modern](../modern-views/index.md) understanding of "sons of God" as referring to the male descendents of Seth, and the "daughters of men" referring to the female descendents of Cain. This view ignores scripture completely (both canonical and apocryphal) as well as ignoring tradition.
     The Sethite view is a naive attempt to de-mythologize the Christian mythos, attempting to make it more appealing to pagan and secular worldviews (especially materialist worldviews), but ultimately it creates contradictions and absurdity.
 
@@ -604,9 +604,11 @@ This is the snake in the garden, and the chief of all demons (fallen angels or o
 !!! quote "Job 1:6"
     Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.
 
-In Job, Satan does not necessarily refer to the same serpent in the garden, but to the role of *accuser*. 
+In Job, Satan does not necessarily refer to the same serpent in the garden, but clearly to the role of *accuser*. 
+While it can seem unclear the exact nature of Satan, what else can we expect from the father of lies?
 
-???+ example "Satan"
+???+ quote "John 8:44"
+    Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
     <center>![satan](/images/satan.jpg)</center>
 
 
@@ -630,7 +632,7 @@ And in Ezekiel in the lament over the king of Tyre, we find reference to a falle
     Thou hast defiled thy sanctuaries by the multitude of thine iniquities, by the iniquity of thy traffick; therefore will I bring forth a fire from the midst of thee, it shall devour thee, and I will bring thee to ashes upon the earth in the sight of all them that behold thee.
     All they that know thee among the people shall be astonished at thee: thou shalt be a terror, and never shalt thou be any more.
 
-And most explicitly, Satan is referenced by John the Theologian in the Book of Revelation, e.g.,
+And very explicitly, Satan is referenced by John the Theologian in the Book of Revelation, e.g.,
 
 !!! quote "Revelation 12:9"
     And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
@@ -658,7 +660,7 @@ These beasts, the worldly kings, are the *seeds of the serpent*.
 
 The infamous "mark of the beast", *six-hundred and sixty six* refers to a worldly (created) nature.
 And the prophetic "mark of the beast" on the hand or forehead is a mockery of the divine seal of the Holy Spirit placed upon newly baptized Christians during their [chrismation](https://orthodoxwiki.org/Chrismation).
-It is a mark of the kingdom of man in a kind of total totalitarianism, cut off and completely rejecting the kingdom of God (a worldly manifestation of hell, literally, hell on earth)
+It is a mark of the kingdom of man in a kind of *total totalitarianism*, being cut off from God and completely rejecting the kingdom of God (a worldly manifestation of hell, literally, hell on earth)
 
 
 
@@ -735,7 +737,7 @@ The name appears in Psalms although is typically translated as "beast".
 ----
 
 
-## Antichrist
+## antichrist
 
 ???+ example "[Is it possible to recognize the antichrist?](https://orthochristian.com/92434.html)"
     <center>![Christ+antichrist](/images/christ-antichrist.jpg)</center>
