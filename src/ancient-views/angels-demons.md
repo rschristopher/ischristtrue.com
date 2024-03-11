@@ -716,24 +716,6 @@ The name appears in Psalms although is typically translated as "beast".
 
 
 
-#### Book of Daniel
-
-...
-
-
-
-
-
-#### Book of Revelation
-
-...
-
-
-
-
-
-
-
 
 
 
