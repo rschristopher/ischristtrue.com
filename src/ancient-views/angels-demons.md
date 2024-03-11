@@ -660,7 +660,7 @@ These beasts, the worldly kings, are the *seeds of the serpent*.
 
 The infamous "mark of the beast", *six-hundred and sixty six* refers to a worldly (created) nature.
 And the prophetic "mark of the beast" on the hand or forehead is a mockery of the divine seal of the Holy Spirit placed upon newly baptized Christians during their [chrismation](https://orthodoxwiki.org/Chrismation).
-It is a mark of the kingdom of man in a kind of *total totalitarianism*, being cut off from God and completely rejecting the kingdom of God (a worldly manifestation of hell, literally, hell on earth)
+It is a mark of the kingdom of man in a kind of *total totalitarianism*, being cut off from God and completely rejecting the kingdom of God (left with a worldly manifestation of hell, literally, hell on earth)
 
 
 
