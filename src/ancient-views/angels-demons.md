@@ -652,12 +652,14 @@ And in a very real sense, these "beasts" are the animating spirits -- *the demon
 This passage from Daniel explains both the beasts and the inevitable triumph of Christ, crushing the seeds of the serpent.
 The beasts are not demons but are the worldly manifestation of demons, the *seeds of the serpent*.
 
+???+ example "Number of the Beast is 666 -- William Blake"
+    <center>![blake-666](/images/blake-666.jpg)</center>
+
 The infamous "mark of the beast", *six-hundred and sixty six* refers to a worldly (created) nature.
 And the prophetic "mark of the beast" on the hand or forehead is a mockery of the divine seal of the Holy Spirit placed upon newly baptized Christians during their [chrismation](https://orthodoxwiki.org/Chrismation).
 It is a mark of the kingdom of man in a kind of total totalitarianism, cut off and completely rejecting the kingdom of God (a worldly manifestation of hell, literally, hell on earth)
 
-???+ example "Number of the Beast -- William Blake"
-    <center>![blake-666](/images/blake-666.jpg)</center>
+
 
 
 
