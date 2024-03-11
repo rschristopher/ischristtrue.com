@@ -627,12 +627,15 @@ And most explicitly, Satan is referenced by John the Theologian in the Book of R
 
 ### Beasts
 
-While not necessarily demons per-se, the various beasts found in scripture are best understood in context to demons, specifically dominions and dark powers.
+While not necessarily demons per-se, the various beasts found in scripture are best understood in context of demons, specifically dominions and dark powers.
 From the Book of Daniel, the beasts are interpreted as worldly empires, kings of the earth.
+And in a very real sense, these "beasts" are the animating spirits -- *the demonic powers* -- behind worldly empires.
 
 !!! quote "Daniel 7:17-18"
     These great beasts, which are four, are four kings, which shall arise out of the earth. But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever
 
+???+ example "Mark of the Beast -- William Blake"
+    <center>![blake-666](/images/blake-666.jpg)</center>
 
 
 
@@ -653,6 +656,7 @@ Leviathan is referenced as the force behind worldly powers, king over all the ch
 
 !!! quote "Psalms 74:14"
     Thou brakest the heads of leviathan in pieces, and gavest him to be meat to the people inhabiting the wilderness.
+
 
 
 
