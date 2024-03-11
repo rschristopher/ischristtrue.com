@@ -718,6 +718,10 @@ Leviathan is referenced as the force behind worldly powers, king over all the ch
 
 https://orthochristian.com/106805.html
 
+https://orthochristian.com/92434.html
+
+
+
 
 ???+ example "[Preaching of the antichrist](https://en.m.wikipedia.org/wiki/The_Preaching_of_the_Antichrist) -- Luca Signorelli"
     <center>![antichrist](/images/antichrist.jpg)</center>
