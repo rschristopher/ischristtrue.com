@@ -6,7 +6,7 @@ Son of God
 Have mercy on me, a sinner
 
 Protect me from the evil one.
-Enlighten my mind and my heart so that your wisdom may be revealed and articulated for your glory.
+Enlighten my mind and my heart so that your wisdom may be revealed and articulated, all for your glory.
 -->
 
 
@@ -606,7 +606,11 @@ This is the snake in the garden, and the chief of all demons (fallen angels or o
 
 In Job, Satan does not necessarily refer to the same serpent in the garden, but to the role of *accuser*. 
 
-And elsewhere in scripture we see prophetic passages comparing worldly kings to Lucifer (such as in Isaiah, in the song of contempt over the king of Babylon).
+???+ example "Satan"
+    <center>![satan](/images/satan.jpg)</center>
+
+
+Elsewhere in scripture we see prophetic passages comparing worldly kings to Lucifer (such as in Isaiah, in the song of contempt over the king of Babylon).
 
 !!! quote "Isaiah 14:12-15"
     How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
