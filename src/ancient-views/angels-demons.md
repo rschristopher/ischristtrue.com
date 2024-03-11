@@ -585,7 +585,7 @@ They could be understood today as strongmen or warlords, metaphoric in some case
 In the original Hebrew these giants are sometimes referred to as *rephaim*, which are the spirits of the dead, or inhabitants of the underworld.
 It was believed in ancient Judaism and in ancient Christianity that the spirits of dead nephilim are among the ranks of demons.
 
-???+ danger "Sethite View"
+???+ danger "Sethite view"
     The [Sethite view](https://www.khouse.org/articles/1997/110/) is a [modern](../modern-views/index.md) understanding of "sons of God" as referring to the male descendents of Seth, and the "daughters of men" referring to the female descendents of Cain. This view ignores scripture completely (both canonical and apocryphal) as well as ignoring tradition.
     The Sethite view is a naive attempt to de-mythologize the Christian mythos, attempting to make it more appealing to pagan and secular worldviews (especially materialist worldviews), but ultimately it creates contradictions and absurdity.
 
