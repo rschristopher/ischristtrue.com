@@ -4,7 +4,7 @@ Millennialism is a [modern](index.md) belief in a future utopia, usually a thous
 We've seen echoes of millennialism through history, from the supposed "Thousand-year Reich" in Nazi Germany to various new age and transcendental utopian movements (e.g., the *age of Aquarius*).
 And it has recently become a popular view amongst protestant Christian denominations.
 
-To be clear, these are not [ancient views](../ancient-views/index.md) although there were traces of millennialism in the ancient world (condemned by the early church).
+To be clear, these are not [ancient views](../ancient-views/index.md) although there were traces of millennialism in the ancient world ([condemned](https://orthochristian.com/86556.html) by the early church).
 
 
 ## χίλια ἔτη (chilia etē)
@@ -468,10 +468,10 @@ While millennialism was consistently condemned by the early church, it is not a 
 *E.g., denying the Trinity, denying the divinity of Christ -- these are heresies and are anathema to orthodox Christianity.*
 
 By itself, Chiliasm is an eschatological error.
-In other words, it may be fine to speculate on the end times, but making important life decisions based on a millennial belief may lead you away from Christ, away from truth.
+In other words, it may be fine to speculate on the end times, but making important life decisions based on a millennial belief may lead you away from Christ, away from truth, and into heresy.
 *E.g., choosing not to have children or worrying about what happens if you are raptured and your children are not, or insisting that the existing government must become "Christian" in order to prepare for a  postmillenium return of Christ.*
 
-In the traditional classification of [*canonical*, *apocryphal*, and *heretical*](../ancient-views/apocrypha.md) -- it is important to note that most chiliastic texts would be classified as apocyphal, such that it may be fruitful to read and research privately, but these views were not (and arguably are never) appropriate for public liturgy and church service.
+In the traditional classification of [*canonical*, *apocryphal*, and *heretical*](../ancient-views/apocrypha.md) -- it is important to note that some chiliastic texts would be classified as apocyphal, such that it may be fruitful to read and research privately, but these views were not (and arguably are never) appropriate for public liturgy and church service.
 
 
 
