@@ -1,5 +1,14 @@
 # Angels, Demons, and Antichrist
 
+<!--
+Lord Jesus Christ
+Son of God
+Have mercy on me, a sinner
+
+Protect me from the evil one.
+Enlighten my mind and my heart so that your wisdom may be revealed and articulated for your glory.
+-->
+
 
 Despite the nihilism of our modern age, modern people still hold a vague belief in angels and demons. 
 Even non-believers flirt with the idea. 
@@ -588,14 +597,16 @@ It was believed in ancient Judaism and in ancient Christianity that the spirits 
 
 ### Satan
 
-The *adversary* or literally the *accuser*, by tradition a seraphim (and/or cherubim), an angel created completely good and as guardian of the earth, protector of the terrestrial order.
+The *adversary*, *slanderer*, or literally the *accuser* -- by tradition a seraphim (and/or cherubim), an angel created completely good and as guardian of the world, protector of the terrestrial order.
 By his pride he turned against his own nature, turned against God.
-This is the snake in the garden, and the chief over all of the demons (fallen angels or otherwise).
+This is the snake in the garden, and the chief of all demons (fallen angels or otherwise).
 
 !!! quote "Job 1:6"
     Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.
 
-In Job, Satan does not necessarily refer to the same serpent in the garden, but to the role of accuser. And we see prophetic passages comparing earthly kings to Lucifer (such as in Isaiah, in the song of contempt over the king of Babylon).
+In Job, Satan does not necessarily refer to the same serpent in the garden, but to the role of *accuser*. 
+
+And elsewhere in scripture we see prophetic passages comparing worldly kings to Lucifer (such as in Isaiah, in the song of contempt over the king of Babylon).
 
 !!! quote "Isaiah 14:12-15"
     How art thou fallen from heaven, O Lucifer, son of the morning! how art thou cut down to the ground, which didst weaken the nations!
@@ -620,22 +631,31 @@ And most explicitly, Satan is referenced by John the Theologian in the Book of R
 !!! quote "Revelation 12:9"
     And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 
-
+Note the symbolic theme connecting Satan with beasts (the great dragon) and with worldly kings.
 
 
 
 
 ### Beasts
 
-While not necessarily demons per-se, the various beasts found in scripture are best understood in context of demons, specifically dominions and dark powers.
+While not necessarily demons per-se, the various beasts found in scripture are best understood in context of demons, specifically dominions, dark powers and Satan.
 From the Book of Daniel, the beasts are interpreted as worldly empires, kings of the earth.
-And in a very real sense, these "beasts" are the animating spirits -- *the demonic powers* -- behind worldly empires.
+And in a very real sense, these "beasts" are the animating spirits -- *the demonic powers* -- behind worldly empires and global kings.
 
 !!! quote "Daniel 7:17-18"
     These great beasts, which are four, are four kings, which shall arise out of the earth. But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever
 
+This passage from Daniel explains both the beasts and the inevitable triumph of Christ, crushing the seeds of the serpent.
+The beasts are not demons but are the worldly manifestation of demons.
+
+The infamous "mark of the beast", *six-hundred and sixty six* refers to a worldly (created) nature.
+And the prophetic "mark of the beast" on the hand or forehead is a mockery of the divine seal of the Holy Spirit placed upon newly baptized Christians during their [chrismation](https://orthodoxwiki.org/Chrismation).
+It is a mark of the kingdom of man in a kind of total totalitarianism, cut off and completely rejecting the kingdom of God (a worldly manifestation of hell, literally, hell on earth)
+
 ???+ example "Number of the Beast -- William Blake"
     <center>![blake-666](/images/blake-666.jpg)</center>
+
+
 
 
 
@@ -646,7 +666,7 @@ Leviathan is the great dragon, the serpent, often represented as an ouroboros.
 In Job, God speaks of Leviathan as an obedient pet, which is indicative of the relationship of fallen angels to the God most high.
 
 !!! quote "Job 41:34"
-    He beholdeth all high things: he is a king over all the children of pride.
+    He beholdeth all high things: he is  king over all the children of pride.
 
 Leviathan is referenced as the force behind worldly powers, king over all the children of pride.
 
@@ -666,11 +686,23 @@ Leviathan is referenced as the force behind worldly powers, king over all the ch
     He is the chief of the ways of God: he that made him can make his sword to approach unto him.
 
 
-1 Enoch
+!!! quote "1 Enoch 60:7-8"
+    And on that day, two monsters will be separated from one another, a female monster whose name is Leviathan, to dwell in the depths of the sea, above the springs of the waters.
+And the name of the male is Behemoth, who occupies with his breast a desert that cannot be seen, named Dendayn, on the east ofthe Garden where the chosen and the righteous dwell. Where my great-grandfather was received, who was seventh from Adam the first man whom the Lord of Spirits made.
+
 
 
 
 #### Ziz
+
+Ziz (זיז‎) is a giant bird, and one of the primordial beasts along with Leviathan and Behemoth.
+The name appears in Psalms although is typically translated as "beast".
+
+!!! quote "Psalms 50:11"
+    I know all the birds of the mountains, And the wild beasts (Ziz) of the field are Mine
+
+!!! quote "Psalms 80:13"
+    The boar out of the wood doth waste it, and the wild beast (Ziz) of the field doth devour it.
 
 
 
@@ -727,6 +759,23 @@ Leviathan is referenced as the force behind worldly powers, king over all the ch
 
 ???+ example "[Preaching of the antichrist](https://en.m.wikipedia.org/wiki/The_Preaching_of_the_Antichrist) -- Luca Signorelli"
     <center>![antichrist](/images/antichrist.jpg)</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
