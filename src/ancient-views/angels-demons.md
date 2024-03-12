@@ -548,10 +548,6 @@ The third great rebellion against God (after sin and death) came at the tower of
     And the Lord sent a mighty wind against the tower and overthrew it upon the earth
 
 In the aftermath, God scattered the people, confusing their tongues, and placing them under the dominion of the heavenly hosts. He kept only Israel as a portion for Himself, from which would come the promised savior who would crush the seeds of the serpent.
-
-!!! quote "Sirach 17:17"
-    Over every nation he appointed a ruler, but Israel is the Lord’s own portion.
-
 Throughout the world, mankind was at the mercy of these territorial spirits, these powers and principalities.
 
 !!! quote "Ephesians 6:12"
