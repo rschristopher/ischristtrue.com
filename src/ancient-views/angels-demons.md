@@ -1,14 +1,15 @@
 # Angels, Demons, and Antichrist
 
 <!--
-Lord Jesus Christ
-Son of God
+Lord Jesus Christ, Son of God
 Have mercy on me, a sinner
 
 Protect me from the evil one.
 Enlighten my mind and my heart so that your wisdom may be revealed and articulated, all for your glory.
--->
 
+Lord Jesus Christ, Son of God
+Have mercy on me, a sinner 
+-->
 
 Despite the nihilism of our modern age, modern people still hold a vague belief in angels and demons. 
 Even non-believers flirt with the idea. 
@@ -23,11 +24,12 @@ And as we'll see, this is no accident.
 
 ## Mythologies
 
-In our modern secular view we think of *mythology* as false or make believe, like fairy tails, or at best as primitive beliefs from "less evolved civilizations".
+In our modern secular view we think of a *mythology* as false or make believe, like fairy tails, or as primitive beliefs from "less evolved civilizations".
 However, *myth* simply means *story*, and the *-ology* suffix is derived from *logia* (divine word of God), and *mythology* is best thought of as "stories that unite us as a culture" or "stories we participate in" or "stories we live by".
+All cultures, even modern secular culture, has a mythology.
 And if we take a sober look at ancient mythologies, we find angels and demons featured in *all* of them.
 
-Technically, the word *angel* means *messenger*. 
+The word *angel* means *messenger*. 
 As such, it can best be thought of as a role, like a job title. 
 However when talking of angels we typically are not referring to a job title. 
 We are referring to spiritual beings. 
@@ -58,7 +60,8 @@ Paganism is commonly associated with the Greek and Roman pantheon of gods, but w
 In doing so we find that the myriad of mythological gods have a lot in common.
 
 In pagan mythologies we find identical themes: regional gods have dominion over people, where man is subordinate to these gods, worshipping these territorial gods and giving sacrifice.
-The pagan gods are typically indifferent or antagonistic to humans; such that humans are nothing but the playthings of these gods.
+The pagan gods are typically indifferent or antagonistic to humans; such that humans are nothing but the playthings of the gods.
+Typically there were rebellions amongst the gods, and often divine knowledge was given to man by some rebellious character, allowing man to have technology and civilization.
 
 The innovation in Judiaism is the realization (revelation) that the God most high is uncreated, and not only the creator of all, but also the source of morality, a universal morality, that good and evil are objectively knowable. As such only the God most high is to be worshipped.
 Contrast this with the Roman pantheon, where the gods of conquered people were collected and worshipped.
