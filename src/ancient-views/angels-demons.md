@@ -677,6 +677,16 @@ In Job, God speaks of Leviathan as an obedient pet, which is indicative of the r
 !!! quote "Job 41:34"
     He beholdeth all high things: he is  king over all the children of pride.
 
+An indirect reference to Satan,
+
+!!! quote "Isaiah 27:1"
+    In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.
+
+!!! quote "Revelation 12:3-4"
+    And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads. 
+    And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
+
+
 Leviathan is referenced as the force behind worldly powers, king over all the children of pride.
 
 !!! quote "Isaiah 27:1"
