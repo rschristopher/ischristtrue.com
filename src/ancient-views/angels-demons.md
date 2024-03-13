@@ -635,12 +635,26 @@ And in Ezekiel in the lament over the king of Tyre, we find reference to a falle
     Thou hast defiled thy sanctuaries by the multitude of thine iniquities, by the iniquity of thy traffick; therefore will I bring forth a fire from the midst of thee, it shall devour thee, and I will bring thee to ashes upon the earth in the sight of all them that behold thee.
     All they that know thee among the people shall be astonished at thee: thou shalt be a terror, and never shalt thou be any more.
 
-And very explicitly, Satan is referenced by John the Theologian in the Book of Revelation, e.g.,
+The ancient view of Satan was as the ruler of the fallen world, the chief of the nations that held dominion over man.
+While Israel was the Lord's portion, they too fell under dark powers, as evidenced by their exile and in the warning of curses from the Lord.
+
+!!! quote "Deuteronomy 28:33-33"
+    Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long; and there shall be no might in thine hand.
+    The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway
+
+In the fullness of time, Satan was ultimately defeated completely.
+
+!!! quote "Luke 10:18-19"
+    And He said to them, “I saw Satan fall like lightning from heaven. Behold, I give you the authority to trample on serpents and scorpions, and over all the power of the enemy, and nothing shall by any means hurt you.
+    
+And very explicitly, Christ's victory over Satan is referenced by John the Theologian in the Book of Revelation.
 
 !!! quote "Revelation 12:9"
     And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 
 Note the symbolic theme connecting Satan with beasts (the great dragon) and with worldly kings.
+
+
 
 
 
