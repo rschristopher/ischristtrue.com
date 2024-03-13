@@ -120,9 +120,9 @@ Like the pagan mythologies, there seems to be something about these stories that
 
 
 
+
+
 ----
-
-
 
 ## Ancient Christianity 
 
@@ -197,14 +197,13 @@ The spirits (demons) on the left hand of God are the reprobate, such as the "lyi
 
 
 
+
+
+
+
+
+
 ----
-
-
-
-
-
-
-
 
 
 ## Angels
