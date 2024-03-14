@@ -607,7 +607,7 @@ This is the snake in the garden, and the chief of all demons (fallen angels or o
     Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.
 
 In Job, Satan does not necessarily refer to the same serpent in the garden, but clearly to the role of *accuser*. 
-While it can seem unclear the exact nature of Satan, what else can we expect from the father of lies?
+While the exact nature of Satan can seem unclear, what else can we expect from the father of lies?
 
 ???+ quote "John 8:44"
     Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
