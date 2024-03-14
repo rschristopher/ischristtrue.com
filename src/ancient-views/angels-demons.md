@@ -585,7 +585,8 @@ The size seems both metaphoric as well as literal.
 They could be understood today as strongmen or warlords, metaphoric in some cases although the concept is universal across all ancient and modern cultures.
 
 In the original Hebrew these giants are sometimes referred to as *rephaim*, which are the spirits of the dead, or inhabitants of the underworld.
-It was believed in ancient Judaism and in ancient Christianity that the spirits of dead nephilim are among the ranks of demons.
+It was believed (in ancient Judaism and in ancient Christianity) that the spirits of dead nephilim were among the ranks of demons -- specifically the "unclean spirits" and "evil spirits" referenced throughout the New Testamanent.
+And it was understood that the Messiah would inaugurate His kingdom by casting out these evil sprits (amongst other signs).
 
 ???+ danger "Sethite view"
     The [Sethite view](https://www.khouse.org/articles/1997/110/) is a [modern](../modern-views/index.md) understanding of "sons of God" as referring to the male descendents of Seth, and the "daughters of men" referring to the female descendents of Cain. This view ignores scripture completely (both canonical and apocryphal) as well as ignoring tradition.
@@ -599,7 +600,7 @@ It was believed in ancient Judaism and in ancient Christianity that the spirits 
 
 ### Satan
 
-The *adversary*, *slanderer*, or literally the *accuser* -- by tradition a seraphim (and/or cherubim), a fallen angel created completely good, intended as guardian of the world, protector of the terrestrial order.
+The *adversary*, *slanderer*, or literally the *accuser* -- *Mastema*, *Belial*, *Bashan*, *Lucifer*, or most commonly known as "***the*** *devil*" -- by tradition a seraphim (and/or cherubim), a fallen angel created completely good, intended as guardian of the world, protector of the terrestrial order.
 By his pride this angel turned against his own nature, turned against God.
 This is the snake in the garden, and the chief of all demons (fallen angels or otherwise).
 
@@ -607,10 +608,10 @@ This is the snake in the garden, and the chief of all demons (fallen angels or o
     Now there was a day when the sons of God came to present themselves before the LORD, and satan came also among them.
 
 In Job, satan does not necessarily refer to the same serpent in the garden, but only to the role of *accuser*. 
-There are even *satans* in the ancient world, multiple accusers.
+There are even multiple *satans* in the ancient world, multiple accusers.
 And there are even cases of God acting as an accuser (such as to David, or to Israel).
 Over time, the proper noun, Satan, came to be understood as the serpent in the garden, the first spirit to rebel against God.
-While the exact nature of Satan can seem unclear, what else can we expect from the father of lies?
+While the exact nature of Satan can seem unclear -- *he either pretends to be all powerful or that doesn't even exist* -- what else can we expect from the father of lies?
 
 ???+ quote "John 8:44"
     Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
