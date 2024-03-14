@@ -600,7 +600,7 @@ It was believed in ancient Judaism and in ancient Christianity that the spirits 
 ### Satan
 
 The *adversary*, *slanderer*, or literally the *accuser* -- by tradition a seraphim (and/or cherubim), an angel created completely good and as guardian of the world, protector of the terrestrial order.
-By his pride he turned against his own nature, turned against God.
+By his pride this angel turned against his own nature, turned against God.
 This is the snake in the garden, and the chief of all demons (fallen angels or otherwise).
 
 !!! quote "Job 1:6"
