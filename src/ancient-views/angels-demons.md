@@ -599,20 +599,22 @@ It was believed in ancient Judaism and in ancient Christianity that the spirits 
 
 ### Satan
 
-The *adversary*, *slanderer*, or literally the *accuser* -- by tradition a seraphim (and/or cherubim), an angel created completely good and as guardian of the world, protector of the terrestrial order.
+The *adversary*, *slanderer*, or literally the *accuser* -- by tradition a seraphim (and/or cherubim), a fallen angel created completely good, intended as guardian of the world, protector of the terrestrial order.
 By his pride this angel turned against his own nature, turned against God.
 This is the snake in the garden, and the chief of all demons (fallen angels or otherwise).
 
 !!! quote "Job 1:6"
     Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.
 
-In Job, Satan does not necessarily refer to the same serpent in the garden, but clearly to the role of *accuser*. 
+In Job, Satan does not necessarily refer to the same serpent in the garden, but only to the role of *accuser*. 
+There are even *satans* in the ancient world, as in multiple accusers.
+And there are even cases of God acting as an accuser (such as to David, or to Israel).
+Over time, the proper noun, Satan, came to be understood as the first spirit to rebel against God.
 While the exact nature of Satan can seem unclear, what else can we expect from the father of lies?
 
 ???+ quote "John 8:44"
     Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
     <center>![satan](/images/satan.jpg)</center>
-
 
 Elsewhere in scripture we see prophetic passages comparing worldly kings to Lucifer (such as in Isaiah, in the song of contempt over the king of Babylon).
 
@@ -640,24 +642,25 @@ The ancient view of Satan was as the ruler of the fallen world, the chief of the
     And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads. 
     And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
 
-While Israel was the Lord's portion, they too fell under the dark powers of Satan, as evidenced by Israel's exile after not heeding the Lord's warning of a curse.
+By the time of Christ, all of the world was under the rule of Satan.
+While Israel was originally the Lord's portion (the only people not under the dominion of demons), they too fell under the dark powers of Satan, as evidenced by Israel's exile and not heeding the Lord's warning of a curse.
 
 !!! quote "Deuteronomy 28:33-33"
     Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long; and there shall be no might in thine hand.
     The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed always
 
-The nations, Babylon, Rome, and any where the Israelites lived, were under the dominion of Satan and his dark powers and principalities.
-However, in the fullness of time, Satan was defeated completely.
+Babylon, Rome, and all of the nations where Israelites lived, all were under the dominion of Satan and his dark powers and principalities.
+However, in the fullness of time, during the life of Christ, Satan was defeated completely.
 
 !!! quote "Luke 10:18-19"
     And He said to them, “I saw Satan fall like lightning from heaven. Behold, I give you the authority to trample on serpents and scorpions, and over all the power of the enemy, and nothing shall by any means hurt you.
     
-Christ's victory over Satan is referenced by John the Theologian in the Book of Revelation. Satan was defeated in the heavens and on earth.
+Christ's victory over Satan is referenced by John the Theologian in the Book of Revelation. Satan was defeated in the heavens, and defeated on the earth.
 
 !!! quote "Revelation 12:9"
     And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 
-Note the symbolic theme connecting Satan with beasts (the great red dragon) and, as we'll see next, with worldly kings.
+Notice the symbolic themes connecting Satan with beasts (the great red dragon) and with worldly kings. The manifestation of Satan's forces include the primordial *beasts* which we'll turn to now.
 
 
 
@@ -694,7 +697,7 @@ It is a mark of the kingdom of man in a kind of *total totalitarianism*, being c
 
 Leviathan is the great dragon, the serpent, often represented as an ouroboros, and known by many names:
 Typhon (Greek), Tiamat (Mesopotamian), Illuyanka (Hittite), and was sometimes identified with Set in ancient Egypt.
-Leviathan is best understood as a serpent of primordial chaos, often associated with Satan.
+Leviathan is best understood as a serpent of primordial chaos, associated with Satan.
 
 In Job, God speaks of Leviathan as unstoppable, yet as an obedient pet to God, which is indicative of the relationship of fallen angels to the God most high.
 
