@@ -635,23 +635,29 @@ And in Ezekiel in the lament over the king of Tyre, we find reference to a falle
     All they that know thee among the people shall be astonished at thee: thou shalt be a terror, and never shalt thou be any more.
 
 The ancient view of Satan was as the ruler of the fallen world, the chief of the nations and dark powers that held dominion over man.
-While Israel was the Lord's portion, they too fell under dark powers of Satan, as evidenced by their exile and in the warning of curses from the Lord.
+
+!!! quote "Revelation 12:3-4"
+    And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads. 
+    And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
+
+While Israel was the Lord's portion, they too fell under the dark powers of Satan, as evidenced by Israel's exile after not heeding the Lord's warning of a curse.
 
 !!! quote "Deuteronomy 28:33-33"
     Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long; and there shall be no might in thine hand.
     The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed always
 
+The nations, Babylon, Rome, and any where the Israelites lived, were under the dominion of Satan and his dark powers and principalities.
 However, in the fullness of time, Satan was defeated completely.
 
 !!! quote "Luke 10:18-19"
     And He said to them, “I saw Satan fall like lightning from heaven. Behold, I give you the authority to trample on serpents and scorpions, and over all the power of the enemy, and nothing shall by any means hurt you.
     
-Christ's victory over Satan is referenced by John the Theologian in the Book of Revelation. Satan is defeated in the heavens and on earth.
+Christ's victory over Satan is referenced by John the Theologian in the Book of Revelation. Satan was defeated in the heavens and on earth.
 
 !!! quote "Revelation 12:9"
     And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 
-Note the symbolic theme connecting Satan with beasts (the great dragon) and, as we'll see next, with worldly kings.
+Note the symbolic theme connecting Satan with beasts (the great red dragon) and, as we'll see next, with worldly kings.
 
 
 
@@ -674,7 +680,7 @@ These beasts, the worldly kings, are the *seeds of the serpent*.
 ???+ example "Number of the Beast is 666 -- William Blake"
     <center>![blake-666](/images/blake-666.jpg)</center>
 
-The infamous "mark of the beast", *six-hundred and sixty six* refers to a worldly (created) nature.
+The infamous "mark of the beast", *six-hundred and sixty six*, refers to a worldly (created) nature.
 And the prophetic "mark of the beast" on the hand or forehead is a mockery of the divine seal of the Holy Spirit placed upon newly baptized Christians during their [chrismation](https://orthodoxwiki.org/Chrismation).
 It is a mark of the kingdom of man in a kind of *total totalitarianism*, being cut off from God and completely rejecting the kingdom of God (left with a worldly manifestation of hell, literally, hell on earth)
 
@@ -686,33 +692,28 @@ It is a mark of the kingdom of man in a kind of *total totalitarianism*, being c
 
 #### Leviathan
 
-Leviathan is the great dragon, the serpent, often represented as an ouroboros.
-Leviathan is often associated with Satan, and also a primordial chaos.
+Leviathan is the great dragon, the serpent, often represented as an ouroboros, and known by many names:
+Typhon (Greek), Tiamat (Mesopotamian), Illuyanka (Hittite), and was sometimes identified with Set in ancient Egypt.
+Leviathan is best understood as a serpent of primordial chaos, often associated with Satan.
 
-
-In Job, God speaks of Leviathan as an obedient pet, which is indicative of the relationship of fallen angels to the God most high.
+In Job, God speaks of Leviathan as unstoppable, yet as an obedient pet to God, which is indicative of the relationship of fallen angels to the God most high.
 
 !!! quote "Job 41:34"
     He beholdeth all high things: he is  king over all the children of pride.
 
-An indirect reference to Satan,
+This is an indirect reference to Leviathan as the serpent in the garden, the chief over all demons.
 
 !!! quote "Isaiah 27:1"
     In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.
-
-!!! quote "Revelation 12:3-4"
-    And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads. 
-    And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
-
 
 Leviathan is referenced as the force behind worldly powers, king over all the children of pride.
-
-!!! quote "Isaiah 27:1"
-    In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea.
-
+And yet in the final days of judgment, Leviathan is slain by Christ and fed to the saints.
 
 !!! quote "Psalms 74:14"
     Thou brakest the heads of leviathan in pieces, and gavest him to be meat to the people inhabiting the wilderness.
+
+
+
 
 
 
@@ -726,6 +727,8 @@ Leviathan is referenced as the force behind worldly powers, king over all the ch
 !!! quote "1 Enoch 60:7-8"
     And on that day, two monsters will be separated from one another, a female monster whose name is Leviathan, to dwell in the depths of the sea, above the springs of the waters.
     And the name of the male is Behemoth, who occupies with his breast a desert that cannot be seen, named Dendayn, on the east ofthe Garden where the chosen and the righteous dwell. Where my great-grandfather was received, who was seventh from Adam the first man whom the Lord of Spirits made.
+
+
 
 
 
