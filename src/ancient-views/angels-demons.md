@@ -803,7 +803,7 @@ Even the Israelites were under the authority of Satan's worldly kingdoms, under 
 
 It was in the life of Christ that the kingdom of God became manifest on earth and in heaven.
 This was the defeat of Satan and his angels, decisively.
-Christ cast out evil spirits, healed the sick, forgave sins, and most importantly, overcome death.
+Christ cast out evil spirits, healed the sick, forgave sins, and most importantly, overcame death.
 
 Christ did so as God and as man, the word of God made flesh.
 And now in the Messianic Age, Christ rules in the midst of His enemies.
