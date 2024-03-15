@@ -726,8 +726,8 @@ And yet in the final days of judgment, Leviathan is slain by Christ and fed to t
 
 #### Behemoth
 
-Behemoth is the great beast of the land, the counterpart to Leviathan, of untamed and uncontrollable nature. 
-Where Leviathan is the embodiment of the chaotic sea, Behemoth is the embodiment of the land, specifically the desert wilderness.
+Behemoth is the great beast of the land, a counterpart to Leviathan, of untamed and uncontrollable nature. 
+Just as Leviathan is the embodiment of the chaotic sea, Behemoth is the embodiment of the land, specifically the *desert wilderness*.
 
 !!! quote "Job 40:23"
     Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth.
@@ -738,14 +738,13 @@ We sometimes find a masculine and feminine duality between Behemoth and Leviatha
     And on that day, two monsters will be separated from one another, a female monster whose name is Leviathan, to dwell in the depths of the sea, above the springs of the waters.
     And the name of the male is Behemoth, who occupies with his breast a desert that cannot be seen, named Dendayn, on the east of the Garden where the chosen and the righteous dwell. Where my great-grandfather was received, who was seventh from Adam the first man whom the Lord of Spirits made.
 
-Behemoth, the beast of the desert wilderness is a peculiar image.
-In the ancient world, and specifically before Christ, the desert wilderness was primarily associated with death and the underworld.
+Behemoth, the beast of the desert wilderness is a peculiar and sometimes paradoxical image.
+In the ancient world, and specifically before Christ, the desert wilderness of Behemoth was primarily associated with death and the underworld.
 The desert was not just a dangerous place with no water, it was the home of evil spirits, rephaim (spirits of the dead), and the like.
-We see this in the land of Bashan, east of the Jordan where the Israelites lived for forty years, and where Christ fasted for forty days and where He was tempted by the devil.
-This is also where Enoch was "received by God".
 
-!!! info "Bashan"
-    Bashan is a desert wilderness, the place of the Israelite exile, and yet *Bashan* literally means *serpent* and was associated with death and Satan.
+We see this in the land of Bashan, east of the Jordan river where the Israelites lived for forty years, and where Christ fasted for forty days and where He was tempted by the devil.
+This is also where Enoch was "received by God".
+Bashan is the desert wilderness of the promised land, the place of Israelite exile, and yet *Bashan* literally means *serpent* and was associated with death and Satan.
 
 
 
@@ -755,7 +754,7 @@ This is also where Enoch was "received by God".
 
 #### Ziz
 
-Ziz (זיז‎) is the great wild beast of the air (of the heavens), a giant bird.
+Ziz (זיז‎) is the great beast of the air (of the heavens), a giant bird.
 While lesser known than Leviathan and Behemoth, the name appears in Psalms although is typically translated as "beast".
 
 !!! quote "Psalms 50:11"
@@ -765,9 +764,9 @@ While lesser known than Leviathan and Behemoth, the name appears in Psalms altho
     The boar out of the wood doth waste it, and the wild beast (Ziz) of the field doth devour it.
 
 Importantly, these primordial beasts have non-overlapping domains; of air (Ziz), of land (Behemoth), and of the sea (Leviathan).
-Notice that the beasts from Daniel and from Revelation are hybrids of all three, such as a winged leopard coming from the sea. 
+Notice however that the beasts from Daniel and from Revelation are hybrids of all three primordial beasts, such as a winged leopard coming from the sea. 
 This hybridization denotes both a perversion of God's design and an ungodly dominion over creation (over life and death) by worldly kingdoms.
-This perversion reaches its conclusion in the figure of the antichrist, itself a hybrid of the beasts described in Daniel.
+This perversion reaches its conclusion in the vision of the antichrist, itself a hybrid of the beasts described in Daniel.
 
 
 
@@ -793,9 +792,55 @@ This perversion reaches its conclusion in the figure of the antichrist, itself a
 
 ## antichrist
 
-???+ example "[Is it possible to recognize the antichrist?](https://orthochristian.com/92434.html)"
+The spirit and prophecied person of *antichrist* must be understood in the context of fallen angels and demons, specifically in the triumph of Christ over the demons and over the principalities and powers (fallen angels).
+Critically, man was under complete subjugation and dominion of Satan.
+Satan tempted Christ with the worldly kingdoms, and importantly: they were his to give.
+
+!!! quote "Luke 4;5-7"
+    And the devil took him up and showed him all the kingdoms of the world in a moment of time, and said to him, “To you I will give all this authority and their glory, for it has been delivered to me, and I give it to whom I will. If you, then, will worship me, it will all be yours.”
+
+Even the Israelites were under the authority of Satan's worldly kingdoms, under Roman rule and throughout the diaspora.
+
+It was in the life of Christ that the kingdom of God became manifest on earth and in heaven.
+This was the defeat of Satan and his angels, decisively.
+Christ cast out evil spirits, healed the sick, forgave sins, and most importantly, overcome death.
+
+Christ did so as God and as man, the word of God made flesh.
+And now in the Messianic Age, Christ rules in the midst of His enemies.
+
+!!! quote "Psalms 110:2"
+    The Lord shall send the rod of Your strength out of Zion.
+Rule in the midst of Your enemies!
+
+And as such, Satan and his legions were cast out from their authority, and like the remaining beasts from the vision of Daniel, their lives were prolonged for a time.
+
+!!! quote "Daniel 12:12"
+    As for the rest of the beasts, they had their dominion taken away, yet their lives were prolonged for a season and a time.
+
+The three beasts in the vision of Daniel were a leopard, a bear, and a lion. And the fourth beast was the serpent, the great dragon.
+Contrast this with the beast in Revelation 13:
+
+!!! quote "Revelation 13:2"
+     Now the beast which I saw was like a leopard, his feet were like the feet of a bear, and his mouth like the mouth of a lion. The dragon gave him his power, his throne, and great authority.
+
+This final beast, hybrid of hybrids, is the prophecied antichrist who will come in the final days before judgment.
+The spirit of antichrist has been manifest in the world many times, and all throughout history, preparing the way for his kingdom.
+
+???+ warning "The false prophet"
+    ...
+
+Importantly, the antichrist is the complete antithesis of Christ, both an imitation and His opposite.
+Christ submits with complete obedience to His father, and offers eternal life in His kingdom.
+The antichrist submits to no one but himself, and offers lies of a worldly kingdom and only death.
+This beast is a global totalitarianism, exactly as defined and sought by every generation of globalist "elite", such as the transhumanists seeking to make man into gods.
+
+???+ danger "[Is it possible to recognize the antichrist?](https://orthochristian.com/92434.html)"
     <center>![Christ+antichrist](/images/christ-antichrist.jpg)</center>
 
+
+Always the spirit of antichrist points in the exact opposite direction of Christ.
+The final antichrist, the person of antichrist, will come not from heaven but from earth.
+And even God-fearing Christians will be taken in, especially at first.
 
 
 
