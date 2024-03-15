@@ -688,7 +688,7 @@ These beasts, the worldly kings, are the *seeds of the serpent*.
 
 The infamous "mark of the beast", *six-hundred and sixty six*, refers to a worldly (created) nature.
 And the prophetic "mark of the beast" on the hand or forehead is a mockery of the divine seal of the Holy Spirit placed upon newly baptized Christians during their [chrismation](https://orthodoxwiki.org/Chrismation).
-It is a mark of the kingdom of man in a kind of *total totalitarianism*, being cut off from God and completely rejecting the kingdom of God (left with a worldly manifestation of hell, literally, hell on earth).
+It is a mark of the kingdom of man in a kind of *total totalitarianism*, being cut off from God completely (a worldly manifestation of hell, literally, hell on earth).
 
 
 
@@ -726,9 +726,12 @@ And yet in the final days of judgment, Leviathan is slain by Christ and fed to t
 
 #### Behemoth
 
-!!! quote "Job 40:19"
-    He is the chief of the ways of God: he that made him can make his sword to approach unto him.
+Behemoth is a counterpart to Leviathan, of untamed and uncontrollable nature. Where Leviathan is the embodiment of the chaotic sea, Behemoth is the embodiment of the desert wilderness.
 
+!!! quote "Job 40:23"
+    Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth.
+
+We sometimes find a masculine and feminine duality between Behemoth and Leviathan, creating a beastly yin-yang of opposing tyranny (order and chaos).
 
 !!! quote "1 Enoch 60:7-8"
     And on that day, two monsters will be separated from one another, a female monster whose name is Leviathan, to dwell in the depths of the sea, above the springs of the waters.
@@ -750,7 +753,7 @@ The name appears in Psalms although is typically translated as "beast".
 !!! quote "Psalms 80:13"
     The boar out of the wood doth waste it, and the wild beast (Ziz) of the field doth devour it.
 
-
+Ziz is best understood as the primordial chaos monster of the air, counterpart to Behemoth and Leviathan.
 
 
 
