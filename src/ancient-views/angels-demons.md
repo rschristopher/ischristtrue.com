@@ -726,16 +726,27 @@ And yet in the final days of judgment, Leviathan is slain by Christ and fed to t
 
 #### Behemoth
 
-Behemoth is a counterpart to Leviathan, of untamed and uncontrollable nature. Where Leviathan is the embodiment of the chaotic sea, Behemoth is the embodiment of the desert wilderness.
+Behemoth is the great beast of the land, the counterpart to Leviathan, of untamed and uncontrollable nature. 
+Where Leviathan is the embodiment of the chaotic sea, Behemoth is the embodiment of the land, specifically the desert wilderness.
 
 !!! quote "Job 40:23"
     Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth.
 
-We sometimes find a masculine and feminine duality between Behemoth and Leviathan, creating a beastly yin-yang of opposing tyranny (order and chaos).
+We sometimes find a masculine and feminine duality between Behemoth and Leviathan, creating a beastly yin-yang of opposing tyranny on earth and sea.
 
 !!! quote "1 Enoch 60:7-8"
     And on that day, two monsters will be separated from one another, a female monster whose name is Leviathan, to dwell in the depths of the sea, above the springs of the waters.
-    And the name of the male is Behemoth, who occupies with his breast a desert that cannot be seen, named Dendayn, on the east ofthe Garden where the chosen and the righteous dwell. Where my great-grandfather was received, who was seventh from Adam the first man whom the Lord of Spirits made.
+    And the name of the male is Behemoth, who occupies with his breast a desert that cannot be seen, named Dendayn, on the east of the Garden where the chosen and the righteous dwell. Where my great-grandfather was received, who was seventh from Adam the first man whom the Lord of Spirits made.
+
+Behemoth, the beast of the desert wilderness is a peculiar image.
+In the ancient world, and specifically before Christ, the desert wilderness was primarily associated with death and the underworld.
+The desert was not just a dangerous place with no water, it was the home of evil spirits, rephaim (spirits of the dead), and the like.
+We see this in the land of Bashan, east of the Jordan where the Israelites lived for forty years, and where Christ fasted for forty days and where He was tempted by the devil.
+This is also where Enoch was "received by God".
+
+!!! info "Bashan"
+    Bashan is a desert wilderness, the place of the Israelite exile, and yet *Bashan* literally means *serpent* and was associated with death and Satan.
+
 
 
 
@@ -744,8 +755,8 @@ We sometimes find a masculine and feminine duality between Behemoth and Leviatha
 
 #### Ziz
 
-Ziz (זיז‎) is a giant bird, and one of the primordial beasts along with Leviathan and Behemoth.
-The name appears in Psalms although is typically translated as "beast".
+Ziz (זיז‎) is the great wild beast of the air (of the heavens), a giant bird.
+While lesser known than Leviathan and Behemoth, the name appears in Psalms although is typically translated as "beast".
 
 !!! quote "Psalms 50:11"
     I know all the birds of the mountains, And the wild beasts (Ziz) of the field are Mine
@@ -753,7 +764,10 @@ The name appears in Psalms although is typically translated as "beast".
 !!! quote "Psalms 80:13"
     The boar out of the wood doth waste it, and the wild beast (Ziz) of the field doth devour it.
 
-Ziz is best understood as the primordial chaos monster of the air, counterpart to Behemoth and Leviathan.
+Importantly, these primordial beasts have non-overlapping domains; of air (Ziz), of land (Behemoth), and of the sea (Leviathan).
+Notice that the beasts from Daniel and from Revelation are hybrids of all three, such as a winged leopard coming from the sea. 
+This hybridization denotes both a perversion of God's design and an ungodly dominion over creation (over life and death) by worldly kingdoms.
+This perversion reaches its conclusion in the figure of the antichrist, itself a hybrid of the beasts described in Daniel.
 
 
 
@@ -790,6 +804,10 @@ Ziz is best understood as the primordial chaos monster of the air, counterpart t
 
 ???+ example "[Preaching of the antichrist](https://en.m.wikipedia.org/wiki/The_Preaching_of_the_Antichrist) -- Luca Signorelli"
     <center>![antichrist](/images/antichrist.jpg)</center>
+
+
+
+
 
 
 
