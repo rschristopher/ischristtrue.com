@@ -792,7 +792,7 @@ This perversion reaches its conclusion in the vision of the antichrist, itself a
 
 ## antichrist
 
-The spirit and prophecied person of *antichrist* must be understood in the context of fallen angels and demons, specifically in the triumph of Christ over the demons and over the principalities and powers (fallen angels).
+The prophecied person and spirit  of *antichrist* must be understood in the context of fallen angels and demons, specifically in the triumph of Christ over the demons and over the principalities and powers (fallen angels).
 Critically, man was under complete subjugation and dominion of Satan.
 Satan tempted Christ with the worldly kingdoms, and importantly: they were his to give.
 
