@@ -738,8 +738,8 @@ We sometimes find a masculine and feminine duality between Behemoth and Leviatha
     And on that day, two monsters will be separated from one another, a female monster whose name is Leviathan, to dwell in the depths of the sea, above the springs of the waters.
     And the name of the male is Behemoth, who occupies with his breast a desert that cannot be seen, named Dendayn, on the east of the Garden where the chosen and the righteous dwell. Where my great-grandfather was received, who was seventh from Adam the first man whom the Lord of Spirits made.
 
-Behemoth, the beast of the desert wilderness is a peculiar and sometimes paradoxical image.
-In the ancient world, and specifically before Christ, the desert wilderness of Behemoth was primarily associated with death and the underworld.
+Behemoth is a peculiar and sometimes paradoxical image.
+In the ancient world, and specifically before Christ, the desert wilderness of Behemoth was primarily associated with death and the underworld, yet also a holy place.
 The desert was not just a dangerous place with no water, it was the home of evil spirits, rephaim (spirits of the dead), and the like.
 
 We see this in the land of Bashan, east of the Jordan river where the Israelites lived for forty years, and where Christ fasted for forty days and where He was tempted by the devil.
@@ -755,7 +755,7 @@ Bashan is the desert wilderness of the promised land, the place of Israelite exi
 #### Ziz
 
 Ziz (זיז‎) is the great beast of the air (of the heavens), a giant bird.
-While lesser known than Leviathan and Behemoth, the name appears in Psalms although is typically translated as "beast".
+While lesser known than Leviathan and Behemoth, Ziz appears in Psalms although is typically translated as "beast".
 
 !!! quote "Psalms 50:11"
     I know all the birds of the mountains, And the wild beasts (Ziz) of the field are Mine
