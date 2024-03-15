@@ -726,7 +726,7 @@ And yet in the final days of judgment, Leviathan is slain by Christ and fed to t
 
 #### Behemoth
 
-Behemoth is the great beast of the land, a counterpart to Leviathan, of untamed and uncontrollable nature. 
+Behemoth is the primordial beast of the land, a counterpart to Leviathan, of untamed and uncontrollable nature. 
 Just as Leviathan is the embodiment of the chaotic sea, Behemoth is the embodiment of the land, specifically the *desert wilderness*.
 
 !!! quote "Job 40:23"
@@ -754,7 +754,7 @@ Bashan is the desert wilderness of the promised land, the place of Israelite exi
 
 #### Ziz
 
-Ziz (זיז‎) is the great beast of the air (of the heavens), a giant bird.
+Ziz (זיז‎) is the primordial beast of the air (of the heavens), a giant bird.
 While lesser known than Leviathan and Behemoth, Ziz appears in Psalms although is typically translated as "beast".
 
 !!! quote "Psalms 50:11"
