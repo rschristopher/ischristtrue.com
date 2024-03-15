@@ -809,8 +809,7 @@ Christ did so as God and as man, the word of God made flesh.
 And now in the Messianic Age, Christ rules in the midst of His enemies.
 
 !!! quote "Psalms 110:2"
-    The Lord shall send the rod of Your strength out of Zion.
-Rule in the midst of Your enemies!
+    The Lord shall send the rod of Your strength out of Zion. Rule in the midst of Your enemies!
 
 And as such, Satan and his legions were cast out from their authority, and like the remaining beasts from the vision of Daniel, their lives were prolonged for a time.
 
