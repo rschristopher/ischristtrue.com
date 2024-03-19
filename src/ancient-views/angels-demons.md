@@ -11,8 +11,8 @@ Lord Jesus Christ, Son of God
 Have mercy on me, a sinner 
 -->
 
-Despite the nihilism of our modern age, modern people still hold a vague belief in angels and demons. 
-Even non-believers flirt with the idea. 
+Despite the nihilism of our [modern](../modern-views/index.md) age, modern people still hold a vague belief in angels and demons. 
+Even non-believers flirt with the idea of spirits both good and evil. 
 The prevalence of ghost stories within film and television is an indicator of just how deeply this ancient idea persists.
 
 It seems that far more people today are open to belief in angels and demons than they are to God. 
@@ -26,7 +26,8 @@ And as we'll see, this is no accident.
 
 In our modern secular view we think of a *mythology* as false or make believe, like fairy tails, or as primitive beliefs from "less evolved civilizations".
 However, *myth* simply means *story*, and the *-ology* suffix is derived from *logia* (divine word of God), and *mythology* is best thought of as "stories that unite us as a culture" or "stories we participate in" or "stories we live by".
-All cultures, even modern secular culture, has a mythology.
+
+Every culture, even modern secular culture, has a mythology.
 And if we take a sober look at ancient mythologies, we find angels and demons featured in *all* of them.
 
 The word *angel* means *messenger*. 
@@ -43,7 +44,7 @@ Additionally, there's references to heavenly hosts, to "sons of God", to cherubi
 
 And most striking, there's even references to other gods.
 While modern Christians view the idea of mythological gods as fairy tales, they must ignore their own Bibles while doing so. 
-Ancient Christians understood all of these biblical references to other gods as being created (usually fallen) spirits.
+Ancient Christians understood all of these biblical references to foreign "gods" as being created spirits (usually fallen angels).
 
 Interestingly, the Bible continually references these spiritual beings as if we already know what they are. 
 There's no explanation of angels or demons or devils, and no articulated taxonomy about this hierarchy of spirits.
@@ -57,10 +58,10 @@ How are we to make sense of this?
 
 The term *pagan*, like *heathen*, simply refers to religous systems outside of Judiasm and Christianity.
 Paganism is commonly associated with the Greek and Roman pantheon of gods, but we can analyze the broader sense of paganism within world mythologies.
-In doing so we find that the myriad of mythological gods have a lot in common.
+In doing so we find that the myriad of mythological "gods" have a lot in common.
 
 In pagan mythologies we find identical themes: regional gods have dominion over people, where man is subordinate to these gods, worshipping these territorial gods and giving sacrifice.
-The pagan gods are typically indifferent or antagonistic to humans; such that humans are nothing but the playthings of the gods.
+The pagan gods are typically indifferent or antagonistic to humans; such that humans are nothing but the playthings of these "gods".
 Typically there were rebellions amongst the gods, and often divine knowledge was given to man by some rebellious character, allowing man to have technology and civilization.
 
 The innovation in Judiaism is the realization (revelation) that the God most high is uncreated, and not only the creator of all, but also the source of morality, a universal morality, that good and evil are objectively knowable. As such only the God most high is to be worshipped.
@@ -166,8 +167,8 @@ As Christians we ought to believe these spirits exist(ed) -- including Zeus, Tho
 !!! quote "Exodus 20:5"
     Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God
 
-In this context, you'll find most all ancient pagan mythologies contain a deceitful inversion of Christianity, where mankind is reduced to the playthings of gods, and the pagan gods were usually the "heroes" who overthrew the prior divine order, typically a tyrannical order.
-Compare this to Christianity, where God is the Lord of Spirits, and man is created in the image and likeness of God, meant to judge the angels (the created spirits).
+In this context, you'll find most all ancient pagan mythologies contain a deceitful inversion of Christianity, where mankind is reduced to the playthings of their "gods", and the pagan gods were usually the "heroes" who overthrew the prior divine order, typically a tyrannical order.
+Compare this to Christianity, where God is the Lord of Spirits, and man is created in the image and likeness of God, meant to judge the angels (the created spirits, these pagan "gods").
 
 After the rebellions, the fallen angels are still sometimes found in the presence of God, among the heavenly hosts -- such as in Job or in 1 Kings:
 
@@ -324,7 +325,7 @@ From a human perspective, angels are patterns of reality over time that we can p
 This includes the obvious case of participating in divine liturgy, but also the non-obvious cases of participating in technology or in politics or any worldly pattern.
 It's important to understand that the worldly patterns that we participate within are in fact created spirits, and if they're directing you to Christ, then this is an angel, and if it's pointing in the opposite direction, then this is a fallen angel (such as the dark powers and principalities we struggle against daily).
 
-As "messengers" angels deliver the revealed word of God, and the word of God is the [Logos](../logos/index.md), who is incarnate in the person of Christ Jesus.
+As "messengers", angels deliver the revealed word of God, and the word of God is the [Logos](../logos/index.md), who is incarnate in the person of Christ Jesus.
 The angels minister to the divine will, that we may participate within His divine will through Christ Jesus.
 
 And further the "message" from angels is *Logia*, the revealed stories, which includes not only scripture, but every *logia*, such as mathematics, technology, and even geology.
@@ -337,7 +338,7 @@ For example, if your study of biology leads you to conclude that gender is a man
 
 The world is full of spirits.
 We are living in the midst of spirits, angelic and demonic.
-It is everywhere we look.
+It is everywhere we look -- and Christ is the Lord of Spirits.
 
 
 
@@ -525,7 +526,7 @@ Sin entered the world and led to a near complete corruption of mankind where onl
     And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen? If thou doest well, shalt thou not be accepted? and if thou doest not well, **sin lieth at the door**. And unto thee shall be his desire, and thou shalt rule over him.
 
 To be clear, these are demons at the door (of our heart), sometimes knocking, sometimes testing if the door is locked -- will we entertain those thoughts?
-God allows sin, allows these demons to tempt, all in order to lead us back to grace (for the path of sin leads only to death, and yet God is offering redemption).
+God allows sin, allows these demons to tempt, all in order to lead us back to His grace (for the path of sin leads only to death, and yet God is offering redemption).
 
 The Greek word for these dark and evil thoughts is [logismoi](https://orthodoxwiki.org/Logismoi).
 We experience this routinely.
@@ -554,7 +555,7 @@ Throughout the world, mankind was at the mercy of these territorial spirits, the
 
 To be clear, these are created spirits.
 Our [modern](../modern-views/index.md) worldview would say these are "emergent" patterns, mere by-products of human nature.
-However, any ideology or any principality acts with conscious agency, which in the ancient world (and in Scripture) was referred to as a spirit or even as a god.
+However, any ideology or any principality acts with conscious agency, which in the ancient world (and in Scripture) was referred to as a spirit or even as a "god".
 
 
 
@@ -611,7 +612,7 @@ In Job, "satan" does not necessarily refer to the same serpent in the garden, bu
 There are multiple *satans* in the Old Testament, multiple accusers.
 And there are even cases of God acting as an accuser (such as to David, or to Israel).
 Over time, the proper noun, Satan, came to be understood as the serpent in the garden, the first spirit to rebel against God.
-While the exact nature of Satan can seem unclear -- *he either pretends to be all powerful or that doesn't even exist* -- what else can we expect from the father of lies?
+While the exact nature of Satan can seem unclear -- *he either pretends to be all powerful or pretends that he doesn't exist* -- what else can we expect from the father of lies?
 
 ???+ quote "John 8:44"
     Ye are of your father the devil, and the lusts of your father ye will do. He was a murderer from the beginning, and abode not in the truth, because there is no truth in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father of it.
@@ -766,7 +767,7 @@ While lesser known than Leviathan and Behemoth, Ziz appears in Psalms although i
 Importantly, these primordial beasts have non-overlapping domains; of air (Ziz), of land (Behemoth), and of the sea (Leviathan).
 Notice however that the beasts from Daniel and from Revelation are hybrids of all three primordial beasts, such as a winged leopard coming from the sea. 
 This hybridization denotes both a perversion of God's design and an ungodly dominion over creation (over life and death) by worldly kingdoms.
-This perversion reaches its conclusion in the vision of the antichrist, itself a hybrid of the beasts described in Daniel.
+This perversion reaches its conclusion in the vision of the [antichrist](antichrist.md), itself a hybrid of the beasts described in Daniel.
 
 
 
