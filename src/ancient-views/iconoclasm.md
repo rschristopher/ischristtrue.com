@@ -466,7 +466,7 @@ Ultimately, Christ has a human and divine will, being both God and man -- and it
 The Orthodox view is that Mary is alive with her Son and is very much able to hear and respond to prayer requests.
 Intercessions from Mary are a way to connect directly to Christ's humanity.
 
-As has been the tradition for two thousand years, we honor and respect icons of the Theotokos because she is the human mother of Christ. We ought never destroy or suppress such images.
+As has been the tradition for two thousand years, we honor and respect icons of the Theotokos because she is the human mother of Christ. We ought never to destroy nor suppress such images.
 
 
 
