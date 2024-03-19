@@ -602,13 +602,13 @@ And it was understood that the Messiah would inaugurate His kingdom by casting o
 
 The *adversary*, *slanderer*, or literally the *accuser* -- *Mastema*, *Belial*, *Bashan*, *Lucifer*, or most commonly known as "***the*** *devil*" -- by tradition a seraphim (and/or cherubim), a fallen angel created completely good, intended as guardian of the world, protector of the terrestrial order.
 By his pride this angel turned against his own nature, turned against God.
-This is the snake in the garden, and the chief of all demons (fallen angels or otherwise).
+This is the serpent in the garden, and the chief of all demons (fallen angels or otherwise).
 
 !!! quote "Job 1:6"
     Now there was a day when the sons of God came to present themselves before the LORD, and satan came also among them.
 
-In Job, satan does not necessarily refer to the same serpent in the garden, but only to the role of *accuser*. 
-There are even multiple *satans* in the ancient world, multiple accusers.
+In Job, "satan" does not necessarily refer to the same serpent in the garden, but only to the role of *accuser*. 
+There are multiple *satans* in the Old Testament, multiple accusers.
 And there are even cases of God acting as an accuser (such as to David, or to Israel).
 Over time, the proper noun, Satan, came to be understood as the serpent in the garden, the first spirit to rebel against God.
 While the exact nature of Satan can seem unclear -- *he either pretends to be all powerful or that doesn't even exist* -- what else can we expect from the father of lies?
