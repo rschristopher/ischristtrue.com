@@ -1,4 +1,4 @@
-# Angels, Demons, and Antichrist
+# Angels and Demons
 
 <!--
 Lord Jesus Christ, Son of God
@@ -688,7 +688,7 @@ These beasts, the worldly kings, are the *seeds of the serpent*.
 
 The infamous "mark of the beast", *six-hundred and sixty six*, refers to a worldly (created) nature.
 And the prophetic "mark of the beast" on the hand or forehead is a mockery of the divine seal of the Holy Spirit placed upon newly baptized Christians during their [chrismation](https://orthodoxwiki.org/Chrismation).
-It is a mark of the kingdom of man in a kind of *total totalitarianism*, being cut off from God and completely rejecting the kingdom of God (left with a worldly manifestation of hell, literally, hell on earth).
+It is a mark of the kingdom of man in a kind of *total totalitarianism*, being cut off from God completely (a worldly manifestation of hell, literally, hell on earth).
 
 
 
@@ -726,13 +726,26 @@ And yet in the final days of judgment, Leviathan is slain by Christ and fed to t
 
 #### Behemoth
 
-!!! quote "Job 40:19"
-    He is the chief of the ways of God: he that made him can make his sword to approach unto him.
+Behemoth is the primordial beast of the land, a counterpart to Leviathan, of untamed and uncontrollable nature. 
+Just as Leviathan is the embodiment of the chaotic sea, Behemoth is the embodiment of the land, specifically the *desert wilderness*.
 
+!!! quote "Job 40:23"
+    Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth.
+
+We sometimes find a masculine and feminine duality between Behemoth and Leviathan, creating a beastly yin-yang of opposing tyranny on earth and sea.
 
 !!! quote "1 Enoch 60:7-8"
     And on that day, two monsters will be separated from one another, a female monster whose name is Leviathan, to dwell in the depths of the sea, above the springs of the waters.
-    And the name of the male is Behemoth, who occupies with his breast a desert that cannot be seen, named Dendayn, on the east ofthe Garden where the chosen and the righteous dwell. Where my great-grandfather was received, who was seventh from Adam the first man whom the Lord of Spirits made.
+    And the name of the male is Behemoth, who occupies with his breast a desert that cannot be seen, named Dendayn, on the east of the Garden where the chosen and the righteous dwell. Where my great-grandfather was received, who was seventh from Adam the first man whom the Lord of Spirits made.
+
+Behemoth is a peculiar and sometimes paradoxical image.
+In the ancient world, and specifically before Christ, the desert wilderness of Behemoth was primarily associated with death and the underworld, yet also a holy place.
+The desert was not just a dangerous place with no water, it was the home of evil spirits, rephaim (spirits of the dead), and the like.
+
+We see this in the land of Bashan, east of the Jordan river where the Israelites lived for forty years, and where Christ fasted for forty days and where He was tempted by the devil.
+This is also where Enoch was "received by God".
+Bashan is the desert wilderness of the promised land, the place of Israelite exile, and yet *Bashan* literally means *serpent* and was associated with death and Satan.
+
 
 
 
@@ -741,8 +754,8 @@ And yet in the final days of judgment, Leviathan is slain by Christ and fed to t
 
 #### Ziz
 
-Ziz (זיז‎) is a giant bird, and one of the primordial beasts along with Leviathan and Behemoth.
-The name appears in Psalms although is typically translated as "beast".
+Ziz (זיז‎) is the primordial beast of the air (of the heavens), a giant bird.
+While lesser known than Leviathan and Behemoth, Ziz appears in Psalms although is typically translated as "beast".
 
 !!! quote "Psalms 50:11"
     I know all the birds of the mountains, And the wild beasts (Ziz) of the field are Mine
@@ -750,6 +763,10 @@ The name appears in Psalms although is typically translated as "beast".
 !!! quote "Psalms 80:13"
     The boar out of the wood doth waste it, and the wild beast (Ziz) of the field doth devour it.
 
+Importantly, these primordial beasts have non-overlapping domains; of air (Ziz), of land (Behemoth), and of the sea (Leviathan).
+Notice however that the beasts from Daniel and from Revelation are hybrids of all three primordial beasts, such as a winged leopard coming from the sea. 
+This hybridization denotes both a perversion of God's design and an ungodly dominion over creation (over life and death) by worldly kingdoms.
+This perversion reaches its conclusion in the vision of the antichrist, itself a hybrid of the beasts described in Daniel.
 
 
 
@@ -771,22 +788,6 @@ The name appears in Psalms although is typically translated as "beast".
 
 
 
-----
-
-
-## antichrist
-
-???+ example "[Is it possible to recognize the antichrist?](https://orthochristian.com/92434.html)"
-    <center>![Christ+antichrist](/images/christ-antichrist.jpg)</center>
-
-
-
-
-[patristic understanding](https://orthochristian.com/106805.html) of the antichrist.
-
-
-???+ example "[Preaching of the antichrist](https://en.m.wikipedia.org/wiki/The_Preaching_of_the_Antichrist) -- Luca Signorelli"
-    <center>![antichrist](/images/antichrist.jpg)</center>
 
 
 
