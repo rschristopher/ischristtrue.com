@@ -12,9 +12,9 @@ Have mercy on me, a sinner
 -->
 
 
-The prophecied person and spirit of *antichrist* should be understood in the context of fallen angels and demons, specifically in the triumph of Christ over the demons and over the principalities and powers (fallen angels).
-Christ's kingdom ended the authority of those fallen spirits, and as Christ rules in the midst of His enemies, those enemies tempt and torment mankind, acting as a foil to the kingdom of God -- this inevitably leads to the spirit of *antichrist*.
-I'm other words, the *antichrist* is the only move the devil can play after his defeat.
+The prophecied person and spirit of *antichrist* is best understood in the context of fallen angels and demons, specifically in the triumph of Christ over the demons and over the principalities and powers (fallen angels).
+Christ's kingdom ended the authority of those fallen spirits, and as Christ rules in the midst of His enemies, those enemies tempt and torment mankind, acting as a kind of foil to the kingdom of God -- this inevitably leads to the spirit of *antichrist*.
+In other words, the *antichrist* is the only move the devil can play after his defeat.
 
 Critically, man was under complete subjugation and dominion of Satan.
 Satan tempted Christ with the worldly kingdoms, and importantly: they were his to give.
