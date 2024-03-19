@@ -1,7 +1,18 @@
+# Antichrist
 
-# antichrist
+<!--
+Lord Jesus Christ, Son of God
+Have mercy on me, a sinner
 
-The prophecied person and spirit  of *antichrist* must be understood in the context of fallen angels and demons, specifically in the triumph of Christ over the demons and over the principalities and powers (fallen angels).
+Protect me from the evil one.
+Enlighten my mind and my heart so that your wisdom may be revealed and articulated, all for your glory.
+
+Lord Jesus Christ, Son of God
+Have mercy on me, a sinner 
+-->
+
+
+The prophecied person and spirit of *antichrist* should be understood in the context of fallen angels and demons, specifically in the triumph of Christ over the demons and over the principalities and powers (fallen angels).
 Critically, man was under complete subjugation and dominion of Satan.
 Satan tempted Christ with the worldly kingdoms, and importantly: they were his to give.
 
