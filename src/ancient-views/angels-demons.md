@@ -1,4 +1,4 @@
-# Angels, Demons, and Antichrist
+# Angels and Demons
 
 <!--
 Lord Jesus Christ, Son of God
