@@ -14,6 +14,31 @@ And Joseph traveled with Mary who was 9-months pregnant from Nazareth in Galilee
 
 
 
+### To the Temple
+
+
+!!! quote "Luke 2:21"
+    And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.
+
+It was custom to offer a lamb as a burnt offering, however, as Joseph and Mary could not offer a lamb (due to their poverty) the two young pigeons was offered -- according to the law:
+
+!!! quote "Leviticus 12:8"
+    And if she is not able to bring a lamb, then she may bring two turtledoves or two young pigeons—one as a burnt offering and the other as a sin offering. So the priest shall make atonement for her, and she will be clean.
+
+And at the temple, two prophets witnessed that this was the Mesaiah. The prophetess Anna, and also Simeon, a devout man from Jerusalem.
+The Holy Spirit had revealed to Simeon that he would see the Mesaiah before his death.
+
+!!! quote "Luke 2:28-32"
+    Then took he him up in his arms, and blessed God, and said,
+
+    *Lord, now lettest thou thy servant depart in peace, according to thy word:
+    For mine eyes have seen thy salvation,
+    Which thou hast prepared before the face of all people;
+    A light to lighten the Gentiles, and the glory of thy people Israel.*
+
+
+
+
 ### To the Jews
 
 Outside of Bethlehem there is ancient tower known as Migdal Eder -- *the tower of the flock* -- said to be the site from which the Messiah would be revealed.
@@ -29,24 +54,6 @@ Outside of Bethlehem there is ancient tower known as Migdal Eder -- *the tower o
     Glory to God in the highest, and on earth peace, good will toward men.
 
 And so it was that the birth of the Messiah was announced to the Jews.
-
-
-
-
-### To the Temple
-
-
-!!! quote "Luke 2:21"
-    And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.
-
-!!! quote "Luke 2:29-32"
-    Lord, now lettest thou thy servant depart in peace, according to thy word:
-    
-    For mine eyes have seen thy salvation,
-    
-    Which thou hast prepared before the face of all people;
-    
-    A light to lighten the Gentiles, and the glory of thy people Israel.
 
 
 
@@ -157,7 +164,7 @@ Jesus as the new Moses, the new David, and ultimately the new Adam.
 !!! quote "Matthew 2:22-23"
     But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee: And he came and dwelt in a city called Nazareth: that it might be fulfilled which was spoken by the prophets, He shall be called a Nazarene.
 
-Nazareth of Galilee... the idea of the Messiah coming from such a town would be looked upon with scandal and horror by the rabbis.
+Nazareth in Galilee... the idea of the Messiah coming from such a town would have been looked upon with scandal and horror by the rabbis.
 
 !!! quote "John 1:46"
     And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.
@@ -181,27 +188,13 @@ Very little is written of His childhood...
 
 
 !!! quote "Luke 2:41-51"
-    Now his parents went to Jerusalem every year at the feast of the passover. 
+    His parents went to Jerusalem every year at the Feast of the Passover. And when He was twelve years old, they went up to Jerusalem according to the custom of the feast. When they had finished the days, as they returned, the Boy Jesus lingered behind in Jerusalem. And Joseph and His mother did not know it; but supposing Him to have been in the company, they went a day’s journey, and sought Him among their relatives and acquaintances. So when they did not find Him, they returned to Jerusalem, seeking Him. Now so it was that after three days they found Him in the temple, sitting in the midst of the teachers, both listening to them and asking them questions. 
+
+    And all who heard Him were astonished at His understanding and answers. So when they saw Him, they were amazed; and His mother said to Him, “Son, why have You done this to us? Look, Your father and I have sought You anxiously.”
     
-    And when he was twelve years old, they went up to Jerusalem after the custom of the feast. 
-    
-    And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it. 
-    
-    But they, supposing him to have been in the company, went a day's journey; and they sought him among their kinsfolk and acquaintance. 
-    
-    And when they found him not, they turned back again to Jerusalem, seeking him. 
-    
-    And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions. 
-    
-    And all that heard him were astonished at his understanding and answers. 
-    
-    And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing. 
-    
-    And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father's business? 
-    
-    And they understood not the saying which he spake unto them. 
-    
-    And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart.
+    And He said to them, “Why did you seek Me? Did you not know that I must be about My Father’s business?” But they did not understand the statement which He spoke to them.
+    Then He went down with them and came to Nazareth, and was subject to them, but His mother kept all these things in her heart.
+
 
 
 This child is the *word of God made flesh*.
