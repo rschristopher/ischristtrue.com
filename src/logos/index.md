@@ -4,7 +4,7 @@
     But when the Comforter is come, whom I will send unto you from the Father, even the *Spirit of truth*, which proceedeth from the Father, he shall testify of me: 
     And ye also shall bear witness, because ye have been with me from the beginning.
 
-Traditionally, Logos (Λόγος) is the *Word of God*.
+Logos (Λόγος) means literally the *Word of God*.
 Christ is the *Logos incarnate*, the Word made flesh. 
 More specifically, Christ, the Logos, is the Spirit of Truth revealed.
 
@@ -27,6 +27,11 @@ Even modern
 Truth is transcendent, and knowable through Christ Jesus.
 It was in the person of Christ that knowable objective truth was born, literally, born in Bethlehem.
 The only scholastic invention was the demonic attempt to remove God from truth and epistemology, pretending truth was merely an attribute, a human articulation, rather than the person of Christ.
+
+We cannot separate morality and meaning from truth, in other words, the words of God are true as well as good and meaningful.
+The words of God are truth, morality, and meaning in life.
+And Christ is truth, morality, and meaning -- made flesh.
+He is the literal embodiment of the answer to the fundamental questions of life.
 
 
 
