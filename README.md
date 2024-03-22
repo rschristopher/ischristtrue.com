@@ -17,14 +17,18 @@ Can we know truth?
 
 Catholic vs Orthodox, which is right?
 
-On one hand, they can both be "right" on all the major issues of Christianity yet still be in schism.
+On one hand, they can both be "right" on all the major issues of Christianity yet still be in schism over theological or ecclesiological differences.
 
-Year 1 of the schism, 99.9% of Christians had no idea. Both were still His church. Other than get muddier, does this fact really change over time?
+Year 1 of the schism, 99.9% of Christians had no idea. Entire generations had no idea. And those that did know assumed it would be resolved as prior schisms always were. When you're focused on Christ, the specifics of a temporary schism is not actually all that important. 
 
-One or both of them is in error. It is perhaps wise to look at both as in error, and follow Christ and do as He wills towards your salvation and that of your neighbor's.
+Both are still His church. In fact, necessarily both were His church in the first thousand years. Other than getting muddier over time, did east or west at some point cease being His church?
+Like the prodigal son, there were two sons, both were His sons, even when the younger left to waste his inheritance. He was lost, but he was still his father's son. And importantly, the older son who did not leave, he was rebuked after the prodigal son returned. Ultimately, both some were in error.
 
-Importantly, we as Christians cannot judge the church; truth is not decided by our judgement, but on His revelation and His judgment.
-If "you decide" to be Catholic or Orthodox or protestant or whatever religion, you're choosing nihilism and not Christ. "you" do not determine truth. "you" can only rationalize beliefs. And your beliefs are irrelevant to truth, who is Christ.
+One or both of the churches is necessarily in error. This is true of any schism. And while many schisms resulted in a failed sect, like the many Gnostic or Arian sects, east and west have both survived over a thousand years. It is perhaps wise to look at both as being in error, and follow Christ obediently towards salvation and that of your neighbor's.
+
+Importantly, we as Christians cannot judge His church; truth is not decided by our judgement, but on His revelation and His judgment.
+If "you decide" to be Catholic or Orthodox or protestant or whatever religion, you're choosing nihilism and not Christ. "you" do not determine truth. "you" can only rationalize beliefs. And your beliefs are irrelevant to truth, who is Christ Jesus.
+
 We ought to discern carefully here, and we should proceed cautiously. Our goal is to follow Christ.
 
 Are there heretical innovations that must necessarily be resolved in order to even begin discussing unification between east and west?
@@ -33,7 +37,7 @@ the Catholic answer, is maybe, and we have an instructive case of Eastern Cathol
 
 the Orthodox answer, is yes, absolutely there are many heretical innovations from Rome that must be resolved in order to unify, such as:
 
-filioque, why was it added? what specific heresy is this guarding against? And why did the east not fall into that heresy?  why was it added the way it was added?
+filioque, why was it added? what specific heresy is this guarding against? And why did the east not fall into that heresy without the filioque?  why was it added the way it was added?
 
 papal infallibility? it didn't exist for most of church history, everyone was wrong? what about the innovations of Vatican I, and Vatican II?
 
@@ -46,20 +50,20 @@ The goal is not vain unity, or any kind of unity, the goal is Christ. Do the div
 Do the divisions within Orthodoxy (starting at the great schism) point to Christ?
 The answer, if we're being at all serious, is nuanced, and it's something like: Christ is the spirit of Truth, and He does not hide in darkness nor deceit.
 
-if the Catholics are right, then they have to claim that the east "fell" and is in heresy -- but what did they do? what about them is heretical?
+if the Catholics are right, then they have to claim that the east "fell" and is in heresy -- but what did the east do? what about them is heretical?
 Is it that they became "stuck" in the past? Can that even be a heresy?
 
 Why was there not a protestant reformation in the east?
-Protestantism and its continual disintegration into different sects certainly seems to be the fruits of the scholastic innovations in Rome, fruits were not seen in the east.
+Protestantism and its continuous disintegration into different sects certainly seems to be the fruits of the scholastic innovations in Rome, fruits that were not seen in the east.
 
 Lastly, if the goal is to commune with Christ, to come closer to Christ thru His church, then why innovate? Would not the apostolic tradition be paramount above all else? Why change? 
 And if there is change, is that not a tacit admission that everyone who came before, every saint, was wrong or naive? And wouldn't this necessarily include Peter?
 Would Peter agree with Rome's claim of the infallibility of his teaching as head of the church? Did not Paul rebuke him on his teachings?
-And if infallible, why would that come later? Is the successor to Peter (not in Antioch, only his successor in Rome) only infallible in modern times?
+And if infallible, why would that come later? Is the successor to Peter (not the one in Antioch, only his successor in Rome) only infallible in modern times?
 
 Most important, what heresy is being done by Eastern Orthodox? How are they wrong today yet right in the first thousand years of church history?
 
-It looks an awful lot like Rome is in schism and Eastern Orthodoxy is waiting patiently, "stuck" in the past as it were, waiting and waiting for the prodigal son of Rome to return home.
+It looks an awful lot like Rome is in heresy, in schism from Christ, and Eastern Orthodoxy is waiting patiently, "stuck" in the past as it were, waiting and waiting and waiting for the prodigal son of Rome to return home.
 
 
 
