@@ -59,11 +59,15 @@ Protestantism and its continuous disintegration into different sects certainly s
 Lastly, if the goal is to commune with Christ, to come closer to Christ thru His church, then why innovate? Would not the apostolic tradition be paramount above all else? Why change? 
 And if there is change, is that not a tacit admission that everyone who came before, every saint, was wrong or naive? And wouldn't this necessarily include Peter?
 Would Peter agree with Rome's claim of the infallibility of his teaching as head of the church? Did not Paul rebuke him on his teachings?
-And if infallible, why would that come later? Is the successor to Peter (not the one in Antioch, only his successor in Rome) only infallible in modern times?
+And if infallible, why would that come later? Is the successor to Peter in Rome (not the successor in Antioch) only infallible in modern times?
 
 Most important, what heresy is being done by Eastern Orthodox? How are they wrong today yet right in the first thousand years of church history?
+There are many abuses in east and west, but taking them at their best by their own standard, what is the heresy of Eastern Orthodox?
+And, what exactly is the standard of Rome at its best? Does that standard include innovations that Rome itself would have considered heretical for its first thousand years?
 
-It looks an awful lot like Rome is in heresy, in schism from Christ, and Eastern Orthodoxy is waiting patiently, "stuck" in the past as it were, waiting and waiting and waiting for the prodigal son of Rome to return home.
+All things considered, it looks an awful lot like Rome is in heresy, in schism from Christ, and Eastern Orthodoxy is waiting patiently, "stuck" in the past as it were, waiting and waiting and waiting for the prodigal son of Rome to return home. 
+
+Or perhaps, Orthodox are like the older son to the prodigal son, and as such they will receive the Father's rebuke.
 
 
 
