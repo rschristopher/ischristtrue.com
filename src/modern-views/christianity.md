@@ -79,7 +79,7 @@ This may be difficult for many modern Christians and modern churches, but if we 
 ## They Followed Him
 
 We are not the first generation to be so lost. 
-All before Christ were lost in darkness, subject to principalities and powers, holding desperately to prophetic hope. And look how they followed when He called,
+The generations before Christ were lost in darkness, subject to principalities and powers, holding desperately to prophetic hope. And look how they followed when He called,
 
 !!! quote "Matthew 4:18-22"
     And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
