@@ -1,4 +1,4 @@
-p# Schisms
+# Schisms
 
 <!--
 Lord Jesus Christ
@@ -180,22 +180,22 @@ The Catholic answer, is maybe, and we have an instructive case of [Eastern Catho
 The Orthodox answer, is yes, absolutely there are many heretical innovations from Rome that must be resolved in order to unify, such as:
 
 * filioque -- why was it added? What specific heresy is this guarding against? And why did the east not fall into that heresy without the filioque? Why was it added the way it was added?
-* papal infallibility -- it did not exist for most of church history, was everyone wrong? what about the innovations of Vatican I, and Vatican II?
+* papal supremacy and infallibility -- it did not exist for most of church history, was everyone wrong? what about the innovations of Vatican I, and Vatican II?
 
 From a Roman Catholic perspective, what would need to change about the Orthodox churches for them to unify? We can look at Eastern Catholics to get an idea. Not much changes, but they must grant authority to the pope.
-Unification according to Roman Catholicism is thus not about Christ, but about the pope.
+Unification according to Roman Catholicism is thus not about Christ, but about the authority of the pope.
 
-Would Peter agree with Rome's claim of the infallibility of his teaching as head of the church? 
+Would the apostle Peter agree with the Roman Catholic claim of the infallibility of the pope's teaching as head of the church? 
 Did not Paul once rebuke Peter? 
 Did not Christ himself rebuke Peter many times?
 
-And if infallible, why would that come in [AD 1870](https://en.m.wikipedia.org/wiki/Papal_infallibility)? Is the successor to Peter only infallible in modern times?
+And if infallible, why would that come in [AD 1870](https://en.m.wikipedia.org/wiki/Papal_infallibility)? Why is the successor to Peter only infallible in modern times?
 
-Peter also founded the church in Antioch, which is today an Orthodox Church. Is Peter's successor in Antioch also infallible?
-Why is the infallible "vicar of Christ" the successor of the remnant of the fallen western Roman empire, and not of the east?
+Peter also founded the church in Antioch, which is an Orthodox Church. Is Peter's successor in Antioch also infallible?
+Why is the infallible "vicar of Christ" the successor of a remnant of the fallen western Roman empire, and not of the east?
 
 There was no infallible "vicar of Christ" in the *one holy catholic and apostolic church*, and it is very clear that these are innovations and deviations from tradition.
-And yet, like the prodigal son, this is still His church, even if that church is wasting its inheritance.
+And yet, like the prodigal son, this is still Christ's church, even if that church is wasting its inheritance.
 
 
 
