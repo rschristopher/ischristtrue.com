@@ -8,7 +8,13 @@ Have mercy on me, a sinner
 Lord, guide me, reveal for me Truth and grant me wisdom and insight in order to articulate Truth, so that His name may be praised through these pages 
 -->
 
+A *schism* is simply a split in a religious or political organization. And in order to understand the shallow worldliness of [modern Christianity](christianity.md) it can be instructive to understand the historic and ongoing schisms within Christianity.
 
+In other words, how did we get here? And how do we discern the truth that is Christ Jesus?
+
+
+
+## Brief History 
 
 There were many 
  [schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) in early Christianity, usually from heretical movements that broke away from the church.
@@ -20,33 +26,34 @@ These heresies were often the impetus for ecumenical councils.
 However, in 1054 the
  [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism)
  split East and West Christendom.
-Importantly, for over a thousand years Christianity remained a unified worldview and is what we mean by *Orthodox Christianity*.
+Importantly, for over a thousand years Christianity remained a unified worldview and is what is meant by *Orthodox Christianity*.
 Perhaps unsurprisingly, the great schism fell roughly along the boundaries of the historic East and West Roman Empire.
 
 !!! info "East and West"
-    As Christianity spread into the Roman empire, it became divided between East and West (first by [Diocletian](https://www.worldhistory.org/Diocletian/), and later was temporarily reunited by [Constantine](https://www.worldhistory.org/Constantine_I/) who converted to Christianity and moved the capital away from old Rome and into [Byzantium](https://www.worldhistory.org/Byzantium/) which would later be renamed [Constantinople](https://www.worldhistory.org/Constantinople/). 
+    As Christianity spread into the Roman empire, it became divided between East and West (first by [Diocletian](https://www.worldhistory.org/Diocletian/), and later the empire was temporarily reunited by [Constantine](https://www.worldhistory.org/Constantine_I/) who converted to Christianity and moved the capital away from old Rome and into [Byzantium](https://www.worldhistory.org/Byzantium/) which would later be renamed [Constantinople](https://www.worldhistory.org/Constantinople/). 
     
-    This began the [Byzantine Empire](https://www.worldhistory.org/Byzantine_Empire/) which would continue the Roman empire (now as a Christian empire) for over a thousand years (the longest living empire in the history of the world).
+    Eastern Rome became known as the [Byzantine Empire](https://www.worldhistory.org/Byzantine_Empire/) which would continue the Roman empire (now as a Christian empire) for over a thousand years (the longest living empire in the history of the world).
     <center>![east-west-rome](/images/east-west-rome.jpg)</center>
 
-    Prior to the great schism, the western remnants of the Roman empire would unite into the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and by 1054 the east and west [excommunicated each other](https://www.britannica.com/event/East-West-Schism-1054).
+    Prior to the great schism, the western remnants of the fallen Western Rome would unite into the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and by 1054 the east and west [officially](https://www.britannica.com/event/East-West-Schism-1054) excommunicated each other.
     <center>![east-west-1054](/images/east-west-1054.jpg)</center>
 
 
 Later, in the 16th century the
- [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) started a continuous splintering in the Holy Roman Empire.
-Despite theological objections, the protestant reformation was mostly along ethnic lines, succeeding in northern Europe (England, Germany, Netherlands, etc), with a few exceptions (such as Ireland which stayed Catholic).
+ [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) started a continuous splintering within the decaying Holy Roman Empire.
+Despite theological objections, the protestant reformation was mostly along ethnic lines, succeeding in northern Europe (England, Germany, Netherlands, etc) with a notable exception of Ireland which stayed Catholic.
 This left the Roman Catholic Church dominant in southern Europe, notably within the boundaries of the romance languages (Italy, France, Spain, Portugal).
 
 !!! info "Reformation Schisms"
     <center>![east-west-prot](/images/east-west-prot.jpg)</center>
 
-Along these lines, Roman Catholicism spread into Central and South America (colonies from Spain and Portugal), whereas Protestantism spread into North America (immigrants from northern Europe).
-In fact many of the early settlers into the colonies were escaping religious persecution (such as the various [anabaptist](https://en.m.wikipedia.org/wiki/Anabaptism) sects).
+Along these schismatic lines, Roman Catholicism spread into Central and South America (colonies from Spain and Portugal), whereas Protestantism spread into North America (immigrants from northern Europe).
+In fact many of the early settlers into the north-American colonies were escaping religious persecution (such as the various [anabaptist](https://en.m.wikipedia.org/wiki/Anabaptism) sects).
 
-The splintering of protestantism continued into the modern age such that there are now tens of thousands of different sects.
-A modern protestant is likely to experience a schism even at their own local church, which are often anchored only by a specific pastor.
-It's important to understand that this is a continuation of the great schism and feeds into the continuous destructive revolutions that is our [modern worldview](index.md).
+This splintering of protestantism never ceased and continues now into our modern age. 
+There are now tens of thousands of different "Christian" sects.
+In fact, a modern protestant is likely to experience a schism even at their own local church, which are usually anchored only by a popular pastor.
+It's important to understand that this splintering is a continuation of the great schism of 1054 and feeds into the continuous destructive revolutions of our [modern worldview](index.md).
 
 
 !!! info "Timeline of Major Schisms"
@@ -54,26 +61,27 @@ It's important to understand that this is a continuation of the great schism and
 
 
 
+## Seeking Truth
 
-When someone says they are a Christian, what does that even mean?
+In the midst of these continuous schisms, when someone says they are a Christian, what does that even mean?
 
 As atheists are want to point out, it is as if the so-called "Christians" are arbitrarily picking and choosing passages from scriptures that adhere to their 
  [modern](index.md) secular worldview.
 In other words, is it Christ or antichrist that we are following?
 
-*One holy catholic and apostolic church* became many: protestant, Roman Catholic, and Orthodox churches.
+*One holy catholic and apostolic church* has ostensibly become many: protestant, Roman Catholic, and Orthodox churches.
 How does one find Truth in this chaos?
 
-On one hand, many protestants, Roman Catholics, and Orthodox agree on all the major issues of Christianity yet are in schism over theological and ecclesiological disagreements.
+On one hand, many protestants, Roman Catholics, and Orthodox agree completely on all the major issues of Christianity, yet are in schism over theological and ecclesiological disagreements.
 
 The *mere Christianity* approach by C.S. Lewis is popular amongst mainline protestants, but this doesn't quite help an honest Truth seeker.
-If we choose whichever sect we "feel" is right we are giving in to self-worship and nihilism.
+If we choose whichever sect we "feel" is right are we not giving in to self-worship and nihilism?
 Truth is not found in our judgment, but in Christ.
 
 !!! quote "John 6:68"
     Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.
 
-If we are honest, we cannot go with any protestant church, doing so puts ourselves as judge over Christ.
+If we are honest, we cannot go with any protestant church, doing so puts ourselves as judge over Christ and His words.
 We must seek the *one holy catholic and apostolic church*.
 This leaves Roman Catholicism and Orthodox.
 
