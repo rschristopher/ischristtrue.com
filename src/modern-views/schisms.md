@@ -24,19 +24,29 @@ Importantly, for over a thousand years Christianity remained a unified worldview
 Perhaps unsurprisingly, the great schism fell roughly along the boundaries of the historic East and West Roman Empire.
 
 !!! info "East and West"
-    ...
+    As Christianity spread into the Roman empire, it became divided between East and West (first by [Diocletian](https://www.worldhistory.org/Diocletian/), and later was temporarily reunited by [Constantine](https://www.worldhistory.org/Constantine_I/) who converted to Christianity and moved the capital away from old Rome and into [Byzantium](https://www.worldhistory.org/Byzantium/) which would later be renamed [Constantinople](https://www.worldhistory.org/Constantinople/). 
+    
+    This began the [Byzantine Empire](https://www.worldhistory.org/Byzantine_Empire/) which would continue the Roman empire (now as a Christian empire) for over a thousand years (the longest living empire in the history of the world).
+    <center>![east-west-rome](/images/east-west-rome.jpg)</center>
+
+    Prior to the great schism, the western remnants of the Roman empire would unite into the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and by 1054 the east and west [excommunicated each other](https://www.britannica.com/event/East-West-Schism-1054).
+    <center>![east-west-1054](/images/east-west-1054.jpg)</center>
 
 
 Later, in the 16th century the
- [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) started a continuous splintering in the west.
-Despite theological arguments and objections, the protestant reformation was mostly along ethnic lines, succeeding in northern Europe (England, Germany, Netherlands, etc), with a few exceptions (such as Ireland which stayed Catholic).
+ [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) started a continuous splintering in the Holy Roman Empire.
+Despite theological objections, the protestant reformation was mostly along ethnic lines, succeeding in northern Europe (England, Germany, Netherlands, etc), with a few exceptions (such as Ireland which stayed Catholic).
 This left the Roman Catholic Church dominant in southern Europe, notably within the boundaries of the romance languages (Italy, France, Spain, Portugal).
 
-As such, Catholicism spread into Central and South America (colonies from Spain and Portugal), whereas Protestantism spread into North America (immigrants from northern Europe).
+!!! info "Reformation Schisms"
+    <center>![east-west-prot](/images/east-west-prot.jpg)</center>
+
+Along these lines, Roman Catholicism spread into Central and South America (colonies from Spain and Portugal), whereas Protestantism spread into North America (immigrants from northern Europe).
 In fact many of the early settlers into the colonies were escaping religious persecution (such as the various [anabaptist](https://en.m.wikipedia.org/wiki/Anabaptism) sects).
 
-The splintering of protestantism continued such that there are now tens of thousands of different sects.
-A modern protestant is likely to experience a schism at their own local church, which are often anchored only by a specific pastor.
+The splintering of protestantism continued into the modern age such that there are now tens of thousands of different sects.
+A modern protestant is likely to experience a schism even at their own local church, which are often anchored only by a specific pastor.
+It's important to understand that this is a continuation of the great schism and feeds into the continuous destructive revolutions that is our [modern worldview](index.md).
 
 
 !!! info "Timeline of Major Schisms"
