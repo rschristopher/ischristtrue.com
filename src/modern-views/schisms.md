@@ -47,7 +47,7 @@ Perhaps unsurprisingly, the *great schism* fell roughly along the boundaries of 
 
 
 Later, in the 16th century the
- [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) started a continuous splintering within the decaying Holy Roman Empire.
+ [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) started a process of continuous schisms within the decaying Holy Roman Empire.
 Despite specific theological objections, the protestant reformation was mostly along ethnic lines, succeeding in northern Europe (England, Germany, Netherlands, etc) with a notable exception of Ireland which stayed Catholic.
 This left the Roman Catholic Church dominant in southern Europe, notably within the boundaries of the romance languages (Italy, France, Spain, Portugal).
 
