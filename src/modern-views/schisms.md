@@ -5,19 +5,43 @@ Lord Jesus Christ
 Son of God
 Have mercy on me, a sinner
 
-Lord, guide me, reveal for me Truth and grant me wisdom and insight in order to articulate Truth, so that His name may be praised 
+Lord, guide me, reveal for me Truth and grant me wisdom and insight in order to articulate Truth, so that His name may be praised through these pages 
 -->
 
-A *schism* is a split in a religious organization, usually a church.
+
+
 There were many 
- [schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) in early Christianity, usually heretical movements that didn't last more than a single generation.
+ [schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) in early Christianity, usually from heretical movements that broke away from the church.
+Interestingly, these typically didn't last more than a single generation, and were the impetus for ecumenical councils.
+
+!!! example "early schisms"
+    ...
+
 However, in 1054 the
   [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism),
-  split East and West Christendom.
+  split East and West Christendom. Interestingly, the great schism fell along the boundaries of the east and west Roman Empire.
+
+!!! info "East and West"
+    ...
+
+
+In the 16th century the
+ [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) led to a continuous splintering in the west.
+Despite the strong theological claims, the protestant reformation was mostly along ethnic lines, succeeding in northern Europe (England, Germany, Netherlands, etc).
+This left the Roman Catholic Church in southern Europe, notably in the boundaries of the romance languages (Italy, France, Spain).
+
+Protestantism dominated into North America, mostly along these ethnic lines (immigrants from northern Europe).
+The splintering of protestantism continued such that there are now tens of thousands of different denominations.
+In fact a modern protestant is likely to experience a schism at their own church, which are often anchored only by a specific pastor.
+
+Today, when someone says they are a Christian, what does that mean?
+
+They may not even believe in the trinity, nor in the resurrection of Christ.
+As atheists are want to point out, it is as if these so-called "Christians" are arbitrarily picking and choosing passages from scriptures that adhere to their 
+ [modern worldview](index.md).
 
 *One holy catholic and apostolic church* became two, Roman Catholics in the west, and Orthodox in the east.
-And in the 16th century the
- [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) led to tens of thousands of schisms such that a modern Christian is likely to experience a schism at their church.
+
 
 from tradition to nihilism
 
