@@ -150,7 +150,7 @@ The historic grounds for Roman Catholicism as *the one holy catholic and apostol
 This was not always the case, prior to the great schism there was *one holy catholic and apostolic church* in both the East and the West.
 There is a thousand years of historical evidence, ecumenical councils, church fathers, and even pagan Roman history attesting to the persecution of these unified Christians.
 
-In fact, in year 1 of the great schism, most all Christians had no idea there even was a schism. Even afterwards, entire generations had no idea. And those that did know assumed it would be resolved as [prior schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) always were. 
+In fact, immediately after the great schism, most all Christians had no idea there even was a schism. Even afterwards, entire generations had no idea. And those that did know assumed it would be resolved as [prior schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) always were. 
 When you're focused on Christ, the specifics of a temporary schism motivated by worldly empires is not actually all that important. 
 
 Because of this, we must concede that despite questionable historicity, modern Catholicism has a strong claim to be the original church. In fact, necessarily both east and west were Christ's church in the first thousand years. Other than getting muddier over time, did east or west at some point cease being His church?
