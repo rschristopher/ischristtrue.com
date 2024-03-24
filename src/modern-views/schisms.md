@@ -109,11 +109,11 @@ Truth is not found in our judgment, but in Christ.
 !!! quote "John 6:68"
     Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.
 
-If we are honest, we cannot go with any protestant church as being *one holy catholic and apostolic church*, to do otherwise and claim an "invisible church" puts ourselves as judge over Christ and His words.
+If we are honest, we cannot consider any protestant church as being the *one holy catholic and apostolic church*, to do otherwise or claim an "invisible church" puts ourselves as judge over Christ and His words.
 
 And perhaps the most troubling aspect of modern protestantism is the continued schisms.
 In a protestant worldview, my own personal interpretation of scripture is as valid as any.
-This is expected withim a secular worldview, but this is to turn our back on Christ Himself.
+This is encouraged within a secular worldview, but this is to turn our back on Christ Himself.
 
 And even if you were to find a pious protestant church, how long till that church falls into blatant heresy?
 How many churches today have founders that would war against their modern members? Remember that the reformers would put to death anabaptists, and yet today "believers baptism" has become the norm in many reformed churches.
