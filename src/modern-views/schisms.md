@@ -86,7 +86,8 @@ As atheists are want to point out, it is as if the so-called "Christians" are ar
 In other words, is it Christ or antichrist that we are following?
 
 *One holy catholic and apostolic church* has ostensibly become many: protestant, Roman Catholic, and Orthodox churches.
-How does one find Truth in this chaos?
+
+How does one find Truth in this chaos? How does one find the *one holy catholic and apostolic church*?
 
 
 
