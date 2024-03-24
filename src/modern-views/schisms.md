@@ -229,7 +229,7 @@ Lastly, if the goal is to commune with Christ, to come closer to Christ through 
 
 And if there was necessary change, is that not a tacit admission that everyone who came before, every saint, was wrong or naive? And wouldn't this necessarily include Peter?
 
-Most important, what heresy is being done by Eastern Orthodox? How are they wrong today yet were right in the first thousand years of church history?
+Most important, what heresy is being done by Eastern Orthodoxy? How are they wrong today yet were right in the first thousand years of church history?
 
 All things considered, it looks an awful lot like Rome is in heresy, in schism from Christ's Church, and Eastern Orthodoxy is waiting patiently, "stuck" in the past as it were, waiting and waiting and waiting for the prodigal son of Rome to return to the Father. 
 
