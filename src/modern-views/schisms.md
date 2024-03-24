@@ -101,7 +101,7 @@ How does one find Truth in this chaos? How does one find the *one holy catholic 
 
 ### Protestantism 
 
-On one hand, most Christians agree completely on all the major issues of Christianity and are only in schism over some theological and ecclesiological disagreements.
+Most Christians agree completely on the major issues of Christianity and are only in schism over some theological and ecclesiological disagreements.
 This *mere Christianity* approach by C.S. Lewis is popular amongst mainline protestants, but this doesn't quite help an honest Truth seeker.
 If we choose whichever protestant church we "feel" is right are we not giving in to self-worship and nihilism?
 Truth is not found in our judgment, but in Christ.
