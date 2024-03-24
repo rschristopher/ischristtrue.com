@@ -83,9 +83,9 @@ How does one find Truth in this chaos?
 
 
 
-### Mere Christianity?
+### Protestantism 
 
-On one hand, most Christians agree completely on all the major issues of Christianity, and are only in schism over some theological and ecclesiological disagreements.
+On one hand, most Christians agree completely on all the major issues of Christianity and are only in schism over some theological and ecclesiological disagreements.
 This *mere Christianity* approach by C.S. Lewis is popular amongst mainline protestants, but this doesn't quite help an honest Truth seeker.
 If we choose whichever protestant church we "feel" is right are we not giving in to self-worship and nihilism?
 Truth is not found in our judgment, but in Christ.
@@ -99,28 +99,32 @@ And perhaps the most troubling aspect of modern protestantism is the continued s
 In a protestant worldview, my own personal interpretation of scripture is as valid as any.
 This is fine for a secular worldview, but this is to turn our back on Christ Himself.
 
-And even if you were to find a "perfect" protestant church, how long till that church falls into heresy?
-How many churches today had founders that would war against their modern members? Remember that many reformers would put to death anabaptists, and yet today "believers baptism" has become the norm in many reformed churches.
+And even if you were to find a pious protestant church, how long till that church falls into blatant heresy?
+How many churches today have founders that would war against their modern members? Remember that the reformers would put to death anabaptists, and yet today "believers baptism" has become the norm in many reformed churches.
 
 We must seek the *one holy catholic and apostolic church*.
-This leaves Roman Catholicism and Orthodox.
 
 
 
 
 
-### Apostolic Tradition?
+### Catholicism
 
-In year 1 of the great schism, 99.9% of Christians had no idea there was a schism. Even afterwards, entire generations had no idea. And those that did know assumed it would be resolved as [prior schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) always were. When you're focused on Christ, the specifics of a temporary schism is not actually all that important. 
+The word *catholic* simply means *universal*, and note that the [creed](https://en.m.wikipedia.org/wiki/Nicene_Creed) refers to *one holy catholic and apostolic church*.
+Modern Catholicism refers specifically to the presumed authority of the former Holy Roman Empire.
 
-Because of this, we must concede that both east and west have a strong claim to be the original church. In fact, necessarily both were Christ's church in the first thousand years. Other than getting muddier over time, did east or west at some point cease being His church?
+This was not always the case, prior to the great schism there was *one holy catholic and apostolic church* in both east and west.
+
+In fact, in year 1 of the great schism, most all Christians had no idea there was a schism. Even afterwards, entire generations had no idea. And those that did know assumed it would be resolved as [prior schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) always were. When you're focused on Christ, the specifics of a temporary schism is not actually all that important. 
+
+Because of this, we must concede that both modern Catholicism has a strong claim to be the original church. In fact, necessarily both east and west were Christ's church in the first thousand years. Other than getting muddier over time, did east or west at some point cease being His church?
 
 Like the prodigal son, there were two sons, both were His sons, even when the younger left to waste his inheritance. He was lost, but he was still his father's son. And importantly, the older son who did not leave, he was rebuked after the prodigal son returned. Ultimately, both sons were in error.
 
 One or both sides of the great schism is necessarily in error. This is true of any schism. And while many schisms resulted in a failed sect, like the many Gnostic or Arian sects, East and West have both survived over a thousand years while in schism. They both are the remnants of long-lived empires, and both empires have fallen. It is perhaps wise to look at both as being in error, and follow Christ obediently towards salvation.
 
 Importantly, we as Christians cannot judge His church; truth is not decided by our judgement, but on His revelation and His judgment.
-If "you decide" to be Catholic or Orthodox or protestant, you're choosing nihilism and not Christ. 
+If "you" decide to be Catholic or Orthodox or protestant, you're choosing nihilism and not Christ. 
 
 "you" do not determine truth. 
 
@@ -140,7 +144,22 @@ The Orthodox answer, is yes, absolutely there are many heretical innovations fro
 * papal infallibility -- it did not exist for most of church history, was everyone wrong? what about the innovations of Vatican I, and Vatican II?
 
 From a Catholic perspective, what would need to change about the Orthodox churches for them to unify? We can look at Eastern Catholics to get an idea. Not much changes, but they must grant authority to the pope.
-It is thus not about Christ, but about the pope.
+Unification according to Roman Catholicism is thus not about Christ, but about the pope.
+
+
+Would Peter agree with Rome's claim of the infallibility of his teaching as head of the church? 
+Did not Paul once rebuke Peter? 
+Did not Christ himself rebuke Peter many times?
+
+And if infallible, why would that come later? Is the successor to Peter only infallible in modern times?
+
+Peter also founded the church at Antioch, which is today an Orthodox Church. Is Peter's successor in Antioch infallible?
+Why only the successor in western Rome after it's collapse, is considered infallible?
+
+
+
+
+### Orthodoxy
 
 When Orthodox churches fall out of communion with each other, it is not hidden or resolved by a pope, and they unify after differences are resolved, and often with a deeper articulation of Christian faith.
 The schisms are ultimately a good and necessary feature of the church, the means to make public all differences that must be resolved before communion.
@@ -159,15 +178,9 @@ Protestantism and its continuous disintegration into different sects certainly s
 
 Lastly, if the goal is to commune with Christ, to come closer to Christ through His church, then why innovate? Would not the apostolic tradition be paramount above all else? Why change? 
 
-And if there is change, is that not a tacit admission that everyone who came before, every saint, was wrong or naive? And wouldn't this necessarily include Peter?
+And if there was necessary change, is that not a tacit admission that everyone who came before, every saint, was wrong or naive? And wouldn't this necessarily include Peter?
 
-Would Peter agree with Rome's claim of the infallibility of his teaching as head of the church? 
-Did not Paul once rebuke Peter? 
-Did not Christ himself rebuke Peter many times?
 
-And if infallible, why would that come later? Is the successor to Peter only infallible in modern times?
-Peter also founded the church at Antioch, is Peter's successor in Antioch infallible?
-Why only the successor in Rome is considered infallible?
 
 Most important, what heresy is being done by Eastern Orthodox? How are they wrong today yet were right in the first thousand years of church history?
 
