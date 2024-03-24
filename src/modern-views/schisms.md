@@ -28,12 +28,21 @@ Perhaps unsurprisingly, the great schism fell roughly along the boundaries of th
 
 Later, in the 16th century the
  [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) started a continuous splintering in the west.
-Despite theological arguments and objections, the protestant reformation was mostly along ethnic lines, succeeding in northern Europe (England, Germany, Netherlands, etc), with a few exceptions (such as Ireland).
+Despite theological arguments and objections, the protestant reformation was mostly along ethnic lines, succeeding in northern Europe (England, Germany, Netherlands, etc), with a few exceptions (such as Ireland which stayed Catholic).
 This left the Roman Catholic Church dominant in southern Europe, notably within the boundaries of the romance languages (Italy, France, Spain, Portugal).
 
 As such, Catholicism spread into Central and South America (colonies from Spain and Portugal), whereas Protestantism spread into North America (immigrants from northern Europe).
+In fact many of the early settlers into the colonies were escaping religious persecution (such as the various [anabaptist](https://en.m.wikipedia.org/wiki/Anabaptism) sects).
+
 The splintering of protestantism continued such that there are now tens of thousands of different sects.
-A modern protestant is likely to experience a schism at their own church, which are often anchored only by a specific pastor.
+A modern protestant is likely to experience a schism at their own local church, which are often anchored only by a specific pastor.
+
+
+!!! info "Timeline of Major Schisms"
+    <center>![timeline-church](/images/timeline-church.jpg)</center>
+
+
+
 
 When someone says they are a Christian, what does that even mean?
 
