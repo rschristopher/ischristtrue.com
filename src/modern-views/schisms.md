@@ -34,10 +34,10 @@ However, in 1054 the
  [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism)
  split East and West Christendom.
 Importantly, for over a thousand years Christianity remained a unified worldview and is what is meant by *Orthodox Christianity*.
-Perhaps unsurprisingly, the *great schism* fell roughly along the boundaries of the historic East and West Roman Empire.
+Perhaps unsurprisingly, the *great schism* fell roughly along the boundaries of the historic Eastern and Western Roman Empire.
 
 !!! info "East and West"
-    As Christianity spread into the Roman empire, it became divided between East and West (first by [Diocletian](https://www.worldhistory.org/Diocletian/), and later the empire was temporarily reunited by [Constantine](https://www.worldhistory.org/Constantine_I/) who converted to Christianity and moved the capital away from old Rome and into [Byzantium](https://www.worldhistory.org/Byzantium/) which would later be renamed [Constantinople](https://www.worldhistory.org/Constantinople/). 
+    As Christianity spread into the world, the Roman empire was divided between East and West (first by [Diocletian](https://www.worldhistory.org/Diocletian/)), and later the empire was temporarily reunited by [Constantine](https://www.worldhistory.org/Constantine_I/) who converted to Christianity and moved the capital away from old Rome and into [Byzantium](https://www.worldhistory.org/Byzantium/) which would later be renamed [Constantinople](https://www.worldhistory.org/Constantinople/). 
     
     Eastern Rome became known as the [Byzantine Empire](https://www.worldhistory.org/Byzantine_Empire/) which would continue the Roman empire (now as a Christian empire) for over a thousand years (the longest living empire in the history of the world).
     <center>![east-west-rome](/images/east-west-rome.jpg)</center>
