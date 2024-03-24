@@ -12,7 +12,7 @@ Lord, guide me, reveal for me Truth and grant me wisdom and insight in order to 
 
 There were many 
  [schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) in early Christianity, usually from heretical movements that broke away from the church.
-Interestingly, these typically didn't last more than a generation, and were often the impetus for ecumenical councils.
+These heresies were often the impetus for ecumenical councils.
 
 !!! example "early schisms"
     ...
