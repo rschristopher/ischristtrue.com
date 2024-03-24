@@ -4,19 +4,20 @@
 Lord Jesus Christ
 Son of God
 Have mercy on me, a sinner
+
+Lord, guide me, reveal for me Truth and grant me wisdom and insight in order to articulate Truth, so that His name may be praised 
 -->
 
 A *schism* is a split in a religious organization, usually a church.
 There were many 
  [schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) in early Christianity, usually heretical movements that didn't last more than a single generation.
-However, in 1054 there started the
+However, in 1054 the
   [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism),
-  which split East and West Christendom.
+  split East and West Christendom.
 
-*One holy catholic and apostolic church* became two, Roman Catholics in the west, and Eastern Orthodox in the east.
-
-
-protestant reformation
+*One holy catholic and apostolic church* became two, Roman Catholics in the west, and Orthodox in the east.
+And in the 16th century the
+ [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) led to tens of thousands of schisms such that a modern Christian is likely to experience a schism at their church.
 
 from tradition to nihilism
 
@@ -25,6 +26,17 @@ from tradition to nihilism
 
 
 
+
+## Why not protestantism?
+
+
+
+
+
+
+
+
+## Why not Catholicism?
 
 Catholic vs Orthodox, which is right?
 
