@@ -27,7 +27,7 @@ However, in 1054 the
  [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism)
  split East and West Christendom.
 Importantly, for over a thousand years Christianity remained a unified worldview and is what is meant by *Orthodox Christianity*.
-Perhaps unsurprisingly, the great schism fell roughly along the boundaries of the historic East and West Roman Empire.
+Perhaps unsurprisingly, the *great schism* fell roughly along the boundaries of the historic East and West Roman Empire.
 
 !!! info "East and West"
     As Christianity spread into the Roman empire, it became divided between East and West (first by [Diocletian](https://www.worldhistory.org/Diocletian/), and later the empire was temporarily reunited by [Constantine](https://www.worldhistory.org/Constantine_I/) who converted to Christianity and moved the capital away from old Rome and into [Byzantium](https://www.worldhistory.org/Byzantium/) which would later be renamed [Constantinople](https://www.worldhistory.org/Constantinople/). 
@@ -41,7 +41,7 @@ Perhaps unsurprisingly, the great schism fell roughly along the boundaries of th
 
 Later, in the 16th century the
  [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) started a continuous splintering within the decaying Holy Roman Empire.
-Despite theological objections, the protestant reformation was mostly along ethnic lines, succeeding in northern Europe (England, Germany, Netherlands, etc) with a notable exception of Ireland which stayed Catholic.
+Despite specific theological objections, the protestant reformation was mostly along ethnic lines, succeeding in northern Europe (England, Germany, Netherlands, etc) with a notable exception of Ireland which stayed Catholic.
 This left the Roman Catholic Church dominant in southern Europe, notably within the boundaries of the romance languages (Italy, France, Spain, Portugal).
 
 !!! info "Reformation Schisms"
@@ -61,6 +61,11 @@ It's important to understand that this splintering is a continuation of the grea
 
 
 
+
+
+
+
+
 ## Seeking Truth
 
 In the midst of these continuous schisms, when someone says they are a Christian, what does that even mean?
@@ -72,31 +77,50 @@ In other words, is it Christ or antichrist that we are following?
 *One holy catholic and apostolic church* has ostensibly become many: protestant, Roman Catholic, and Orthodox churches.
 How does one find Truth in this chaos?
 
-On one hand, many protestants, Roman Catholics, and Orthodox agree completely on all the major issues of Christianity, yet are in schism over theological and ecclesiological disagreements.
 
-The *mere Christianity* approach by C.S. Lewis is popular amongst mainline protestants, but this doesn't quite help an honest Truth seeker.
-If we choose whichever sect we "feel" is right are we not giving in to self-worship and nihilism?
+
+
+
+
+
+### Mere Christianity?
+
+On one hand, most Christians agree completely on all the major issues of Christianity, and are only in schism over some theological and ecclesiological disagreements.
+This *mere Christianity* approach by C.S. Lewis is popular amongst mainline protestants, but this doesn't quite help an honest Truth seeker.
+If we choose whichever protestant church we "feel" is right are we not giving in to self-worship and nihilism?
 Truth is not found in our judgment, but in Christ.
 
 !!! quote "John 6:68"
     Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.
 
 If we are honest, we cannot go with any protestant church, doing so puts ourselves as judge over Christ and His words.
+
+And perhaps the most troubling aspect of modern protestantism is the continued schisms.
+In a protestant worldview, my own personal interpretation of scripture is as valid as any.
+This is fine for a secular worldview, but this is to turn our back on Christ Himself.
+
+And even if you were to find a "perfect" protestant church, how long till that church falls into heresy?
+How many churches today had founders that would war against their modern members? Remember that many reformers would put to death anabaptists, and yet today "believers baptism" has become the norm in many reformed churches.
+
 We must seek the *one holy catholic and apostolic church*.
 This leaves Roman Catholicism and Orthodox.
 
 
 
+
+
+### Apostolic Tradition?
+
 In year 1 of the great schism, 99.9% of Christians had no idea there was a schism. Even afterwards, entire generations had no idea. And those that did know assumed it would be resolved as [prior schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) always were. When you're focused on Christ, the specifics of a temporary schism is not actually all that important. 
 
-Because of this, we must concede that both are still His church. In fact, necessarily both were His church in the first thousand years. Other than getting muddier over time, did east or west at some point cease being His church?
+Because of this, we must concede that both east and west have a strong claim to be the original church. In fact, necessarily both were Christ's church in the first thousand years. Other than getting muddier over time, did east or west at some point cease being His church?
 
 Like the prodigal son, there were two sons, both were His sons, even when the younger left to waste his inheritance. He was lost, but he was still his father's son. And importantly, the older son who did not leave, he was rebuked after the prodigal son returned. Ultimately, both sons were in error.
 
-One or both of the churches is necessarily in error. This is true of any schism. And while many schisms resulted in a failed sect, like the many Gnostic or Arian sects, East and West have both survived over a thousand years in schism. It is perhaps wise to look at both as being in error, and follow Christ obediently towards salvation.
+One or both sides of the great schism is necessarily in error. This is true of any schism. And while many schisms resulted in a failed sect, like the many Gnostic or Arian sects, East and West have both survived over a thousand years while in schism. They both are the remnants of long-lived empires, and both empires have fallen. It is perhaps wise to look at both as being in error, and follow Christ obediently towards salvation.
 
 Importantly, we as Christians cannot judge His church; truth is not decided by our judgement, but on His revelation and His judgment.
-If "you decide" to be Catholic or Orthodox or protestant or whatever religion, you're choosing nihilism and not Christ. 
+If "you decide" to be Catholic or Orthodox or protestant, you're choosing nihilism and not Christ. 
 
 "you" do not determine truth. 
 
@@ -104,7 +128,7 @@ If "you decide" to be Catholic or Orthodox or protestant or whatever religion, y
 
 And your beliefs are irrelevant to truth, who is Christ Jesus.
 
-We ought to discern carefully here, and we should proceed cautiously. Our goal is to follow Christ.
+We ought to discern carefully here, and we should proceed cautiously. Our goal is to follow Christ and not antichrist.
 
 Are there heretical innovations that must necessarily be resolved in order to even begin discussing unification between east and west?
 
@@ -115,9 +139,10 @@ The Orthodox answer, is yes, absolutely there are many heretical innovations fro
 * filioque -- why was it added? What specific heresy is this guarding against? And why did the east not fall into that heresy without the filioque? Why was it added the way it was added?
 * papal infallibility -- it did not exist for most of church history, was everyone wrong? what about the innovations of Vatican I, and Vatican II?
 
-From a Catholic perspective, what would need to change about the Orthodox churches for them to unify? We can look at Eastern Catholics to get an idea. Not much changes, but they must grant authority to the pope, and hide internal divisions (such as we see within Catholicism right now but it never leads to schism, just inevitable protestantism).
+From a Catholic perspective, what would need to change about the Orthodox churches for them to unify? We can look at Eastern Catholics to get an idea. Not much changes, but they must grant authority to the pope.
+It is thus not about Christ, but about the pope.
 
-When Orthodox churches fall out of communion with each other, it is not hidden, and typically they unify after differences are resolved, and often with a deeper articulation of Christian faith.
+When Orthodox churches fall out of communion with each other, it is not hidden or resolved by a pope, and they unify after differences are resolved, and often with a deeper articulation of Christian faith.
 The schisms are ultimately a good and necessary feature of the church, the means to make public all differences that must be resolved before communion.
 
 The goal is not vain unity, or any kind of unity. 
@@ -126,7 +151,7 @@ Do the divisions within Catholicism (starting at the great schism) point to Chri
 Do the divisions within Orthodoxy (starting at the great schism) point to Christ?
 The answer, if we're being at all serious, is nuanced, and it's something like: Christ is the spirit of Truth, and He does not hide in darkness nor deceit.
 
-if the Catholics are right, then they have to claim that the east "fell" and is in heresy -- but what did the east do? What about them is heretical?
+If the Catholics are right, then they have to claim that the east "fell" and is in heresy -- but what did the east do? What about them is heretical?
 Is it that they became "stuck" in the past? Can that even be a heresy?
 
 Why was there not a protestant reformation in the east?
@@ -142,19 +167,19 @@ Did not Christ himself rebuke Peter many times?
 
 And if infallible, why would that come later? Is the successor to Peter only infallible in modern times?
 Peter also founded the church at Antioch, is Peter's successor in Antioch infallible?
-Why only the successor in Rome is infallible?
+Why only the successor in Rome is considered infallible?
 
-Most important, what heresy is being done by Eastern Orthodox? How are they wrong today yet we're right in the first thousand years of church history?
+Most important, what heresy is being done by Eastern Orthodox? How are they wrong today yet were right in the first thousand years of church history?
 
-There have been many abuses in east and west Christianity, but taking them at their best by their own standard, what is the heresy of Eastern Orthodox?
+There have been many abuses in east and west Christianity, but let's take them at their own standard, what is the heresy of Eastern Orthodox?
 And, what exactly is the standard of Rome at its best? Does that standard include innovations that Rome itself would have considered heretical for its first thousand years?
 
 All things considered, it looks an awful lot like Rome is in heresy, in schism from Christ, and Eastern Orthodoxy is waiting patiently, "stuck" in the past as it were, waiting and waiting and waiting for the prodigal son of Rome to return home. 
 
-Or perhaps, Orthodox are like the older son to the prodigal son, and as such they will receive the Father's rebuke.
+Or perhaps, Orthodox Churches are like the older son to the prodigal son, and as such they will receive the Father's rebuke.
 
 As Christians we ought to follow Christ, who taught us the story of the prodigal son, and we ought to identify ourselves and our church with the prodigal son and also with the older brother.
-We ought to return home, and we ought to be grateful that he was lost is now found.
+We ought to return home, and we ought to be grateful and celebrate when one returns home to the Father.
 
 
 
