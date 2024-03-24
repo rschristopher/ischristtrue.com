@@ -1,4 +1,4 @@
-# Schisms
+p# Schisms
 
 <!--
 Lord Jesus Christ
@@ -189,13 +189,13 @@ Would Peter agree with Rome's claim of the infallibility of his teaching as head
 Did not Paul once rebuke Peter? 
 Did not Christ himself rebuke Peter many times?
 
-And if infallible, why would that come nearly 2,000 years later? Is the successor to Peter only infallible in modern times?
+And if infallible, why would that come in [AD 1870](https://en.m.wikipedia.org/wiki/Papal_infallibility)? Is the successor to Peter only infallible in modern times?
 
-Peter also founded the church at Antioch, which is today an Orthodox Church. Is Peter's successor in Antioch infallible?
-Why is the infallible "vicar of Christ" the successor of the remnant of the fallen western Roman empire?
+Peter also founded the church in Antioch, which is today an Orthodox Church. Is Peter's successor in Antioch also infallible?
+Why is the infallible "vicar of Christ" the successor of the remnant of the fallen western Roman empire, and not of the east?
 
-There was no infallible "vicar of Christ" in the *one holy catholic and apostolic church*, and it is very clear that these are innovations and deviations from Christ's church.
-And yet, like the prodigal son, this is still His church, they are still wasting their inheritance.
+There was no infallible "vicar of Christ" in the *one holy catholic and apostolic church*, and it is very clear that these are innovations and deviations from tradition.
+And yet, like the prodigal son, this is still His church, even if that church is wasting its inheritance.
 
 
 
