@@ -18,8 +18,9 @@ These heresies were often the impetus for ecumenical councils.
     ...
 
 However, in 1054 the
-  [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism)
-  split East and West Christendom. 
+ [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism)
+ split East and West Christendom.
+Importantly, for over a thousand years Christianity remained a unified worldview and is what we mean by *Orthodox Christianity*.
 Perhaps unsurprisingly, the great schism fell roughly along the boundaries of the historic East and West Roman Empire.
 
 !!! info "East and West"
