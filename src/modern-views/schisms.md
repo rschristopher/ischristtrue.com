@@ -28,7 +28,10 @@ There were many
 These heresies were often the impetus for ecumenical councils.
 
 !!! example "early schisms"
-    ...
+    * [Arianism](https://en.m.wikipedia.org/wiki/Arianism), resolved in the [First Council of Nicea](https://en.m.wikipedia.org/wiki/First_Council_of_Nicaea) in AD 325
+    * [Pelagianism](https://en.m.wikipedia.org/wiki/Pelagianism), resolved in the [Council of Carthage](https://en.m.wikipedia.org/wiki/Council_of_Carthage) in AD 418
+    * [Nestorianism](https://en.m.wikipedia.org/wiki/Nestorianism), resolved in the [Council of Chalcedon](https://en.m.wikipedia.org/wiki/Council_of_Chalcedon) in AD 451
+
 
 However, in 1054 the
  [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism)
