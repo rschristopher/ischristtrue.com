@@ -1,18 +1,20 @@
 # Schisms
 
-
-...
-
-
 <!--
 Lord Jesus Christ
 Son of God
 Have mercy on me, a sinner
 -->
 
-Schism, Schisms
+A *schism* is a split in a religious organization, usually a church.
+There were many 
+ [schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) in early Christianity, usually heretical movements that didn't last more than a single generation.
+However, in 1054 there started the
+  [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism),
+  which split East and West Christendom.
 
-the great schism
+*One holy catholic and apostolic church* became two, Roman Catholics in the west, and Eastern Orthodox in the east.
+
 
 protestant reformation
 
@@ -26,9 +28,9 @@ from tradition to nihilism
 
 Catholic vs Orthodox, which is right?
 
-On one hand, they can both be "right" on all the major issues of Christianity yet still be in schism over theological or ecclesiological differences.
+On one hand, they both agree on all the major issues of Christianity yet are still in schism over theological and ecclesiological disagreements.
 
-Year 1 of the great schism, 99.9% of Christians had no idea. Entire generations had no idea. And those that did know assumed it would be resolved as prior schisms always were. When you're focused on Christ, the specifics of a temporary schism is not actually all that important. 
+In year 1 of the great schism, 99.9% of Christians had no idea. Even afterwards, entire generations had no idea. And those that did know assumed it would be resolved as [prior schisms]() always were. When you're focused on Christ, the specifics of a temporary schism is not actually all that important. 
 
 Both are still His church. In fact, necessarily both were His church in the first thousand years. Other than getting muddier over time, did east or west at some point cease being His church?
 Like the prodigal son, there were two sons, both were His sons, even when the younger left to waste his inheritance. He was lost, but he was still his father's son. And importantly, the older son who did not leave, he was rebuked after the prodigal son returned. Ultimately, both some were in error.
