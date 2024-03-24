@@ -28,7 +28,9 @@ There were many
 These heresies were often the impetus for ecumenical councils.
 
 !!! example "early schisms"
+    * [Montanism](https://www.britannica.com/topic/Montanism), condemned in AD 177, and died out after a few centuries 
     * [Arianism](https://en.m.wikipedia.org/wiki/Arianism), resolved in the [First Council of Nicea](https://en.m.wikipedia.org/wiki/First_Council_of_Nicaea) in AD 325
+    * [Donatism](https://www.britannica.com/topic/Donatists), resolved in the [Conference of Carthage](https://en.m.wikipedia.org/wiki/Council_of_Carthage) in AD 411
     * [Pelagianism](https://en.m.wikipedia.org/wiki/Pelagianism), resolved in the [Council of Carthage](https://en.m.wikipedia.org/wiki/Council_of_Carthage) in AD 418
     * [Nestorianism](https://en.m.wikipedia.org/wiki/Nestorianism), resolved in the [Council of Chalcedon](https://en.m.wikipedia.org/wiki/Council_of_Chalcedon) in AD 451
 
