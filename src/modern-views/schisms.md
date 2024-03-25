@@ -142,7 +142,7 @@ Roman Catholicism refers specifically to the presumed authority of the former Ho
 Prior to this, there was no presumption of a supreme worldly Christian authority.
 The church was unified under Christ, guided by the Holy Spirit, not by a worldly empire, and certainly not by an empire that wouldn't arise till nearly a thousand years after Christ.
 
-Note that this was **not** the continuation of the old Roman Empire, which had in the west fallen in AD 476.
+Despite the name, the Holy Roman Empire was **not** the continuation of the old Roman Empire, or the Western Roman Empire which had fallen in AD 476.
 The Eastern Roman Empire, the Byzantine Empire, survived till AD 1453 (making it the longest living empire in the known history of the world).
 The historic grounds for Roman Catholicism as *the one holy catholic and apostolic church* is tenuous at best.
 
