@@ -226,7 +226,7 @@ If the Catholics are right, then they have to claim that the east "fell" and is 
 Is it that they became "stuck" in the past? Can that even be a heresy?
 
 Why was there not a protestant reformation in the east?
-Protestantism and its continuous disintegration into different sects certainly seems to be the fruits of the scholastic innovations in Roman Catholicism, fruits that were not seen in the Eastern Orthodoxy.
+Protestantism and its continuous disintegration into different sects certainly seems to be the fruits of the scholastic innovations in Roman Catholicism, fruits that were not seen in Eastern Orthodoxy.
 
 Lastly, if the goal is to commune with Christ, to come closer to Christ through His church, then why innovate? Would not the apostolic tradition be paramount above all else? Why change? 
 
