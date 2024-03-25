@@ -81,7 +81,7 @@ It's important to understand that this splintering is a continuation of the grea
 
 
 
-## Seeking Truth
+## Christ's Church
 
 In the midst of these continuous schisms, when someone says they are a Christian, what does that even mean?
 
