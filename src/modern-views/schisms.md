@@ -94,7 +94,8 @@ In other words, is it Christ or antichrist that we are following?
 How does one find Truth in this chaos? How does one find the *one holy catholic and apostolic church*?
 
 
-
+!!! quote "Matthew 16:18"
+    And I also say to you that you are Peter, and on this rock I will build My church, and the gates of Hades shall not prevail against it.
 
 
 
@@ -142,7 +143,7 @@ Roman Catholicism refers specifically to the presumed authority of the former Ho
 Prior to this, there was no presumption of a supreme worldly Christian authority.
 The church was unified under Christ, guided by the Holy Spirit, not by a worldly empire, and certainly not by an empire that wouldn't arise till nearly a thousand years after Christ.
 
-Despite the name, the Holy Roman Empire was **not** the continuation of the old Roman Empire, or the Western Roman Empire which had fallen in AD 476.
+Despite the name, the Holy Roman Empire was **not** the continuation of the old Roman Empire, nor even the Western Roman Empire which had fallen in AD 476.
 The Eastern Roman Empire, the Byzantine Empire, survived till AD 1453 (making it the longest living empire in the known history of the world).
 The historic grounds for Roman Catholicism as *the one holy catholic and apostolic church* is tenuous at best.
 
@@ -159,11 +160,11 @@ When you're focused on Christ, the specifics of a temporary schism motivated by 
 
 Because of this, we must concede that despite questionable historicity, modern Catholicism has a strong claim to be the original church. In fact, necessarily both east and west were Christ's church in the first thousand years. Other than getting muddier over time, did east or west at some point cease being His church?
 
-Like in the parable of the prodigal son, there were two sons, he younger left to waste his inheritance. He was lost, but he was still his father's son. And importantly, the older son who did not leave, he was rebuked for questioning his father after the prodigal son returned. Ultimately, both sons were in error.
+Like in the parable of the prodigal son, there were two sons, the younger left to waste his inheritance. He was still his father's son even while he was lost (in schism from the Father). And importantly, the older son who did not leave, he was rebuked for questioning his father after the prodigal son returned. Ultimately, both sons were in error.
 
 One or both sides of the great schism is necessarily in error. This is true of any schism. The only question; which side of the schism is the prodigal son, and which is the older brother?
 
-While earlier schisms often resulted in a failed sect, like the many Gnostic or Arian sects, Easterm and Western Christianity have both survived over a thousand years while in schism. They are both the remnants of long-lived empires, and both of those worldly empires have fallen. It is perhaps wise to look at east and west as if they are both in error, and follow Christ obediently towards salvation.
+While earlier schisms often resulted in a failed sect, like the many gnostic or Arian sects, Easterm and Western Christianity have both survived over a thousand years while in schism. They are both the remnants of long-lived empires, and both of those worldly empires have fallen. The gates of hell have not prevailed. It is perhaps wise to look at east and west as if they are both in error, and follow Christ obediently towards salvation.
 
 Importantly, we as Christians cannot judge His church; Truth is not decided by our judgement, but on His revelation and His judgment.
 If "you" decide to be Catholic or Orthodox or even protestant, you're choosing nihilism and not Christ. 
@@ -184,21 +185,41 @@ The Catholic answer, is maybe, and we have an instructive case of [Eastern Catho
 The Orthodox answer, is yes, absolutely there are many heretical innovations from Rome that must be resolved in order to unify, such as:
 
 * filioque -- why was it added? What specific heresy is this guarding against? And why did the east not fall into that heresy without the filioque? Why was it added the way it was added?
-* papal supremacy and infallibility -- it did not exist for most of church history, was everyone wrong? what about the innovations of Vatican I, and Vatican II?
+* papal supremacy and infallibility -- it did not exist for most of church history, was everyone in the early church wrong? what about the innovations of Vatican I, and Vatican II?
 
 From a Roman Catholic perspective, what would need to change about the Orthodox churches for them to unify? We can look at Eastern Catholics to get an idea. Not much changes, but they must grant authority to the pope.
 Unification according to Roman Catholicism is thus not about Christ, but about the authority of the pope.
 
 Would the apostle Peter agree with the Roman Catholic claim of the infallibility of the pope's teaching as head of the church? 
-Did not Paul once rebuke Peter? 
+Did not Paul once rebuke Peter on his official teaching? 
 Did not Christ himself rebuke Peter many times?
 
-And if infallible, why would that come in [AD 1870](https://en.m.wikipedia.org/wiki/Papal_infallibility)? Why is the successor to Peter only infallible in modern times?
+!!! quote "Galatians 2:14"
+    But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?
+
+And, most fascinating and perhaps with great prescience, the greatest rebuke to Peter came immediately after Christ prromised that Peter is the rock upon which Christ will build His church.
+
+!!! quote "Matthew 16:18-24"
+    And I also say to you that you are Peter, and on this rock I will build My church, and the gates of Hades shall not prevail against it. 
+    And I will give you the keys of the kingdom of heaven, and whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.
+    Then He commanded His disciples that they should tell no one that He was Jesus the Christ.
+
+    From that time Jesus began to show to His disciples that He must go to Jerusalem, and suffer many things from the elders and chief priests and scribes, and be killed, and be raised the third day.
+    Then Peter took Him aside and began to rebuke Him, saying, "Far be it from You, Lord; this shall not happen to You!"
+    
+    But He turned and said to Peter, "Get behind Me, Satan! You are an offense to Me, for you are not mindful of the things of God, but the things of men."
+    Then Jesus said to His disciples, “If anyone desires to come after Me, let him deny himself, and take up his cross, and follow Me."
+
+
+No man except the God-man is infallible.
+But even if we grant the claim of papal infallibility (when the Roman Pontiff speaks *ex cathedra*), why would that come in [AD 1870](https://en.m.wikipedia.org/wiki/Papal_infallibility)? Why is the successor to Peter only infallible in modern times and only in Rome?
 
 Peter also founded the church in Antioch, which is an Orthodox Church. Is Peter's successor in Antioch also infallible?
+If it was due to the importance of Rome then wouldn't infallibility be granted to Constantinople?
+Old Rome had fallen during the *one hole catholic and apostolic church*.
 
-There was no infallible "vicar of Christ" in the *one holy catholic and apostolic church*, and it is very clear that these are innovations and deviations from tradition.
-And yet, like the prodigal son, this is still Christ's church, even if that church is wasting its inheritance.
+Very obviously there was no infallible "vicar of Christ" in the *one holy catholic and apostolic church* (there would have been no need for ecumenical councils), and it is very clear that these are innovations and deviations from tradition.
+And yet, like the prodigal son, this is still Christ's church, even if that church is wasting its inheritance while in schism.
 
 
 
@@ -211,8 +232,10 @@ And yet, like the prodigal son, this is still Christ's church, even if that chur
 ### Orthodoxy
 
 When Orthodox churches fall out of communion with each other, it is not hidden nor quietly resolved by a "vicar of Christ".
-Unification requires the two sides settle their differences.
+Unification requires the two sides settle their difference as guided by the Holy Spirit.
 Traditionally, this was done at ecumenical councils, but there has not been such a council in over a thousand years.
+
+The councils were started by Constantine himself, in the Eastern Roman Empire.
 These councils resulted in a deeper articulation of Christian faith.
 The schisms were ultimately a good and necessary feature of the church, the means to make public all differences that must be resolved before communion.
 
@@ -230,16 +253,16 @@ Protestantism and its continuous disintegration into different sects certainly s
 
 Lastly, if the goal is to commune with Christ, to come closer to Christ through His church, then why innovate? Would not the apostolic tradition be paramount above all else? Why change? 
 
-And if there was necessary change, is that not a tacit admission that everyone who came before, every saint, was wrong or naive? And wouldn't this necessarily include Peter?
+And if there was necessary change, is that not a tacit admission that everyone who came before, every saint (even western saints) within the *one holy catholic and apostolic church* was wrong or naive? And wouldn't this necessarily include Peter?
 
 Most important, what heresy is being done by Eastern Orthodoxy? How are they wrong today yet were right in the first thousand years of church history?
 
-All things considered, it looks an awful lot like Rome is in heresy, in schism from Christ's Church, and Eastern Orthodoxy is waiting patiently, "stuck" in the past as it were, waiting and waiting and waiting for the prodigal son of Rome to return to the Father. 
+All things considered, it looks an awful lot like Rome is in heresy, in schism from Christ's Church, and Eastern Orthodoxy is waiting patiently, "stuck" in the past as it were, waiting and waiting and waiting for the prodigal son of Rome and its protestant offspring to return to the Father. 
 
-At worst, Orthodox Churches are like the older son to the prodigal son, and as such they will receive the Father's rebuke on that day the prodigal son returns.
+At worst, Orthodox Churches are like the older son to the prodigal son, and as such many will receive the Father's rebuke on that day the prodigal son returns.
 
 As Christians we ought to follow Christ, who taught us the story of the prodigal son, and we ought to identify ourselves and our church with the prodigal son *and* also with the older brother.
-If we are Catholic we ought to return home, and if we are Orthodox we ought to be grateful and celebrate when the prodigal son returns home to the Father.
+If we are Catholic or protestant we ought to return home, and if we are Orthodox we ought to be grateful and celebrate when the prodigal son returns home to the Father.
 
 
 
