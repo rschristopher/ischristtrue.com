@@ -196,7 +196,6 @@ Did not Christ himself rebuke Peter many times?
 And if infallible, why would that come in [AD 1870](https://en.m.wikipedia.org/wiki/Papal_infallibility)? Why is the successor to Peter only infallible in modern times?
 
 Peter also founded the church in Antioch, which is an Orthodox Church. Is Peter's successor in Antioch also infallible?
-Why is the infallible "vicar of Christ" the successor of a remnant of the fallen western Roman empire, and not of the east?
 
 There was no infallible "vicar of Christ" in the *one holy catholic and apostolic church*, and it is very clear that these are innovations and deviations from tradition.
 And yet, like the prodigal son, this is still Christ's church, even if that church is wasting its inheritance.
