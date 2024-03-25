@@ -159,9 +159,9 @@ When you're focused on Christ, the specifics of a temporary schism motivated by 
 
 Because of this, we must concede that despite questionable historicity, modern Catholicism has a strong claim to be the original church. In fact, necessarily both east and west were Christ's church in the first thousand years. Other than getting muddier over time, did east or west at some point cease being His church?
 
-Like the prodigal son, there were two sons, both were still His sons even when the younger left to waste his inheritance. He was lost, but he was still his father's son. And importantly, the older son who did not leave, he was rebuked after the prodigal son returned for questioning his father. Ultimately, both sons were in error.
+Like in the parable of the prodigal son, there were two sons, he younger left to waste his inheritance. He was lost, but he was still his father's son. And importantly, the older son who did not leave, he was rebuked for questioning his father after the prodigal son returned. Ultimately, both sons were in error.
 
-One or both sides of the great schism is necessarily in error. This is true of any schism. The only question, which is the prodigal son, and which is the older brother?
+One or both sides of the great schism is necessarily in error. This is true of any schism. The only question; which side of the schism is the prodigal son, and which is the older brother?
 
 While many schisms resulted in a failed sect, like the many Gnostic or Arian sects, Easterm and Western Christianity have both survived over a thousand years while in schism. They both are the remnants of long-lived empires, and both of those empires have fallen. It is perhaps wise to look at both east and west as being in error, and follow Christ obediently towards salvation.
 
