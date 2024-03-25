@@ -24,7 +24,7 @@ And in order to best understand [modern Christianity](christianity.md) it can be
 
 There were many 
  [schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) in early Christianity, usually from heretical movements that broke away from the church.
-These heresies were often the impetus for ecumenical councils.
+These heresies were often the impetus for ecumenical councils, which led to a deeper articulation of the faith.
 
 !!! example "early schisms"
     * [Montanism](https://www.britannica.com/topic/Montanism), condemned in AD 177, and died out after a few centuries 
