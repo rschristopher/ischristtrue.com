@@ -163,7 +163,7 @@ Like in the parable of the prodigal son, there were two sons, he younger left to
 
 One or both sides of the great schism is necessarily in error. This is true of any schism. The only question; which side of the schism is the prodigal son, and which is the older brother?
 
-While many schisms resulted in a failed sect, like the many Gnostic or Arian sects, Easterm and Western Christianity have both survived over a thousand years while in schism. They both are the remnants of long-lived empires, and both of those empires have fallen. It is perhaps wise to look at both east and west as being in error, and follow Christ obediently towards salvation.
+While earlier schisms often resulted in a failed sect, like the many Gnostic or Arian sects, Easterm and Western Christianity have both survived over a thousand years while in schism. They are both the remnants of long-lived empires, and both of those worldly empires have fallen. It is perhaps wise to look at east and west as if they are both in error, and follow Christ obediently towards salvation.
 
 Importantly, we as Christians cannot judge His church; Truth is not decided by our judgement, but on His revelation and His judgment.
 If "you" decide to be Catholic or Orthodox or even protestant, you're choosing nihilism and not Christ. 
