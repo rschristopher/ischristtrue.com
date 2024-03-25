@@ -8,8 +8,9 @@ Have mercy on me, a sinner
 Lord, guide me, reveal for me Truth and grant me wisdom and insight in order to articulate Truth, so that His name may be praised through these pages 
 -->
 
-A *schism* is simply a split in a religious or political organization. And in order to understand the shallow worldliness of [modern Christianity](christianity.md) it can be instructive to understand the historic and ongoing schisms within Christianity.
+A *schism* is simply a split in a religious organization.
 
+In order to best understand [modern Christianity](christianity.md) it can be instructive to first understand the historic and ongoing schisms within Christianity.
 In other words, how did we get here? And how do we discern the truth that is Christ Jesus?
 
 
