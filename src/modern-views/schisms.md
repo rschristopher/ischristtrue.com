@@ -197,7 +197,7 @@ Did not Christ himself rebuke Peter many times?
 !!! quote "Galatians 2:14"
     But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?
 
-And, most fascinating and perhaps with great prescience, the greatest rebuke to Peter came immediately after Christ prromised that Peter is the rock upon which Christ will build His church.
+And, most fascinating and perhaps with great prescience, the greatest rebuke to Peter came immediately after Christ promised that Peter is the rock upon which Christ will build His church.
 
 !!! quote "Matthew 16:18-24"
     And I also say to you that you are Peter, and on this rock I will build My church, and the gates of Hades shall not prevail against it. 
@@ -215,10 +215,11 @@ No man except the God-man is infallible.
 But even if we grant the claim of papal infallibility (when the Roman Pontiff speaks *ex cathedra*), why would that come in [AD 1870](https://en.m.wikipedia.org/wiki/Papal_infallibility)? Why is the successor to Peter only infallible in modern times and only in Rome?
 
 Peter also founded the church in Antioch, which is an Orthodox Church. Is Peter's successor in Antioch also infallible?
-If it was due to the importance of Rome then wouldn't infallibility be granted to Constantinople?
+If infallibility was due to the importance of Rome then wouldn't infallibility have been granted to Constantinople?
 Old Rome had fallen during the *one hole catholic and apostolic church*.
+Importantly, these are the concerns of men -- the very reason Christ rebuked Peter.
 
-Very obviously there was no infallible "vicar of Christ" in the *one holy catholic and apostolic church* (there would have been no need for ecumenical councils), and it is very clear that these are innovations and deviations from tradition.
+Very obviously there was no infallible "vicar of Christ" in the *one holy catholic and apostolic church* (otherwise there would have been no need for ecumenical councils), and it is very clear that these are innovations and deviations from tradition.
 And yet, like the prodigal son, this is still Christ's church, even if that church is wasting its inheritance while in schism.
 
 
