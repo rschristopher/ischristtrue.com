@@ -214,9 +214,10 @@ And, most fascinating and perhaps with great prescience, the greatest rebuke to 
 No man except the God-man is infallible.
 But even if we grant the claim of papal infallibility (when the Roman Pontiff speaks *ex cathedra*), why would that come in [AD 1870](https://en.m.wikipedia.org/wiki/Papal_infallibility)? Why is the successor to Peter only infallible in modern times and only in Rome?
 
-Peter also founded the church in Antioch, which is an Orthodox Church. Is Peter's successor in Antioch also infallible?
+Peter also founded the church in Antioch, which is an Orthodox Church. 
+Is Peter's successor in Antioch also infallible?
 If infallibility was due to the importance of Rome then wouldn't infallibility have been granted to Constantinople?
-Old Rome had fallen during the *one hole catholic and apostolic church*.
+Old Rome had fallen during that first thousand years of the *one holy catholic and apostolic church*.
 Importantly, these are the concerns of men -- the very reason Christ rebuked Peter.
 
 Very obviously there was no infallible "vicar of Christ" in the *one holy catholic and apostolic church* (otherwise there would have been no need for ecumenical councils), and it is very clear that these are innovations and deviations from tradition.
