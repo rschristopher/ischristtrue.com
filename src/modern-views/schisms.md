@@ -46,7 +46,7 @@ Perhaps unsurprisingly, the *great schism* fell roughly along the boundaries of 
     Eastern Rome became known as the [Byzantine Empire](https://www.worldhistory.org/Byzantine_Empire/) which would continue the Roman empire (now as a Christian empire) for over a thousand years (the longest living empire in the history of the world).
     <center>![east-west-rome](/images/east-west-rome.jpg)</center>
 
-    Prior to the great schism, the western remnants of the fallen Western Rome would unite into the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and by 1054 the east and west [officially](https://www.britannica.com/event/East-West-Schism-1054) excommunicated each other.
+    Prior to the great schism, the western remnants of the fallen Western Roman Empire would unite into the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and by 1054 the east and west [officially](https://www.britannica.com/event/East-West-Schism-1054) excommunicated each other.
     <center>![east-west-1054](/images/east-west-1054.jpg)</center>
 
 
