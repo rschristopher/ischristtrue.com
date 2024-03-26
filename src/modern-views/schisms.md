@@ -43,10 +43,11 @@ Perhaps unsurprisingly, the *great schism* fell roughly along the boundaries of 
 !!! info "East and West"
     As Christianity spread into the world, the Roman empire had been divided between East and West (first by [Diocletian](https://www.worldhistory.org/Diocletian/)), and later the empire was temporarily reunited by [Constantine](https://www.worldhistory.org/Constantine_I/) who converted to Christianity and moved the capital away from old Rome and into [Byzantium](https://www.worldhistory.org/Byzantium/) which would later be renamed [Constantinople](https://www.worldhistory.org/Constantinople/). 
     
-    Eastern Rome became known as the [Byzantine Empire](https://www.worldhistory.org/Byzantine_Empire/) which would continue the Roman empire (now as a Christian empire) for over a thousand years (the longest living empire in the history of the world).
+    Western Rome fell in AD 476, while 
+    Eastern Rome, also known as the [Byzantine Empire](https://www.worldhistory.org/Byzantine_Empire/), would continue the Roman empire (now as a Christian empire) for over a thousand more years (the longest living empire in the history of the world).
     <center>![east-west-rome](/images/east-west-rome.jpg)</center>
 
-    Prior to the great schism, the western remnants of the fallen Western Roman Empire would unite into the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and by 1054 the east and west [officially](https://www.britannica.com/event/East-West-Schism-1054) excommunicated each other.
+    In AD 962, prior to the great schism, Frankish and Germanic remnants of the long dead Western Roman Empire established the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and through political ambitions insisted on papal supremacy over all of Christendom. By 1054 the east and west [officially](https://www.britannica.com/event/East-West-Schism-1054) excommunicated each other (first Rome excommunicated the patriarch of Constantinople, then all four eastern patriarchs excommunicated Rome).
     <center>![east-west-1054](/images/east-west-1054.jpg)</center>
 
 
