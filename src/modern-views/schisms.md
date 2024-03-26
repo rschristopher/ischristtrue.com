@@ -186,7 +186,7 @@ The Catholic answer, is maybe, and we have an instructive case of [Eastern Catho
 The Orthodox answer, is yes, absolutely there are many heretical innovations from Rome that must be resolved in order to unify, such as:
 
 * filioque -- why was it added? What specific heresy is this guarding against? And why did the east not fall into that heresy without the filioque? Why was it added the way it was added?
-* papal supremacy and infallibility -- it did not exist for most of church history, was everyone in the early church wrong? what about the innovations of Vatican I, and Vatican II?
+* papal supremacy and infallibility -- it did not exist for most of church history. Was everyone in the early church wrong? What about the innovations of Vatican I, and Vatican II?
 
 From a Roman Catholic perspective, what would need to change about the Orthodox churches for them to unify? We can look at Eastern Catholics to get an idea. Not much changes, but they must grant authority to the pope.
 Unification according to Roman Catholicism is thus not about Christ, but about the authority of the pope.
