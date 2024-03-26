@@ -139,7 +139,7 @@ We must seek the *one holy catholic and apostolic church*, and it is necessarily
 
 The word *catholic* simply means *universal*, and note that the [creed](https://en.m.wikipedia.org/wiki/Nicene_Creed) refers to *one holy catholic and apostolic church*.
 
-Roman Catholicism refers specifically to the presumed authority of the former Holy Roman Empire which arose in AD 962, but wasn't referred to as such till centuries after the great schism in AD 1054, and also became known as the *Holy Roman Empire of the Germanic Nation*.
+Roman Catholicism refers specifically to the presumed universal authority of the former Holy Roman Empire which arose in AD 962, but wasn't referred to as such till centuries after the great schism in AD 1054, and also became known as the *Holy Roman Empire of the Germanic Nation*.
 
 Prior to this, there was no presumption of a supreme worldly Christian authority.
 The church was unified under Christ, guided by the Holy Spirit, not by a worldly empire, and certainly not by an empire that wouldn't arise till nearly a thousand years after Christ.
