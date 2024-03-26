@@ -9,7 +9,7 @@ Lord, guide me, reveal for me Truth and grant me wisdom and insight in order to 
 -->
 
 A *schism* is a split in a religious body.
-And in order to best understand [modern Christianity](christianity.md) it can be instructive to first understand the historic and ongoing schisms within Christianity.
+And in order to best understand [modern Christianity](christianity.md) it can be instructive to understand the historic schisms.
 
 
 
