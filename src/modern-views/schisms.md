@@ -119,7 +119,7 @@ If we are honest, we cannot consider any protestant church as being the *one hol
 
 And perhaps the most troubling aspect of modern protestantism is the continued schisms.
 In a protestant worldview, my own personal interpretation of scripture is as valid as any.
-This is encouraged within a secular worldview, but this is to turn our back on Christ Himself.
+This is encouraged within a secular worldview, and this is to turn our back on Christ Himself.
 
 And even if you were to find a pious protestant church, how long till that church falls into blatant heresy?
 How many churches today have founders that would war against their modern members? Remember that the reformers would put to death anabaptists, and yet today "believers baptism" has become the norm in many reformed churches.
