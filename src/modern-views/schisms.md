@@ -65,7 +65,7 @@ In fact many of the early settlers into the north-American colonies were escapin
 This splintering of protestantism never ceased and continues now into our modern age. 
 There are now tens of thousands of different "Christian" sects.
 In fact, a modern protestant is likely to experience a schism even at their own local church, which are usually anchored only by a popular pastor.
-It's important to understand that this splintering is a continuation of the great schism of 1054 and feeds into the continuous destructive revolutions of our [modern worldview](index.md).
+It's important to understand that this splintering is a continuation of the great schism of AD 1054 and feeds into the continuous destructive revolutions of our [modern worldview](index.md).
 
 
 !!! info "Timeline of Major Schisms"
