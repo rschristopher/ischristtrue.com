@@ -163,7 +163,7 @@ Because of this, we must concede that despite questionable historicity, modern C
 
 Like in the parable of the prodigal son, there were two sons, the younger left to waste his inheritance. He was still his father's son even while he was lost (in schism from the Father). And importantly, the older son who did not leave, he was rebuked for questioning his father after the prodigal son returned. Ultimately, both sons were in error.
 
-One or both sides of the great schism is necessarily in error. This is true of any schism. The only question; which side of the schism is the prodigal son, and which is the older brother?
+Likewise, one or both sides of the great schism is necessarily in error. This is true of any schism. The only question; which side of the schism is the prodigal son, and which is the older brother?
 
 While earlier schisms often resulted in a failed sect, like the many gnostic or Arian sects, Easterm and Western Christianity have both survived over a thousand years while in schism. They are both the remnants of long-lived empires, and both of those worldly empires have fallen. The gates of hell have not prevailed. It is perhaps wise to look at east and west as if they are both in error, and follow Christ obediently towards salvation.
 
