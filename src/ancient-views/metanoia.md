@@ -16,10 +16,10 @@ Closer approximations in modern vernacular might be something "that blew my mind
 
 The etymology points to the Greek, *meta-* meaning *change*, and -noia from *nous* which is best understood as *the faculty of mind that determines what is true or real*. Thus it is a *change of mind* in the deepest possible sense, not just what you think is true, but a change to the very faculty of how you know what is true.
 
-Perhaps the closest we have today is *the matrix* or any state of waking up from a false worldview into something irrefutably true, such that the old worldview dissolves like a bad dream.
+Perhaps the closest we have today is in movies like *the matrix* or any state of waking up from a false worldview into something irrefutably true, where the old worldview dissolves like a bad dream.
 
-If you have had a dream where you wake up and yet you're still dreaming, and only later, when you wake up for real do you finally *come to your senses* -- such an experience is metanoia.
-It is radical transformation in one's person.
+Think of a dream that seemed completely real, and only later, when you wake up for real do you finally *come to your senses* -- such an experience is metanoia.
+It is radical transformation from one worldview into another.
 To get the beam out of your own eye, that is metanoia.
 
 Ancient Christians (and modern orthodox Christians) use this word to describe conversion.
@@ -27,7 +27,7 @@ And this is because conversion to Christianity involves a radical change in one'
 One's *nous* opens into a relationship with the creator of the universe , the sprit of truth, which is Christ, and one develops an orthodox Christian [phronema](https://en.m.wikipedia.org/wiki/Phronema), the first step to theosis, of becoming like Christ.
 
 
-One of the most interesting uses of *metanoia* is the words of John the Baptist where it is translated as *"repent"*.
+One of the most interesting uses of *metanoia* is the words of John the Baptist where *metanoeite* is translated as *"repent"*.
 
 ???+ quote "John the Baptist"
     **Μετανοεῖτε**· ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν.
@@ -36,7 +36,11 @@ One of the most interesting uses of *metanoia* is the words of John the Baptist 
     
     <center>![john-the-baptist](/images/john-the-baptist.jpg)</center>
 
+One cannot *repent* while in a relativistic worldview.
+The conditions for repentance, for *metanoia*, require objectively knowable 
+truth, universal morality, as well as the ability to discern good from evil.
 
+In fact, Orthodox Christianity is unlike any other religion or worldview in that it is a continuously deepening repentance, a continuous metanoia.
 
 
 
@@ -62,11 +66,15 @@ Schopenhauer provides a more refined example of this mistake,
 !!! quote "Schopenhauer"
     Founders of religion and philosophers come into the world to shake them out of their lethargy and to point out the lofty meaning of existence; philosophers for the few, the exempt; founders of religion for the many, for humanity on a large scale. For ‘it is impossible for the broad masses to be philosophically educated’, as even your Plato said, and you should not forget. Religion is the metaphysics of the people, which we must absolutely allow them and therefore outwardly respect; for to discredit it means to deprive them of it.
 
+Notice the Satanic presuppositions here, common in academic philosophy, that they are "the few", the philosopher kings that "allow" the broad masses to have their religion, that the philosopher kings should "outwardly respect" these religions even though they could discredit them.
+Apparently Christianity only survived because academic philosophers allowed it. What pride!
+
+
 This remains a common view amongst overly educated academics, who believe they have discovered a deeper truth, something more true, more fundamental than the layman who fumbles with his crude religion.
 
 Yet ask the enlightened philosopher, the so-called lover of wisdom, what is the meaning and purpose of existence?
 
-They will flounder and flail, wandering directly away from Christ, in a predictable nihilistic path towards relativism. Once you see it you cannot unsee it, the entire field of philosophy as we understand it comes crashing down.
+They will flounder and flail, wandering away from Christ, in a pitiable and predictable nihilistic path towards relativism. Once you see it you cannot unsee it. The entire field of philosophy as we understand it comes crashing down.
 
 This is because they have no deeper truth, no first principle as a cause for their belief in reason, knowledge, and even truth itself. 
 They must accept all these secondary causes as primary, and somehow attempt to weave multiple axioms into a unified principle: ethics, epistemology, mathematics, beauty, art, ..., the list goes on. 
@@ -89,6 +97,8 @@ For just as there must be faith in first principles, there is necessarily a fina
 We all *necessarily* have faith in a unified first principle, that which (we believe) gives rise to knowledge, morality, beauty, truth, etc.
 We attempt to answer with *nothingness* in our modern view, that is, a worship of *nothingness*.
 
+Christ shows us otherwise.
+And we must repent, continually in an ever deepening metanoia -- in order to commune with Him.
 
 
 
