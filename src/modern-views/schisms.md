@@ -124,7 +124,7 @@ This is encouraged within a secular worldview, and this is to turn our back on C
 And even if you were to find a pious protestant church, how long till that church falls into blatant heresy?
 How many churches today have founders that would war against their modern members? Remember that the reformers would put to death anabaptists, and yet today "believers baptism" has become the norm in many reformed churches.
 
-We must seek the *one holy catholic and apostolic church*, and it is necessarily as visible as Christ Jesus -- He was visible to His disciples, to the Pharisees, to the Romans, to the Canaanite women, to everyone.
+We must seek the *one holy catholic and apostolic church*, and it is necessarily as visible as Christ Jesus -- the God-man was visible to His disciples, to the Pharisees, to the Romans, to the Canaanite woman, to everyone.
 
 
 
