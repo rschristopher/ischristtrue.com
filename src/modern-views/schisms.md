@@ -47,7 +47,7 @@ Perhaps unsurprisingly, the *great schism* fell roughly along the boundaries of 
     Eastern Rome, also known as the [Byzantine Empire](https://www.worldhistory.org/Byzantine_Empire/), would continue the Roman empire (now as a Christian empire) for over a thousand more years (the longest living empire in the history of the world).
     <center>![east-west-rome](/images/east-west-rome.jpg)</center>
 
-    In AD 962, prior to the great schism, Frankish and Germanic remnants of the long dead Western Roman Empire established the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and through political ambitions insisted on papal supremacy over all of Christendom. By 1054 the east and west [officially](https://www.britannica.com/event/East-West-Schism-1054) excommunicated each other (first Rome excommunicated the patriarch of Constantinople, then all four eastern patriarchs excommunicated Rome).
+    In AD 962, prior to the great schism, Frankish and Germanic remnants of the long dead Western Roman Empire established the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and through political ambitions insisted on papal supremacy over all of Christendom. By AD 1054 the east and west [officially](https://www.britannica.com/event/East-West-Schism-1054) excommunicated each other (first Rome excommunicated the patriarch of Constantinople, then all four eastern patriarchs excommunicated Rome).
     <center>![east-west-1054](/images/east-west-1054.jpg)</center>
 
 
