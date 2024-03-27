@@ -191,7 +191,8 @@ The Orthodox answer, is yes, absolutely there are many heretical innovations fro
 From a Roman Catholic perspective, what would need to change about the Orthodox churches for them to unify? We can look at Eastern Catholics to get an idea. Not much changes, but they must grant authority to the pope.
 Unification according to Roman Catholicism is thus not about Christ, but about the authority of the pope.
 
-Would the apostle Peter agree with the Roman Catholic claim of the infallibility of the pope's teaching as head of the church? 
+Catholics claim that papal supremacy is from Peter.
+Would the apostle Peter agree with the Roman Catholic claim of supremacy and the infallibility of the pope's teaching as head of the church? 
 Did not Paul once rebuke Peter on his official teaching? 
 Did not Christ himself rebuke Peter many times?
 
@@ -208,7 +209,7 @@ And, most fascinating and perhaps with great prescience, the greatest rebuke to 
     From that time Jesus began to show to His disciples that He must go to Jerusalem, and suffer many things from the elders and chief priests and scribes, and be killed, and be raised the third day.
     Then Peter took Him aside and began to rebuke Him, saying, "Far be it from You, Lord; this shall not happen to You!"
     
-    But He turned and said to Peter, "Get behind Me, Satan! You are an offense to Me, for you are not mindful of the things of God, but the things of men."
+    But He turned and said to Peter, **"Get behind Me, Satan! You are an offense to Me, for you are not mindful of the things of God, but the things of men."**
     Then Jesus said to His disciples, “If anyone desires to come after Me, let him deny himself, and take up his cross, and follow Me."
 
 
