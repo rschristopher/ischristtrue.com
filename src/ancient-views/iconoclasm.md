@@ -1,7 +1,7 @@
 # Iconoclasm
 
 Literally, *breaking of images*, an iconoclasm is the deliberate destruction of artwork, typically religious artwork.
-Iconoclast movements have been an ongoing pattern starting with Islam and influencing Christianity, such as the [Byzantine Iconoclasm](https://en.wikipedia.org/wiki/Byzantine_Iconoclasm)
+Iconoclast movements have been an ongoing pattern starting with Islam and then influencing Christianity, such as the [Byzantine Iconoclasm](https://en.wikipedia.org/wiki/Byzantine_Iconoclasm)
  or more recently during the
 [Reformation](https://folgerpedia.folger.edu/Idolatry:_Icons_and_Iconoclasm).
 
@@ -15,7 +15,7 @@ Iconoclastic influences have persisted through the ages and have resulted in bla
     ![icon-iconoclasm](/images/icon-iconoclasm.jpg)
 
 
-While the accusation is usually *idolatry*, an icococlasm is the violent destruction of icons (images) of Christ, as well as defacing and even destroying churches. 
+While the accusation is usually *idolatry*, an icococlasm is the violent destruction of icons (images), as well as defacing and even destroying churches. 
 Much 
 [blood](https://www.thecollector.com/what-was-iconoclasm-in-byzantium/) 
  and 
@@ -179,8 +179,8 @@ Even the prophecied temple in Ezekiel's vision contained cherub icons:
     And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces; 
     So that the face of a man was toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side: it was made through all the house round about.
 
-It is clear that icons were sometimes idolatrous, like the golden calf -- and sometimes sacred, like the golden cherubims.
-Importantly, icons were never mundane.
+It is clear that images were sometimes idolatrous, like the golden calf -- and sometimes sacred, like the golden cherubims.
+Importantly, images were never mundane.
 Any icon, including your fellow human beings, should never be worshipped, but they can be honored and respected (venerated).
 
 
@@ -438,7 +438,7 @@ Perhaps it is not the face of God you are seeking (but ought to be seeking, as H
 Icons of Mary are extremely popular (second only to Christ) yet are sometimes the source of controversy and misunderstanding between well-meaning Christians.
 Even today, accusations of "Mary worship" resound from protestants (iconoclasts and otherwise).
 
-If anyone is deserving of honor (veneration), it is the mother of Christ, the Theotokos.
+If anyone is deserving of honor (veneration), it is the mother of the God-man Christ, the Theotokos.
 
 !!! quote "Luke 1:28"
     And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: 
