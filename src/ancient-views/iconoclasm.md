@@ -52,7 +52,7 @@ That said, were the iconoclasts right to destroy icons? Were the reformers right
 Ancient pagans created idols not merely as man-made trophies to worship, but in order to capture the essence of a specific god (a fallen spirit) such that people could make offerings and sacrifice to that god.
 
 A pagan god (fallen spirit) was in a sense captured and bound by a physical idol, allowing that spirit to act within rituals that the worshippers participated in.
-This was the universal backdrop of idol worship, and God worked within that backdtop through His chosen people and transformed this abhorrent practice from within, first into mediated communion in the Tabernacle, and then eventually into the life of Christ Jesus.
+This was the universal backdrop of idol worship, and God worked through His chosen people and transformed this abhorrent practice from within, first into mediated communion in the Tabernacle, and then eventually into the life of Christ Jesus.
 
 !!! info "Graven Images"
     The [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) word **pesel** (פסל) is used in Exodus 20:4 (and related passages), referring to a carved statue that is worshipped. Additionally, **temunah** (תמונה) is referring to a likeness or similitude.
