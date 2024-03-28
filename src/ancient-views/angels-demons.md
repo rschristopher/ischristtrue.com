@@ -11,7 +11,7 @@ Lord Jesus Christ, Son of God
 Have mercy on me, a sinner 
 -->
 
-Despite the nihilism of our [modern](../modern-views/index.md) age, modern people still hold a vague belief in angels and demons. 
+Despite the nihilism of our [modern](../modern-views/index.md) age, most people still hold a vague belief in angels and demons. 
 Even non-believers flirt with the idea of spirits both good and evil. 
 The prevalence of ghost stories within film and television is an indicator of just how deeply this ancient idea persists.
 
@@ -27,7 +27,7 @@ And as we'll see, this is no accident.
 In our modern secular view we think of a *mythology* as false or make believe, like fairy tails, or as primitive beliefs from "less evolved civilizations".
 However, *myth* simply means *story*, and the *-ology* suffix is derived from *logia* (divine word of God), and *mythology* is best thought of as "stories that unite us as a culture" or "stories we participate in" or "stories we live by".
 
-Every culture, even modern secular culture, has a mythology.
+Every culture, even our modern secular culture, has a mythology.
 And if we take a sober look at ancient mythologies, we find angels and demons featured in *all* of them.
 
 The word *angel* means *messenger*. 
@@ -64,7 +64,7 @@ In pagan mythologies we find identical themes: regional gods have dominion over 
 The pagan gods are typically indifferent or antagonistic to humans; such that humans are nothing but the playthings of these "gods".
 Typically there were rebellions amongst the gods, and often divine knowledge was given to man by some rebellious character, allowing man to have technology and civilization.
 
-The innovation in Judiaism is the realization (revelation) that the God most high is uncreated, and not only the creator of all, but also the source of morality, a universal morality, that good and evil are objectively knowable. As such only the God most high is to be worshipped.
+The innovation in Judiaism is the realization (revelation) that the God most high is *uncreated*, and not only the creator of all, but also the source of morality, a universal morality, that good and evil are objectively knowable. As such only the God most high is to be worshipped.
 Contrast this with the Roman pantheon, where the gods of conquered people were collected and worshipped.
 
 Within pagan mythologies you'll even find stories of a great flood, lost civilizations, and even some heavenly rebellions -- although interestingly, the pagan gods all succeded in their rebellions:
@@ -128,7 +128,7 @@ Like the pagan mythologies, there seems to be something about these stories that
 ## Ancient Christianity 
 
 Christianity grew out of ancient Judaism, specifically the Second Temple period.
-And in this worldview there are ranks of created spirits, known as the heavenly hosts, and that the fall of these spirits happened more than once. 
+And in this worldview there are ranks of created spirits, known as the *heavenly hosts*, and that the fall of these spirits happened more than once. 
 
 For example, a group of angels known as the *watchers* are the "sons of God" referenced in Genesis. 
 These are the "sons of God" that had children with the "daughters of men". 
@@ -136,7 +136,7 @@ These hybrid children are known as *nephilim*.
 Demons in this view include more than the fallen angels, but also the spirits of the dead nephilim.
 
 In this worldview, Pagan gods are not imaginary or false, but very real created spirits.
-In the third rebellion against God, when the tower fell, man was placed under the territorial dominion of these created spirits (that today we know of as pagan gods).
+In the final rebellion against God, when the tower fell, man was placed under the territorial dominion of these created spirits (that today we know of as pagan gods).
 
 
 !!! quote "Deuteronomy 32:8"
@@ -236,7 +236,7 @@ We also know they are beings of intellect and exist in their assigned intellectu
 
 Importantly, angels are not corporeal beings existing within time and space as humans understand.
 They can appear to those whom God wills, and in different forms, including in human form.
-They are purely spiritual, and in reference to humans do not have corporeal bodies.
+They are purely spiritual, and in reference to humans are not bound to corporeal bodies.
 But in reference to God they are embodied.
 As created beings they exist solely within creation (for God created the heavens and the earth).
 
@@ -254,8 +254,9 @@ And despite their ability to extend anywhere in space (not confined by doors, lo
 
 Tradition and scripture are both witness to the immense power of angels, able to influence all elements of creation.
 
-As such, a fallen angel is a truly terrifying prospect.
+As such, a fallen angel is a truly terrifying adversary.
 Yet they are not God.
+They are created.
 They are not omnipotent.
 They are not omniscient.
 They are not omnipresent.
@@ -325,14 +326,13 @@ From a human perspective, angels are patterns of reality over time that we can p
 This includes the obvious case of participating in divine liturgy, but also the non-obvious cases of participating in technology or in politics or any worldly pattern.
 It's important to understand that the worldly patterns that we participate within are in fact created spirits, and if they're directing you to Christ, then this is an angel, and if it's pointing in the opposite direction, then this is a fallen angel (such as the dark powers and principalities we struggle against daily).
 
-As "messengers", angels deliver the revealed word of God, and the word of God is the [Logos](../logos/index.md), who is incarnate in the person of Christ Jesus.
+As "messengers", angels deliver the revealed word of God, and the word of God is the [Logos](../logos/index.md), who became incarnate in the person of Christ Jesus.
 The angels minister to the divine will, that we may participate within His divine will through Christ Jesus.
 
 And further the "message" from angels is *Logia*, the revealed stories, which includes not only scripture, but every *logia*, such as mathematics, technology, and even geology.
 In fact every scientific discipline is itself a communion of God and man (literally the person of Christ) and is ministered to by His angels, such that we can participate in these created spirits (these patterns of reality, be it technology, biology or even geology).
 
-Likewise, those patterns of reality that point us away from Christ, away from Truth, these are fallen spirits, including political ideologies, nation states, central banks, and so on.
-Even the scientific disciplines can be demonic.
+Likewise, those patterns of reality that point us away from Christ, away from Truth, these are fallen spirits, including political ideologies, nation states, central banks, scientific disciplines, and all the powers and principalities we struggle against.
 You can know them by their fruits.
 For example, if your study of biology leads you to conclude that gender is a man-made social construct, and that a man can transition into a woman, then you are not participating in an angelic spirit, you are participating in a demonic spirit.
 
@@ -377,7 +377,7 @@ According to pseudo-Dionysus the Areopagite, in his book
 This hierarchy, while speculative, demonstrates layers of mediation between God and fallen man. The highest order is nearest to God, and the lowest order is nearest to man.
 
 !!! question "Why are all ranks still referred to as *'angels'*?"
-    *Angel* simply means messenger, which is both a rank as well as how we refer to all of these celestial beings (regardless of rank). This is because, like man, they are created in the image and likeness of God, which means they perform God's will. Thus by their very nature they are divine messenging beings.
+    *Angel* simply means messenger, which is both a rank as well as how we refer to all of these celestial beings (regardless of rank). This is because, like man, they are created in the image and likeness of God, which means they perform God's will. By their very nature they are divine messenging beings.
 
 
 
@@ -477,15 +477,15 @@ They are incorporeal (compared to man), immortal, intellectual spirits with free
 Any light they produce is derivative and they cannot create ex-nihilo.
 
 Importantly, demons are completely subject and obedient to God -- not by their choice but by His divine nature.
-This is fortunate for us, as these spirits hate God and want to hurt you and your family.
+This is fortunate for us, as these spirits hate God and want to hurt you and your family (all a consequence of their rebellion).
 Despite their hatred and rebellion, God allows their continued existence so as to serve His will, including the redemption of man.
 
 These spirits were created good, as God does not create evil.
 God created them with free-will and allows evil only so that good may arise from evil.
 
-It is worth remembering that evil is not a thing (substance nor energy) in itself. Evil is simply the absence of good, much like darkness is simply the absence of light. And interestingly, demons are associated with darkness exactly as they are associated with evil.
+It is worth remembering that evil is not a thing (substance nor energy) in itself. Evil is simply the absence of good, much like darkness is simply the absence of light. And interestingly, demons are associated with darkness exactly as they are associated with evil and death.
 
-In practical terms, demons work to reduce creation back to chaos and emptiness, back to nothingness, to undo creation as it were.
+In practical terms, demons work to reduce creation back to chaos and emptiness, back to nothingness, to undo creation as it were (which is what it means for a created being to rebel against their uncreated creator).
 In this way, demons can be thought of as chaos monsters, reducing creation back into a formless void (chaotic emptiness).
 Their continued existence is thus inextricably linked to death, where the forces of death are conversely an inextricable part of the continuation of new life.
 
@@ -520,7 +520,7 @@ By tradition, this serpent was a seraphim, the highest of the heavenly hosts, on
 ### Sin
 
 The second great evil (after death) is sin.
-Sin entered the world and led to a near complete corruption of mankind where only Noah was saved.
+Sin entered the world and led to a near complete corruption of mankind where only Noah and his family were saved.
 
 !!! quote "Genesis 4:6-7"
     And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen? If thou doest well, shalt thou not be accepted? and if thou doest not well, **sin lieth at the door**. And unto thee shall be his desire, and thou shalt rule over him.
