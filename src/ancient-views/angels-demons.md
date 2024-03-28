@@ -42,6 +42,12 @@ Yet there's also references to other spiritual beings such as thrones, dominions
 And there's references to archangels, hinting not only to job titles but instead to a rank, a hierarchy.
 Additionally, there's references to heavenly hosts, to "sons of God", to cherubim and seraphim, rephaim, and of course nephilim -- the famed *giants* precipitating the great flood.
 
+
+???+ example "Isaiah 6:2"
+    Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.
+    <center>![seraphim](/images/cherubim.jpg)</center>
+
+
 And most striking, there's even references to other gods.
 While modern Christians view the idea of mythological gods as fairy tales, they must ignore their own Bibles while doing so. 
 Ancient Christians understood all of these biblical references to foreign "gods" as being created spirits (usually fallen angels).
@@ -350,9 +356,6 @@ It is everywhere we look -- and Christ is the Lord of Spirits.
 
 
 ### Hierarchy
-
-???+ example "cherubim"
-    <center>![cherubim](/images/cherubim.jpg)</center>
 
 According to pseudo-Dionysus the Areopagite, in his book
  [Celestial Hierarchy](http://esoteric.msu.edu/VolumeII/CelestialHierarchy.html),
