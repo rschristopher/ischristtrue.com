@@ -10,7 +10,7 @@ Is everyone worshipping the same God?
 
 In short, no.
 
-Second temple Judiasm is the soil from which Christianity emerged -- in other words, where Christ was born, died, rose from the dead, and ascended into heaven, ruling creation in the midst of his enemies.
+Second temple Judiasm is the soil from which Christianity emerged -- in other words, where Christ was born, died, rose from the dead, and ascended into heaven, ruling creation in the midst of His enemies.
 
 The Logos incarnate
 
