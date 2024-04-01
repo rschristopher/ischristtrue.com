@@ -33,7 +33,7 @@ Daoism
 
 
 The closest we get to syncretism in orthodox Christianity is the revelation that the other "gods" are created beings, thus not "gods" by any reasonable definition.
-For example, Himduism is not worshipping the same God, but rather they are worshipping created spirits.
+For example, Hinduism is not worshipping the same God, but rather they are worshipping created spirits.
 
 What about heterodox Christians?
 Do they worship the same God but incorrectly?
