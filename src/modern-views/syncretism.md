@@ -44,7 +44,7 @@ Christ meets us where we are -- like a shepherd seeking lost sheep -- and He gui
 The antichrist also meets us ehere we are, but does not guide as back; in his lies he claims we are good where we are, and that the flock should cone to us, a faux compassion of false accrptance (acceptance of sin and evil as good).
 
 Many modeen Christians are participating in the spirit of antichrist.
-It is the sporit of our times, our [modern](index.md) worldview of continuous destructive revolution.
+It is the spirit of our times, our [modern](index.md) worldview of continuous destructive revolution.
 
 
 
