@@ -25,7 +25,7 @@ Islam denies that Christ is God.
 
 
 
-This can be a rather difficult topic, as we're forced into the uncomfortable proposition that other beliefs, include many modern Christian beliefs (such as mormonism) are not just wrong but also heretical and blasphemous.
+This can be a rather difficult topic, as we're forced into the uncomfortable proposition that other beliefs, including many modern Christian beliefs (such as mormonism) are not just wrong but also heretical and blasphemous.
 
 Buddhism
 
@@ -41,9 +41,9 @@ Or do they worship the antichrist?
 
 To discern, we can know them by their fruits, and where they would lead a believer.
 Christ meets us where we are -- like a shepherd seeking lost sheep -- and He guides the lost souls back to paradise.
-The antichrist also meets us ehere we are, but does not guide as back; in his lies he claims we are good where we are, and that the flock should cone to us, a faux compassion of false accrptance (acceptance of sin and evil as good).
+The antichrist also meets us where we are, but does not guide as back; in his lies he claims we are good where we are, and that the flock should cone to us, a faux compassion of false acceptance (acceptance of sin and evil as good).
 
-Many modeen Christians are participating in the spirit of antichrist.
+Many modern Christians are participating in the spirit of antichrist.
 It is the spirit of our times, our [modern](index.md) worldview of continuous destructive revolution.
 
 
