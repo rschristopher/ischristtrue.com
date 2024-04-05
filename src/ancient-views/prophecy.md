@@ -38,7 +38,29 @@ And that rather than prophecy about exile in Babylon, it must have been written 
 Perhaps the reason moderm scholars don't go that far is because the evidence is against them. There are copies of Isaiah centuries before before Christ.
 
 And importantly there are no ancient copies of Isaiah that stopped at Isaiah 39, which would be an abrupt and awkward stopping place.
+The [oldest](https://en.m.wikipedia.org/wiki/Isaiah_Scroll) surviving copy of Isaiah is from the dead sea scrolls and it includes the entirety of what today is Isaiah 1 through 66.
+There was no seperation between Isaiah 39 and 40, in fact, ancient commentaries from the early church fathers make it clear that Isaiah is to be understood holistically and not in sections with different audiences specific to different time periods.
 
 Truth is Christ, not the heretic musings and "textual criticism" from anti-Christian scholars.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
