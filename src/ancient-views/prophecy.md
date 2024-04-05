@@ -28,20 +28,35 @@ The conjecture of Deutero-Isaiah is that these were written centuries apart and 
     These things Isaiah said when he saw His glory and spoke of Him.
 
 
-Thr gospel of John confirms it was the same Isaiah, aa he quotes from Isaiah 6 and from Isaiah 53.
+Thr gospel of John confirms it was the same Isaiah, as he quotes from Isaiah 6 and from Isaiah 53, and connects them with "because Isaiah said again".
 
 "Textual criticism" that yields wild speculations based on no evidence should be called out as heresy.
 
-The argumeny is essentially that the "tone" of the earlier sections of Isaiah are different than the later sections.
-And that rather than prophecy about exile in Babylon, it must have been written during exile. But why stop there? Isaiah 53 makes a clear prophecy with a unique "tone" that is clearly referring to Christ. Why not claim a third Isaiah that wrote about Christ?
+To be clear, there is no evidence and only "textual criticism" and a modern interpretation of Isaiah to back the notion that there are multiple authors.
+The argument is essentially that the "tone" of the earlier sections of Isaiah are different than the later sections, which doesn't hold up under scrutiny as earlier sections of Isaiah also use the same prophetic tone, such as in Isaiah 6.
+And because Isaiah 40-55 speaks specifically about exile in Babylon, it must have been written during that exile. 
+However this assumes that all of the chapters after Isaiah 39 were written to an audience in exile under Babylon. 
+Isaiah 53 makes a clear prophecy with a unique "tone" that is clearly referring to Christ, and it refers to this "suffering servant" as if it had already happened. Christ did not arise or ascend during Babylonian exile. 
+The audience for these sections of Isaiah is not specific to Babylonian exile.
+Very clearly the audience of Isaiah are universal.
 
-Perhaps the reason moderm scholars don't go that far is because the evidence is against them. There are copies of Isaiah centuries before before Christ.
+Imagine an Israelite in the 2nd centure BC reading these sections; it would be as difficult to understand as modern day interpretations of the Book of Revelation. 
+Isaiah is clearly is referring to an unfulfilled prophecy, because at that point Israel was no longer under Babylonian rule, but the events in "Deutero Isaiah" had not yet occurred.
 
-And importantly there are no ancient copies of Isaiah that stopped at Isaiah 39, which would be an abrupt and awkward stopping place.
+Importantly there are no ancient copies of Isaiah that stopped at Isaiah 39, which would be an abrupt and awkward stopping place in any age.
+The evidence points to the contrary, that what we call Isaiah 40-66 was present during the life of the prophet Isaiah.
 The [oldest](https://en.m.wikipedia.org/wiki/Isaiah_Scroll) surviving copy of Isaiah is from the dead sea scrolls and it includes the entirety of what today is Isaiah 1 through 66.
-There was no seperation between Isaiah 39 and 40, in fact, ancient commentaries from the early church fathers make it clear that Isaiah is to be understood holistically and not in sections with different audiences specific to different time periods.
+There was no seperation between Isaiah 39 and 40, in fact, the partitioning that existed connected 39 and 40 as if they were in the same section. 
 
-Truth is Christ, not the heretic musings and "textual criticism" from anti-Christian scholars.
+Ancient commentaries from the early church fathers make it clear that Isaiah is to be understood holistically and not in piecemeal with different audiences specific to different time periods.
+
+Why would this matter?
+
+Breaking Isaiah into sections forces a context that is otherwise not present; it forces us to imagine that Israel before the Babylonian exile had no access to Isaiah 40-66, which significantly narrows the scope of Isaiah 1-39, specifically by removing Christ.
+By this "textual criticism", the prophecied figure of Christ in Isaiah 53 was only made in the narrow context to Israel living under Babylonian exile.
+This is intentionally pointing away from Christ, removing Christ from the first half of Isaiah, which can be refuted by Christ's own words in John 12:37-41.
+
+Truth is Christ, the alpha and the omega, not the heretic musings and "textual criticism" from scholars under the sway of the spirit of antichrist.
 
 
 
