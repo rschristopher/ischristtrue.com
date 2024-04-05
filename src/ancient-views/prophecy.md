@@ -16,7 +16,7 @@ Deutero-Isaiah
 The conjecture of Deutero-Isaiah is that these were written centuries apart and by different authors.
 
 
-!!! quote “John 12:37-41”
+!!! quote "John 12:37-41"
     But although He had done so many signs before them, they did not believe in Him, that the word of Isaiah the prophet might be fulfilled, which he spoke:
     
     “Lord, who has believed our report? And to whom has the arm of the Lord been revealed?”
