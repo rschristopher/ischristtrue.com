@@ -3,6 +3,28 @@
 
 Isaiah
 
+1-12 focuses on Jerusalem’s judgment and hope. 
+
+13-27 explores judgment and hope for the nations. 
+
+28-39 details Jerusalem’s fall. 
+
+40-48 offers hope after exile. 
+
+49-55 introduces the suffering servant. 
+
+56-66 concludes with hope for a new creation.
+
+
+
+
+
+
+
+
+
+
+
 Deutero-Isaiah
 
 
