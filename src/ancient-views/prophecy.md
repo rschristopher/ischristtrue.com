@@ -85,10 +85,11 @@ The trinity, the Lord's Servant is necessarily Christ Jesus...
     
     Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.
 
-And in many orthodox churches, after each communion of the Eucharist, the priest repeats these words:
+In many orthodox churches, after each communion with the Eucharist, the priest repeats these words:
 
 > Behold this hath touched thy lips, and taketh away all thine iniquities and purgeth all thy sins
 
+The bread and wine, the body and blood of Christ, is like the live coal that purges sin.
 
 
 56-66 final judgment and salvation
