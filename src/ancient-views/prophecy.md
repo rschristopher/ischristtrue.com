@@ -15,8 +15,12 @@ Isaiah
 
 40-49 
 
-!!! quote "Isaiah 40:1"
+!!! quote "Isaiah 40:1" ... 49:13
     "Comfort, yes, comfort My people!"
+
+    ...
+
+    Sing, O heavens! Be joyful, O earth! And break out in singing, O mountains! For the LORD has comforted His people, And will have mercy on His afflicted.
 
 hope and comfort during future (Babylonian) exile, prophecy about John the Baptist, and the coming of the word/Logos, the redeemer, the preincarnate Logos.
 Warning against idols, against man-made images, deceit from false gods (fallen spirits), contrasted with the true icon of God in the redeemer, the coming savior (in whom My soul delights), who is God.
@@ -36,9 +40,7 @@ The servant, redeemer, savior, who necessarily is God yet also born of His mothe
 
 !!! quote "Isaiah 49:6"
     Indeed He says, "It is too small a thing that You should be My Servant To raise up the tribes of Jacob, And to restore the preserved ones of Israel; I will also give You as a light to the Gentiles, That You should be My salvation to the ends of the earth."
-
-!!! quote "Isaiah 49:13"
-    Sing, O heavens! Be joyful, O earth! And break out in singing, O mountains! For the LORD has comforted His people, And will have mercy on His afflicted.
+    
 
 And the Lord will not forget His people. He will not forget Israel.
 
