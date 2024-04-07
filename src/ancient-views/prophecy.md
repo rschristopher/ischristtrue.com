@@ -13,7 +13,7 @@ Isaiah
 
 break in Great Isaiah Scroll
 
-34-35 ...?
+34-35 ...judgment and redemption of the nations
 
 36-39 retelling of Hezekaiah and the fall and redemption of Judea to Assyria and prophecied Babylonian exile, 2 Kings 18-20 and 2 Chronicles 29-32.
 
