@@ -9,7 +9,11 @@ Isaiah
 
 13-27 
 
-28-35 final judgment and hell
+28-33 final judgment and hell
+
+break in Great Isaiah Scroll
+
+34-35 ...?
 
 36-39 retelling of Hezekaiah and the fall and redemption of Judea to Assyria and prophecied Babylonian exile, 2 Kings 18-20 and 2 Chronicles 29-32.
 
