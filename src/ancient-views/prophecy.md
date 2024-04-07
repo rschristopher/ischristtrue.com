@@ -68,9 +68,15 @@ Servant of the Lord
 !!! quote "Isaiah 50:6"
     I gave My back to those who struck Me, And My cheeks to those who plucked out the beard; I did not hide My face from shame and spitting.
 
-53
 
-54
+Fear only the Lord.
+
+The trinity, the Lord's Servant is necessarily Christ Jesus...
+
+!!! quote "Isaiah 53:5"
+    But he was pierced for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
+
+
 
 !!! quote "Isaiah 6:6-7 ... Isaiah 54:16"
     Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar: And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.
@@ -85,7 +91,7 @@ And in many orthodox churches, after each communion of the Eucharist, the priest
 
 
 
-56-66 concludes with hope for a new creation.
+56-66 final judgment and salvation
 
 
 
