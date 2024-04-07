@@ -63,6 +63,10 @@ And the Lord will not forget His people. He will not forget Israel.
 
 
 50-55 
+Servant of the Lord
+
+!!! quote "Isaiah 50:6"
+    I gave My back to those who struck Me, And My cheeks to those who plucked out the beard; I did not hide My face from shame and spitting.
 
 
 
