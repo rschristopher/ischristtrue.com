@@ -5,6 +5,18 @@ Isaiah
 
 8th century BC
 
+A prophetic text that can only be undrtstood in unity and never in parts.
+
+!!! quote "Isaiah 1:2 ... 66:24"
+    Hear, O heavens, and give ear, O earth! For the LORD has spoken: "I have nourished and brought up children, And they have rebelled against Me"
+
+    ...
+
+    "And it shall come to pass That from one New Moon to another, And from one Sabbath to another, All flesh shall come to worship before Me," says the LORD.
+    "And they shall go forth and look Upon the corpses of the men Who have transgressed against Me. For their worm does not die, And their fire is not quenched. They shall be an abhorrence to all flesh." 
+
+
+
 1-12 
 
 13-27 
