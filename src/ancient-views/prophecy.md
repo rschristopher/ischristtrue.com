@@ -7,7 +7,7 @@ Isaiah
 
 A prophetic text that can only be undrtstood in unity and never in parts.
 
-!!! quote "Isaiah 1:2 ... 66:24"
+!!! quote "Isaiah 1:2 ... 66:23-24"
     Hear, O heavens, and give ear, O earth! For the LORD has spoken: "I have nourished and brought up children, And they have rebelled against Me"
 
     ...
