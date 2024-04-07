@@ -19,7 +19,7 @@ break in Great Isaiah Scroll
 
 40-49 
 
-!!! quote "Isaiah 40:1" ... 49:13
+!!! quote "Isaiah 40:1 ... 49:13"
     "Comfort, yes, comfort My people!"
 
     ...
