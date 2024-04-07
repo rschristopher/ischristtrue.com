@@ -68,6 +68,21 @@ Servant of the Lord
 !!! quote "Isaiah 50:6"
     I gave My back to those who struck Me, And My cheeks to those who plucked out the beard; I did not hide My face from shame and spitting.
 
+53
+
+54
+
+!!! quote "Isaiah 6:6-7 ... Isaiah 54:16"
+    Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar: And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.
+
+    ...
+    
+    Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.
+
+And in many orthodox churches, after each communion of the Eucharist, the priest repeats these words:
+
+> Behold this hath touched thy lips, and taketh away all thine iniquities and purgeth all thy sins
+
 
 
 56-66 concludes with hope for a new creation.
