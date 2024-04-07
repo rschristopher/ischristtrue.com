@@ -3,13 +3,17 @@
 
 Isaiah
 
-1-12 focuses on Jerusalem’s judgment and hope. 
+8th century BC
+
+1-12 judgment and hope
 
 13-27 explores judgment and hope for the nations. 
 
-28-39 details Jerusalem’s fall. 
+28-35 final judgment and hell
 
-40-48 offers hope after exile. 
+36-39 retelling of Hezekaiah and the fall and redemption of Judea to Assyria and prophecied Babylonian exile, see 2 Kings 18-20 and 2 Chronicles 29-32.
+
+40-48 offers hope after exile, prophecy about John the Baptist, 
 
 49-55 introduces the suffering servant. 
 
