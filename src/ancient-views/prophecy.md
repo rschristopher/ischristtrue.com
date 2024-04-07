@@ -91,6 +91,14 @@ In many orthodox churches, after each communion with the Eucharist, the priest r
 
 The bread and wine, the body and blood of Christ, is like the live coal that purges sin.
 
+New covenant, everlasting covenant of peace...
+
+
+
+
+
+
+
 
 56-66 final judgment and salvation
 
