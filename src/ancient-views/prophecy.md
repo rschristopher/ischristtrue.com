@@ -21,7 +21,10 @@ https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testamen
 
 ## Isaiah
 
-https://www.oca.org/saints/lives/2021/05/09/101331-prophet-isaiah
+https://www.orthodox.net/10things/prophet-isaiah.html
+
+http://orthodoxbiblestudy.info/messianic-prophecies-and-the-fall-of-satan/
+
 
 
 8th century BC
