@@ -1,7 +1,7 @@
 # Prophecy
 
 
-Isaiah
+## Isaiah
 
 8th century BC
 
@@ -78,7 +78,7 @@ The trinity, the Lord's Servant is necessarily Christ Jesus...
 
 Importantly, Isaiah's prophecies are recorded from the Lord, the suffering servant on the throne.
 He is introduced early on and is recorded by Isaiah throughout.
-And we see many parallels in the early chapters that are repeated in later chapters representing theaat judgment. For example:
+And we see many parallels in the early chapters that are repeated in later chapters representing the last judgment. For example:
 
 !!! quote "Isaiah 6:6-7 ... Isaiah 54:16"
     Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar: And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.
@@ -91,7 +91,7 @@ In many orthodox churches, after each communion with the Eucharist, the priest r
 
 > Behold this hath touched thy lips, and taketh away all thine iniquities and purgeth all thy sins
 
-The bread and wine, the body and blood of Christ, is the live coal carried by a seraphim that purges sin.
+The bread and wine, the body and blood of Christ, are as the live coal carried by a seraphim that purges sin.
 
 New covenant, everlasting covenant of peace...
 
