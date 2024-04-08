@@ -1,4 +1,22 @@
 # Prophecy
+<!--
+
+Lord Jesus Christ, Son of God
+Have mercy on me, a sinner
+
+Guide me Lord
+That I may articulate your wisdom and the words of prophecy.
+Grant me wisdom, eyes to see, ears to hear; that I may know the Spirit of Truth that is in these books; that your words of truth may reach me.
+May these pages guide towards your glory, that I may seek refuge and shelter, that I may be saved, that I may love you Lord, as you have loved me despite my unworthiness.
+
+
+
+-->
+
+
+
+https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets
+
 
 
 ## Isaiah
