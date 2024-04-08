@@ -21,6 +21,9 @@ https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testamen
 
 ## Isaiah
 
+https://www.oca.org/saints/lives/2021/05/09/101331-prophet-isaiah
+
+
 8th century BC
 
 A prophetic text that can only be understood in unity and never in parts.
