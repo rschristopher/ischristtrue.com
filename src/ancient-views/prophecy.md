@@ -26,6 +26,15 @@ https://www.orthodox.net/10things/prophet-isaiah.html
 http://orthodoxbiblestudy.info/messianic-prophecies-and-the-fall-of-satan/
 
 
+Root of Jesse
+
+!!! quote "Isaiah 11:1-2"
+    And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots: And the spirit of the LORD shall rest upon him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the LORD
+
+Jesse is David's father, the savior will come from the lineage of David and sit eternally on the throne of David.
+
+Rod and staff, of a king, of a shepherd
+
 
 8th century BC
 
