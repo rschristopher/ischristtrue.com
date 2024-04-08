@@ -76,7 +76,9 @@ The trinity, the Lord's Servant is necessarily Christ Jesus...
 !!! quote "Isaiah 53:5"
     But he was pierced for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
 
-
+Importantly, Isaiah's prophecies are recorded from the Lord, the suffering servant on the throne.
+He is introduced early on and is recorded by Isaiah throughout.
+And we see many parallels in the early chapters that are repeated in later chapters representing theaat judgment. For example:
 
 !!! quote "Isaiah 6:6-7 ... Isaiah 54:16"
     Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar: And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.
@@ -85,11 +87,11 @@ The trinity, the Lord's Servant is necessarily Christ Jesus...
     
     Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.
 
-In many orthodox churches, after each communion with the Eucharist, the priest repeats these words:
+In many orthodox churches, after each communion with the Eucharist, the priest repeats the words from prophecy:
 
 > Behold this hath touched thy lips, and taketh away all thine iniquities and purgeth all thy sins
 
-The bread and wine, the body and blood of Christ, is like the live coal that purges sin.
+The bread and wine, the body and blood of Christ, is the live coal carried by a seraphim that purges sin.
 
 New covenant, everlasting covenant of peace...
 
@@ -114,30 +116,32 @@ New covenant, everlasting covenant of peace...
 
 Deutero-Isaiah
 
+Lets comsider the following two passages from "proto-Isaiah" and one from "deutero-Isaiah":
 
-
-!!! quote "Isaiah 6:10"
+!!! quote "Isaiah 6:10 ... Isaiah 53:1"
     “Make the heart of this people dull, And their ears heavy, And shut their eyes; Lest they see with their eyes, And hear with their ears, And understand with their heart, And return and be healed.”
 
-!!! quote "Isaiah 53:1"
+    ... 
+    
     Who has believed our report? And to whom has the arm of the LORD been revealed?
 
 The conjecture of Deutero-Isaiah is that these were written centuries apart and by different authors.
+However, this contradicts the witness of scripture and of tradition.
 
 
 !!! quote "John 12:37-41"
     But although He had done so many signs before them, they did not believe in Him, that the word of Isaiah the prophet might be fulfilled, which he spoke:
     
-    “Lord, who has believed our report? And to whom has the arm of the Lord been revealed?”
+    *“Lord, who has believed our report? And to whom has the arm of the Lord been revealed?”*
     
     Therefore they could not believe, because Isaiah said again:
     
-    “He has blinded their eyes and hardened their hearts, Lest they should see with their eyes, Lest they should understand with their hearts and turn, So that I should heal them.”
+    *“He has blinded their eyes and hardened their hearts, Lest they should see with their eyes, Lest they should understand with their hearts and turn, So that I should heal them."*
     
     These things Isaiah said when he saw His glory and spoke of Him.
 
 
-Thr gospel of John confirms it was the same Isaiah, as he quotes from Isaiah 6 and from Isaiah 53, and connects them with "because Isaiah said again".
+Thr gospel of John confirms it was the same Isaiah, as he quotes from Isaiah 6 and from Isaiah 53, and connects them with "because Isaiah said again", referring clearly to the person and not the "book of Isaiah".
 
 "Textual criticism" that yields wild speculations based on no evidence should be called out as heresy.
 
@@ -147,10 +151,10 @@ And because Isaiah 40-55 speaks specifically about exile in Babylon, it must hav
 However this assumes that all of the chapters after Isaiah 39 were written to an audience in exile under Babylon. 
 Isaiah 53 makes a clear prophecy with a unique "tone" that is clearly referring to Christ, and it refers to this "suffering servant" as if it had already happened. Christ did not arise or ascend during Babylonian exile. 
 The audience for these sections of Isaiah is not specific to Babylonian exile.
-Very clearly the audience of Isaiah are universal.
+Very clearly the audience of Isaiah is universal.
 
-Imagine an Israelite in the 2nd centure BC reading these sections; it would be as difficult to understand as modern day interpretations of the Book of Revelation. 
-Isaiah is clearly is referring to an unfulfilled prophecy, because at that point Israel was no longer under Babylonian rule, but the events in "Deutero Isaiah" had not yet occurred.
+Imagine an Israelite in the 2nd century BC reading these sections; it would be as difficult to understand as modern day interpretations of the Book of Revelation. 
+Isaiah is clearly referring to an unfulfilled prophecy, because at that point Israel was no longer under Babylonian rule, but the events in "Deutero Isaiah" had not yet occurred.
 
 Importantly there are no ancient copies of Isaiah that stopped at Isaiah 39, which would be an abrupt and awkward stopping place in any age.
 The evidence points to the contrary, that what we call Isaiah 40-66 was present during the life of the prophet Isaiah.
