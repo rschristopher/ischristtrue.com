@@ -9,8 +9,6 @@ That I may articulate your wisdom and the words of prophecy.
 Grant me wisdom, eyes to see, ears to hear; that I may know the Spirit of Truth that is in these books; that your words of truth may reach me.
 May these pages guide towards your glory, that I may seek refuge and shelter, that I may be saved, that I may love you Lord, as you have loved me despite my unworthiness.
 
-
-
 -->
 
 
@@ -26,9 +24,12 @@ https://www.orthodox.net/10things/prophet-isaiah.html
 http://orthodoxbiblestudy.info/messianic-prophecies-and-the-fall-of-satan/
 
 
-8th century BC
+8th century BC, specifically around 739 BC through 701 BC
 
-A prophetic text that can only be understood in unity and never in parts.
+A prophetic text that can only be understood in unity and not in discrete parts.
+There are many repeated prophetic themes that apply both to a specific historical context while simultaneously to future context including the last judgment.
+
+Fractal structure with multiple layers of linear story telling weaved together.
 
 !!! quote "Isaiah 1:2 ... 66:23-24"
     Hear, O heavens, and give ear, O earth! For the LORD has spoken: "I have nourished and brought up children, And they have rebelled against Me"
@@ -57,13 +58,18 @@ Rod and staff, of a king, of a shepherd
 
 28-33 final judgment and hell
 
+----
+
 break in Great Isaiah Scroll
+
+----
+
 
 34-35 ...judgment and redemption of the nations
 
 36-39 retelling of Hezekaiah and the fall and redemption of Judea to Assyria and prophecied Babylonian exile, 2 Kings 18-20 and 2 Chronicles 29-32.
 
-40-49 
+40-49 comfort..
 
 !!! quote "Isaiah 40:1 ... 49:13"
     "Comfort, yes, comfort My people!"
@@ -110,7 +116,7 @@ The trinity, the Lord's Servant is necessarily Christ Jesus...
 !!! quote "Isaiah 53:5"
     But he was pierced for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
 
-Importantly, Isaiah's prophecies are recorded from the Lord, the suffering servant on the throne.
+Importantly, Isaiah's prophecies are spoken by the Lord, who is the suffering servant on the throne.
 He is introduced early on and is recorded by Isaiah throughout.
 And we see many parallels in the early chapters that are repeated in later chapters representing the last judgment. For example:
 
