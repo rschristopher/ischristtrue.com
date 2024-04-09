@@ -55,6 +55,22 @@ Rod and staff, of a king, of a shepherd
 
 
 13-27 
+Babylon, 
+Restoration of Israel, 
+Song of contempt against the king of Babylon (Satan in the pit), 
+God will strike down Assyria, 
+Philistia, 
+Moab, 
+Damascus, 
+Cush, 
+... harvast, and then gifts will be brought to the Lord of Hosts ...
+Egypt.
+
+20 Isaiah naked and barefoot
+
+
+
+
 
 28-33 final judgment and hell
 
