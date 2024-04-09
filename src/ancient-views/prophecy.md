@@ -66,7 +66,13 @@ Cush,
 ... harvast, and then gifts will be brought to the Lord of Hosts ...
 Egypt.
 
-20 Isaiah naked and barefoot
+20 Isaiah naked and barefoot, as an omen against Egypt and Cush
+
+21 watchman, fall of Babylon, Edom, Arabia
+
+22 Shebna 
+
+
 
 
 
