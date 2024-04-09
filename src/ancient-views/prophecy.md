@@ -72,7 +72,9 @@ Egypt.
 
 22 Shebna 
 
+23 Tyre
 
+24 Jusgment of earth
 
 
 
