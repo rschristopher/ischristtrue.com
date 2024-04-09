@@ -74,7 +74,13 @@ Egypt.
 
 23 Tyre
 
-24 Jusgment of earth
+24 Jusgment of earth, end times
+
+25 praise God
+
+26 song of salvation
+
+27 slay leviathan, final days of judgment
 
 
 
