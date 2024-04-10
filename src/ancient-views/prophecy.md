@@ -54,7 +54,7 @@ Rod and staff, of a king, of a shepherd
 
 
 
-13-27 
+13-19 
 Babylon, 
 Restoration of Israel, 
 Song of contempt against the king of Babylon (Satan in the pit), 
@@ -74,7 +74,7 @@ Egypt.
 
 23 Tyre
 
-24 Jusgment of earth, end times
+24 Judgment of earth, end times
 
 25 praise God
 
@@ -92,7 +92,8 @@ Egypt.
 
 32 righteous king is coming, and princes to rule ... do not be complacent but turn to the Lord
 
--33 final judgment and hell
+-33 fall of satan, exalt the Lord, consuming fire, final judgment, Zion forgiven
+
 
 ----
 
