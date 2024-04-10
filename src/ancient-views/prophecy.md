@@ -88,9 +88,9 @@ Egypt.
 
 30 redemption,
 
-31 egypt
+31 do not rely on Egypt, but only on the Lord who brought you out of Egypt
 
-32
+32 righteous king is coming, and princes to rule ... do not be complacent but turn to the Lord
 
 -33 final judgment and hell
 
