@@ -86,7 +86,11 @@ Egypt.
 
 29 Ariel,
 
-30 
+30 redemption,
+
+31 egypt
+
+32
 
 -33 final judgment and hell
 
