@@ -82,11 +82,13 @@ Egypt.
 
 27 slay leviathan, final days of judgment
 
+28 Ephraim, 
 
+29 Ariel,
 
+30 
 
-
-28-33 final judgment and hell
+-33 final judgment and hell
 
 ----
 
