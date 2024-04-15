@@ -124,12 +124,22 @@ break in Great Isaiah Scroll
 
 hope and comfort during future (Babylonian) exile, prophecy about John the Baptist, and the coming of the word/Logos, the redeemer, the preincarnate Logos.
 Warning against idols, against man-made images, deceit from false gods (fallen spirits), contrasted with the true icon of God in the redeemer, the coming savior (in whom My soul delights), who is God.
-43!!!
-The LORD formed you from the womb. You, through His redemption, are an icon of God, not molten things man-made, redeemer must be God made.
+
+43
+!!! quote "Isaiah 43:10-13"
+    You are My witnesses,” declares the LORD, “and My servant whom I have chosen, so that you may consider and believe Me and understand that I am He. 
+    Before Me no god was formed, and after Me none will come.
+    
+    I, yes I, am the LORD, and there is no Savior but Me. I alone decreed and saved and proclaimed— I, and not some foreign god among you. So you are My witnesses,” declares the LORD, “that I am God.
+    Even from eternity I am He, and none can deliver out of My hand. When I act, who can reverse it?”
+    
+    The LORD formed you from the womb. You, through His redemption, are an icon of God, not molten things man-made, redeemer must be God made.
 Cyrus the annointed (2 Chronicles 36:22-23), ruin Babylon, second temple shall be built...
 Dead idols vs Living God
 Fall of Babylon
-48 the pre-incarnate Logos reveals His plans for redemption of mam, for His own sake!
+
+48 
+the pre-incarnate Logos reveals His plans for redemption of mam, for His own sake!
 And the trinity is revealed!!
 
 !!! quote "Isaiah 48:16"
