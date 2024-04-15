@@ -54,17 +54,24 @@ Rod and staff, of a king, of a shepherd
 
 
 
-13-19 
-Babylon, 
-Restoration of Israel, 
+13 Babylon, overthrown by God
+
+14 Restoration of Israel, 
 Song of contempt against the king of Babylon (Satan in the pit), 
 God will strike down Assyria, 
 Philistia, 
-Moab, 
+
+15-16 Destruction of Moab
+
+17
 Damascus, 
+
+18 
 Cush, 
 ... harvast, and then gifts will be brought to the Lord of Hosts ...
-Egypt.
+
+19
+Egypt, delivered into harsh hands
 
 20 Isaiah naked and barefoot, as an omen against Egypt and Cush
 
