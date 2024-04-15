@@ -132,8 +132,21 @@ Warning against idols, against man-made images, deceit from false gods (fallen s
     
     I, yes I, am the LORD, and there is no Savior but Me. I alone decreed and saved and proclaimed— I, and not some foreign god among you. So you are My witnesses,” declares the LORD, “that I am God.
     Even from eternity I am He, and none can deliver out of My hand. When I act, who can reverse it?”
+
+Israrl given to the curse, yet what can be done?
+
+
+!!! quote "Isaiah 44:2-3 ... 44:24"
+    Thus saith the LORD that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen.
+    For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon thy seed, and my blessing upon thine offspring
+
+    ...
     
-    The LORD formed you from the womb. You, through His redemption, are an icon of God, not molten things man-made, redeemer must be God made.
+    Thus saith the LORD, thy redeemer, and he that formed thee from the womb, I am the LORD that maketh all things; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself.
+
+You, through His redemption, are an icon of God, not molten things man-made, redeemer must be God, not created.
+
+45
 Cyrus the annointed (2 Chronicles 36:22-23), ruin Babylon, second temple shall be built...
 Dead idols vs Living God
 Fall of Babylon
