@@ -156,7 +156,26 @@ Fall of Babylon
 
 46
 
+
+!!! quote "Isaiah 46:10-13"
+    Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:
+    
+    Calling a ravenous bird from the east, the man that executeth my counsel from a far country: yea, I have spoken it, I will also bring it to pass; I have purposed it, I will also do it.
+    
+    Hearken unto me, ye stouthearted, that are far from righteousness:
+    I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory.
+
+Salvation must be from God, for who else can save?
+Yet salvation here is not a concept, but a persom, a person who will overcome death, a person who must necessarily be the word of God.
+
 47
+Warning to Babylon 
+
+!!! quote "Isaiah 47:13-15"
+    Thou art wearied in the multitude of thy counsels. Let now the astrologers, the stargazers, the monthly prognosticators, stand up, and save thee from these things that shall come upon thee.
+    Behold, they shall be as stubble; the fire shall burn them; they shall not deliver themselves from the power of the flame: there shall not be a coal to warm at, nor fire to sit before it.
+    
+    Thus shall they be unto thee with whom thou hast laboured, even thy merchants, from thy youth: they shall wander every one to his quarter; none shall save thee.
 
 48 
 the pre-incarnate Logos reveals His plans for redemption of mam, for His own sake!
