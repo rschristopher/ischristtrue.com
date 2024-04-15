@@ -127,7 +127,7 @@ Warning against idols, against man-made images, deceit from false gods (fallen s
 
 43
 !!! quote "Isaiah 43:10-13"
-    You are My witnesses,” declares the LORD, “and My servant whom I have chosen, so that you may consider and believe Me and understand that I am He. 
+    "You are My witnesses,” declares the LORD, “and My servant whom I have chosen, so that you may consider and believe Me and understand that I am He. 
     Before Me no god was formed, and after Me none will come.
     
     I, yes I, am the LORD, and there is no Savior but Me. I alone decreed and saved and proclaimed— I, and not some foreign god among you. So you are My witnesses,” declares the LORD, “that I am God.
