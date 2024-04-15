@@ -151,6 +151,13 @@ Cyrus the annointed (2 Chronicles 36:22-23), ruin Babylon, second temple shall b
 Dead idols vs Living God
 Fall of Babylon
 
+!!! quote "Isaiah 45:19"
+    I have not spoken in secret, in a dark place of the earth: I said not unto the seed of Jacob, Seek ye me in vain: I the LORD speak righteousness, I declare things that are right.
+
+46
+
+47
+
 48 
 the pre-incarnate Logos reveals His plans for redemption of mam, for His own sake!
 And the trinity is revealed!!
