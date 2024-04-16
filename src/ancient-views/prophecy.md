@@ -195,13 +195,22 @@ And the Lord will not forget His people. He will not forget Israel.
 
 
 50-55 
-Servant of the Lord
+Servant of the Lord, who is the incarnate Logos, the word of God, speaking to Isaiah as the Lord God, the pre-incarnate Logos.
 
 !!! quote "Isaiah 50:6"
     I gave My back to those who struck Me, And My cheeks to those who plucked out the beard; I did not hide My face from shame and spitting.
 
+The servant speaks as both obediant and with complete authority, and often in the past tense.
 
-Fear only the Lord.
+!!! quote "Isaiah 51:6"
+    Lift up your eyes to the heavens, and look upon the earth beneath: for the heavens shall vanish away like smoke, and the earth shall wax old like a garment, and they that dwell therein shall die in like manner: but my salvation shall be for ever, and my righteousness shall not be abolished.
+
+Fear only the Lord God.
+
+The suffering servant, an "offering for sim".
+
+!!! quote "Isaiah 52:13-15"
+    Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high. As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men: So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider.
 
 The trinity, the Lord's Servant is necessarily Christ Jesus...
 
@@ -209,8 +218,8 @@ The trinity, the Lord's Servant is necessarily Christ Jesus...
     But he was pierced for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.
 
 Importantly, Isaiah's prophecies are spoken by the Lord, who is the suffering servant on the throne.
-He is introduced early on and is recorded by Isaiah throughout.
-And we see many parallels in the early chapters that are repeated in later chapters representing the last judgment. For example:
+He is introduced early on and is speaking to Isaiah throughout.
+And we see many parallels in the early chapters that are repeated in later chapters, often representing the last judgment. For example:
 
 !!! quote "Isaiah 6:6-7 ... Isaiah 54:16"
     Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar: And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.
@@ -245,8 +254,7 @@ New covenant, everlasting covenant of peace...
 
 
 
-
-Deutero-Isaiah
+### Deutero-Isaiah
 
 Lets comsider the following two passages from "proto-Isaiah" and one from "deutero-Isaiah":
 
