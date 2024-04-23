@@ -237,7 +237,8 @@ The bread and wine, the body and blood of Christ, are as the live coal carried b
 New covenant, everlasting covenant of peace...
 
 
-
+55
+The messianic age, an invitation to salvation and eternal life
 
 
 
@@ -245,6 +246,64 @@ New covenant, everlasting covenant of peace...
 
 56-66 final judgment and salvation
 
+
+
+56
+Salvation for the gentiles.
+The watchmmen are blind... the created spirits assigned dominion are blinded and we (hunans) can go to Him
+
+
+57
+Metciful men are taken away from evil.
+Righteous by works suffer without hope. Your idols will fall.
+Fear only the Lord.
+Trust only in the Lord.
+
+The humble will be saved, and healed.
+The wicked will have no peace.
+
+
+58
+Fasting that pleases God.
+Keep the Sabath, delight the Lord.
+
+
+59
+God is not beyond your reach, your sins are what turned you away
+-- only by His love are you free to sin, to not be destroyed instantly when turning away from the source life, from God.
+It is a darkness where truth cannot enter.
+
+New covenant.. there was no intercessor, no redeemer possible from man.
+Hence, the suffering aervant is necessatily Christ, the logos incarnate.
+
+
+60
+
+
+
+61
+
+
+
+62
+
+
+
+63
+
+
+
+
+64
+
+
+
+
+65
+
+
+
+66
 
 
 
