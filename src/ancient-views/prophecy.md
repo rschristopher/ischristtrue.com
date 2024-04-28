@@ -7,7 +7,8 @@ Have mercy on me, a sinner
 Guide me Lord
 That I may articulate your wisdom and the words of prophecy.
 Grant me wisdom, eyes to see, ears to hear; that I may know the Spirit of Truth that is in these books; that your words of truth may reach me.
-May these pages guide towards your glory, that I may seek refuge and shelter, that I may be saved, that I may love you Lord, as you have loved me despite my unworthiness.
+May these pages guide towards your glory, that I may seek refuge and shelter, that I may be saved, that I may love you Lord, as you have loved me despite my sin.
+Have mercy on me Lord.
 
 -->
 
@@ -278,7 +279,10 @@ Hence, the suffering aervant is necessatily Christ, the logos incarnate.
 
 
 60
+The kingdom shall be salvation and praise to all.
 
+!!! quote "Isaih 60:19-22"
+    “The sun shall no longer be your light by day, Nor for brightness shall the moon give light to you; But the Lord will be to you an everlasting light, And your God your glory. Your sun shall no longer go down, Nor shall your moon withdraw itself; For the Lord will be your everlasting light, And the days of your mourning shall be ended. Also your people shall all be righteous; They shall inherit the land forever, The branch of My planting, The work of My hands, That I may be glorified. A little one shall become a thousand, And a small one a strong nation. I, the Lord, will hasten it in its time.”
 
 
 61
@@ -304,7 +308,11 @@ Hence, the suffering aervant is necessatily Christ, the logos incarnate.
 
 
 66
+They chose that which the Lord did not delight..
+From Zion came a male child...
 
+!!! quote "Isaiah 66:23"
+    And it shall come to pass That from one New Moon to another, And from one Sabbath to another, All flesh shall come to worship before Me,” says the Lord.
 
 
 
