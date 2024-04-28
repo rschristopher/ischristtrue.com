@@ -306,6 +306,13 @@ prepare the way for salvation
 
 
 63
+Day of vengeance is at hand...
+
+!!! quote "Isaiah 63:3"
+    “I have trodden the winepress alone, And from the peoples no one was with Me. For I have trodden them in My anger, And trampled them in My fury; Their blood is sprinkled upon My garments, And I have stained all My robes.
+
+!!! quote "Revelation 19:15"
+    And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God.
 
 
 
@@ -325,6 +332,16 @@ From Zion came a male child...
 
 !!! quote "Isaiah 66:23"
     And it shall come to pass That from one New Moon to another, And from one Sabbath to another, All flesh shall come to worship before Me,” says the Lord.
+
+
+
+
+
+
+
+
+
+
 
 
 
