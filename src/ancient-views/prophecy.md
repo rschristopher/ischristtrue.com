@@ -318,11 +318,17 @@ Day of vengeance is at hand...
 
 
 64
-
+that you would end the heavens and come down...
 
 
 
 65
+God's grace and His judgment...
+New heavens and new earth...
+
+!!! quote "Isaiah 65:25"
+    The wolf and the lamb shall feed together, The lion shall eat straw like the ox, And dust shall be the serpent’s food. They shall not hurt nor destroy in all My holy mountain, Says the Lord.
+
 
 
 
