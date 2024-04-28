@@ -286,10 +286,22 @@ The kingdom shall be salvation and praise to all.
 
 
 61
+Everlasting covenant...
+righteousness and praise before all nations.
 
 
 
 62
+
+!!! quote "Isaiah 62:2"
+    The Gentiles shall see your righteousness, And all kings your glory. You shall be called by a new name, Which the mouth of the Lord will name.
+
+
+!!! quote "Matthew 1:21"
+    And she will bring forth a Son, and you shall call His name Jesus, for He will save His people from their sins.”
+
+prepare the way for salvation
+
 
 
 
