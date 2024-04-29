@@ -42,6 +42,48 @@ Fractal structure with multiple layers of linear story telling weaved together.
 
 
 
+
+
+
+
+
+
+
+
+### Before Christ
+
+Prophecies concerning the Davidic and Ezraitic ages, that is, Israel's continuous cycle of salvation and exile.
+
+...
+
+
+
+
+### After Christ
+
+Prophecies concerning the messiah, the suffering servant and His life and the following messianic age.
+
+
+
+
+### Final Judgment
+
+...
+
+
+
+
+
+### New Heaven
+
+...
+
+
+
+
+
+
+
 1-12 
 
 Root of Jesse
