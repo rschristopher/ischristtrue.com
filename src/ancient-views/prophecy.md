@@ -50,7 +50,7 @@ Fractal structure with multiple layers of linear story telling weaved together.
 
 
 
-### Before Christ
+### Old Covenant
 
 Prophecies concerning the Davidic and Ezraitic ages, that is, Israel's continuous cycle of salvation and exile.
 
@@ -59,7 +59,7 @@ Prophecies concerning the Davidic and Ezraitic ages, that is, Israel's continuou
 
 
 
-### After Christ
+### New Covenant, Messiah
 
 Prophecies concerning the messiah, the suffering servant and His life and the following messianic age.
 
