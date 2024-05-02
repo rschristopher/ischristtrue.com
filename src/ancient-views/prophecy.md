@@ -125,6 +125,10 @@ Fall of Babylon
 
 Prophecies concerning the messiah, the suffering servant and His life and the following messianic age.
 
+Isaiah 7 virgin shall..
+Isaiah 9 child is born..
+
+
 Root of Jesse
 
 !!! quote "Isaiah 11:1-2"
