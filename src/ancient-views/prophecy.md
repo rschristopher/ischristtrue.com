@@ -125,7 +125,9 @@ Fall of Babylon
 
 Prophecies concerning the messiah, the suffering servant and His life and the following messianic age.
 
-Isaiah 7 virgin shall..
+!!! quote "Isaiah 7:14"
+    Therefore the Lord Himself will give you a sign: Behold, the virgin shall conceive and bear a Son, and shall call His name Immanuel.
+
 Isaiah 9 child is born..
 
 
