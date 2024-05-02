@@ -121,6 +121,19 @@ Fall of Babylon
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### New Covenant, Messiah
 
 Prophecies concerning the messiah, the suffering servant and His life and the following messianic age.
@@ -128,7 +141,9 @@ Prophecies concerning the messiah, the suffering servant and His life and the fo
 !!! quote "Isaiah 7:14"
     Therefore the Lord Himself will give you a sign: Behold, the virgin shall conceive and bear a Son, and shall call His name Immanuel.
 
-Isaiah 9 child is born..
+
+!!! quote "Isaiah 9:6-7"
+    For unto us a Child is born, Unto us a Son is given; And the government will be upon His shoulder. And His name will be called Wonderful, Counselor, Mighty God, Everlasting Father, Prince of Peace. Of the increase of His government and peace There will be no end, Upon the throne of David and over His kingdom, To order it and establish it with judgment and justice From that time forward, even forever. The zeal of the Lord of hosts will perform this.
 
 
 Root of Jesse
