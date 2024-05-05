@@ -7,30 +7,33 @@ Have mercy on me, a sinner
 Guide me Lord
 That I may articulate your wisdom and the words of prophecy.
 Grant me wisdom, eyes to see, ears to hear; that I may know the Spirit of Truth that is in these books; that your words of truth may reach me.
-May these pages guide towards your glory, that I may seek refuge and shelter, that I may be saved, that I may love you Lord, as you have loved me despite my sin.
+May these pages guide towards your glory, that I may seek refuge and shelter, that I may be saved, that I may love you Lord, as you have loved me despite my many sins.
 Have mercy on me Lord.
 
 -->
 
 
+major prophets Isaiah, Jeremiah, Ezekiel and Daniel
 
-https://www.oca.org/orthodoxy/the-orthodox-faith/doctrine-scripture/old-testament/prophets
-
-
-
-## Isaiah
-
-https://www.orthodox.net/10things/prophet-isaiah.html
-
-http://orthodoxbiblestudy.info/messianic-prophecies-and-the-fall-of-satan/
+miner prophets (the book of twelve) Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, and Malachi
 
 
-8th century BC, specifically around 739 BC through 701 BC
 
-A prophetic text that can only be understood in unity and not in discrete parts.
-There are many repeated prophetic themes that apply both to a specific historical context while simultaneously to future context including the last judgment.
+## Major Prophets
 
-Fractal structure with multiple layers of linear story telling weaved together.
+
+
+
+
+
+### Isaiah
+
+
+Isaiah was a prophet in the 8th century BC, specifically around 739 BC through 701 BC.
+The book of Isaiah is best understood in unity and not necessarily in discrete parts.
+It is a fractal structure with multiple layers of linear story telling weaved together.
+There are many repeated prophetic themes that apply both to a specific historical context
+ while simultaneously to future prophecy including the last judgment.
 
 !!! quote "Isaiah 1:2 ... 66:23-24"
     Hear, O heavens, and give ear, O earth! For the LORD has spoken: "I have nourished and brought up children, And they have rebelled against Me"
@@ -42,15 +45,117 @@ Fractal structure with multiple layers of linear story telling weaved together.
 
 
 
+Isaiah tells the start of his prophetic mission in this extraordinary event:
+
+!!! quote "Isaiah 6:1-8"
+    In the year that King Uzziah died, I saw the Lord sitting on a throne, high and lifted up, and the train of His robe filled the temple. Above it stood seraphim; each one had six wings: with two he covered his face, with two he covered his feet, and with two he flew. And one cried to another and said: “Holy, holy, holy is the Lord of hosts; The whole earth is full of His glory!” And the posts of the door were shaken by the voice of him who cried out, and the house was filled with smoke.
+    
+    So I said: Woe is me, for I am undone!
+    Because I am a man of unclean lips,
+    And I dwell in the midst of a people of unclean lips;
+    For my eyes have seen the King,
+    The Lord of hosts.”
+    
+    Then one of the seraphim flew to me, having in his hand a live coal which he had taken with the tongs from the altar. And he touched my mouth with it, and said: “Behold, this has touched your lips; Your iniquity is taken away, And your sin purged.”
+
+    Also I heard the voice of the Lord, saying:
+    “Whom shall I send,
+    And who will go for Us?”
+    
+    Then I said, “Here am I! Send me.”
+
+
+By tradition, the Lord sitting on His throne is the pre-incarnate Jesus Christ, the Son of God.
+And the coal offered by the seraphim is a foreshadowing of the Eucharist.
+The bread and wine, the body and blood of Christ, are as the live coal carried by the seraphim that purges sin.
+In many orthodox churches, after each communion, the priest repeats these prophetic words from Isaiah:
+
+> Behold this hath touched thy lips, and taketh away all thine iniquities and purgeth all thy sins
+
+Additionally, and as was the case with many of the prophets, speaking truth angered those in power and Isaiah was martyred.
+In Jewish tradition, and at the time of Christ during the [second temple period](https://en.wikipedia.org/wiki/Second_Temple_period),
+ it was understood that Isaiah was sawn in half by King Manasseh.
+
+!!! quote "Hebrews 11:37-38"
+    They were stoned, they were sawn in two, were tempted, were slain with the sword. They wandered about in sheepskins and goatskins, being destitute, afflicted, tormented— of whom the world was not worthy. They wandered in deserts and mountains, in dens and caves of the earth.
 
 
 
 
 
+#### Authorship
+
+There are modern theories that Isaiah was written by multiple authors across several centuries.
+For example, the so-called *deutero-Isaiah* (*second* Isaiah) theory holds that Isaiah 1-39 was written separately from Isaiah 40-66,
+ and there's even a *Trito-Isaiah* theory suggesting that Isaiah 56-66 is from a 3rd author.
+
+Importantly, there's no evidence for multiple authorship and this is entirely a modern speculation based on "textual criticism",
+ which is to suggest that there's a different writing style in these sections.
+Let's examine two passages from these different "styles":
+
+!!! quote "Isaiah 6:10 ... Isaiah 53:1"
+    “Make the heart of this people dull, And their ears heavy, 
+    And shut their eyes; Lest they see with their eyes, And hear with their ears, 
+    And understand with their heart, And return and be healed.”
+
+    ... 
+    
+    Who has believed our report? And to whom has the arm of the LORD been revealed?
+
+The conjecture is that these were written centuries apart and by different authors.
+However, this contradicts the witness of scripture and of tradition.
+
+!!! quote "John 12:37-41"
+    But although He had done so many signs before them, they did not believe in Him, that the word of Isaiah the prophet might be fulfilled, which he spoke:
+    
+    *“Lord, who has believed our report? And to whom has the arm of the Lord been revealed?”*
+    
+    Therefore they could not believe, because Isaiah said again:
+    
+    *“He has blinded their eyes and hardened their hearts, Lest they should see with their eyes, Lest they should understand with their hearts and turn, So that I should heal them."*
+    
+    These things Isaiah said when he saw His glory and spoke of Him.
+
+
+Thr gospel of John confirms it was the same Isaiah, as he quotes from what we call Isaiah 6 and from Isaiah 53, and John connects them with "because Isaiah said again", referring clearly to the same person and not the "book of Isaiah".
+
+!!! warning "**Textual criticism** that yields wild speculations based on no evidence is likely pointing towards heresy."
+
+To be clear, there is no evidence and only a modern interpretation of Isaiah to back the notion that there were multiple authors.
+The argument is essentially that the "tone" of the earlier sections of Isaiah are different than the later sections, which doesn't hold up under scrutiny as earlier sections of Isaiah also use the same prophetic tone, such as in Isaiah 6.
+And this theory also suggests that because Isaiah 40-55 speaks specifically about exile in Babylon, it must have been written during that exile. 
+However this assumes that all of the chapters after Isaiah 39 were written to an audience in exile under Babylon.
+
+However, Isaiah 53 makes a clear prophecy with a unique "tone" that is clearly referring to Christ,
+ and it refers to Christ as if those events had already happened.
+Christ did not arise and ascend during Babylonian exile. 
+The audience for these sections of Isaiah is clearly not specific to Babylonian exile.
+
+Importantly, there are no ancient copies of Isaiah that stopped at Isaiah 39, which would be an abrupt and awkward stopping place in any age.
+The evidence points to the contrary, that what we call Isaiah 40-66 was present during the life of the prophet Isaiah.
+The [oldest](https://en.m.wikipedia.org/wiki/Isaiah_Scroll) surviving copy of Isaiah is from the dead sea scrolls and it includes the entirety of what today is Isaiah 1 through 66.
+There was no seperation between Isaiah 39 and 40, in fact, the partitioning that existed connected 39 and 40 as if they were in the same section
+ (which a competent "textual critic" would notice by even a cursory read). 
+
+Ancient commentaries from the early church fathers make it clear that Isaiah is to be understood holistically
+ and not in piecemeal with different audiences specific to different time periods.
+
+Why would this matter? And why would it be heretical?
+
+Breaking Isaiah into sections forces a context that is otherwise not present;
+ it forces us to imagine that Israel before the Babylonian exile had no access to Isaiah 40-66,
+ which significantly narrows the scope of Isaiah 1-39 (where the pre-incarnate Christ is introduced).
+By this "textual criticism", the prophecied figure of Christ in Isaiah 53 was only made in the narrow context to Israel living under Babylonian exile.
+This is intentionally pointing away from Christ,
+ removing Christ from the first half of Isaiah, which can be refuted by Christ's own words in John 12:37-41.
+
+Truth is Christ Jesus, the alpha and the omega, not the heretic musings and "textual criticism" from scholars under the sway of the spirit of antichrist.
 
 
 
-### Old Covenant
+
+
+#### Old Covenant
 
 Prophecies concerning the Davidic and Ezraitic ages, that is, Israel's continuous cycle of salvation and exile.
 
@@ -122,19 +227,7 @@ Fall of Babylon
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-### New Covenant, Messiah
+#### New Covenant, Messiah
 
 Prophecies concerning the messiah, the suffering servant and His life and the following messianic age.
 
@@ -258,11 +351,7 @@ And we see many parallels in the early chapters that are repeated in later chapt
     
     Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.
 
-In many orthodox churches, after each communion with the Eucharist, the priest repeats the words from prophecy:
 
-> Behold this hath touched thy lips, and taketh away all thine iniquities and purgeth all thy sins
-
-The bread and wine, the body and blood of Christ, are as the live coal carried by a seraphim that purges sin.
 
 New covenant, everlasting covenant of peace...
 
@@ -282,18 +371,7 @@ The watchmmen are blind... the created spirits assigned dominion are blinded and
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-### Final Judgment
+#### Final Judgment
 
 13 Babylon, overthrown by God
 
@@ -357,16 +435,10 @@ Day of vengeance is at hand...
 
 
 
-
-
-
-
-
-
-### New Heaven
+#### New Heaven
 
 New covenant.. there was no intercessor, no redeemer possible from man.
-Hence, the suffering aervant is necessatily Christ, the logos incarnate.
+Hence, the suffering servant is necessatily Christ, the logos incarnate.
 
 
 60
@@ -475,62 +547,28 @@ From Zion came a male child...
 
 
 
-### Deutero-Isaiah
-
-Lets comsider the following two passages from "proto-Isaiah" and one from "deutero-Isaiah":
-
-!!! quote "Isaiah 6:10 ... Isaiah 53:1"
-    “Make the heart of this people dull, And their ears heavy, And shut their eyes; Lest they see with their eyes, And hear with their ears, And understand with their heart, And return and be healed.”
-
-    ... 
-    
-    Who has believed our report? And to whom has the arm of the LORD been revealed?
-
-The conjecture of Deutero-Isaiah is that these were written centuries apart and by different authors.
-However, this contradicts the witness of scripture and of tradition.
 
 
-!!! quote "John 12:37-41"
-    But although He had done so many signs before them, they did not believe in Him, that the word of Isaiah the prophet might be fulfilled, which he spoke:
-    
-    *“Lord, who has believed our report? And to whom has the arm of the Lord been revealed?”*
-    
-    Therefore they could not believe, because Isaiah said again:
-    
-    *“He has blinded their eyes and hardened their hearts, Lest they should see with their eyes, Lest they should understand with their hearts and turn, So that I should heal them."*
-    
-    These things Isaiah said when he saw His glory and spoke of Him.
 
 
-Thr gospel of John confirms it was the same Isaiah, as he quotes from Isaiah 6 and from Isaiah 53, and connects them with "because Isaiah said again", referring clearly to the person and not the "book of Isaiah".
 
-"Textual criticism" that yields wild speculations based on no evidence should be called out as heresy.
 
-To be clear, there is no evidence and only "textual criticism" and a modern interpretation of Isaiah to back the notion that there are multiple authors.
-The argument is essentially that the "tone" of the earlier sections of Isaiah are different than the later sections, which doesn't hold up under scrutiny as earlier sections of Isaiah also use the same prophetic tone, such as in Isaiah 6.
-And because Isaiah 40-55 speaks specifically about exile in Babylon, it must have been written during that exile. 
-However this assumes that all of the chapters after Isaiah 39 were written to an audience in exile under Babylon. 
-Isaiah 53 makes a clear prophecy with a unique "tone" that is clearly referring to Christ, and it refers to this "suffering servant" as if it had already happened. Christ did not arise or ascend during Babylonian exile. 
-The audience for these sections of Isaiah is not specific to Babylonian exile.
-Very clearly the audience of Isaiah is universal.
 
-Imagine an Israelite in the 2nd century BC reading these sections; it would be as difficult to understand as modern day interpretations of the Book of Revelation. 
-Isaiah is clearly referring to an unfulfilled prophecy, because at that point Israel was no longer under Babylonian rule, but the events in "Deutero Isaiah" had not yet occurred.
+### Jeremiah
 
-Importantly there are no ancient copies of Isaiah that stopped at Isaiah 39, which would be an abrupt and awkward stopping place in any age.
-The evidence points to the contrary, that what we call Isaiah 40-66 was present during the life of the prophet Isaiah.
-The [oldest](https://en.m.wikipedia.org/wiki/Isaiah_Scroll) surviving copy of Isaiah is from the dead sea scrolls and it includes the entirety of what today is Isaiah 1 through 66.
-There was no seperation between Isaiah 39 and 40, in fact, the partitioning that existed connected 39 and 40 as if they were in the same section. 
 
-Ancient commentaries from the early church fathers make it clear that Isaiah is to be understood holistically and not in piecemeal with different audiences specific to different time periods.
 
-Why would this matter?
 
-Breaking Isaiah into sections forces a context that is otherwise not present; it forces us to imagine that Israel before the Babylonian exile had no access to Isaiah 40-66, which significantly narrows the scope of Isaiah 1-39, specifically by removing Christ.
-By this "textual criticism", the prophecied figure of Christ in Isaiah 53 was only made in the narrow context to Israel living under Babylonian exile.
-This is intentionally pointing away from Christ, removing Christ from the first half of Isaiah, which can be refuted by Christ's own words in John 12:37-41.
 
-Truth is Christ, the alpha and the omega, not the heretic musings and "textual criticism" from scholars under the sway of the spirit of antichrist.
+
+### Ezekiel
+
+
+
+
+
+
+### Daniel
 
 
 
@@ -539,9 +577,59 @@ Truth is Christ, the alpha and the omega, not the heretic musings and "textual c
 
 
 
+----
+
+## Minor Prophets
+
+The Book of Twelve
 
 
 
+
+### Hosea
+
+
+### Joel
+
+
+### Amos
+
+
+
+
+
+
+### Obadiah
+
+
+### Jonah
+
+
+### Micah
+
+
+
+
+
+### Nahum
+
+
+### Habakkuk
+
+
+### Zephaniah
+
+
+
+
+
+### Haggai
+
+
+### Zechariah
+
+
+### Malachi
 
 
 
