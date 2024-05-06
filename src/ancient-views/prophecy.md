@@ -50,7 +50,7 @@ Isaiah tells the start of his prophetic mission in this extraordinary event:
 !!! quote "Isaiah 6:1-8"
     In the year that King Uzziah died, I saw the Lord sitting on a throne, high and lifted up, and the train of His robe filled the temple. Above it stood seraphim; each one had six wings: with two he covered his face, with two he covered his feet, and with two he flew. And one cried to another and said: “Holy, holy, holy is the Lord of hosts; The whole earth is full of His glory!” And the posts of the door were shaken by the voice of him who cried out, and the house was filled with smoke.
     
-    So I said: Woe is me, for I am undone!
+    So I said: "Woe is me, for I am undone!
     Because I am a man of unclean lips,
     And I dwell in the midst of a people of unclean lips;
     For my eyes have seen the King,
