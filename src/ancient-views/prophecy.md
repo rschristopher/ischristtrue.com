@@ -33,7 +33,8 @@ Isaiah was a prophet in the 8th century BC, specifically around 739 BC through 7
 The book of Isaiah is best understood in unity and not necessarily in discrete parts.
 It is a fractal structure with multiple layers of linear story telling weaved together.
 There are many repeated prophetic themes that apply both to a specific historical context
- while simultaneously to future prophecy including the last judgment.
+ while simultaneously applying to future prophecy including the last judgment.
+
 
 !!! quote "Isaiah 1:2 ... 66:23-24"
     Hear, O heavens, and give ear, O earth! For the LORD has spoken: "I have nourished and brought up children, And they have rebelled against Me"
@@ -45,7 +46,7 @@ There are many repeated prophetic themes that apply both to a specific historica
 
 
 
-Isaiah tells the start of his prophetic mission in this extraordinary event:
+Isaiah tells of the beginning of his prophetic mission in this extraordinary event:
 
 !!! quote "Isaiah 6:1-8"
     In the year that King Uzziah died, I saw the Lord sitting on a throne, high and lifted up, and the train of His robe filled the temple. Above it stood seraphim; each one had six wings: with two he covered his face, with two he covered his feet, and with two he flew. And one cried to another and said: “Holy, holy, holy is the Lord of hosts; The whole earth is full of His glory!” And the posts of the door were shaken by the voice of him who cried out, and the house was filled with smoke.
@@ -65,10 +66,10 @@ Isaiah tells the start of his prophetic mission in this extraordinary event:
     Then I said, “Here am I! Send me.”
 
 
-By tradition, the Lord sitting on His throne is the pre-incarnate Jesus Christ, the Son of God.
+By tradition, the person Isaiah sees is the pre-incarnate Jesus Christ, the Son of God.
 And the coal offered by the seraphim is a foreshadowing of the Eucharist.
 The bread and wine, the body and blood of Christ, are as the live coal carried by the seraphim that purges sin.
-In many orthodox churches, after each communion, the priest repeats these prophetic words from Isaiah:
+This is why, in orthodox churches after each communion, the priest repeats these prophetic words from Isaiah:
 
 > Behold this hath touched thy lips, and taketh away all thine iniquities and purgeth all thy sins
 
