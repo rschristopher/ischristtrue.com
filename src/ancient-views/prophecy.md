@@ -30,7 +30,7 @@ miner prophets (the book of twelve) Hosea, Joel, Amos, Obadiah, Jonah, Micah, Na
 
 
 Isaiah was a prophet in the 8th century BC, specifically around 739 BC through 701 BC.
-The book of Isaiah is best understood in unity and not necessarily in discrete parts.
+Like the scriptures overall, the book of Isaiah is best understood in unity and not necessarily in discrete parts.
 It is a fractal structure with multiple layers of linear story telling weaved together.
 There are many repeated prophetic themes that apply both to a specific historical context
  while simultaneously applying to future prophecy including the last judgment.
@@ -66,7 +66,7 @@ Isaiah tells of the beginning of his prophetic mission in this extraordinary eve
     Then I said, “Here am I! Send me.”
 
 
-By tradition, the person Isaiah sees is the pre-incarnate Jesus Christ, the Son of God.
+The person Isaiah sees on the throne is the pre-incarnate Jesus Christ, the Word of God.
 And the coal offered by the seraphim is a foreshadowing of the Eucharist.
 The bread and wine, the body and blood of Christ, are as the live coal carried by the seraphim that purges sin.
 This is why, in orthodox churches after each communion, the priest repeats these prophetic words from Isaiah:
@@ -75,7 +75,7 @@ This is why, in orthodox churches after each communion, the priest repeats these
 
 Additionally, and as was the case with many of the prophets, speaking truth angered those in power and Isaiah was martyred.
 In Jewish tradition, and at the time of Christ during the [second temple period](https://en.wikipedia.org/wiki/Second_Temple_period),
- it was understood that Isaiah was sawn in half by King Manasseh.
+ it was understood that Isaiah had been sawn in half by King Manasseh.
 
 !!! quote "Hebrews 11:37-38"
     They were stoned, they were sawn in two, were tempted, were slain with the sword. They wandered about in sheepskins and goatskins, being destitute, afflicted, tormented— of whom the world was not worthy. They wandered in deserts and mountains, in dens and caves of the earth.
@@ -86,7 +86,7 @@ In Jewish tradition, and at the time of Christ during the [second temple period]
 
 #### Authorship
 
-There are modern theories that Isaiah was written by multiple authors across several centuries.
+There are modern theories that insist Isaiah was written by multiple authors across several centuries.
 For example, the so-called *deutero-Isaiah* (*second* Isaiah) theory holds that Isaiah 1-39 was written separately from Isaiah 40-66,
  and there's even a *Trito-Isaiah* theory suggesting that Isaiah 56-66 is from a 3rd author.
 
@@ -158,7 +158,9 @@ Truth is Christ Jesus, the alpha and the omega, not the heretic musings and "tex
 
 #### Old Covenant
 
-Prophecies concerning the Davidic and Ezraitic ages, that is, Israel's continuous cycle of salvation and exile.
+Much of Isaiah is prophecies concerning the Davidic and Ezraitic ages, that is, Israel's continuous cycle of salvation and exile.
+It is part of larger theme that started in Genesis and is fulfilled in the person of Christ.
+
 
 1-12 
 
