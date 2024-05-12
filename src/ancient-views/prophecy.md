@@ -203,7 +203,7 @@ Egypt, delivered into harsh hands
 
 36-39 retelling of Hezekaiah and the fall and redemption of Judea to Assyria and prophecied Babylonian exile, 2 Kings 18-20 and 2 Chronicles 29-32.
 
-Israrl given to the curse, yet what can be done?
+Israel given to the curse, yet what can be done?
 
 
 !!! quote "Isaiah 44:2-3 ... 44:24"
@@ -580,9 +580,7 @@ From Zion came a male child...
 
 ----
 
-## Minor Prophets
-
-The Book of Twelve
+## Book of the Twelve
 
 
 
