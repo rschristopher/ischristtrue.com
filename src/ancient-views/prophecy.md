@@ -158,8 +158,9 @@ Truth is Christ Jesus, the alpha and the omega, not the heretic musings and "tex
 
 #### Old Covenant
 
-Much of Isaiah is prophecies concerning the Davidic and Ezraitic ages, that is, Israel's continuous cycle of salvation and exile.
-It is part of larger theme that started in Genesis and is fulfilled in the person of Christ.
+Much of the Book of Isaiah is prophecies concerning the Davidic and Ezraitic ages, that is, Israel's continuous cycle of salvation and exile.
+It is part of larger narrative theme that started in Genesis and is fulfilled in the person of Christ.
+Specifically it is concerning God's mercy and man's rebellion, culminating in man's salvation through God's perfect love for mankind.
 
 
 1-12 
