@@ -30,7 +30,7 @@ the book of twelve: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Z
 
 
 Isaiah was a prophet in the 8th century BC, specifically around 739 BC through 701 BC.
-Like the scriptures overall, the book of Isaiah is best understood in unity and not necessarily in discrete parts.
+And, like the scriptures overall, the *book of Isaiah* is best understood in unity and not necessarily in discrete parts.
 It is a fractal structure with multiple layers of linear story telling weaved together.
 There are many repeated prophetic themes that apply both to a specific historical context
  while simultaneously applying to future prophecy including the last judgment.
