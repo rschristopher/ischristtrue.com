@@ -88,7 +88,7 @@ In Jewish tradition, and at the time of Christ during the [second temple period]
 
 There are modern theories that insist Isaiah was written by multiple authors across several centuries.
 For example, the so-called *deutero-Isaiah* (*second* Isaiah) theory holds that Isaiah 1-39 was written separately from Isaiah 40-66,
- and there's even a *Trito-Isaiah* theory suggesting that Isaiah 56-66 is from a 3rd author.
+ and there's even a *trito-Isaiah* theory suggesting that Isaiah 56-66 is from a 3rd author.
 
 Importantly, there's no evidence for multiple authorship and this is entirely a modern speculation based on "textual criticism",
  which is to suggest that there's a different writing style in these sections.
