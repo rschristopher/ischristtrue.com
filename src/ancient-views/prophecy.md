@@ -13,9 +13,9 @@ Have mercy on me Lord.
 -->
 
 
-major prophets Isaiah, Jeremiah, Ezekiel and Daniel
+major prophets: Isaiah, Jeremiah, Ezekiel and Daniel
 
-miner prophets (the book of twelve) Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, and Malachi
+the book of twelve: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, and Malachi
 
 
 
