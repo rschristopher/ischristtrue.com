@@ -158,11 +158,12 @@ Truth is Christ Jesus, the alpha and the omega, not the heretic musings and "tex
 
 #### Old Covenant
 
-Much of the Book of Isaiah is prophecies concerning the Davidic and Ezraitic ages, that is, Israel's continuous cycle of salvation and exile.
+Much of the Book of Isaiah is prophecies in the ancient world, that is, Israel's continuous cycle of salvation and exile.
 It is part of larger narrative theme that started in Genesis and is fulfilled in the person of Christ.
 Specifically it is concerning God's mercy and man's rebellion, culminating in man's salvation through God's perfect love for mankind.
 
-And yet, this pattern persists even to this day, albeit beyond the borders of Israel and Jerusalem.
+And yet, this pattern persists even to this day, beyond the borders of Israel and Jerusalem.
+We see the same patterns unfolding all around us.
 
 !!! quote "Isaiah 3:4-5"
     “I will give children to be their princes, And babes shall rule over them. The people will be oppressed, Every one by another and every one by his neighbor; The child will be insolent toward the elder, And the base toward the honorable.”
