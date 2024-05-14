@@ -167,6 +167,8 @@ And yet, this pattern persists even to this day, albeit beyond the borders of Is
 !!! quote "Isaiah 3:4-5"
     “I will give children to be their princes, And babes shall rule over them. The people will be oppressed, Every one by another and every one by his neighbor; The child will be insolent toward the elder, And the base toward the honorable.”
 
+!!! quote "Isaiah 3:12"
+    As for My people, children are their oppressors, And women rule over them. O My people! Those who lead you cause you to err, And destroy the way of your paths.”
 
 * 1-5
 * 6-12 
