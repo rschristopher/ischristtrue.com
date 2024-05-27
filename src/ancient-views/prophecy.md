@@ -84,6 +84,9 @@ In Jewish tradition, and at the time of Christ during the [second temple period]
 
 
 
+
+
+
 #### Authorship
 
 There are modern theories that insist Isaiah was written by multiple authors across several centuries.
@@ -214,6 +217,7 @@ break in Great Isaiah Scroll
 
 * 34-35 ...judgment and redemption of the nations
 * 36-39 retelling of Hezekaiah and the fall and redemption of Judea to Assyria and prophecied Babylonian exile, 2 Kings 18-20 and 2 Chronicles 29-32. Israel given to the curse, yet what can be done?
+* 40-44 comfort..
 
 
 !!! quote "Isaiah 44:2-3 ... 44:24"
@@ -227,8 +231,22 @@ break in Great Isaiah Scroll
 You, through His redemption, are an icon of God, not molten things man-made, redeemer must be God, not created.
 
 * 45 Cyrus the annointed (2 Chronicles 36:22-23), ruin Babylon, second temple shall be built... Dead idols vs Living God, Fall of Babylon
-
-
+* 46 Salvation must be from God, for who else can save?
+* 47 Warning to Babylon 
+* 48 the pre-incarnate Logos reveals His plans for redemption of mam, for His own sake! And the trinity is revealed!!
+* 49 
+* 50-55 Servant of the Lord, who is the incarnate Logos, the word of God, speaking to Isaiah as the Lord God, the pre-incarnate Logos.
+* 56 Salvation for the gentiles.
+* 57 Metciful men are taken away from evil. Righteous by works suffer without hope. Your idols will fall. Fear only the Lord. Trust only in the Lord.
+* 58 Fasting that pleases God. Keep the Sabath, delight the Lord.
+* 59 
+* 60 The kingdom shall be salvation and praise to all.
+* 61 Everlasting covenant... righteousness and praise before all nations.
+* 62
+* 63 Day of vengeance is at hand...
+* 64 that you would end the heavens and come down...
+* 65 God's grace and His judgment...
+* 66
 
 
 
@@ -425,9 +443,6 @@ Hence, the suffering servant is necessatily Christ, the logos incarnate.
 
 
 * 61 Everlasting covenant... righteousness and praise before all nations.
-
-
-
 * 62
 
 !!! quote "Isaiah 62:2"
@@ -442,34 +457,9 @@ prepare the way for salvation
 New covenant.. there was no intercessor, no redeemer possible from man.
 Hence, the suffering aervant is necessatily Christ, the logos incarnate.
 
-
-60 The kingdom shall be salvation and praise to all.
-
-!!! quote "Isaih 60:19-22"
-    “The sun shall no longer be your light by day, Nor for brightness shall the moon give light to you; But the Lord will be to you an everlasting light, And your God your glory. Your sun shall no longer go down, Nor shall your moon withdraw itself; For the Lord will be your everlasting light, And the days of your mourning shall be ended. Also your people shall all be righteous; They shall inherit the land forever, The branch of My planting, The work of My hands, That I may be glorified. A little one shall become a thousand, And a small one a strong nation. I, the Lord, will hasten it in its time.”
-
-
-* 61 Everlasting covenant... righteousness and praise before all nations.
-
-
-
-* 62
-
-!!! quote "Isaiah 62:2"
-    The Gentiles shall see your righteousness, And all kings your glory. You shall be called by a new name, Which the mouth of the Lord will name.
-
-
-!!! quote "Matthew 1:21"
-    And she will bring forth a Son, and you shall call His name Jesus, for He will save His people from their sins.”
-
-prepare the way for salvation
-
 * 64 that you would end the heavens and come down...
-
-
-
 * 65 God's grace and His judgment...
-New heavens and new earth...
+
 
 !!! quote "Isaiah 65:25"
     The wolf and the lamb shall feed together, The lion shall eat straw like the ox, And dust shall be the serpent’s food. They shall not hurt nor destroy in all My holy mountain, Says the Lord.
