@@ -94,17 +94,17 @@ Importantly, there's no evidence for multiple authorship and this is entirely a 
  which is to suggest that there's a different writing style in these sections.
 Let's examine two passages from these different "styles":
 
-!!! quote "Isaiah 6:10 ... Isaiah 53:1"
+!!! quote "Isaiah 6:10 | Isaiah 53:1"
     “Make the heart of this people dull, And their ears heavy, 
     And shut their eyes; Lest they see with their eyes, And hear with their ears, 
     And understand with their heart, And return and be healed.”
 
-    ... 
+    ----
     
     Who has believed our report? And to whom has the arm of the LORD been revealed?
 
 The conjecture is that these were written centuries apart and by different authors.
-However, this contradicts the witness of scripture and of tradition.
+However, this contradicts the witness of both scripture and tradition.
 
 !!! quote "John 12:37-41"
     But although He had done so many signs before them, they did not believe in Him, that the word of Isaiah the prophet might be fulfilled, which he spoke:
@@ -122,10 +122,10 @@ Thr gospel of John confirms it was the same Isaiah, as he quotes from what we ca
 
 !!! warning "**Textual criticism** that yields wild speculations based on no evidence is likely pointing towards heresy."
 
-To be clear, there is no evidence and only a modern interpretation of Isaiah to back the notion that there were multiple authors.
+To be clear, there is no evidence and only a modern interpretation of Isaiah to back the notion of multiple authors.
 The argument is essentially that the "tone" of the earlier sections of Isaiah are different than the later sections, which doesn't hold up under scrutiny as earlier sections of Isaiah also use the same prophetic tone, such as in Isaiah 6.
 And this theory also suggests that because Isaiah 40-55 speaks specifically about exile in Babylon, it must have been written during that exile. 
-However this assumes that all of the chapters after Isaiah 39 were written to an audience in exile under Babylon.
+However this assumes that all of the chapters after Isaiah 39 were written exclusively to an audience in exile under Babylon.
 
 However, Isaiah 53 makes a clear prophecy with a unique "tone" that is clearly referring to Christ,
  and it refers to Christ as if those events had already happened.
@@ -138,19 +138,30 @@ The [oldest](https://en.m.wikipedia.org/wiki/Isaiah_Scroll) surviving copy of Is
 There was no seperation between Isaiah 39 and 40, in fact, the partitioning that existed connected 39 and 40 as if they were in the same section
  (which a competent "textual critic" would notice by even a cursory read). 
 
+!!! quote "Isaiah 39:5-8 - 40:1-5"
+    Then Isaiah said to Hezekiah, "Hear the word of the Lord of hosts: 'Behold, the days are coming when all that is in your house, and what your fathers have accumulated until this day, shall be carried to Babylon; nothing shall be left,' says the Lord. 'And they shall take away some of your sons who will descend from you, whom you will beget; and they shall be eunuchs in the palace of the king of Babylon.' "
+    So Hezekiah said to Isaiah, “The word of the Lord which you have spoken is good!” For he said, “At least there will be peace and truth in my days.”
+    
+    "Comfort, yes, comfort My people!" Says your God. "Speak comfort to Jerusalem, and cry out to her, That her warfare is ended, That her iniquity is pardoned; For she has received from the Lord’s hand Double for all her sins." 
+
+    The voice of one crying in the wilderness: "Prepare the way of the Lord; Make straight in the desert A highway for our God. Every valley shall be exalted And every mountain and hill brought low; The crooked places shall be made straight And the rough places smooth; The glory of the Lord shall be revealed, And all flesh shall see it together; For the mouth of the Lord has spoken."
+
+
+Clearly, Isaiah 39 does not present a logical ending to Isaiah's prophecy, and in fact the text flows beautifully into the Lord promising comfort from which the stage is set for John the Baptist and the coming of Christ Jesus.
 Ancient commentaries from the early church fathers make it clear that Isaiah is to be understood holistically
- and not in piecemeal with different audiences specific to different time periods.
+ and not piecemeal with different audiences specific to different time periods.
 
-Why would this matter? And why would it be heretical?
+Why would this matter? And why would it be heretical to have multiple authors?
 
-Breaking Isaiah into sections forces a context that is otherwise not present;
+Breaking Isaiah into different authors forces a context that is otherwise not present;
  it forces us to imagine that Israel before the Babylonian exile had no access to Isaiah 40-66,
  which significantly narrows the scope of Isaiah 1-39 (where the pre-incarnate Christ is introduced).
-By this "textual criticism", the prophecied figure of Christ in Isaiah 53 was only made in the narrow context to Israel living under Babylonian exile.
-This is intentionally pointing away from Christ,
- removing Christ from the first half of Isaiah, which can be refuted by Christ's own words in John 12:37-41.
+By this "textual criticism", the prophecied figure of Christ in Isaiah 53 was only made within the narrow context of Israel living under Babylonian exile.
+This interpretation (intentionally or otherwise) obscures the text and
+ removes Christ from Isaiah 1-39, which can be refuted by Christ's own words in John 12:37-41.
 
-Truth is Christ Jesus, the alpha and the omega, not the heretic musings and "textual criticism" from scholars under the sway of the spirit of antichrist.
+Ultimately, truth is Christ Jesus, the alpha and the omega, not the heretic musings
+ and "textual criticism" from scholars under the sway of the spirit of antichrist.
 
 
 
@@ -158,9 +169,9 @@ Truth is Christ Jesus, the alpha and the omega, not the heretic musings and "tex
 
 #### Old Covenant
 
-Much of the Book of Isaiah is prophecies in the ancient world, that is, Israel's continuous cycle of salvation and exile.
-It is part of larger narrative theme that started in Genesis and is fulfilled in the person of Christ.
-Specifically it is concerning God's mercy and man's rebellion, culminating in man's salvation through God's perfect love for mankind.
+Much of the Book of Isaiah is prophecies under the old covenant, that is, Israel's continuous cycle of salvation, rebellion, and exile.
+It is part of the larger narrative theme that started in Genesis and is fulfilled in the person of Christ Jesus.
+Specifically it is concerning God's mercy and man's rebellion, culminating in man's salvation through Christ's perfect love for mankind.
 
 And yet, this pattern persists even to this day, beyond the borders of Israel and Jerusalem.
 We see the same patterns unfolding all around us.
@@ -183,13 +194,23 @@ We see the same patterns unfolding all around us.
 * 21 watchman, fall of Babylon, Edom, Arabia
 * 22 Shebna 
 * 23 Tyre
-
-...
-
+* 24 Judgment of earth, end times
+* 25 praise God
+* 26 song of salvation
+* 27 slay leviathan, final days of judgment
 * 28 Ephraim, 
 * 29 Ariel,
 * 30 redemption,
 * 31 do not rely on Egypt, but only on the Lord who brought you out of Egypt
+* 32-33 fall of satan, exalt the Lord, consuming fire, final judgment, Zion forgiven
+
+----
+
+break in Great Isaiah Scroll
+
+----
+
+
 * 34-35 ...judgment and redemption of the nations
 * 36-39 retelling of Hezekaiah and the fall and redemption of Judea to Assyria and prophecied Babylonian exile, 2 Kings 18-20 and 2 Chronicles 29-32. Israel given to the curse, yet what can be done?
 
@@ -362,14 +383,7 @@ Fractal pattern of end time prophecies played out throughout the ages...
 * 25 praise God
 * 26 song of salvation
 * 27 slay leviathan, final days of judgment
-f* -33 fall of satan, exalt the Lord, consuming fire, final judgment, Zion forgiven
-
-----
-
-break in Great Isaiah Scroll
-
-----
-
+* 32-33 fall of satan, exalt the Lord, consuming fire, final judgment, Zion forgiven
 
 
 * 57 Metciful men are taken away from evil. Righteous by works suffer without hope. Your idols will fall. Fear only the Lord. Trust only in the Lord.
