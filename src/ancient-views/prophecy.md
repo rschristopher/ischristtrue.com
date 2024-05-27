@@ -204,6 +204,7 @@ We see the same patterns unfolding all around us.
 * 31 do not rely on Egypt, but only on the Lord who brought you out of Egypt
 * 32-33 fall of satan, exalt the Lord, consuming fire, final judgment, Zion forgiven
 
+
 ----
 
 break in Great Isaiah Scroll
