@@ -134,9 +134,9 @@ break in the Great Isaiah Scroll
 * 40-43 the Lord gives comfort, foretelling of John the Baptist; the Lord and your Redeemer is coming and will be a light to the gentiles, I (the Lord God) am He (the Servant and Redeemer).
 * 44-47 God's blessing on Israel; Cyrus the annointed (2 Chronicles 36:22-23), ruin of Babylon, second temple shall be built, Dead idols vs Living God
 * 47 Humiliation of Babylon 
-* 48 the pre-incarnate Logos reveals His plans for redemption of mam, for His own sake, And the trinity is revealed!
+* 48 the pre-incarnate Logos reveals His plans for redemption of man (for His own sake), And the trinity is revealed
 * 49 Servant will be the light to the gentiles
-* 50-55 Servant of the Lord, who is the incarnate Logos, the word of God, speaking to Isaiah as the Lord God, the pre-incarnate Logos
+* 50-55 Servant of the Lord, who is the incarnate Logos, the word of God, speaking to Isaiah as the Lord God, the pre-incarnate Christ Jesus
 * 56 Salvation for the gentiles
 * 57 Merciful men are taken away from evil; Righteous by works suffer without hope; Your idols will fall; Fear only the Lord; Trust only in the Lord
 * 58 Fasting that pleases God; Keep the Sabath; Delight the Lord
