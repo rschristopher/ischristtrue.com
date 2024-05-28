@@ -87,103 +87,17 @@ In Jewish tradition, and at the time of Christ during the [second temple period]
 
 
 
-#### Authorship
-
-There are modern theories that insist Isaiah was written by multiple authors across several centuries.
-For example, the so-called *deutero-Isaiah* (*second* Isaiah) theory holds that Isaiah 1-39 was written separately from Isaiah 40-66,
- and there's even a *trito-Isaiah* theory suggesting that Isaiah 56-66 is from a 3rd author.
-
-Importantly, there's no evidence for multiple authorship and this is entirely a modern speculation based on "textual criticism",
- which is to suggest that there's a different writing style in these sections.
-Let's examine two passages from these different "styles":
-
-!!! quote "Isaiah 6:10 | Isaiah 53:1"
-    “Make the heart of this people dull, And their ears heavy, 
-    And shut their eyes; Lest they see with their eyes, And hear with their ears, 
-    And understand with their heart, And return and be healed.”
-
-    ----
-    
-    Who has believed our report? And to whom has the arm of the LORD been revealed?
-
-The conjecture is that these were written centuries apart and by different authors.
-However, this contradicts the witness of both scripture and tradition.
-
-!!! quote "John 12:37-41"
-    But although He had done so many signs before them, they did not believe in Him, that the word of Isaiah the prophet might be fulfilled, which he spoke:
-    
-    *“Lord, who has believed our report? And to whom has the arm of the Lord been revealed?”*
-    
-    Therefore they could not believe, because Isaiah said again:
-    
-    *“He has blinded their eyes and hardened their hearts, Lest they should see with their eyes, Lest they should understand with their hearts and turn, So that I should heal them."*
-    
-    These things Isaiah said when he saw His glory and spoke of Him.
-
-
-Thr gospel of John confirms it was the same Isaiah, as he quotes from what we call Isaiah 6 and from Isaiah 53, and John connects them with "because Isaiah said again", referring clearly to the same person and not the "book of Isaiah".
-
-!!! warning "**Textual criticism** that yields wild speculations based on no evidence is likely pointing towards heresy."
-
-To be clear, there is no evidence and only a modern interpretation of Isaiah to back the notion of multiple authors.
-The argument is essentially that the "tone" of the earlier sections of Isaiah are different than the later sections, which doesn't hold up under scrutiny as earlier sections of Isaiah also use the same prophetic tone, such as in Isaiah 6.
-And this theory also suggests that because Isaiah 40-55 speaks specifically about exile in Babylon, it must have been written during that exile. 
-However this assumes that all of the chapters after Isaiah 39 were written exclusively to an audience in exile under Babylon.
-
-However, Isaiah 53 makes a clear prophecy with a unique "tone" that is clearly referring to Christ,
- and it refers to Christ as if those events had already happened.
-Christ did not arise and ascend during Babylonian exile. 
-The audience for these sections of Isaiah is clearly not specific to Babylonian exile.
-
-Importantly, there are no ancient copies of Isaiah that stopped at Isaiah 39, which would be an abrupt and awkward stopping place in any age.
-The evidence points to the contrary, that what we call Isaiah 40-66 was present during the life of the prophet Isaiah.
-The [oldest](https://en.m.wikipedia.org/wiki/Isaiah_Scroll) surviving copy of Isaiah is from the dead sea scrolls and it includes the entirety of what today is Isaiah 1 through 66.
-There was no seperation between Isaiah 39 and 40, in fact, the partitioning that existed connected 39 and 40 as if they were in the same section
- (which a competent "textual critic" would notice by even a cursory read). 
-
-!!! quote "Isaiah 39:5-8 - 40:1-5"
-    Then Isaiah said to Hezekiah, "Hear the word of the Lord of hosts: 'Behold, the days are coming when all that is in your house, and what your fathers have accumulated until this day, shall be carried to Babylon; nothing shall be left,' says the Lord. 'And they shall take away some of your sons who will descend from you, whom you will beget; and they shall be eunuchs in the palace of the king of Babylon.' "
-    So Hezekiah said to Isaiah, “The word of the Lord which you have spoken is good!” For he said, “At least there will be peace and truth in my days.”
-    
-    "Comfort, yes, comfort My people!" Says your God. "Speak comfort to Jerusalem, and cry out to her, That her warfare is ended, That her iniquity is pardoned; For she has received from the Lord’s hand Double for all her sins." 
-
-    The voice of one crying in the wilderness: "Prepare the way of the Lord; Make straight in the desert A highway for our God. Every valley shall be exalted And every mountain and hill brought low; The crooked places shall be made straight And the rough places smooth; The glory of the Lord shall be revealed, And all flesh shall see it together; For the mouth of the Lord has spoken."
-
-
-Clearly, Isaiah 39 does not present a logical ending to Isaiah's prophecy, and in fact the text flows beautifully into the Lord promising comfort from which the stage is set for John the Baptist and the coming of Christ Jesus.
-Ancient commentaries from the early church fathers make it clear that Isaiah is to be understood holistically
- and not piecemeal with different audiences specific to different time periods.
-
-Why would this matter? And why would it be heretical to have multiple authors?
-
-Breaking Isaiah into different authors forces a context that is otherwise not present;
- it forces us to imagine that Israel before the Babylonian exile had no access to Isaiah 40-66,
- which significantly narrows the scope of Isaiah 1-39 (where the pre-incarnate Christ is introduced).
-By this "textual criticism", the prophecied figure of Christ in Isaiah 53 was only made within the narrow context of Israel living under Babylonian exile.
-This interpretation (intentionally or otherwise) obscures the text and
- removes Christ from Isaiah 1-39, which can be refuted by Christ's own words in John 12:37-41.
-
-Ultimately, truth is Christ Jesus, the alpha and the omega, not the heretic musings
- and "textual criticism" from scholars under the sway of the spirit of antichrist.
 
 
 
 
 
-#### Old Covenant
 
-Much of the Book of Isaiah is prophecies under the old covenant, that is, Israel's continuous cycle of salvation, rebellion, and exile.
-It is part of the larger narrative theme that started in Genesis and is fulfilled in the person of Christ Jesus.
-Specifically it is concerning God's mercy and man's rebellion, culminating in man's salvation through Christ's perfect love for mankind.
 
-And yet, this pattern persists even to this day, beyond the borders of Israel and Jerusalem.
-We see the same patterns unfolding all around us.
 
-!!! quote "Isaiah 3:4-5"
-    “I will give children to be their princes, And babes shall rule over them. The people will be oppressed, Every one by another and every one by his neighbor; The child will be insolent toward the elder, And the base toward the honorable.”
 
-!!! quote "Isaiah 3:12"
-    As for My people, children are their oppressors, And women rule over them. O My people! Those who lead you cause you to err, And destroy the way of your paths.”
+
+#### Outline
 
 * 1-5
 * 6-12 
@@ -218,18 +132,6 @@ break in Great Isaiah Scroll
 * 34-35 ...judgment and redemption of the nations
 * 36-39 retelling of Hezekaiah and the fall and redemption of Judea to Assyria and prophecied Babylonian exile, 2 Kings 18-20 and 2 Chronicles 29-32. Israel given to the curse, yet what can be done?
 * 40-44 comfort..
-
-
-!!! quote "Isaiah 44:2-3 ... 44:24"
-    Thus saith the LORD that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen.
-    For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon thy seed, and my blessing upon thine offspring
-
-    ...
-    
-    Thus saith the LORD, thy redeemer, and he that formed thee from the womb, I am the LORD that maketh all things; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself.
-
-You, through His redemption, are an icon of God, not molten things man-made, redeemer must be God, not created.
-
 * 45 Cyrus the annointed (2 Chronicles 36:22-23), ruin Babylon, second temple shall be built... Dead idols vs Living God, Fall of Babylon
 * 46 Salvation must be from God, for who else can save?
 * 47 Warning to Babylon 
@@ -253,7 +155,46 @@ You, through His redemption, are an icon of God, not molten things man-made, red
 
 
 
-#### New Covenant, Messiah
+
+
+
+
+#### Old Covenant
+
+Much of the Book of Isaiah is prophecies under the old covenant, that is, Israel's continuous cycle of salvation, rebellion, and exile.
+It is part of the larger narrative theme that started in Genesis and is fulfilled in the person of Christ Jesus.
+Specifically it is concerning God's mercy and man's rebellion, culminating in man's salvation through Christ's perfect love for mankind.
+
+And yet, this pattern persists even to this day, beyond the borders of Israel and Jerusalem.
+We see the same patterns unfolding all around us.
+
+!!! quote "Isaiah 3:4-5"
+    “I will give children to be their princes, And babes shall rule over them. The people will be oppressed, Every one by another and every one by his neighbor; The child will be insolent toward the elder, And the base toward the honorable.”
+
+!!! quote "Isaiah 3:12"
+    As for My people, children are their oppressors, And women rule over them. O My people! Those who lead you cause you to err, And destroy the way of your paths.”
+
+
+
+
+
+!!! quote "Isaiah 44:2-3 ... 44:24"
+    Thus saith the LORD that made thee, and formed thee from the womb, which will help thee; Fear not, O Jacob, my servant; and thou, Jesurun, whom I have chosen.
+    For I will pour water upon him that is thirsty, and floods upon the dry ground: I will pour my spirit upon thy seed, and my blessing upon thine offspring
+
+    ...
+    
+    Thus saith the LORD, thy redeemer, and he that formed thee from the womb, I am the LORD that maketh all things; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself.
+
+You, through His redemption, are an icon of God, not molten things man-made, redeemer must be God, not created.
+
+
+
+
+
+
+
+#### New Covenant
 
 Prophecies concerning the messiah, the suffering servant and His life and the following messianic age.
 
@@ -483,6 +424,85 @@ From Zion came a male child...
 
 
 
+
+#### Authorship
+
+There are modern theories that insist Isaiah was written by multiple authors across several centuries.
+For example, the so-called *deutero-Isaiah* (*second* Isaiah) theory holds that Isaiah 1-39 was written separately from Isaiah 40-66,
+ and there's even a *trito-Isaiah* theory suggesting that Isaiah 56-66 is from a 3rd author.
+
+Importantly, there's no evidence for multiple authorship and this is entirely a modern speculation based on "textual criticism",
+ which is to suggest that there's a different writing style in these sections.
+Let's examine two passages from these different "styles":
+
+!!! quote "Isaiah 6:10 | Isaiah 53:1"
+    “Make the heart of this people dull, And their ears heavy, 
+    And shut their eyes; Lest they see with their eyes, And hear with their ears, 
+    And understand with their heart, And return and be healed.”
+
+    ----
+    
+    Who has believed our report? And to whom has the arm of the LORD been revealed?
+
+The conjecture is that these were written centuries apart and by different authors.
+However, this contradicts the witness of both scripture and tradition.
+
+!!! quote "John 12:37-41"
+    But although He had done so many signs before them, they did not believe in Him, that the word of Isaiah the prophet might be fulfilled, which he spoke:
+    
+    *“Lord, who has believed our report? And to whom has the arm of the Lord been revealed?”*
+    
+    Therefore they could not believe, because Isaiah said again:
+    
+    *“He has blinded their eyes and hardened their hearts, Lest they should see with their eyes, Lest they should understand with their hearts and turn, So that I should heal them."*
+    
+    These things Isaiah said when he saw His glory and spoke of Him.
+
+
+Thr gospel of John confirms it was the same Isaiah, as he quotes from what we call Isaiah 6 and from Isaiah 53, and John connects them with "because Isaiah said again", referring clearly to the same person and not the "book of Isaiah".
+
+!!! warning "**Textual criticism** that yields wild speculations based on no evidence is likely pointing towards heresy."
+
+To be clear, there is no evidence and only a modern interpretation of Isaiah to back the notion of multiple authors.
+The argument is essentially that the "tone" of the earlier sections of Isaiah are different than the later sections, which doesn't hold up under scrutiny as earlier sections of Isaiah also use the same prophetic tone, such as in Isaiah 6.
+And this theory also suggests that because Isaiah 40-55 speaks specifically about exile in Babylon, it must have been written during that exile. 
+However this assumes that all of the chapters after Isaiah 39 were written exclusively to an audience in exile under Babylon.
+
+However, Isaiah 53 makes a clear prophecy with a unique "tone" that is clearly referring to Christ,
+ and it refers to Christ as if those events had already happened.
+Christ did not arise and ascend during Babylonian exile. 
+The audience for these sections of Isaiah is clearly not specific to Babylonian exile.
+
+Importantly, there are no ancient copies of Isaiah that stopped at Isaiah 39, which would be an abrupt and awkward stopping place in any age.
+The evidence points to the contrary, that what we call Isaiah 40-66 was present during the life of the prophet Isaiah.
+The [oldest](https://en.m.wikipedia.org/wiki/Isaiah_Scroll) surviving copy of Isaiah is from the dead sea scrolls and it includes the entirety of what today is Isaiah 1 through 66.
+There was no seperation between Isaiah 39 and 40, in fact, the partitioning that existed connected 39 and 40 as if they were in the same section
+ (which a competent "textual critic" would notice by even a cursory read). 
+
+!!! quote "Isaiah 39:5-8 - 40:1-5"
+    Then Isaiah said to Hezekiah, "Hear the word of the Lord of hosts: 'Behold, the days are coming when all that is in your house, and what your fathers have accumulated until this day, shall be carried to Babylon; nothing shall be left,' says the Lord. 'And they shall take away some of your sons who will descend from you, whom you will beget; and they shall be eunuchs in the palace of the king of Babylon.' "
+    So Hezekiah said to Isaiah, “The word of the Lord which you have spoken is good!” For he said, “At least there will be peace and truth in my days.”
+    
+    "Comfort, yes, comfort My people!" Says your God. "Speak comfort to Jerusalem, and cry out to her, That her warfare is ended, That her iniquity is pardoned; For she has received from the Lord’s hand Double for all her sins." 
+
+    The voice of one crying in the wilderness: "Prepare the way of the Lord; Make straight in the desert A highway for our God. Every valley shall be exalted And every mountain and hill brought low; The crooked places shall be made straight And the rough places smooth; The glory of the Lord shall be revealed, And all flesh shall see it together; For the mouth of the Lord has spoken."
+
+
+Clearly, Isaiah 39 does not present a logical ending to Isaiah's prophecy, and in fact the text flows beautifully into the Lord promising comfort from which the stage is set for John the Baptist and the coming of Christ Jesus.
+Ancient commentaries from the early church fathers make it clear that Isaiah is to be understood holistically
+ and not piecemeal with different audiences specific to different time periods.
+
+Why would this matter? And why would it be heretical to have multiple authors?
+
+Breaking Isaiah into different authors forces a context that is otherwise not present;
+ it forces us to imagine that Israel before the Babylonian exile had no access to Isaiah 40-66,
+ which significantly narrows the scope of Isaiah 1-39 (where the pre-incarnate Christ is introduced).
+By this "textual criticism", the prophecied figure of Christ in Isaiah 53 was only made within the narrow context of Israel living under Babylonian exile.
+This interpretation (intentionally or otherwise) obscures the text and
+ removes Christ from Isaiah 1-39, which can be refuted by Christ's own words in John 12:37-41.
+
+Ultimately, truth is Christ Jesus, the alpha and the omega, not the heretic musings
+ and "textual criticism" from scholars under the sway of the spirit of antichrist.
 
 
 
