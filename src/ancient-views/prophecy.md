@@ -30,8 +30,8 @@ the book of twelve: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Z
 
 
 Isaiah is a prophet who lived in the 8th century BC, specifically around 739 BC through 701 BC.
-And, like the full canonical scripture, the *book of Isaiah* is best understood in unity and not necessarily in discrete parts.
-It is a fractal structure with multiple layers of linear story telling weaved together.
+And, like the rest of the canonical scripture, the *Book of Isaiah* is best understood in unity and not necessarily in discrete parts.
+It contains a fractal structure with multiple layers of linear story telling weaved together.
 There are many repeated prophetic themes that apply both to specific historical context
  while simultaneously applying to future prophecy including the Messiah as well as a final judgment and a new heaven.
 
@@ -66,10 +66,10 @@ Isaiah tells of the beginning of his prophetic mission in this extraordinary eve
     Then I said, “Here am I! Send me.”
 
 
-The person Isaiah sees on the throne is the pre-incarnate Jesus Christ, the Word of God.
+The person Isaiah sees sitting on the throne is the pre-incarnate Jesus Christ, the Word of God.
 And the coal offered by the seraphim is a foreshadowing of the Eucharist.
 The bread and wine, the body and blood of Christ, are as the live coal carried by the seraphim that purges sin.
-This is why, in orthodox churches after each communion, the priest repeats these prophetic words from Isaiah:
+This is why, in orthodox churches, after each communion, the priest repeats those prophetic words from Isaiah:
 
 > Behold this hath touched thy lips, and taketh away all thine iniquities and purgeth all thy sins
 
@@ -99,56 +99,56 @@ In Jewish tradition, and at the time of Christ during the [second temple period]
 
 #### Outline
 
-* 1-5
-* 6-12 
-* 13 Babylon, overthrown by God
-* 14 Restoration of Israel, Song of contempt against the king of Babylon (Satan in the pit), God will strike down Assyria, Philistia, 
+* 1-5 the judgment of Jerusalem
+* 6-12 Immanuel, God with us
+* 13 fall of Babylon
+* 14 Restoration of Israel, Song of contempt against the king of Babylon (Satan in the pit), God will strike down the nations (Assyria, Philistia, etc)
 * 15-16 Destruction of Moab
-* 17 Damascus, 
-* 18 Cush, ... harvast, and then gifts will be brought to the Lord of Hosts ...
+* 17 Damascus
+* 18 Cush, harvast, and then gifts will be brought to the Lord of Hosts
 * 19 Egypt, delivered into harsh hands
 * 20 Isaiah naked and barefoot, as an omen against Egypt and Cush
 * 21 watchman, fall of Babylon, Edom, Arabia
 * 22 Shebna 
 * 23 Tyre
-* 24 Judgment of earth, end times
+* 24 judgment of the earth, end times
 * 25 praise God
 * 26 song of salvation
-* 27 slay leviathan, final days of judgment
-* 28 Ephraim, 
-* 29 Ariel,
-* 30 redemption,
+* 27 slay Leviathan, final days of judgment
+* 28 Ephraim
+* 29 Ariel
+* 30 Egypt's help is in vain, judgment to the rebellious, yet God will be gracious
 * 31 do not rely on Egypt, but only on the Lord who brought you out of Egypt
-* 32-33 fall of satan, exalt the Lord, consuming fire, final judgment, Zion forgiven
+* 32-33 fall of Satan, exalt the Lord, consuming fire, final judgment, Zion forgiven
 
 
 ----
 
-break in Great Isaiah Scroll
+break in the Great Isaiah Scroll
 
 ----
 
 
-* 34-35 ...judgment and redemption of the nations
-* 36-39 retelling of Hezekaiah and the fall and redemption of Judea to Assyria and prophecied Babylonian exile, 2 Kings 18-20 and 2 Chronicles 29-32. Israel given to the curse, yet what can be done?
-* 40-44 comfort..
-* 45 Cyrus the annointed (2 Chronicles 36:22-23), ruin Babylon, second temple shall be built... Dead idols vs Living God, Fall of Babylon
-* 46 Salvation must be from God, for who else can save?
-* 47 Warning to Babylon 
-* 48 the pre-incarnate Logos reveals His plans for redemption of mam, for His own sake! And the trinity is revealed!!
-* 49 
-* 50-55 Servant of the Lord, who is the incarnate Logos, the word of God, speaking to Isaiah as the Lord God, the pre-incarnate Logos.
-* 56 Salvation for the gentiles.
-* 57 Metciful men are taken away from evil. Righteous by works suffer without hope. Your idols will fall. Fear only the Lord. Trust only in the Lord.
-* 58 Fasting that pleases God. Keep the Sabath, delight the Lord.
-* 59 
-* 60 The kingdom shall be salvation and praise to all.
-* 61 Everlasting covenant... righteousness and praise before all nations.
-* 62
-* 63 Day of vengeance is at hand...
-* 64 that you would end the heavens and come down...
-* 65 God's grace and His judgment...
-* 66
+* 34-35 judgment and redemption of the nations
+* 36-39 retelling of Hezekaiah and the fall and redemption of Judea to Assyria and prophecied Babylonian exile (2 Kings 18-20 and 2 Chronicles 29-32). Israel given to the curse, yet what can be done?
+* 40-43 the Lord gives comfort, foretelling of John the Baptist; the Lord and your Redeemer is coming and will be a light to the gentiles, I (the Lord God) am He (the Servant and Redeemer).
+* 44 God's blessing on Israel, a new temple shall be built
+* 45-46 Cyrus the annointed (2 Chronicles 36:22-23), ruin Babylon, second temple shall be built, Dead idols vs Living God
+* 47 Humiliation of Babylon 
+* 48 the pre-incarnate Logos reveals His plans for redemption of mam, for His own sake, And the trinity is revealed!
+* 49 Servant will be the light to the gentiles
+* 50-55 Servant of the Lord, who is the incarnate Logos, the word of God, speaking to Isaiah as the Lord God, the pre-incarnate Logos
+* 56 Salvation for the gentiles
+* 57 Merciful men are taken away from evil; Righteous by works suffer without hope; Your idols will fall; Fear only the Lord; Trust only in the Lord
+* 58 Fasting that pleases God; Keep the Sabath; Delight the Lord
+* 59 our sins have hidden His face, yet His Spirit is upon us, and the Redeemer will come
+* 60 the kingdom shall be salvation and praise to all
+* 61 everlasting covenant; righteousness and praise before all nations
+* 62 assurance of salvation
+* 63 the day of vengeance is at hand
+* 64 that you would rend the heavens and come down
+* 65 God's grace and His judgment
+* 66 the new heavens and the new earth
 
 
 
