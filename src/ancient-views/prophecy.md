@@ -32,7 +32,7 @@ the book of twelve: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Z
 Isaiah is a prophet who lived in the 8th century BC, specifically around 739 BC through 701 BC.
 And, like the rest of the canonical scripture, the *Book of Isaiah* is best understood in unity and not necessarily in discrete parts.
 It contains a fractal structure with multiple layers of linear story telling weaved together.
-There are many repeated prophetic themes that apply both to specific historical context
+There are many repeated prophetic themes that apply to a specific historical context
  while simultaneously applying to future prophecy including the Messiah as well as a final judgment and a new heaven.
 
 
@@ -73,7 +73,7 @@ This is why, in orthodox churches, after each communion, the priest repeats thos
 
 > Behold this hath touched thy lips, and taketh away all thine iniquities and purgeth all thy sins
 
-Additionally, and as was the case with many of the prophets, speaking truth angered those in power and Isaiah was martyred.
+Despite the prophetic wisdom, and as was the case with many of the prophets, speaking truth angered those in power and Isaiah was martyred.
 In Jewish tradition, and at the time of Christ during the [second temple period](https://en.wikipedia.org/wiki/Second_Temple_period),
  it was understood that Isaiah had been sawn in half by King Manasseh.
 
@@ -132,7 +132,7 @@ break in the Great Isaiah Scroll
 * 34-35 judgment and redemption of the nations
 * 36-39 retelling of Hezekaiah and the fall and redemption of Judea to Assyria and prophecied Babylonian exile (2 Kings 18-20 and 2 Chronicles 29-32). Israel given to the curse, yet what can be done?
 * 40-43 the Lord gives comfort, foretelling of John the Baptist; the Lord and your Redeemer is coming and will be a light to the gentiles, I (the Lord God) am He (the Servant and Redeemer).
-* 44-47 God's blessing on Israel; Cyrus the annointed (2 Chronicles 36:22-23), ruin of Babylon, second temple shall be built, Dead idols vs Living God
+* 44-47 God's blessing on Israel; Cyrus the annointed (2 Chronicles 36:22-23), ruin of Babylon, second temple shall be built, dead idols vs Living God
 * 47 Humiliation of Babylon 
 * 48 the pre-incarnate Logos reveals His plans for redemption of man (for His own sake), And the trinity is revealed
 * 49 Servant will be the light to the gentiles
@@ -185,7 +185,7 @@ We see the same patterns unfolding all around us.
     
     Thus saith the LORD, thy redeemer, and he that formed thee from the womb, I am the LORD that maketh all things; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself.
 
-You, through His redemption, are an icon of God, not molten things man-made, redeemer must be God, not created.
+You, through His redemption, are an icon of God, not molten things man-made. The redeemer must be God, not created.
 
 
 
@@ -491,7 +491,7 @@ Clearly, Isaiah 39 does not present a logical ending to Isaiah's prophecy, and i
 Ancient commentaries from the early church fathers make it clear that Isaiah is to be understood holistically
  and not piecemeal with different audiences specific to different time periods.
 
-Why would this matter? And why would it be heretical to have multiple authors?
+Why would this matter? And why would it be heretical to assume multiple authors?
 
 Breaking Isaiah into different authors forces a context that is otherwise not present;
  it forces us to imagine that Israel before the Babylonian exile had no access to Isaiah 40-66,
