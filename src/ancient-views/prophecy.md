@@ -563,6 +563,11 @@ Ultimately, truth is Christ Jesus, the alpha and the omega, not the heretic musi
 
 ### Hosea
 
+!!! quote "Hosea 6:2"
+    After two days will he revive us: in the third day he will raise us up, and we shall live in his sight.
+
+
+
 
 ### Joel
 
