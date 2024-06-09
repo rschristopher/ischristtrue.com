@@ -18,6 +18,11 @@ major prophets: Isaiah, Jeremiah, Ezekiel and Daniel
 the book of twelve: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, and Malachi
 
 
+![prophets-timeline](/images/prophets-timeline.png)
+
+
+
+
 
 ## Major Prophets
 
@@ -443,7 +448,7 @@ Let's examine two passages from these different "styles":
     
     Who has believed our report? And to whom has the arm of the LORD been revealed?
 
-The conjecture is that these were written centuries apart and by different authors.
+The conjecture is that these were written centuries apart and by different authors and to different audiences.
 However, this contradicts the witness of both scripture and tradition.
 
 !!! quote "John 12:37-41"
@@ -463,20 +468,20 @@ Thr gospel of John confirms it was the same Isaiah, as he quotes from what we ca
 !!! warning "**Textual criticism** that yields wild speculations based on no evidence is likely pointing towards heresy."
 
 To be clear, there is no evidence and only a modern interpretation of Isaiah to back the notion of multiple authors.
-The argument is essentially that the "tone" of the earlier sections of Isaiah are different than the later sections, which doesn't hold up under scrutiny as earlier sections of Isaiah also use the same prophetic tone, such as in Isaiah 6.
-And this theory also suggests that because Isaiah 40-55 speaks specifically about exile in Babylon, it must have been written during that exile. 
-However this assumes that all of the chapters after Isaiah 39 were written exclusively to an audience in exile under Babylon.
+The argument is essentially that the "tone" of the earlier sections of Isaiah are different than the later sections, that Isaiah 40-66 is being written to a different audience, specifically to the Jewish diaspora under Babylonian exile. This view does not hold up under scrutiny as earlier sections of Isaiah also use the same prophetic tone, such as in Isaiah 6. And clearly the prophecies are written to a much broader audience, including those at the time of Christ and well after.
 
-However, Isaiah 53 makes a clear prophecy with a unique "tone" that is clearly referring to Christ,
+![isaiah-timeline](/images/isaiah-timeline.jpg)
+
+Famously, Isaiah 53 makes a clear prophecy with a unique "tone" that is clearly referring to Christ,
  and it refers to Christ as if those events had already happened.
 Christ did not arise and ascend during Babylonian exile. 
-The audience for these sections of Isaiah is clearly not specific to Babylonian exile.
+The audience for these sections of Isaiah is clearly not specific to Babylonian exile, and in fact the timeline is woven together.
 
-Importantly, there are no ancient copies of Isaiah that stopped at Isaiah 39, which would be an abrupt and awkward stopping place in any age.
+Additionally, there are no ancient copies of Isaiah that stopped at Isaiah 39, which would be an abrupt and awkward stopping place in any age.
 The evidence points to the contrary, that what we call Isaiah 40-66 was present during the life of the prophet Isaiah.
 The [oldest](https://en.m.wikipedia.org/wiki/Isaiah_Scroll) surviving copy of Isaiah is from the dead sea scrolls and it includes the entirety of what today is Isaiah 1 through 66.
-There was no seperation between Isaiah 39 and 40, in fact, the partitioning that existed connected 39 and 40 as if they were in the same section
- (which a competent "textual critic" would notice by even a cursory read). 
+There was no seperation between Isaiah 39 and 40, in fact, the partitioning that existed connected 39 and 40 as if they were in the same section.
+A competent "textual critic" would notice this with even a cursory read:
 
 !!! quote "Isaiah 39:5-8 - 40:1-5"
     Then Isaiah said to Hezekiah, "Hear the word of the Lord of hosts: 'Behold, the days are coming when all that is in your house, and what your fathers have accumulated until this day, shall be carried to Babylon; nothing shall be left,' says the Lord. 'And they shall take away some of your sons who will descend from you, whom you will beget; and they shall be eunuchs in the palace of the king of Babylon.' "
@@ -501,7 +506,7 @@ This interpretation (intentionally or otherwise) obscures the text and
  removes Christ from Isaiah 1-39, which can be refuted by Christ's own words in John 12:37-41.
 
 Ultimately, truth is Christ Jesus, the alpha and the omega, not the heretic musings
- and "textual criticism" from scholars under the sway of the spirit of antichrist.
+ and "textual criticism" from scholars under the sway of the spirit of antichrist (well-intentioned or otherwise).
 
 
 
