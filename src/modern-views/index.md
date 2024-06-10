@@ -163,7 +163,7 @@ None of the
  destructive revolution and relativism.
 This is a unique worldview born of western Christianity post schism, with notably anti-Christian themes (as it emerged as an antithesis to Christianity). And yet today this destructive revolutionary view has been exported globally and has become the defacto modern globalist view (stripped of any Christian veneer and articulated in postmodern Marxist language).
 
-Outside of the western European cultural sphere, we can find only hints of this view sprinkled throughout history. But to the degree it emerged in early Christianity it was also condemned and anathematized. It only actualized into a continuous (albeit parasitic) ethos after the great schism, emerging from the early scholastic movement and coming into fruition by the enlightenment era and into our present day.
+Outside of the western European cultural sphere, we can find only hints of this view sprinkled throughout history. But to the degree it emerged in early Christianity it was also condemned and anathematized. It only actualized into a continuous (albeit parasitic) ethos after the [great schism](schisms.md), emerging from the early scholastic movement and coming into fruition by the enlightenment era and into our present day.
 
 
 
