@@ -180,7 +180,7 @@ We see the same patterns unfolding all around us, even to this day.
 
 
 
-As always, we are to turn from our man-made idols, from the nihilism and self-worship of our [modern](../modern-views/index.md] age.
+As always, we are to turn from our man-made idols, from the nihilism and self-worship of our [modern](../modern-views/index.md) age.
 We are to seek redemption and mercy from God, not from money nor any man-made idols. 
 The redeemer must be God, and not created.
 
