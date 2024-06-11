@@ -209,7 +209,7 @@ And not just allusions to the suffering servant, but specific predictions of His
 !!! quote "Isaiah 7:14"
     Therefore the Lord Himself will give you a sign: Behold, the virgin shall conceive and bear a Son, and shall call His name Immanuel.
 
-Famously, *Immanuel* means "God with us", and the fulfillment of this prophecy is explained in Matthew 1:22-23 aa being Christ Jesus. And Isaiah makes clear that this Messiah is both man and God.
+Famously, *Immanuel* means "God with us", and the fulfillment of this prophecy is explained in Matthew 1:22-23 aa the person of Christ Jesus. And Isaiah makes clear that this Messiah is both man and God.
 
 !!! quote "Isaiah 9:6-7"
     For unto us a Child is born, Unto us a Son is given; And the government will be upon His shoulder. And His name will be called Wonderful, Counselor, Mighty God, Everlasting Father, Prince of Peace. Of the increase of His government and peace There will be no end, Upon the throne of David and over His kingdom, To order it and establish it with judgment and justice From that time forward, even forever. The zeal of the Lord of hosts will perform this.
