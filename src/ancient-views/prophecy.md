@@ -165,12 +165,12 @@ break in the Great Isaiah Scroll
 
 #### Old Covenant
 
-Much of the Book of Isaiah is prophecies under the old covenant, that is, Israel's continuous cycle of salvation, rebellion, and exile.
+Much of the Book of Isaiah addresses the old covenant, that is, Israel's continuous cycle of salvation, rebellion, and exile.
 It is part of the larger narrative theme that started in Genesis and is fulfilled in the person of Christ Jesus.
 Specifically it is concerning God's mercy and man's rebellion, culminating in man's salvation through Christ's perfect love for mankind.
 
-And yet, this pattern persists even to this day, beyond the borders of Israel and Jerusalem.
-We see the same patterns unfolding all around us.
+This pattern persists into the Messianic age, exactly as Isaiah prophecied.
+We see the same patterns unfolding all around us, even to this day.
 
 !!! quote "Isaiah 3:4-5"
     “I will give children to be their princes, And babes shall rule over them. The people will be oppressed, Every one by another and every one by his neighbor; The child will be insolent toward the elder, And the base toward the honorable.”
@@ -180,6 +180,9 @@ We see the same patterns unfolding all around us.
 
 
 
+As always, we are to turn from our man-made idols, from the nihilism and self-worship of our [modern](../modern-views/index.md] age.
+We are to seek redemption and mercy from God, not from money nor any man-made idols. 
+The redeemer must be God, and not created.
 
 
 !!! quote "Isaiah 44:2-3 ... 44:24"
@@ -190,7 +193,7 @@ We see the same patterns unfolding all around us.
     
     Thus saith the LORD, thy redeemer, and he that formed thee from the womb, I am the LORD that maketh all things; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself.
 
-You, through His redemption, are an icon of God, not molten things man-made. The redeemer must be God, not created.
+
 
 
 
@@ -200,11 +203,13 @@ You, through His redemption, are an icon of God, not molten things man-made. The
 
 #### New Covenant
 
-Prophecies concerning the messiah, the suffering servant and His life and the following messianic age.
+Isaiah lays the groundwork for the Messiah, and what will become the new covenant.
+And not just allusions to the suffering servant, but specific predictions of His life and the messianic age.
 
 !!! quote "Isaiah 7:14"
     Therefore the Lord Himself will give you a sign: Behold, the virgin shall conceive and bear a Son, and shall call His name Immanuel.
 
+Famously, *Immanuel* means "God with us", and the fulfillment of this prophecy is explained in Matthew 1:22-23 aa being Christ Jesus. And Isaiah makes clear that this Messiah is both man and God.
 
 !!! quote "Isaiah 9:6-7"
     For unto us a Child is born, Unto us a Son is given; And the government will be upon His shoulder. And His name will be called Wonderful, Counselor, Mighty God, Everlasting Father, Prince of Peace. Of the increase of His government and peace There will be no end, Upon the throne of David and over His kingdom, To order it and establish it with judgment and justice From that time forward, even forever. The zeal of the Lord of hosts will perform this.
@@ -232,6 +237,7 @@ Rod and staff, of a king, of a shepherd
     Sing, O heavens! Be joyful, O earth! And break out in singing, O mountains! For the LORD has comforted His people, And will have mercy on His afflicted.
 
 hope and comfort during future (Babylonian) exile, prophecy about John the Baptist, and the coming of the word/Logos, the redeemer, the preincarnate Logos.
+
 Warning against idols, against man-made images, deceit from false gods (fallen spirits), contrasted with the true icon of God in the redeemer, the coming savior (in whom My soul delights), who is God.
 
 
