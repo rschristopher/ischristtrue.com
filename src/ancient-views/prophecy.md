@@ -35,12 +35,17 @@ the book of twelve: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Z
 
 
 Isaiah is a prophet who lived in the 8th century BC, specifically around 739 BC through 701 BC.
-And, like the rest of the canonical scripture, the *Book of Isaiah* is best understood in unity and not necessarily in discrete parts.
+And, as if to parallel the canonical scriptures, the *Book of Isaiah* contains 66 chapters and 
+ is often considered a Bible within the Bible (with a shift starting in chapter 40, as if to mirror the Old Testament to New Testament division).
+That said, these chapter divisions are a relatively recent phenomenon by western Christians (starting in the 13th century),
+ and are not a reliable method for exegetic interpretation.
+Like the scriptuers themselves, the Book of Isaiah is best understood in unity and not in discrete parts.
 
-The Book of Isaiah contains a fractal structure with multiple layers of linear story telling weaved together.
-There are many repeated prophetic themes that apply to the specific historical context of Isaiah's lifetime
+The Book of Isaiah is seemingly quite complicated, with a fractal structure and multiple layers of linear story telling weaved together.
+There are many repeated prophetic themes that apply to the specific historical context of Isaiah's life
  while simultaneously applying to past and future ages (including the Messianic age).
 
+The overarching theme of the Book of Isaiah is that of man's rebellion against God, with the inevitable consequences of God's divine justice, followed by God's mercy.
 
 !!! quote "Isaiah 1:2 ... 66:23-24"
     Hear, O heavens, and give ear, O earth! For the LORD has spoken: "I have nourished and brought up children, And they have rebelled against Me"
@@ -51,6 +56,102 @@ There are many repeated prophetic themes that apply to the specific historical c
     "And they shall go forth and look Upon the corpses of the men Who have transgressed against Me. For their worm does not die, And their fire is not quenched. They shall be an abhorrence to all flesh." 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Outline
+
+* 1-5 The judgment of Jerusalem
+* 6-12 Immanuel, God with us
+* 13 Fall of Babylon
+* 14 Restoration of Israel, Song of contempt against the king of Babylon (Satan in the pit), God will strike down the nations (Assyria, Philistia, etc)
+* 15-16 Destruction of Moab
+* 17 Damascus
+* 18 Cush, harvast, and then gifts will be brought to the Lord of Hosts
+* 19 Egypt, delivered into harsh hands
+* 20 Isaiah naked and barefoot, as an omen against Egypt and Cush
+* 21 Watchman, fall of Babylon, Edom, Arabia
+* 22 Shebna 
+* 23 Tyre
+* 24 Judgment of the earth, end times
+* 25 Praise God
+* 26 Song of salvation
+* 27 Slaying Leviathan, final days of judgment
+* 28 Ephraim
+* 29 Ariel
+* 30 Egypt's help is in vain, judgment to the rebellious, yet God will be gracious
+* 31 Do not rely on Egypt, but only on the Lord who brought you out of Egypt
+* 32-33 Fall of Satan, exalt the Lord, consuming fire, final judgment, Zion forgiven
+
+
+----
+
+break in the Great Isaiah Scroll
+
+----
+
+
+* 34-35 Judgment and redemption of the nations
+* 36-39 Retelling of Hezekaiah and the fall and redemption of Judea (by Assyria) and the prophecied Babylonian exile (2 Kings 18-20 and 2 Chronicles 29-32). Israel given to the curse, yet what can be done?
+* 40-43 The Lord gives comfort, foretelling of John the Baptist; the Lord and your Redeemer is coming and will be a light to the gentiles, I (the Lord God) am He (the Servant and Redeemer).
+* 44-47 God's blessing on Israel; Cyrus the annointed (2 Chronicles 36:22-23), ruin of Babylon, second temple shall be built, dead idols vs Living God
+* 47 Humiliation of Babylon 
+* 48 The pre-incarnate Logos reveals His plans for redemption of man (for His own sake), And the trinity is revealed
+* 49 Servant will be the light to the gentiles
+* 50-55 Servant of the Lord, who is the incarnate Logos, the word of God, speaking to Isaiah as the Lord God, the pre-incarnate Christ Jesus
+* 56 Salvation for the gentiles
+* 57 Merciful men are taken away from evil; Righteous by works suffer without hope; Your idols will fall; Fear only the Lord; Trust only in the Lord
+* 58 Fasting that pleases God; Keep the Sabath; Delight the Lord
+* 59 Our sins have hidden His face, yet His Spirit is upon us, and the Redeemer will come
+* 60 The kingdom shall be salvation and praise to all
+* 61 Everlasting covenant; righteousness and praise before all nations
+* 62 Assurance of salvation
+* 63 The day of vengeance is at hand
+* 64 That you would rend the heavens and come down
+* 65 God's grace and His judgment
+* 66 The new heavens and the new earth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Commission
 
 Isaiah tells of the beginning of his prophetic mission in this extraordinary event:
 
@@ -72,10 +173,10 @@ Isaiah tells of the beginning of his prophetic mission in this extraordinary eve
     Then I said, “Here am I! Send me.”
 
 
-The person Isaiah sees sitting on the throne is the pre-incarnate Jesus Christ, the Word of God.
+The person whom Isaiah sees sitting on the throne is the pre-incarnate Jesus Christ, the Word of God.
 And the coal offered by the seraphim is a foreshadowing of the Eucharist.
 The bread and wine, the body and blood of Christ, are as the live coal carried by the seraphim that purges sin.
-This is why, in orthodox churches, after each communion, the priest repeats those prophetic words from Isaiah:
+This is why, in ancient churches (and still in many orthodox churches today), after each communion, the priest repeats those prophetic words from Isaiah:
 
 > Behold this hath touched thy lips, and taketh away all thine iniquities and purgeth all thy sins
 
@@ -99,61 +200,6 @@ In Jewish tradition, and at the time of Christ during the [second temple period]
 
 
 
-
-
-
-
-#### Outline
-
-* 1-5 the judgment of Jerusalem
-* 6-12 Immanuel, God with us
-* 13 fall of Babylon
-* 14 Restoration of Israel, Song of contempt against the king of Babylon (Satan in the pit), God will strike down the nations (Assyria, Philistia, etc)
-* 15-16 Destruction of Moab
-* 17 Damascus
-* 18 Cush, harvast, and then gifts will be brought to the Lord of Hosts
-* 19 Egypt, delivered into harsh hands
-* 20 Isaiah naked and barefoot, as an omen against Egypt and Cush
-* 21 watchman, fall of Babylon, Edom, Arabia
-* 22 Shebna 
-* 23 Tyre
-* 24 judgment of the earth, end times
-* 25 praise God
-* 26 song of salvation
-* 27 slay Leviathan, final days of judgment
-* 28 Ephraim
-* 29 Ariel
-* 30 Egypt's help is in vain, judgment to the rebellious, yet God will be gracious
-* 31 do not rely on Egypt, but only on the Lord who brought you out of Egypt
-* 32-33 fall of Satan, exalt the Lord, consuming fire, final judgment, Zion forgiven
-
-
-----
-
-break in the Great Isaiah Scroll
-
-----
-
-
-* 34-35 judgment and redemption of the nations
-* 36-39 retelling of Hezekaiah and the fall and redemption of Judea to Assyria and prophecied Babylonian exile (2 Kings 18-20 and 2 Chronicles 29-32). Israel given to the curse, yet what can be done?
-* 40-43 the Lord gives comfort, foretelling of John the Baptist; the Lord and your Redeemer is coming and will be a light to the gentiles, I (the Lord God) am He (the Servant and Redeemer).
-* 44-47 God's blessing on Israel; Cyrus the annointed (2 Chronicles 36:22-23), ruin of Babylon, second temple shall be built, dead idols vs Living God
-* 47 Humiliation of Babylon 
-* 48 the pre-incarnate Logos reveals His plans for redemption of man (for His own sake), And the trinity is revealed
-* 49 Servant will be the light to the gentiles
-* 50-55 Servant of the Lord, who is the incarnate Logos, the word of God, speaking to Isaiah as the Lord God, the pre-incarnate Christ Jesus
-* 56 Salvation for the gentiles
-* 57 Merciful men are taken away from evil; Righteous by works suffer without hope; Your idols will fall; Fear only the Lord; Trust only in the Lord
-* 58 Fasting that pleases God; Keep the Sabath; Delight the Lord
-* 59 our sins have hidden His face, yet His Spirit is upon us, and the Redeemer will come
-* 60 the kingdom shall be salvation and praise to all
-* 61 everlasting covenant; righteousness and praise before all nations
-* 62 assurance of salvation
-* 63 the day of vengeance is at hand
-* 64 that you would rend the heavens and come down
-* 65 God's grace and His judgment
-* 66 the new heavens and the new earth
 
 
 
@@ -470,7 +516,7 @@ However, this contradicts the witness of both scripture and tradition.
     These things Isaiah said when he saw His glory and spoke of Him.
 
 
-Thr gospel of John confirms it was the same Isaiah, as he quotes from what we call Isaiah 6 and from Isaiah 53, and John connects them with "because Isaiah said again", referring clearly to the same person and not the "book of Isaiah".
+Thr gospel of John confirms it was the same Isaiah, as he quotes from what we call Isaiah 6 and from Isaiah 53, and John connects them with "because Isaiah said again", referring clearly to the same person and not the "Book of Isaiah".
 
 !!! warning "**Textual criticism** that yields wild speculations based on no evidence is likely pointing towards heresy."
 
