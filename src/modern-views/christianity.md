@@ -17,7 +17,7 @@ And yet we often see proud Christians, convinced of our status as members of the
 ## The Modern Church
 
 It has been said that if there were a perfect church, it would cease being perfect the moment you joined -- and this is of course true as we are sinners, all of us, irredeemable by our own actions.
-While there can be no perfect church, there unfortunately exists many churches actively promoting heresies.
+While there can be no perfect *worldly* church, there unfortunately exists many churches actively promoting heresies.
 These are -- to be clear -- churches in the spirit of antichrist.
 These are not churches pointing us towards the perfection that is Christ Jesus, these are churches pointing in the exact opposite direction of Christ.
 
