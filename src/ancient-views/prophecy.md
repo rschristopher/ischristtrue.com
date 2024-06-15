@@ -36,9 +36,10 @@ the book of twelve: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Z
 
 Isaiah is a prophet who lived in the 8th century BC, specifically around 739 BC through 701 BC.
 And, like the rest of the canonical scripture, the *Book of Isaiah* is best understood in unity and not necessarily in discrete parts.
-It contains a fractal structure with multiple layers of linear story telling weaved together.
+
+The Book of Isaiah contains a fractal structure with multiple layers of linear story telling weaved together.
 There are many repeated prophetic themes that apply to the specific historical context of Isaiah's lifetime
- while simultaneously applying to future ages (including the Messianic age).
+ while simultaneously applying to past and future ages (including the Messianic age).
 
 
 !!! quote "Isaiah 1:2 ... 66:23-24"
