@@ -5,9 +5,9 @@ Lord Jesus Christ, Son of God
 Have mercy on me, a sinner
 
 Guide me Lord
-That I may articulate your wisdom and the words of prophecy.
+That I may articulate your wisdom and your words of prophecy.
 Grant me wisdom, eyes to see, ears to hear; that I may know the Spirit of Truth that is in these books; that your words of truth may reach me.
-May these pages guide towards your glory, that I may seek refuge and shelter, that I may be saved, that I may love you Lord, as you have loved me despite my many sins.
+May these pages be for your glory, that I may seek refuge and shelter, that I may be saved, that I may love you Lord, as you have loved me despite my many sins.
 Have mercy on me Lord.
 
 -->
@@ -212,11 +212,11 @@ In Jewish tradition, and at the time of Christ during the [second temple period]
 
 #### Old Covenant
 
-Much of the Book of Isaiah addresses the old covenant, that is, Israel's continuous cycle of salvation, rebellion, and exile.
-It is part of the larger narrative theme that started in Genesis and is fulfilled in the person of Christ Jesus.
+The primary context of the Book of Isaiah is the old covenant, that is, Israel's continuous cycle of salvation, rebellion, and exile.
+This is part of the larger narrative theme that started in Genesis and is fulfilled in the person of Christ Jesus.
 Specifically it is concerning God's mercy and man's rebellion, culminating in man's salvation through Christ's perfect love for mankind.
 
-This pattern persists into the Messianic age, exactly as Isaiah prophecied.
+Importantly, this pattern persists into the Messianic age, exactly as Isaiah prophecied.
 We see the same patterns unfolding all around us, even to this day.
 
 !!! quote "Isaiah 3:4-5"
@@ -240,7 +240,7 @@ The redeemer must be God, and not created.
     
     Thus saith the LORD, thy redeemer, and he that formed thee from the womb, I am the LORD that maketh all things; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself.
 
-
+The old covenant is the foundation from which we can understand the new covenant, and the coming of Christ.
 
 
 
