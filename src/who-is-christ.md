@@ -11,7 +11,7 @@ For who are we to know the Spirit of Truth? Who are we to know God?
 !!! quote "John 6:66-68"
     From that time many of His disciples went back and walked with Him no more. Then Jesus said to the twelve, “Do you also want to go away?”
     
-    But Simon Peter answered Him, “Lord, to whom shall we go? You have the words of eternal life.
+    But Simon Peter answered Him, Lord, to whom shall we go? You have the words of eternal life.
 
 
 
