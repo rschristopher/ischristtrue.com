@@ -33,6 +33,8 @@ the book of twelve: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Z
 
 ### Isaiah
 
+!!! info "St. Jerome (commentary on Isaiah)"
+    Isaiah should be called an evangelist rather than a prophet, because he describes all the mysteries of Christ and the church so clearly that one would think he is composing a history of what has already happened rather than prophesying what is to come.
 
 Isaiah is a prophet who lived in the 8th century BC, specifically around 739 BC through 701 BC.
 And, as if to parallel the canonical scriptures, the *Book of Isaiah* contains 66 chapters and 
@@ -41,11 +43,11 @@ That said, these chapter divisions are a relatively recent phenomenon by western
  and are not a reliable method for exegetic interpretation.
 Like the scriptuers themselves, the Book of Isaiah is best understood in unity and not in discrete parts.
 
-The Book of Isaiah is seemingly quite complicated, with a fractal structure and multiple layers of linear story telling weaved together.
-There are many repeated prophetic themes that apply to the specific historical context of Isaiah's life
- while simultaneously applying to past and future ages (including the Messianic age).
+Often referred to as the *fifth Gospel*, the Book of Isaiah is both prophecy and gospel, with a fractal structure and multiple layers of linear story telling weaved together.
+There are repeated prophetic themes that apply to the specific historical context of Isaiah's life
+ while simultaneously applying to past and future ages, including the Messianic age.
 
-The overarching theme of the Book of Isaiah is that of man's rebellion against God, with the inevitable consequences of God's divine justice, followed by God's mercy.
+The overarching theme of the Book of Isaiah is that of man's rebellion against God, with the inevitable consequences of God's divine justice, followed by God's mercy, culminating in the person of Christ.
 
 !!! quote "Isaiah 1:2 ... 66:23-24"
     Hear, O heavens, and give ear, O earth! For the LORD has spoken: "I have nourished and brought up children, And they have rebelled against Me"
@@ -153,7 +155,7 @@ break in the Great Isaiah Scroll
 
 #### Commission
 
-Isaiah tells of the beginning of his prophetic mission in this extraordinary event:
+Isaiah tells of the beginning of his prophetic (and evangelical) mission in this extraordinary event:
 
 !!! quote "Isaiah 6:1-8"
     In the year that King Uzziah died, I saw the Lord sitting on a throne, high and lifted up, and the train of His robe filled the temple. Above it stood seraphim; each one had six wings: with two he covered his face, with two he covered his feet, and with two he flew. And one cried to another and said: “Holy, holy, holy is the Lord of hosts; The whole earth is full of His glory!” And the posts of the door were shaken by the voice of him who cried out, and the house was filled with smoke.
@@ -240,7 +242,7 @@ The redeemer must be God, and not created.
     
     Thus saith the LORD, thy redeemer, and he that formed thee from the womb, I am the LORD that maketh all things; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself.
 
-The old covenant is the foundation from which we can understand the new covenant, and the coming of Christ.
+The old covenant is the foundation from which we can understand the new covenant, and the necessity of Christ.
 
 
 
