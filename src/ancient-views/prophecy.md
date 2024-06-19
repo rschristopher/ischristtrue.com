@@ -33,7 +33,7 @@ the book of twelve: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Z
 
 ### Isaiah
 
-!!! info "St. Jerome (commentary on Isaiah)"
+!!! example "St. Jerome (commentary on Isaiah)"
     Isaiah should be called an evangelist rather than a prophet, because he describes all the mysteries of Christ and the church so clearly that one would think he is composing a history of what has already happened rather than prophesying what is to come.
 
 Isaiah is a prophet who lived in the 8th century BC, specifically around 739 BC through 701 BC.
