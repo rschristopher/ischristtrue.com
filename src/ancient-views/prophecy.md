@@ -48,7 +48,9 @@ Often referred to as the *fifth Gospel*, the Book of Isaiah is both prophecy and
 There are repeated prophetic themes that apply to the specific historical context of Isaiah's life
  while simultaneously applying to past and future ages, including the Messianic age.
 
-The overarching theme of the Book of Isaiah is that of man's rebellion against God, with the inevitable consequences of God's divine justice, followed by God's mercy, culminating in the person of Christ.
+![isaiah-timeline](/images/isaiah-timeline.jpg)
+
+The overarching theme of the Book of Isaiah is that of man's rebellion against God, with the inevitable consequences of God's divine justice, followed by God's mercy, all culminating in the person of Christ.
 
 !!! quote "Isaiah 1:2 ... 66:23-24"
     Hear, O heavens, and give ear, O earth! For the LORD has spoken: "I have nourished and brought up children, And they have rebelled against Me"
@@ -487,7 +489,7 @@ From Zion came a male child...
 
 #### Authorship
 
-There are modern theories that insist Isaiah was written by multiple authors across several centuries.
+There are many modern theories that insist Isaiah was written by multiple authors across several centuries.
 For example, the so-called *deutero-Isaiah* (*second* Isaiah) theory holds that Isaiah 1-39 was written separately from Isaiah 40-66,
  and there's even a *trito-Isaiah* theory suggesting that Isaiah 56-66 is from a 3rd author.
 
@@ -525,8 +527,6 @@ Thr gospel of John confirms it was the same Isaiah, as he quotes from what we ca
 
 To be clear, there is no evidence and only a modern interpretation of Isaiah to back the notion of multiple authors.
 The argument is essentially that the "tone" of the earlier sections of Isaiah are different than the later sections, that Isaiah 40-66 is being written to a different audience, specifically to the Jewish diaspora under Babylonian exile. This view does not hold up under scrutiny as earlier sections of Isaiah also use the same prophetic tone, such as in Isaiah 6. And clearly the prophecies are written to a much broader audience, including those at the time of Christ and well after.
-
-![isaiah-timeline](/images/isaiah-timeline.jpg)
 
 Famously, Isaiah 53 makes a clear prophecy with a unique "tone" that is clearly referring to Christ,
  and it refers to Christ as if those events had already happened.
