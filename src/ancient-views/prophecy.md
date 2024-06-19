@@ -559,9 +559,8 @@ Breaking Isaiah into different authors forces a context that is otherwise not pr
  which significantly narrows the scope of Isaiah 1-39 (where the pre-incarnate Christ is introduced).
 By this "textual criticism", the prophecied figure of Christ in Isaiah 53 was only made within the narrow context of Israel living under Babylonian exile.
 
-Multiple authors gives way to eisegetical interpretations, where the "suffering servant" becomes a new and even abstract character introduced by later authors, rather than the person Isaiah saw on the throne in Isaiah 6, who was talking to Isaiah throughout.
-This eisegesis (intentionally or otherwise) obscures the text and
- ignores or even removes Christ from Isaiah 1-39, breaking the continuity of the person of God from the Old Testament, with the person of Christ (God in the New Testament).
+Multiple authors gives way to eisegetical interpretations, where the "suffering servant" becomes a new and even abstract character introduced by later authors, rather than the person Isaiah saw on the throne in Isaiah 6.
+This eisegesis (intentionally or otherwise) obscures the text and breaks the continuity of God from the Old Testament, with Christ (God in the New Testament).
 This heretical view can be refuted by Christ's own words in John as well as by church tradition.
 
 Ultimately, truth is Christ Jesus, the alpha and the omega, not the heretic musings
