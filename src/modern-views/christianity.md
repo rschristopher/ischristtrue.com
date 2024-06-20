@@ -1,8 +1,8 @@
 # Modern Christianity
 
-Modern Christianity is often maligned, including by Christians themselves. 
-The more sincere you are in your faith, the further away you will feel from the sinless perfection to which we are called. 
-In other words, as Christians we ought to be supremely humbled before God.
+Modern Christianity is often maligned, including by most Christians. 
+The more sincere you are in Christian faith, the further away you will feel from the sinless perfection to which we are called. 
+In other words, Christians are (by definition) supremely humbled before God.
 
 And yet we often see proud Christians, convinced of our status as members of the *elect*, convinced that we are already *saved*, predestined even -- which is very much the antithesis of humility.
 
@@ -16,8 +16,8 @@ And yet we often see proud Christians, convinced of our status as members of the
 
 ## The Modern Church
 
-It has been said that if there were a perfect church, it would cease being perfect the moment you joined -- and this is of course true as we are sinners, all of us, irredeemable by our own actions.
-While there can be no perfect *worldly* church, there unfortunately exists many churches actively promoting heresies.
+It has been said that if there were a perfect church, it would cease being perfect the moment you joined -- and this is of course true as we are sinners, all of us, irredeemable by our own will and works.
+While there can be no perfect *worldly* church, there unfortunately exists many churches actively promoting heresies and division.
 These are -- to be clear -- churches in the spirit of antichrist.
 These are not churches pointing us towards the perfection that is Christ Jesus, these are churches pointing in the exact opposite direction of Christ.
 
