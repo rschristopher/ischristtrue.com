@@ -205,6 +205,17 @@ If we had to name the spirit of our times -- our modern view -- it is clearly th
 
 
 
+!!! quote "Proverbs 11:6"
+    The righteousness of the upright will deliver them,
+    
+    But the unfaithful will be caught by their lust.
+
+
+
+
+
+
+
 
 
 
