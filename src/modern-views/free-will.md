@@ -293,13 +293,17 @@ The five points of Calvinism contain within their strict dogma
  a seed of semi-Pelagianism, be it Arminianism or Molinism or
  whatever the -ism.
 
-This is necessarily true because the five points of Calvinism (TULIP) are true from a transcendent level of analysis, and not the particular level of human  behavior.
+This is necessarily true because the five points of Calvinism (TULIP) are true from a transcendent level of analysis, and not the particular level of human behavior and consciousness.
 Rationality itself is contingent upon this transcendent level of analysis, and while we can *make sense* of TULIP through transcendent categories, we cannot apply it to particulars, say, to your own prayer life (other than as a reminder of God's absolute sovereignty, which is also affirmed in orthodox synergism).
 
 This is in fact what it means for Christ to be the mediator between the high and the low, between fallen man and God the father -- because He is unifying the particular (man's will) with the transcendent (divine will).
 
 Resolving this ongoing reactionary cycle requires Christ.
 The revealed truth of Christ with His divine will and human will, is the unification of the truths of monergism (e.g., of irresistable grace) acted out in the truths of synergism. Traditionally this is what is meant by orthodox synergism.
+
+
+!!! quote "Ephesians 2:8-10"
+    For by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, lest anyone should boast. For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand that we should walk in them.
 
 
 
