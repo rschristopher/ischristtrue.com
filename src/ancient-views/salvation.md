@@ -8,6 +8,18 @@ becoming like Christ (theosis)
 
 
 
+Soteriology
+
+The Augustinian error of sin as inherited guilt leads necessarily to heresy in both Roman Catholic and Reformed theological frameworks.
+
+inevitably, one produces either
+1. the immaculate conception, the belief that Mary was born without sin
+2. nestorianism with iconoclasm, denial of Mary as the mother of God, and destroying images so as not to confront this fact.
+
+
+
+
+
 !!! quote "The Theotokos in a vision to Elder Anthimos"
     Those who struggle for Christ
     not only have a great reward,
