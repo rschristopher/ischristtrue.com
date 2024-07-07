@@ -450,7 +450,8 @@ In other words, we cannot know anything and
  or the universe,
  without a Spirit of Truth 
  making knowledge available to us.
-Otherwise, any pretense of knowledge would be indistinguishable from illusion or deceit -- and any truth beyond the illusion would be inaccessible; there's either a foundation of truth made knowable to us, or it's *turtles all the way down* (an infinite regress of illusions).
+Otherwise, any pretense of knowledge would be indistinguishable from illusion or deceit -- and any truth beyond the illusion would be inaccessible.
+There's either a foundation of truth made knowable to us, or it's *turtles all the way down* (an infinite regress of illusions).
 
 Whoever this divine Spirit of Truth is,
  whoever God is,
