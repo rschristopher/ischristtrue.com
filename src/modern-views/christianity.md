@@ -17,12 +17,19 @@ And yet we often see proud Christians, convinced of our status as members of the
 ## The Modern Church
 
 It has been said that if there were a perfect church, it would cease being perfect the moment you joined -- and this is of course true as we are sinners, all of us, irredeemable by our own will and works.
+
+!!! warning "Imperfect Church"
+    Even in it's earliest moments, the church was "imperfect". One of His disciples denied the Lord three times, siding with the world over God. Two sought privilege at the Lord's side, provoking envy from the rest. And still another betrayed the Lord for thirty pieces of silver.
+    
+    And even after His glorious resurrection and ascension, the apostles faced internal conflicts from Judiazers and many external conflicts with pagans and gnostics, distorting the teaching and fostering schisms and heresies.
+
+
 While there can be no perfect *worldly* church, there unfortunately exists many churches actively promoting heresies and division.
 These are -- to be clear -- churches in the spirit of antichrist.
 These are not churches pointing us towards the perfection that is Christ Jesus, these are churches pointing in the exact opposite direction of Christ.
 
 In other words, if we take the gospel to heart and submit ourselves completely to Christ, then it becomes clear that many modern Christian churches are preaching heretical messages contrary to the Biblical teachings of Christ.
-And yet as Christians we are to go to church and to be baptized.
+And yet as Christians we are commanded to go to church and to be baptized.
 
 This problem extends beyond the obvious transgender Marxist ideologues masquerading as Christians, but more subtly with female pastors and [moderm](index.md) political messaging from the pulpit, trying to "modernize" the church.
 
@@ -62,7 +69,8 @@ How can we at least find a non-heretical church, a church where Christ is knocki
 As always, we are called to repent -- for Christ is knocking -- and we need to follow.
 This may be difficult for many modern Christians and modern churches, but if we are serious in seeking truth and answering the call, then what choice do we have?
 
-
+!!! quote "John 6:68"
+    But Simon Peter answered Him, “Lord, to whom shall we go? You have the words of eternal life."
 
 
 
