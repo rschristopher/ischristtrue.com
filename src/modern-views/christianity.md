@@ -19,7 +19,7 @@ And yet we often see proud Christians, convinced of our status as members of the
 It has been said that if there were a perfect church, it would cease being perfect the moment you joined -- and this is of course true as we are sinners, all of us, irredeemable by our own will and works.
 
 !!! warning "Imperfect Church"
-    Even in it's earliest moments, the church was "imperfect". One of His disciples denied the Lord three times, siding with the world over God. Two sought privilege at the Lord's side, provoking envy from the rest. And still another betrayed the Lord for thirty pieces of silver.
+    Even in it's earliest moments, the church was "imperfect". One of the disciples denied the Lord three times, siding with the world over God. Two sought privilege at the Lord's side, provoking envy from the rest. And still another betrayed the Lord for thirty pieces of silver.
     
     And even after His glorious resurrection and ascension, the apostles faced internal conflicts from Judiazers and many external conflicts with pagans and gnostics, distorting the teaching and fostering schisms and heresies.
 
