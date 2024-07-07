@@ -460,7 +460,8 @@ Whoever this divine Spirit of Truth is,
 
 
 !!! warning "Limits of Logic and Reason"
-    Importantly, we are now
+    While we can proceed with an [apophatic](https://en.m.wikipedia.org/wiki/Apophatic_theology) approach,
+    we are pushing
      at the limits of logic
      and reason.
     For logic and reason cannot contain
