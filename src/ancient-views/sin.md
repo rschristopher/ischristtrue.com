@@ -51,14 +51,14 @@ Free will begins with choosing God,
 
 
 
-## Sin is weakness
+## Weakness
 
 Sin is weakness. This is why honesty will always overcome deceit.
 
 
 
 
-## God hates sin
+## Hating sin
 
 !!! quote "Proverbs 6:16-19"
     These six things doth the LORD hate: yea, seven are an abomination unto him:
