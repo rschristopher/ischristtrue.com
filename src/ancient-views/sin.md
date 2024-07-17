@@ -58,4 +58,30 @@ Sin is weakness. This is why honesty will always overcome deceit.
 
 
 
+## God hates sin
+
+!!! quote "Proverbs 6:16-19"
+    These six things doth the LORD hate: yea, seven are an abomination unto him:
+    
+    A proud look, a lying tongue, and hands that shed innocent blood,
+    An heart that deviseth wicked imaginations, feet that be swift in running to mischief,
+    
+    A false witness that speaketh lies, and he that soweth discord among brethren.
+
+
+
+
+!!! quote "Psalms 139:19-24"
+    Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.
+    
+    For they speak against thee wickedly, and thine enemies take thy name in vain.
+    
+    Do not I hate them, O LORD, that hate thee? and am not I grieved with those that rise up against thee?
+    
+    I hate them with perfect hatred: I count them mine enemies.
+    
+    Search me, O God, and know my heart: try me, and know my thoughts:
+    And see if there be any wicked way in me, and lead me in the way everlasting.
+
+
 
