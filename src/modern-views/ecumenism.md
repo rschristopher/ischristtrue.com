@@ -51,6 +51,14 @@ And we must speak the truth -+ the painful truth of our sin -- and call out our 
 
 
 
+https://www.youtube.com/watch?v=Gnwfurtyn3M
+
+Ecumenism, anathema! There is one and only one Christ, one and only one Church.
+Ecumenical dialog, confess the singular unity of the one Church of Christ, speak to the heterodox (myself, and all outside His Church) who are struggling (working out our salvation with fear and trembling) and are invited into His church, an ever-deepening relationship and repentance.
+
+
+
+
 
 
 
