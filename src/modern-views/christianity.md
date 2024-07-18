@@ -21,7 +21,9 @@ It has been said that if there were a perfect church, it would cease being perfe
 !!! warning "Imperfect Church"
     Even in it's earliest moments, the church was "imperfect". 
     
-    One of the disciples denied the Lord three times, siding with the world over God. Two sought privilege at the Lord's side, provoking envy from the rest. And still another betrayed the Lord for thirty pieces of silver.
+    His chief disciple (upon which He would build His church) denied the Lord three times, siding with the world over God. 
+    Two disciples sought privilege at the Lord's side, provoking envy from the rest. 
+    And still another betrayed the Lord for thirty pieces of silver.
     
     And even after His glorious resurrection and ascension, the apostles faced internal conflicts from Judiazers and many external conflicts with pagans and gnostics, distorting the teaching and fostering 
     [schisms](schisms.md) and heresies.
@@ -34,7 +36,7 @@ These are not churches pointing us towards the perfection that is Christ Jesus, 
 In other words, if we take the gospel to heart and submit ourselves completely to Christ, then it becomes clear that many modern Christian churches are preaching heretical messages contrary to the Biblical teachings of Christ.
 And yet as Christians we are called to His church.
 
-This problem extends beyond the obvious transgender Marxist ideologues masquerading as Christians, but more subtly with female pastors and [moderm](index.md) political messaging from the pulpit,
+These divisions extend beyond the obvious transgender Marxist ideologues masquerading as Christians, but more subtly with female pastors and [moderm](index.md) political messaging from the pulpit,
  trying to "modernize" the church (resulting in the inevitable [ecumenism](ecumenism.md), [syncretism](syncretism.md), and relativistic [spiritualism](spiritualism.md)).
 
 *Heresies come in many forms, as do temptations.*
