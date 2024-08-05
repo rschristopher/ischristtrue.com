@@ -1,4 +1,18 @@
 # Free Will
+<!--
+
+Lord Jesus Christ, Son of God
+Have mercy on me, a sinner
+
+thesis:
+only thru an orthodox Christian epistemology is there a justifiable free will
+
+that is, can we have a justifiable free will?
+How?
+what are the first principles necessary for free will?
+
+
+-->
 
 For better or worse, the question of
  *free will* continues to be a

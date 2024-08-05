@@ -6,7 +6,7 @@
 
 Logos (Λόγος) means literally the *Word of God*.
 Christ is the *Logos incarnate*, the Word made flesh. 
-More specifically, Christ, the Logos, is the Spirit of Truth revealed.
+More specifically, Christ, the Logos, is Truth revealed in the flesh.
 
 [Modern views](../modern-views/index.md) offer a subtle nihilism where truth is relativistic and reductionist, a reversion to the [ancient](../ancient-views/index.md) "gods" where there was no objective knowable truth.
 Even modern
@@ -52,7 +52,7 @@ This can be demonstrated by the fact that most *-ology* suffixes make no referen
     * epistemology -- the study of understanding?
     * apology -- the study of from/of?
 
-*Note* the **ap-** in *apology* simply means "from" or "of", but what is an apology the study of, exactly? The study of *of*?
+The clearest refutation that -ology does not mean "the study of"  is the word "apology". Note the **ap-** in *apology* simply means "from" or "of", but what is an apology the study of, exactly? The study of *of*?
 
 None of these make much sense.
 However, if we recognize the etymological root *Logia* and *Logos* then these all make perfect sense, e.g.,
@@ -64,11 +64,11 @@ However, if we recognize the etymological root *Logia* and *Logos* then these al
     
     We can even get a better sense of the supposed "study of" scholastic disciplines,
     
-    * cosmology -- revealed truth of the order of the universe
+    * biology -- life's story
     * eschatology -- the end story
-    * etymology -- the original meaning of the word
-    * geology -- the ground/soil story
-    * technology -- revealed truth of techne (art, skill, technique)
+    * etymology -- the original meaning of a word
+    * geology -- the ground/soil's story
+    * technology -- techne (art, skill, technique) stories
 
 The ancient understanding of *Logia* dispels much of the confusion found in our modern view, and reveals the divine nature of knowledge and revelatory truth across all disciplines (and note that an academic discipline means literally to be a *disciple*).
 It would seem that "the study of" inference is a vain and demonic attempt to remove God, replacing God with self-worship, as if man were God.
