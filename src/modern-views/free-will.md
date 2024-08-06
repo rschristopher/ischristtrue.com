@@ -18,7 +18,7 @@ For better or worse, the question of
  *free will* continues to be a
  perplexing and unanswered question
  for all people across all worldviews.
-Whether religious or mechanistic,
+Whether religious or secular,
  spiritual or rationalistic,
  none have ever received a clear
  answer to the question of human free will.
@@ -39,6 +39,10 @@ Pick any era in history in any culture
  find this exact pattern 
  (albeit framed within the lexicon
  of that specific worldview).
+
+
+
+
 
 
 
