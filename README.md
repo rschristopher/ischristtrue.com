@@ -10,7 +10,23 @@ http://www.rocor.org.au/?page_id=925
 
 
 
+<!-- 
 
+if Christianity is true
+
+angels are real, demons are real
+satan, nephilim and their demonic spirits
+
+dark powers and principalities, fallen angels
+allowed to rule fallen men
+
+human souls is real and immortal
+in the end, Christ will throw death and satan into the lake of fire 
+
+kingdom of man will be antichristiam, will hate Christianity and will try to destroy Christians, even those who fall from the faith, any who still have even the scent of Christianity left on them
+
+
+-->
 
 
 
