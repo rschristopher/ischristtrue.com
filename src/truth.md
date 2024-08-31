@@ -348,7 +348,8 @@ In fact, as we shall see,
  at knowable objective truth.
 
 
-
+!!! quote "John 18:38"
+    Pilate saith unto him, What is truth?
 
 
 
