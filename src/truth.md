@@ -338,9 +338,9 @@ We once understood this in our culture,
  which means Truth was
  something akin to a person.
 If there is a *spirit of truth*,
- then we should not ask,
- "what is true?"
- we ought to ask
+ then we should not just ask,
+ "what is truth?"
+ we should also ask
  "who is truth?"
 In fact, as we shall see,
  this is the only way
@@ -349,7 +349,7 @@ In fact, as we shall see,
 
 
 !!! quote "John 18:38"
-    Pilate saith unto him, What is truth?
+    Pilate saith unto **him**, What is truth?
 
 
 
