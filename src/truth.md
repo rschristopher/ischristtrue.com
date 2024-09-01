@@ -531,10 +531,10 @@ Seeking truth is to orient your entire
  with God,
  revealing meaning
  sufficient to endure the suffering
- of this world.
+ of this world, and even to thrive and flourish (overcoming entropy and death).
 
 Importantly, by denying objective morality and beauty -- denying that morality and beauty are objectively knowable -- you will be left with the inversion of beauty and morality, which is fashion and relativism.
-And you will find yourself in a meaning crises, as relativism does not provide meaning sufficient for the challenges of life.
+And you will find yourself in a meaning crisis, as relativism does not provide meaning sufficient for the challenges of life.
 And fashion is transient and fleeting, which is very much the antithesis of beauty, and to truth itself.
 
 
