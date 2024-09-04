@@ -25,6 +25,11 @@ in the end, Christ will throw death and satan into the lake of fire
 
 kingdom of man will be antichristiam, will hate Christianity and will try to destroy Christians, even those who fall from the faith, any who still have even the scent of Christianity left on them
 
+the world is fallen, and falling.
+the world will be against Christianity as it falls.
+
+God arises, His enemies are scattered.
+are scattered -- the demons and dark powers are scattered, they are not in a grand hierarchy, but can only in chaos mock the true hierarchy
 
 -->
 
