@@ -1,5 +1,25 @@
 # Nature of Truth
 
+<!-- 
+Lord Jesus Christ
+Son of God
+Have mercy on me
+A sinner
+
+ancient truth
+
+Veritas, Aletheia
+https://www.theoi.com/Daimon/Aletheia.html
+
+https://en.m.wikipedia.org/wiki/Aletheia
+
+Aletheia is translated as "truth" in the gospels.
+And yet Christ wasn't referring to the Pagan goddess, but to the concept of revelation, which is how "truth" was often understood in the ancient world, as unhiding, unconcealing, revealing what is.
+
+In the ancient world, Aletheia was a goddess. 
+http://philoctetes.free.fr/parmenidesunicode.htm
+
+-->
 
 Our lives begin by
  seeking *truth*,
