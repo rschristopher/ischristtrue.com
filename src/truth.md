@@ -6,7 +6,12 @@ Son of God
 Have mercy on me
 A sinner
 
-ancient truth
+
+
+The Truth will save the world
+
+
+ancient truth?
 
 Veritas, Aletheia
 https://www.theoi.com/Daimon/Aletheia.html
