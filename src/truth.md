@@ -11,18 +11,9 @@ A sinner
 The Truth will save the world
 
 
-ancient truth?
-
-Veritas, Aletheia
-https://www.theoi.com/Daimon/Aletheia.html
-
-https://en.m.wikipedia.org/wiki/Aletheia
 
 Aletheia is translated as "truth" in the gospels.
 And yet Christ wasn't referring to the Pagan goddess, but to the concept of revelation, which is how "truth" was often understood in the ancient world, as unhiding, unconcealing, revealing what is.
-
-In the ancient world, Aletheia was a goddess. 
-http://philoctetes.free.fr/parmenidesunicode.htm
 
 modern views attempt to lie about this, claiming that the ancient Greeks invented the concept.
 ... instead those Greeks were influenced by Hebrew thought, especially the Torah.
@@ -31,17 +22,35 @@ modern views attempt to lie about this, claiming that the ancient Greeks invente
 
 Pilate said to Him, "What is truth?" And when he had said this, he went out again to the Jews, and said to them, "I find no fault in Him at all. - John 18:38
 
-Pilate saith unto Him, What is truth? Pilate supposed Christ to be a philosopher or prophet, who speculated about truth. And therefore he asked Him what that truth was to which He was born to bear witness. But this was not much to the point which he was aiming at, viz, the deliverance of Jesus, who was a grave, wise, and innocent man. And therefore he thought on a very fitting means for His deliverance. For he was about to set free one at the feast; and therefore compared Jesus and Barabbas, in order that the Jews should rather ask for Jesus than Barabbas. He therefore rushed out to propose it to them. 
-Symbolically. What is truth? S. Augustine answers (in Sententi, 386), "Truth is God Himself, who is the primal source of life, and the primal essence, as He is the highest wisdom. For He is that unchangeable truth which is rightly termed "the law of all arts, and the art of the Almighty Artificer."" And also (Epist. ix.), "The truth held by Christians is incomparably more beautiful than Helen of Greece. For our martyrs contended more boldly in its behalf against this Sodom of ours, than these heroes fought for her against Troy." Nay, Christ Himself died as the first martyr for the truth. 
+Pilate saith unto Him, What is truth? Pilate supposed Christ to be a philosopher or prophet, who speculated about truth. And therefore he asked Him what that truth was to which He was born to bear witness. But this was not much to the point which he was aiming at, viz, the deliverance of Jesus, who was a grave, wise, and innocent man. And therefore he thought on a very fitting means for His deliverance. For he was about to set free one at the feast; and therefore compared Jesus and Barabbas, in order that the Jews should rather ask for Jesus than Barabbas. He therefore rushed out to propose it to them.
+
+Symbolically. What is truth? 
+S. Augustine answers (in Sententi, 386), "Truth is God Himself, who is the primal source of life, and the primal essence, as He is the highest wisdom. For He is that unchangeable truth which is rightly termed "the law of all arts, and the art of the Almighty Artificer."" And also (Epist. ix.), "The truth held by Christians is incomparably more beautiful than Helen of Greece. For our martyrs contended more boldly in its behalf against this Sodom of ours, than these heroes fought for her against Troy." Nay, Christ Himself died as the first martyr for the truth.
+
 What is truth? Hear Lactantius (de Ira Dei, cap. ii.) pointing out its three steps. (1.) The first is to know what religions are false, and to cast aside the impious worship of gods made by man"s hands. (2.) To understand that there is one supreme God, whose power and providence created the world at the first, and governed it afterwards. (3.) To recognise His minister and messenger and delegate to man. By whose teaching we shall be set free from the error in which we were entangled, that being fashioned for the worship of the true God we might learn righteousness. 
+
 What is truth? "I am the way, the Truth, and the life." (John xiv.) 
 What is truth? It is the very highest good, says S. Basil in Antonius, surnamed Melissa.*;
-What is truth? It is God, says S. Dionysius, inasmuch as He is in His nature one only, and not many. For the truth is one—falsehood is manifold. 
+What is truth? It is God, says S. Dionysius, inasmuch as He is in His nature one only, and not many. For the truth is one — falsehood is manifold. !!!
 What is truth? It is the faculty which brings to the light things which are shrouded in darkness, says Philo. 
 What is truth? The mightiest of all things, says Nazianzen (Orat. xiii.) 
-What is truth? It is a firm apprehension of an object in the mind, says S. Chrysostom. Hence the saying of Zorobabel, 3Esdr3, "A king is strong, wine is strong, but truth is strongest of all." And chap iv36 , "All the earth invokes truth, heaven also blesses it, and all things are moved by, and tremble at it;" and vcr40 , "There is no iniquity in its judgment, but strength and sovereignty and power, and the majesty of all ages. Blessed be the God of truth." Accordingly, Alphonso King of Arragon says, "Truth ought to be innate in all men. But it ought to be the chief ornament of kings, so that a single word of a prince ought to be of as great weight for settling the truth as the oath of private men." (See Panormitan. de Gentis Alphonsi, lib1.) Hence the Jewish High Priest bore written on his breastplate (rationali) Urim and Thummim.  Exodus 28:30. 
+What is truth? It is a firm apprehension of an object in the mind, says S. Chrysostom. Hence the saying of Zorobabel, 3Esdr3, "A king is strong, wine is strong, but truth is strongest of all." And chap iv36 , "All the earth invokes truth, heaven also blesses it, and all things are moved by, and tremble at it;" and vcr40 , "There is no iniquity in its judgment, but strength and sovereignty and power, and the majesty of all ages. Blessed be the God of truth." 
+Accordingly, Alphonso King of Arragon says, "Truth ought to be innate in all men. But it ought to be the chief ornament of kings, so that a single word of a prince ought to be of as great weight for settling the truth as the oath of private men." (See Panormitan. de Gentis Alphonsi, lib1.) Hence the Jewish High Priest bore written on his breastplate (rationali) Urim and Thummim.  Exodus 28:30. 
+
 The Gentiles saw this in shadow (Stobus, Serm. xi.), and Menander says, Truth is a citizen of heaven, and alone enjoys converse with the gods. 
-Plato used to term "Truth" a most sweet mode of speech. Iamblicus speaks of it as "conversant with the gods and their purity of action." schines, "So mighty is truth, that it transcends all human thought." Plato again (de Legg. v.), "Truth is the guide to all good both in gods and men. Every one who would hereafter be good and happy ought to have a share in it, in order to live as long as he can a life of truthfulness." Trismegistus, "Truth exists only in eternal subsistences; and those subsistences are themselves true. All things therefore on earth are not truth itself, but merely its imitations and shadows. Truth is the most perfect virtue and the very highest good, which is neither disquieted with matter, nor encompassed with a body, but is pure, conspicuous, august, unchangeable, and unalterable good." Plutarch (in Antonius, cap. xxi.) says, "equality is tested by a balance, but truth by reasons of philosophy." And Evagrius (ibid.), "To keep back the truth is to bury gold." And Democrittis, "Piety should be openly declared, and truth stedfastly defended." And Epictetus, "Nothing should be counted more precious than truth, not even friendship, as being under the influence of our feelings, which hinder what is just, and cast it into the shade." Whence the saying, "Plato is dear, but truth is dearer:" and also, "Truth is an eternal and undying thing, for it bestows not a beauty which will gradually fade, nor does it deprive us of that confidence which arises from justice. But it sets forth those things which are just and rightful, refuting and distinguishing from them those which are unjust." Demosthenes was asked, "What should men have which is like God?" and he answered, "To act kindly, and to love the truth." (Val. Max. viii.) 
+
+Plato used to term "Truth" a most sweet mode of speech. 
+Iamblicus speaks of it as "conversant with the gods and their purity of action." 
+schines, "So mighty is truth, that it transcends all human thought." 
+Plato again (de Legg. v.), "Truth is the guide to all good both in gods and men. Every one who would hereafter be good and happy ought to have a share in it, in order to live as long as he can a life of truthfulness." 
+Trismegistus, "Truth exists only in eternal subsistences; and those subsistences are themselves true. All things therefore on earth are not truth itself, but merely its imitations and shadows. Truth is the most perfect virtue and the very highest good, which is neither disquieted with matter, nor encompassed with a body, but is pure, conspicuous, august, unchangeable, and unalterable good." 
+Plutarch (in Antonius, cap. xxi.) says, "equality is tested by a balance, but truth by reasons of philosophy." 
+And Evagrius (ibid.), "To keep back the truth is to bury gold." 
+And Democrittis, "Piety should be openly declared, and truth stedfastly defended." 
+And Epictetus, "Nothing should be counted more precious than truth, not even friendship, as being under the influence of our feelings, which hinder what is just, and cast it into the shade." 
+Whence the saying, "Plato is dear, but truth is dearer:" 
+and also, "Truth is an eternal and undying thing, for it bestows not a beauty which will gradually fade, nor does it deprive us of that confidence which arises from justice. But it sets forth those things which are just and rightful, refuting and distinguishing from them those which are unjust." 
+Demosthenes was asked, "What should men have which is like God?" and he answered, "To act kindly, and to love the truth." (Val. Max. viii.) 
 Pythagoras used to say, "The most gracious gifts bestowed by God on Prayer of Manasseh , were to embrace the truth, and to devote oneself to acts of kindness; for both these can be compared with the actions of the immortal gods." (lian, Var. Hist. lib. xii.) 
  
 *Cornelius says, "In Melissa," as though it were the name of a book. Antonius, a Greek monk, was called Melissa from the character of his sermons. The book from which these extracts are given is entitled "Loci communes de Virtutibus et Vitiis." He lived in c1140. See Cave, Hist. Lit. vol. ii. p219.  
@@ -228,7 +237,7 @@ As the old Maori prayer goes,
 
 
 
-### Knowing Truth
+## Knowing Truth
 
 This should be a simple question,
  is there objective knowable truth?
@@ -244,7 +253,7 @@ There is suffering.
 There is power and oppression.
 There is the deconstruction of
  everything, even deconstructionism itself.
-Once again, we move further and further
+Once again, the modern view moves further and further
  away from the fundamental questions.
 
 If you are at all serious about pursuing
@@ -281,35 +290,46 @@ For those who still hold a belief in
  dead Christian worldview,
  and you'll find only absurdity at the
  other end of your venture.
- 
-But aha, you may be asking,
- what about the ancient Romans
- and their concept of a divine truth,
- *veritas*?
-Or the stoics?
-Or the ancient Greek philosophers?
-Plato and Aristotle certainly had a lot to say on this matter.
-Christianity might have copied 
- the concept of an objective
- knowable truth, but they did
- not invent it, right?
-Except that *veritas* was a
- pagan Goddess, daughter of Saturn,
- in some tellings she was a creation
- of Prometheus --
- not exactly what we mean when
- talking about *truth*.
-The stoics referred to the
- [anima mundi](https://en.m.wikipedia.org/wiki/Anima_mundi) and a divine logos that brought the universe into being.
-And Plato referred to a
- [demiurge](https://en.m.wikipedia.org/wiki/Demiurge) and
-*platonic forms*
- which hardly bear a resemblance to
- what we mean when talking
- about objective knowable truth.
-Aristotle recognized that a first principle of *logos* is necessarily unexplainable (for if a first principle had a causal explanation than that cause would be the first principle).
-Ultimately, these concepts, especially of *logos* as *first principle* originated from Hebrew thought (such as from the [Septuagint](https://en.wikipedia.org/wiki/Septuagint)), and later formed the foundation of Christianity and what we mean today by 
- *objective knowable truth*.
+
+!!! question "But what about ... ?"
+    You may be asking,
+     what about the ancient Greeks
+     and their concept of a divine truth, [aletheiia](https://en.m.wikipedia.org/wiki/Aletheia)?
+    Or what the ancient Romans,
+     [veritas](https://en.wikipedia.org/wiki/Veritas)?
+    Or the stoics?
+    [Plato](https://en.wikipedia.org/wiki/Plato)
+    and 
+    [Aristotle](https://en.wikipedia.org/wiki/Aristotle) 
+    certainly had a lot to say on this matter.
+    Or even the pre-Socratic philosophers like [Parmenides](https://en.wikipedia.org/wiki/Parmenides).
+    This was five-centuriess before Christ!
+
+    Christianity must have copied 
+     the concept of an objective
+     knowable truth, but they did
+     not invent it, right?
+
+    Except that *Veritas* was a
+     pagan Goddess, daughter of Saturn (sometimes considered a daughter of Jupiter);
+     and *Aletheia* was a pagan Goddess, daughter of Zeus.
+     In some tellings she was a creation
+     of Prometheus --
+     not exactly what we mean when
+     talking about *truth*.
+    And despite modern rationalizations, the few surviving poems from [Parmenides](http://philoctetes.free.fr/parmenidesunicode.htm)
+     make this pagan worldview abundantly clear (truth was but one of many spirits and we are but playthings to the gods).
+    Even Plato appealed to a
+     [demiurge](https://en.m.wikipedia.org/wiki/Demiurge) fashioning the *platonic forms*
+     which hardly bear a resemblance to
+     what we mean when talking
+     about *objective knowable truth*.
+    
+    The stoics referred to the
+     [anima mundi](https://en.m.wikipedia.org/wiki/Anima_mundi) and a divine logos that brought the universe into being.
+    Aristotle recognized that a first principle of *logos* is necessarily unexplainable (for if a first principle had a causal explanation than that cause would be the first principle).
+    Ultimately, these concepts, especially of *logos* as *first principle* originated from Hebrew thought (such as from the [Septuagint](https://en.wikipedia.org/wiki/Septuagint)), 
+    which is foundational to [Second-Temple Judiaism](https://en.wikipedia.org/wiki/Second_Temple_Judaism), where *objective knowable truth* was born (literally).
 
 To be clear, if you claim to be a
  rationalist,
@@ -483,9 +503,9 @@ This is what people mean by God.
 
 Well, turns out there's only a few of
  possible answers.
-Either God exists, or He doesn't.
-And if He does exist,
- He is either knowable, or not.
+Either God exists, or does not.
+And if God does exist, then
+ God (the Spirit of Truth) is either knowable to us, or not.
 
 This somewhat crude classification
  can handily separate the multitude
@@ -523,7 +543,7 @@ Whoever this divine Spirit of Truth is,
      in themselves 
      that which gives rise to logic and reason.
     Logic and reason are not self-sustaining.
-     They do not grant us knowledge of truth.
+     They do not grant us knowledge of the Truth.
     They are but artifacts of our consciousness,
      the means with which we *make sense* of the
      world around us.
@@ -698,18 +718,19 @@ The Christian answer to Truth is,
  and on the other hand,
  a necessary claim for
  Truth to be knowable.
-That is, the Spirit of Truth is God,
+That is, the Spirit of Truth -- God Almighty --
  the creator of the universe,
- who was incarnate as man,
- who was crucified for us,
+ was incarnate as man,
+ was crucified for us,
  and on the third day He
  rose again.
-All Truth is the word of God, and any articulation of Truth is revealed to you personally, and it is the literal person of Christ Jesus.
+Truth is the word of God, and any articulation of Truth must be revealed to you personally, and Truth (the word of God) is the literal person of Christ Jesus.
 In other words, from mathematics to philosophy to literature, Truth in those fields is the revealed word of God, the [logos](logos/index.md), who is Christ Jesus.
 
 To be clear, there is no justifiable 
  epistemology outside of Christianity
- and these seemingly outrageous claims.
+ and these seemingly outrageous claims
+ (and historically the concept of epistemology did not even exist prior to Christianity).
 There have been 
  countless attempts,
  but all lead to nihilism,
@@ -760,7 +781,7 @@ You are an icon, a finite symbol
  an ambassador to 
  the creator of the universe.
 
-Your purpose -- the answer to the most fundamental question -- *is to glorify God*, to fill all things with life and beauty.
+Your purpose -- the answer to that most fundamental question -- *is to glorify God*, to fill all things with life and beauty.
 
 And even in your fallen state,
  you will not, and cannot,
