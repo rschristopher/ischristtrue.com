@@ -24,9 +24,6 @@ Pilate said to Him, "What is truth?" And when he had said this, he went out agai
 
 Pilate saith unto Him, What is truth? Pilate supposed Christ to be a philosopher or prophet, who speculated about truth. And therefore he asked Him what that truth was to which He was born to bear witness. But this was not much to the point which he was aiming at, viz, the deliverance of Jesus, who was a grave, wise, and innocent man. And therefore he thought on a very fitting means for His deliverance. For he was about to set free one at the feast; and therefore compared Jesus and Barabbas, in order that the Jews should rather ask for Jesus than Barabbas. He therefore rushed out to propose it to them.
 
-Symbolically. What is truth? 
-S. Augustine answers (in Sententi, 386), "Truth is God Himself, who is the primal source of life, and the primal essence, as He is the highest wisdom. For He is that unchangeable truth which is rightly termed "the law of all arts, and the art of the Almighty Artificer."" And also (Epist. ix.), "The truth held by Christians is incomparably more beautiful than Helen of Greece. For our martyrs contended more boldly in its behalf against this Sodom of ours, than these heroes fought for her against Troy." Nay, Christ Himself died as the first martyr for the truth.
-
 What is truth? Hear Lactantius (de Ira Dei, cap. ii.) pointing out its three steps. (1.) The first is to know what religions are false, and to cast aside the impious worship of gods made by man"s hands. (2.) To understand that there is one supreme God, whose power and providence created the world at the first, and governed it afterwards. (3.) To recognise His minister and messenger and delegate to man. By whose teaching we shall be set free from the error in which we were entangled, that being fashioned for the worship of the true God we might learn righteousness. 
 
 What is truth? "I am the way, the Truth, and the life." (John xiv.) 
@@ -711,6 +708,9 @@ Orthodox, as opposed to heterodox,
 
 
 ## Christianity and Truth 
+
+!!! quote "St. Augustine"
+    Truth is God Himself, who is the primal source of life, and the primal essence, as He is the highest wisdom. For He is that unchangeable truth which is rightly termed "the law of all arts, and the art of the Almighty Artificer.
 
 The Christian answer to Truth is,
  on one hand,
