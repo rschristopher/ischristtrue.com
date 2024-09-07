@@ -724,15 +724,17 @@ That is, the Spirit of Truth -- God Almighty --
  was crucified for us,
  and on the third day He
  rose again.
-Truth is the word of God, and any articulation of Truth must be revealed to you personally, and Truth (the word of God) is the literal person of Christ Jesus.
-In other words, from mathematics to philosophy to literature, Truth in those fields is the revealed word of God, the [logos](logos/index.md), who is Christ Jesus.
+Truth is the incarnate word of God, and any articulation of Truth must be revealed to you personally.
+Truth (the word of God) is the literal person of Christ Jesus.
+In other words, from mathematics to philosophy to literature, Truth in those fields is the revealed word of God, the [logos](logos/index.md) made visible, who is Christ Jesus.
 
 To be clear, there is no justifiable 
  epistemology outside of Christianity
  and these seemingly outrageous claims
- (and historically the concept of epistemology did not even exist prior to Christianity).
+ (and not surprisingly the concept of epistemology did not even exist prior to Christianity).
 There have been 
- countless attempts,
+ countless attempts
+ (to preserve the fruit without the tree),
  but all lead to nihilism,
  to a rejection of knowable truth.
 Rejecting the uniquely Christian notion
@@ -762,8 +764,8 @@ As outrageous as this can sound to
  modern ears, the alternative is
  absurdity and nihilism
  (and what better way to understand  modernity than the observation that absurdity has become preferable to truth).
-The very idea of knowable objective
- truth presupposes these seemingly
+The very idea of *knowable objective
+ truth* presupposes these seemingly
  outrageous claims -- that you are
  created in the image and likeness 
  of God, that the creator of the
@@ -775,7 +777,7 @@ You were made to know and glorify Him
 
 Your life is not only meaningful,
  but divinely meaningful,
- an eternal soul made in His image.
+ an eternal soul made in the image of God.
 You are an icon, a finite symbol
  of the infinite God,
  an ambassador to 
