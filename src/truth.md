@@ -253,7 +253,7 @@ There is suffering.
 There is power and oppression.
 There is the deconstruction of
  everything, even deconstructionism itself.
-Once again, the modern view moves further and further
+Once again, our modern views move further and further
  away from the fundamental questions.
 
 If you are at all serious about pursuing
