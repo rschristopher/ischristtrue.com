@@ -294,8 +294,8 @@ For those who still hold a belief in
 !!! question "But what about ... ?"
     You may be asking,
      what about the ancient Greeks
-     and their concept of a divine truth, [aletheiia](https://en.m.wikipedia.org/wiki/Aletheia)?
-    Or what the ancient Romans,
+     and their concept of a divine truth, [aletheia](https://en.m.wikipedia.org/wiki/Aletheia)?
+    Or what about the ancient Romans,
      [veritas](https://en.wikipedia.org/wiki/Veritas)?
     Or the stoics?
     [Plato](https://en.wikipedia.org/wiki/Plato)
