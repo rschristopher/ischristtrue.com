@@ -759,7 +759,22 @@ As you look out onto the world,
 The source of all that is,
  is with you,
  making truth knowable to you.
- 
+
+And even in your fallen state,
+ you will not, and cannot,
+ return to nothingness.
+Beauty draws you to Him, revealing His design, beckoning you to return to a state of grace.
+To believe in objective
+ knowable truth is to 
+ necessarily also believe that
+your soul is eternal.
+To deny God,
+ to deny knowable truth,
+ is to fall from grace --
+ an eternal
+ [hell](logos/harrowing.md)
+ of one's own making.
+
 As outrageous as this can sound to
  modern ears, the alternative is
  absurdity and nihilism
@@ -784,22 +799,6 @@ You are an icon, a finite symbol
  the creator of the universe.
 
 Your purpose -- the answer to that most fundamental question -- *is to glorify God*, to fill all things with life and beauty.
-
-And even in your fallen state,
- you will not, and cannot,
- return to nothingness.
-Beauty draws you to Him, revealing His design, beckoning you to return to a state of grace.
-To believe in objective
- knowable truth is to 
- necessarily also believe that
-your soul is eternal.
-To deny God,
- to deny knowable truth,
- is to fall from grace --
- an eternal
- [hell](logos/harrowing.md)
- of one's own making.
- 
 
 
 
