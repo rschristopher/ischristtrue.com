@@ -728,21 +728,6 @@ Truth is the incarnate word of God, and any articulation of Truth must be reveal
 Truth (the word of God) is the literal person of Christ Jesus.
 In other words, from mathematics to philosophy to literature, Truth in those fields is the revealed word of God, the [logos](logos/index.md) made visible, who is Christ Jesus.
 
-To be clear, there is no justifiable 
- epistemology outside of Christianity
- and these seemingly outrageous claims
- (and not surprisingly the concept of epistemology did not even exist prior to Christianity).
-There have been 
- countless attempts
- (to preserve the fruit without the tree),
- but all lead to nihilism,
- to a rejection of knowable truth.
-Rejecting the uniquely Christian notion
- of knowable truth yields only
- a desperate yearning for
- nothingness
- (to return to nothingness).
- 
 And even more outrageous,
  Christ is the mediator between
  the transcendent and man, between God the Father and man -- and thus between
@@ -760,7 +745,22 @@ The source of all that is,
  is with you,
  making truth knowable to you.
 
-And even in your fallen state,
+To be clear, there is no justifiable 
+ epistemology outside of Christianity
+ and these seemingly outrageous claims
+ (and not surprisingly the concept of epistemology did not even exist prior to Christianity).
+There have been 
+ countless attempts
+ (to preserve the fruit without the tree),
+ but all lead to nihilism,
+ to a rejection of knowable truth.
+Rejecting the uniquely Christian notion
+ of knowable truth yields only
+ a desperate yearning for
+ nothingness
+ -- to return to nothingness.
+
+And yet even in your fallen state,
  you will not, and cannot,
  return to nothingness.
 Beauty draws you to Him, revealing His design, beckoning you to return to a state of grace.
