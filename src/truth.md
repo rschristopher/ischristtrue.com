@@ -792,7 +792,7 @@ You were made to know and glorify Him
 
 Your life is not only meaningful,
  but divinely meaningful,
- an eternal soul made in the image of God.
+ an eternal soul made in the image and likeness of God.
 You are an icon, a finite symbol
  of the infinite God,
  an ambassador to 
