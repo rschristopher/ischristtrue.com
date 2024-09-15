@@ -142,7 +142,7 @@ We can imagine he was giving his tithing gladly and generously, and was honest a
 Yet still he knew something was missing. 
 
 Without understanding, he was violating the first commandment, and had placed his possessions -- his worldly status -- above God.
-And importantly, what is often missed in modern readings of this story, the rich young nan was likely healed in that moment.
+And importantly, what is often missed in modern readings of this story, the rich young man was likely healed in that moment.
 He came to Christ with pride in his heart, believing he might already be perfect; and he left with a broken heart, [sorrowful](https://m.youtube.com/watch?v=_faF1SiQAXw), humbled before God Himself.
 
 !!! quote "Psalms 51:17"
