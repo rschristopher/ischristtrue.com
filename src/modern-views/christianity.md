@@ -142,6 +142,11 @@ We can imagine he was giving his tithing gladly and generously, and was honest a
 Yet still he knew something was missing. 
 
 Without understanding, he was violating the first commandment, and had placed his possessions -- his worldly status -- above God.
+And importantly, what is often missed in modern readings of this story, the rich young nan was likely healed in that moment.
+He came to Christ with pride in his heart, believing he might already be perfect; and he left with a broken heart, [sorrowful](https://m.youtube.com/watch?v=_faF1SiQAXw), humbled before God Himself.
+
+!!! quote "Psalms 51:17"
+    The sacrifices of God are a broken spirit, A broken and a contrite heart— These, O God, You will not despise.
 
 Likewise, many modern Christians want the worldly benefits of the Christian lifestyle, and like this young man are fulfiling the worldly commandments, but they have not yet known God. They are not following the greatest commandment: *to love God with all your heart, mind, and soul*. And as we see in the gospel of Luke, it is not just wealth that we place above God,
 
