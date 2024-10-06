@@ -4,6 +4,9 @@ https://orthochristian.com/132885.html
 
 https://www.rocorstudies.org/2022/12/10/a-patristic-perspective-on-a-crucified-mind-fr-seraphim-rose-and-the-doctrine-of-creation/
 
+https://www.goldenmouth.org/st-seraphim-of-platina/genesis-creation-early-man
+
+
 > our behavior is directly linked to our understanding of our origins, and our behavior reveals our desire or lack thereof for salvation and eternal life, to which Genesis, as a book of Scripture, points us.
 
 > teaching that men are descended from apes in order to justify treating one another as animals.
