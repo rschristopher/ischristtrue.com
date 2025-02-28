@@ -12,6 +12,11 @@ http://www.rocor.org.au/?page_id=925
 
 <!-- 
 
+Lord Jesus Christ, Son of God
+Have mercy on me, a sinner
+
+
+
 if Christianity is true
 
 angels are real, demons are real
@@ -30,6 +35,9 @@ the world will be against Christianity as it falls.
 
 God arises, His enemies are scattered.
 are scattered -- the demons and dark powers are scattered, they are not in a grand hierarchy, but can only in chaos mock the true hierarchy
+
+The corruption and the pride are out of control. The money is fake, nearly worthless, and yet here we are. The rulers perform 
+
 
 -->
 
