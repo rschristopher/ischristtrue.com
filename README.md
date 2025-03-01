@@ -20,7 +20,7 @@ Have mercy on me, a sinner
 if Christianity is true
 
 angels are real, demons are real
-satan, nephilim and their demonic spirits
+satan, nephilim, the fallen
 
 dark powers and principalities, fallen angels
 allowed to rule fallen men
@@ -47,8 +47,12 @@ This is the world we live in, the world that but for the grace of God would dest
 
 We are image bearers of God, and yet the powers and principalities ensnare us, the rulers of the darkness of this world, spiritual wickedness in high places.
 
-Help us, Lord, free us from all spiritual wickedness, and put it in its right place before God.
+Help us, Lord, free us from all spiritual wickedness, and put all in its right place under God.
 
+Lord Jesus Christ
+Son of God
+Have mercy on me
+a sinner
 
 -->
 
