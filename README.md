@@ -49,6 +49,8 @@ We are image bearers of God, and yet the powers and principalities ensnare us, t
 
 Help us, Lord, free us from all spiritual wickedness, and put all in its right place under God.
 
+All that is good, is from God, and it is His uncreated energy.
+
 Lord Jesus Christ
 Son of God
 Have mercy on me
