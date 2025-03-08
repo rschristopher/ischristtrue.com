@@ -60,11 +60,11 @@ Read more commentaries at https://catenabible.com/com/5838d8f6205c248f42e52374
 
 -->
 
-Our lives begin by
+Our journey begins by
  seeking *truth*,
  making sense of the world,
  seeking answers
- to the most fundamental questions:
+ to the most fundamental of questions:
 What is real?
 
 How do we know what is real?
