@@ -83,7 +83,7 @@ Is the world radically different than
 
 Whatever it is that *we* are,
  we are perceiving an external world,
- a world filled with suffering.
+ a world of suffering.
 When we seek truth,
  we are seeking to know
  what actually exists;
