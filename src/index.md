@@ -18,6 +18,7 @@ Have mercy on me,
 
 We are seeking 
  [truth](truth.md), wherever that may take us.
+
 Our
  [modern views](modern-views/index.md)
  have given us absurdity, moral relativism, a meaning crisis and cultural rot. We are watching our civilization decay before our eyes. Perhaps it is already dead, which would explain the parasitic global bureaucracies feasting on the carcass of what was once known as western civilization.
