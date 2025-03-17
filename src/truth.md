@@ -72,7 +72,7 @@ How do we know what is real?
 The philosophically-inclined
  might add:
 *Why is there suffering and death?
-What is the purpose of it all?
+What is the purpose of life?
 Is the world we perceive real?
 Is it all a dream?
 Is it a delusion from a demon?
