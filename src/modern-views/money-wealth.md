@@ -11,11 +11,28 @@ https://www.johnsanidopoulos.com/2016/04/st-john-climacus-on-love-of-money-or.ht
 
 
 
+## What is Money?
+
+We tend to think of money in abstract terms, such as a store of wealth.
+
+Money as we know it did not exist when any patt of the Bible was written.
+
+Trying to understand what the Bible has to say about modern money is like trying to find what the Bible has to say about the Internet.
+
+That said, we can apply the moral laws and Biblical teachings to both the Internet and to modern money.
+
+
+
 the abomination that is fiat money and credit
 
 usury
 
-good stewardship
+
+
+
+
+
+## Stewardship
 
 https://publicorthodoxy.org/2022/11/01/christian-stewardship-and-wealth/
 
@@ -32,6 +49,9 @@ https://www.focusonthefamily.com/family-qa/biblical-principles-and-perspectives-
 
 
 good money, from God ... how to discern good money from sin? light vs darkness, know them by their fruits 
+
+
+
 
 
 
