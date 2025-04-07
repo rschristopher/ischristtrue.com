@@ -2,9 +2,10 @@
 
 Money as we know it did not exist in the ancient world, and in fact money as we understand it today did not exist even 50 years ago.
 
+Trying to understand what the Bible or any ancient text has to say about modern money is like trying to decipher ancient opinions about the Internet.
+What gets translated as "money" was not what we think -- unless you were thinking of a herd of sheep, or precious metals.
+And yet the warnings about the love of money are all the more relevant today than ever before.
 
-Trying to understand what the Bible or any ancient text has to say about modern money is like trying to find ancient opinions about the Internet.
-That said, we can apply moral laws and Biblical teachings to both the Internet and to modern money.
 
 !!! quote "1 Timothy 6:20"
     For the love of money is a root of all kinds of evil, for which some have strayed from the faith in their greediness, and pierced themselves through with many sorrows.
