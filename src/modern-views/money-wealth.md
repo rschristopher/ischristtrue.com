@@ -1,31 +1,33 @@
 # Money and Wealth
 
-treasures in heaven
-
-love of money
-
-https://www.johnsanidopoulos.com/2016/04/st-john-climacus-on-love-of-money-or.html?m=1
-
-> The sins of the rich, such as greed and selfishness, are obvious for all to see. The sins of the poor are less conspicuous, yet equally corrosive of the soul. Some poor people are tempted to envy the rich; indeed this is a form of vicarious greed, because the poor person wanting great wealth is in spirit no different from the rich person amassing great wealth. Many poor people are gripped by fear: their hearts are caught in a chain of anxiety, worrying whether they will have food on their plates tomorrow or clothes on their backs. Some poor people are constantly formulating in their minds devious plans to cheat the rich to obtain their Wealth; this is no different in spirit from the rich making plans to exploit the poor by paying low wages. The art of being poor is to trust in God for everything, to demand nothing-and to be grateful for all that is given.
+Money as we know it did not exist in the ancient world, and in fact money as we understand it today did not exist even 50 years ago.
 
 
+Trying to understand what the Bible or any ancient text has to say about modern money is like trying to find ancient opinions about the Internet.
+That said, we can apply moral laws and Biblical teachings to both the Internet and to modern money.
+
+!!! quote "1 Timothy 6:20"
+    For the love of money is a root of all kinds of evil, for which some have strayed from the faith in their greediness, and pierced themselves through with many sorrows.
 
 
-## What is Money?
 
-We tend to think of money in abstract terms, such as a store of wealth.
+## 1971 to Present
 
-Money as we know it did not exist at any age of the Bible.
 
-Trying to understand what the Bible has to say about modern money is like trying to find what the Bible has to say about the Internet.
 
-That said, we can apply the moral laws and Biblical teachings to both the Internet and to modern money.
 
-### Money is a technology 
 
-the abomination that is fiat money and credit
 
-usury
+
+!!! quote "Matthew 6:19-21"
+    Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal; but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal. For where your treasure is, there your heart will be also.
+
+
+
+
+
+
+
 
 
 
@@ -89,6 +91,10 @@ Good money is the fruit of good work, and it belongs to God (as all things do). 
 Good money must also be *produced* through good work. That is, money production must be good, must glorify God.
 
 But it is God's sovereignty. It is His money. If you confuse it with yours then this is to give in to the serpent. This is where the rich man falls to pride, and the poor man to envy.
+
+!!! quote "[St John Climacus](https://www.johnsanidopoulos.com/2016/04/st-john-climacus-on-love-of-money-or.html?m=1)"
+    The sins of the rich, such as greed and selfishness, are obvious for all to see. The sins of the poor are less conspicuous, yet equally corrosive of the soul. Some poor people are tempted to envy the rich; indeed this is a form of vicarious greed, because the poor person wanting great wealth is in spirit no different from the rich person amassing great wealth. Many poor people are gripped by fear: their hearts are caught in a chain of anxiety, worrying whether they will have food on their plates tomorrow or clothes on their backs. Some poor people are constantly formulating in their minds devious plans to cheat the rich to obtain their Wealth; this is no different in spirit from the rich making plans to exploit the poor by paying low wages. The art of being poor is to trust in God for everything, to demand nothing-and to be grateful for all that is given.
+
 
 Shoulder the burden responsibly, knowing it is God's money no matter where it goes, and that it is in your hands for a reason, that you have been tasked by God. If you find yourself with money, pray for wisdom sufficient for such a challenge. Your salvation is on the line.
 
