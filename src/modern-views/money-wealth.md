@@ -15,19 +15,36 @@ https://www.johnsanidopoulos.com/2016/04/st-john-climacus-on-love-of-money-or.ht
 
 We tend to think of money in abstract terms, such as a store of wealth.
 
-Money as we know it did not exist when any patt of the Bible was written.
+Money as we know it did not exist at any age of the Bible.
 
 Trying to understand what the Bible has to say about modern money is like trying to find what the Bible has to say about the Internet.
 
 That said, we can apply the moral laws and Biblical teachings to both the Internet and to modern money.
 
-
+### Money is a technology 
 
 the abomination that is fiat money and credit
 
 usury
 
 
+
+
+
+
+## Abridged History
+
+livestock
+
+metals
+
+coins
+
+gold standard 
+
+global fiat
+
+???
 
 
 
