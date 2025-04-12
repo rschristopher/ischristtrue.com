@@ -47,6 +47,7 @@ That said, were the iconoclasts right to destroy icons? Were the reformers right
 
 
 
+
 ## Idols and Idolatry 
 
 Ancient pagans created idols not merely as man-made trophies to worship, but in order to capture the essence of a specific god (a fallen spirit) such that people could make offerings and sacrifice to that god.
@@ -330,7 +331,7 @@ Ultimately, iconoclasts impede us from expressing our worship of God (worship of
 The bad fruits of iconoclastic churches demonstrate exactly this: they are not just ugly, but will inevitably produce a bland faith, where God becomes a lesser concern in people's daily life (such as giving God only an hour on Sunday).
 
 It is difficult in our
- [modern view](../modern-view/index.md)
+ [modern view](../modern-views/index.md)
  to understand the importance of religious icons.
 Today, we are saturated with images which we pretend have lost all sacred value, and as a result we barely understand the ancient iconoclasts let alone the anathema because we're surrounded in our modern world by seemingly mundane and profane images.
 

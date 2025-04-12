@@ -37,7 +37,7 @@ These heresies were often the impetus for ecumenical councils, which led to a de
 However, in AD 1054 the
  [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism)
  split East and West Christendom.
-At that point, Christianity had remained a unified worldview for over a thousand years.
+At that point, Christianity had remained a *relatively* unified worldview for over a thousand years.
 Perhaps unsurprisingly, the *great schism* fell roughly along the boundaries of the historic Eastern and Western Roman Empire.
 
 !!! info "East and West"
@@ -168,7 +168,7 @@ Likewise, one or both sides of the great schism is necessarily in error. This is
 While earlier schisms often resulted in a failed sect, like the many gnostic or Arian sects, Eastern and Western Christianity have both survived over a thousand years while in schism. They are both the remnants of long-lived empires, and both of those worldly empires have fallen. The gates of hell have not prevailed. It is perhaps wise to look at east and west as if they are both in error, and follow Christ obediently towards salvation.
 
 Importantly, we as Christians cannot judge His church; Truth is not decided by our judgement, but on His revelation and His judgment.
-If "you" decide to be Catholic or Orthodox or even protestant, you're choosing nihilism and not Christ. 
+If "you" decide to be Catholic or Orthodox or even protestant, you're choosing [nihilism](nihilism.md) and not Christ. 
 
 "You" do not determine truth. 
 

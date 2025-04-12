@@ -36,7 +36,7 @@ We can only infer from ancient text (canonical and apocryphal) what this was lik
 For better or worse, our [modern](../modern-views/index.md) age is increasingly providing a taste of exactly this ungodly state.
 
 The redemption of man is thus an extreme cosmological shift, a paradigm shift in consciousness, restoring man into a state last seen in Eden.
-For others this is [hell](../doctrines/hell.md), which is God's mercy for the unrepentant.
+For others this is [hell](../logos/harrowing.md), which is God's mercy for the unrepentant.
 
 !!! quote "John 12:31"
     Now is the judgment of this world: now shall the prince of this world be cast out.
