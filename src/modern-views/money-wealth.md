@@ -1,23 +1,44 @@
 # Money and Wealth
 
-Money as we know it did not exist in the ancient world, and in fact money as we understand it today did not exist even 50 years ago.
+Money as we know it did not exist in the ancient world, and in fact "money" as we understand it today did not exist even 50 years ago.
 
-Trying to understand what the Bible or any ancient text has to say about modern money is like trying to decipher ancient opinions about the Internet.
-What gets translated as "money" was not what we think -- unless you were thinking of a herd of sheep, or precious metals.
-And yet the warnings about the love of money are all the more relevant today than ever before.
+Trying to understand what any ancient text has to say about money is like trying to decipher ancient opinions about the Internet.
+What gets translated as "money" in ancient Biblical text was not what we think in terms of modern money -- unless by "money" you were thinking of a herd of sheep, or maybe ornamental metals.
 
+And yet the Biblical warnings about the love of money are all the more relevant today.
 
 !!! quote "1 Timothy 6:20"
     For the love of money is a root of all kinds of evil, for which some have strayed from the faith in their greediness, and pierced themselves through with many sorrows.
+
+The very nature of modern "money" is itself immoral, a root of all kimds of evil.
+
+
+
+
 
 
 
 ## 1971 to Present
 
+What ww call "money" today is no longer based on wealth or even symbols of wealth-- there is no livestock or precious metals backing our "money".
 
+Money, in the aftermath of the infamous [Nixon shock](https://en.m.wikipedia.org/wiki/Nixon_shock) of [1971](https://wtfhappenedin1971.com/) -- which ended what was left of the gold standard, has been a self-ascribed "free-floating currency" based on credit and debt.
+In practice, this is a euphemistic description of "fiat money", itself a euphemism for an immoral system of debt slavery, where "money" is simply nominal valuations of goods and services, literally by fiat.
 
+!!! warning "central planners and fiat"
+    While cenrral bsnkers may decry the historic catastrophes of modern [socialist experiments](socialism.md), they are effectively part of the same problem. They are simply a more insidious and effective form of central planning. 
+    
+    Rather than attempt to control prices by fiat as the communists unsuccessfully tried, central bankers attenpt to control money by fiat, including -- by their own admission -- control of what can be purchased (and by whom). Modern AML/KYC "laws" are exactly this misguided effort, attempting to control who can buy and sell, and what can be bought and sold.
 
+Fiat money, by any reasonable account, is theft of value, taking advantage of the implicit trust people have in their government and financial institutions. By assuming fiat money is wealth, people willingly participate in a system of debt slavery, serving a ruling class of incompetent unaccountable bureaucrats.
 
+In truth, modern "money" in a bank account is simply a debt token, valued on the decisions of unaccountable central bankers, who can print or expand that "money" supply by fiat. And they can decide (again by fiat) who can use that debt token.
+
+And note that inflating the money supply does not add additional value, but rather devalues the money, all by fiat -- effectively atealimg from everyone else (the debt slaves).
+
+Worse still, the attempt to control people's use of these debt tokens is an attempt at a kimd of *total-totalitarian* where the bureaucrats have complete comtrol of those dependent on fiat momey.
+This not only makes an idol of fiat money, but is also impossible to achieve. One cannot control money, as ultimately money is a measure of the subjective valuations of participants in a market (that is, prices in markets)-- and to comtrol money means to control people's subjective feelings of value (which change from moment-to-moment). You can force someone to do something, but you cannot force their heart, we cannot even force subjective ferlings on ourselves, let alone on others.
+Despite what central planners believe, we are not gods. There is only one God, and we are His creation, made in His image and likeness.
 
 
 !!! quote "Matthew 6:19-21"
