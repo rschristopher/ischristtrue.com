@@ -1,6 +1,6 @@
 # Money and Wealth
 
-Money as we know it did not exist in the ancient world, and in fact "money" as we understand it today did not exist even 60 years ago.
+Money as we know it did not exist in the ancient world, and in fact "money" as we understand it did not exist even 60 years ago.
 
 Trying to understand what any ancient text has to say about money is like trying to decipher ancient opinions about the Internet.
 What gets translated as "money" in ancient texts was not what we think in terms of modern money -- unless by "money" you were thinking of a herd of sheep, or maybe ornamental metals.
