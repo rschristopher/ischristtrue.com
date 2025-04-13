@@ -3,7 +3,7 @@
 Money as we know it did not exist in the ancient world, and in fact "money" as we understand it did not exist even 60 years ago.
 
 Trying to understand what any ancient text has to say about money is like trying to decipher ancient opinions about the Internet.
-What gets translated as "money" in ancient texts was not what we think in terms of modern money -- unless by "money" you were thinking of a herd of sheep, or maybe ornamental metals.
+What gets translated as "money" in ancient texts was not what we think of in terms of modern money -- unless by "money" you were thinking of a herd of sheep, or maybe ornamental metals.
 
 The very nature of modern "money" is itself deeply immoral and functionally [broken](https://isbitcointrue.com/bitcoin-as-money/money-and-state/).
 Moreover, the Biblical warnings about the love of money have become all the more relevant.
