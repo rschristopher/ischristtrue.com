@@ -1,5 +1,14 @@
-# Money and Wealth
+<!-- 
+Lord Jesus Christ, 
+Son of God,
+have mercy on me,
+a sinner
 
+money confused, like Babel => fiat
+God allows and even confused the money, that we may follow
+
+-->
+# Money and Wealth 
 Money as we know it did not exist in the ancient world, and in fact "money" as we understand it did not exist even 60 years ago.
 
 Trying to understand what any ancient text has to say about money is like trying to decipher ancient opinions about the Internet.
