@@ -112,7 +112,7 @@ good money is and can only be from God.
 
 
 
-## Babel
+## After Babel
 
 Fiat money is especially dangerous in the aftermath of Babel...
 
