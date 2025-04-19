@@ -11,7 +11,7 @@ God allows and even confused the money, that we may follow
 # Money and Wealth 
 Money as we know it did not exist in the ancient world, and in fact "money" as we understand it did not exist even 60 years ago.
 
-Trying to understand what any ancient text has to say about money is like trying to decipher ancient opinions about the Internet.
+Trying to understand what any ancient text has to say about "money" is like trying to decipher ancient opinions about the Internet.
 What gets translated as "money" in ancient texts was not what we think of in terms of modern money -- unless by "money" you were thinking of a herd of sheep, or maybe ornamental metals.
 
 The very nature of modern "money" is itself deeply immoral and functionally [broken](https://isbitcointrue.com/bitcoin-as-money/money-and-state/).
@@ -27,7 +27,7 @@ Moreover, the Biblical warnings about the love of money have become all the more
 
 
 
-## Modern Money
+## Money
 
 What we call "money" today is no longer based on wealth or even symbols of wealth -- there is no livestock or precious metals backing our "money".
 
@@ -41,7 +41,7 @@ In practice, this is a euphemistic description of "fiat money", itself a euphemi
     While central bankers may decry the historic catastrophes of modern [socialist experiments](socialism.md), they are effectively part of the same problem. Central banking is simply a more insidious and effective form of central planning. 
     
     Rather than attempt to control prices by fiat as the communists unsuccessfully attempted, central bankers attenpt to control money by fiat, including -- and by their [own admission](https://www.bis.org/press/p220621.htm) -- control of what can be purchased (and by whom).
-    So-called [know your customer](https://en.wikipedia.org/wiki/Know_your_customer) regulations and other privacy-invasive laws
+    So-called [know-your-customer](https://en.wikipedia.org/wiki/Know_your_customer) regulations and other privacy-invasive laws
     attempt to control who can buy and sell, and what can be bought and sold.
 
 In truth, modern "money" in a bank account is simply a debt token,
@@ -49,8 +49,8 @@ In truth, modern "money" in a bank account is simply a debt token,
  who can print or expand their "money" supply, literally by fiat.
 And they can decide (again by fiat) who can use their debt tokens.
 
-Note that inflating a money supply does not add additional value, obviously, but rather devalues the money, all by fiat
- -- effectively stealimg from everyone else (the debt slaves).
+Note that inflating a money supply does not add additional value, obviously, but rather devalues your savings, all by fiat
+ -- effectively stealimg from everyone (making debt slaves out of those without access to the money printer).
 
 Fiat money, by any reasonable account, is theft of value,
  taking advantage of the implicit trust people have in their own government and financial institutions. 
@@ -92,7 +92,7 @@ There is only one God, and we are His creation, made in His image and likeness.
 
 
 
-## Modern Wealth
+## Wealth
 
 Godly money
 
@@ -105,6 +105,25 @@ the desert, life post fiat (Pharoah)
 if Bitcoin is true we will know it (as Pharoah knew the truth of the Lord).
 
 good money is and can only be from God.
+
+
+
+
+
+
+
+## Babel
+
+Fiat money is especially dangerous in the aftermath of Babel...
+
+
+
+
+
+
+
+
+## Gold and Bitcoin
 
 Fiat money is not from God. It is from man, from systems of control, allowed by God but not from God, as all evil is. 
 It is money created ex-nihilo by man, confusing man with God. 
@@ -286,7 +305,7 @@ The truth, the sprit is to be good stewards, to offer up to Christ all that you 
 In practical terms this seems impossible, but this impossibility should speak not of an error in the Biblical understanding of giving and stewardship, but of a lack of true faith in one's church. Either you are holding your wealth away from God, or you do not believe your church is the true church of Christ.
 
 If we met Christ resurrected, would we not sell everything we own and give to His church? 
-What if it was the apostle Paul, or Peter? 
+What if it was the apostle Peter or Paul? 
 And what does it mean to offer up everything we own to Christ?
 
 Does it mean we trust the priests to manage wealth and meet our needs? 
