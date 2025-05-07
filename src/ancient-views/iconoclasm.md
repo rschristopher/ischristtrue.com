@@ -108,7 +108,10 @@ There is a clear understanding that idolatry is anything valued above God, not j
 
 The Mosaic law rightly forbids man-made graven images, "molten gods" such as the golden calf. That kind of idol worship was a near universal practice in the ancient world.
 Christ elevated this prohibition of idol worship to anything outside of Himself, perfectly expressed in the greatest commandment to love God with all your heart, mind, and soul.
-We are to worship the one true God, the only begotten Son of God, the word made flesh.
+We are to worship the one true God, the only begotten Son of God, the word made flesh, and not idols.
+
+!!! quote "Isaiah 42:17"
+    They shall be turned back, they shall be greatly ashamed, that trust in graven images, that say to the molten images, Ye are our gods.
 
 Christ is the image and also the sacrifice -- no molten idol can contain the Son of God -- but man was made in the image and likeness of God, thus the living God became a living icon (a man without sin), who is the sacrifice for our salvation.
 
