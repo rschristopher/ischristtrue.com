@@ -5,10 +5,10 @@ have mercy on me,
 a sinner
 
 money confused, like Babel => fiat
-God allows and even confused the money, that we may follow
+God allows and even confused the money, that we may follow Him and His commandments 
 -->
 # Money and Wealth 
-Money as we know it today is an illusion, a deception even, a far cry from the tangible wealth of the ancient world. In the last century, the very nature of money was corrupted, and scripture’s warnings about it have never been more urgent. Understanding what the Bible says about “money” is like decoding ancient views on the Internet -- money in the ancient world was livestock, grain, or precious metals, not the debt tokens we call dollars. Modern “money” is not just broken; it’s immoral, a system of control that enslaves.
+Money as we know it today is an illusion, a deception even, a far cry from the tangible wealth of the ancient world. In the last century, the very nature of money was corrupted, and scripture’s warnings about it have never been more urgent. Understanding what the Bible says about “money” is like decoding ancient views on the Internet -- money in the ancient world was livestock, grain, or precious metals, not the debt tokens we call dollars. Modern “money” is not just broken; it’s immoral, a system of control, and of slavery to debt.
 
 Christianity, through scripture and as witnessed by the early Church Fathers, demands we reject this idol and seek true wealth in God.
 
