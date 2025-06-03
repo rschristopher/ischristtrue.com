@@ -1,12 +1,14 @@
 # Logos
 
+Logos (Λόγος) means literally the *Word of God*.
+Christ is the *Logos incarnate*, the Word made flesh. 
+More specifically, Christ, the Logos, is Truth revealed in the flesh.
+
+
 !!! quote "John 15:26-27"
     But when the Comforter is come, whom I will send unto you from the Father, even the *Spirit of truth*, which proceedeth from the Father, he shall testify of me: 
     And ye also shall bear witness, because ye have been with me from the beginning.
 
-Logos (Λόγος) means literally the *Word of God*.
-Christ is the *Logos incarnate*, the Word made flesh. 
-More specifically, Christ, the Logos, is Truth revealed in the flesh.
 
 [Modern views](../modern-views/index.md) offer a subtle nihilism where truth is relativistic and reductionist, a reversion to the [ancient](../ancient-views/index.md) "gods" where there was no objective knowable truth.
 Even modern
