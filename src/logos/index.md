@@ -34,7 +34,12 @@ And Christ is truth, morality, and meaning -- made flesh.
 He is the literal embodiment of the answer to the fundamental questions of life.
 
 
-
+!!! quote "Alexander of Alexandria"
+    For he set forth His proper personality, saying, 
+    
+    *"In the beginning was the Word, and the Word was with God, and the Word was God. All things were made by Him; and with out Him was not anything made that was made."*.
+    
+    For who ever heard such things? or who, now hearing them, is not astonished, and does not stop his ears that these words should not touch them?
 
 
 
