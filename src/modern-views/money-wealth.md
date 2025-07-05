@@ -10,7 +10,7 @@ God allows and even confused the money, that we may follow Him and His commandme
 # Money and Wealth 
 Money as we know it today is a kind of illusion, a deception, a far cry from what people meant by money and wealth in the ancient world. In the last century, the very nature of money was corrupted, and scripture’s warnings about money have become all the more urgent. 
 
-Understanding what the Bible says about “money” is like decoding ancient views about the Internet or AI -- money in the ancient world was livestock, grain, or precious metals, not the debt tokens we call dollars. Modern “money” is not just broken; it’s unbiblical, an immoral system of control -- money today is a false idil; it is slavery to debt.
+Understanding what the Bible says about “money” is like decoding ancient views about the Internet or AI -- money in the ancient world was livestock, grain, or precious metals, not the debt tokens we call dollars. Modern “money” is not just broken; it’s unbiblical, an immoral system of control -- money today is a false idol; it is slavery to debt.
 
 Christianity, through scripture and as witnessed by the Church Fathers, demands we reject all idols of money and wealth, and seek true wealth in God.
 
