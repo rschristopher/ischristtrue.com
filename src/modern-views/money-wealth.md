@@ -8,18 +8,21 @@ money confused, like Babel => fiat
 God allows and even confused the money, that we may follow Him and His commandments 
 -->
 # Money and Wealth 
-Money as we know it today is an illusion, a deception even, a far cry from the tangible wealth of the ancient world. In the last century, the very nature of money was corrupted, and scripture’s warnings about it have never been more urgent. Understanding what the Bible says about “money” is like decoding ancient views on the Internet -- money in the ancient world was livestock, grain, or precious metals, not the debt tokens we call dollars. Modern “money” is not just broken; it’s immoral, a system of control -- it is slavery to debt.
+Money as we know it today is a kind of illusion, a deception, a far cry from what people meant by money and wealth in the ancient world. In the last century, the very nature of money was corrupted, and scripture’s warnings about money have become all the more urgent. 
 
-Christianity, through scripture and as witnessed by the Church Fathers, demands we reject this idol and seek true wealth in God.
+Understanding what the Bible says about “money” is like decoding ancient views about the Internet or AI -- money in the ancient world was livestock, grain, or precious metals, not the debt tokens we call dollars. Modern “money” is not just broken; it’s unbiblical, an immoral system of control -- money today is a false idil; it is slavery to debt.
+
+Christianity, through scripture and as witnessed by the Church Fathers, demands we reject all idols of money and wealth, and seek true wealth in God.
 
 !!! quote "1 Timothy 6:10"
     For the love of money is a root of all kinds of evil, for which some have strayed from the faith in their greediness, and pierced themselves through with many sorrows.
+
 
 ## Money
 What we call “money” today is a lie, untethered from actual wealth like livestock or precious metals. The [Nixon Shock](https://en.m.wikipedia.org/wiki/Nixon_shock) of [1971](https://wtfhappenedin1971.com/) killed the last vestige of the [gold standard](https://en.wikipedia.org/wiki/Bretton_Woods_system), birthing global fiat money -- debt tokens valued by the dictates of unaccountable central bankers. These bureaucrats "create" money ex-nihilo, devaluing your savings and trapping you into debt slavery. This is theft, cloaked in the illusion of stability, exploiting the trust we naively place in governments and banks.
 
 !!! warning "Central Planners and Fiat"
-    Central bankers decry socialist failures yet practice a subtler form of central planning. The so-called [know-your-customer](https://en.wikipedia.org/wiki/Know_your_customer) and related policies aim to control who can buy, sell, or own (as the [Bank for International Settlements](https://www.bis.org/press/p220621.htm) readily admits). This is total-totalitarianism, a system where money becomes a perverse idol, dictating life itself. You cannot control money without controlling hearts -- an impossible task, for only God shapes the soul.
+    Central bankers decry socialist failures yet practice a subtler form of central planning. The so-called [know-your-customer](https://en.wikipedia.org/wiki/Know_your_customer) and related policies aim to control who can buy, sell, or own (as the [Bank for International Settlements](https://www.bis.org/press/p220621.htm) readily admits). This is total-totalitarianism, a system where money becomes a perverse idol, dictating life itself. You cannot control money without controlling the ever-changing subjective deaires of every person on earth -- an impossible task, for only God shapes the soul.
 
 Clement of Alexandria, in *Who Is the Rich Man That Shall Be Saved?*, saw the danger of wealth: “Riches, if not used rightly, become a snare.” Fiat money, created without work, is a snare par excellence, confusing man with God. It’s a human construct pretending to divine authority, leading us to worship mammon over the Creator of the universe.
 
