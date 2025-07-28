@@ -51,7 +51,7 @@ Internal rot doomed it: jettisoning Aristotelian telos (human purpose), reason b
 In the end, the church triumphs:
 Christ, Truth embodied (John 14:6), re-unites God to man, revealing creation and making truth knowable. Beauty, goodness, and truth all call us to return to Him.
 
-Enlightenment's "light"? A fraudulent flicker, dooming modernity. Yet Christ's light is eternal, redeeming all. Hallam nails it: Unleash Orthodoxy on the West, watch this sham evaporate.
+Enlightenment's "light"? A fraudulent flicker, dooming modernity. Yet Christ's light is eternal, redeeming all. Hallam nails it: Unleash Orthodoxy Christianity on the West, the fullness of the Christian faith, and watch this sham evaporate.
 
 !!! quote "Matthew 7:16"
     Know them by their fruits.
