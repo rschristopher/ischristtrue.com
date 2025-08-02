@@ -57,6 +57,10 @@ Work is the root of godly wealth. God tasked Adam to tend creation (Genesis 2:15
 
 Fiat money is a modern Tower of Babel (Genesis 11:1-9), a human attempt to play God, confusing man’s decrees with divine order. God instructed Babel’s fall, just as He allows fiat’s chaos, to teach us to seek Him. Augustine warns, “You have made us for yourself, O Lord, and our heart is restless until it rests in you” (*Confessions*). No currency can satisfy our need for God.
 
+!!! warning "Credit Creation"
+    In our secular society, the organization of labor and economic growth is fueled entirely by [credit creation](https://en.m.wikipedia.org/wiki/Credit_theory_of_money): every mortgage, every bank loan, and every central bank bailout (such as the euphemistically named [quantitative easing](https://en.m.wikipedia.org/wiki/Quantitative_easing)). All are attempts to organize and direct human behavior (under the guise of "economic activity"), based on the demonstrably false presupposition that we can direct our will independently of God's will.
+    We have privileged bankers with this ungodly and shameful power of credit creation (going so far as to call credit "money"), aiming for economic growth (as measured in debt), while empowering central bankers, government and academic bureaucrats, as well as grotesque organs of media propagandists -- all to stabilize an inherently flawed and unstable system of implicit debt slavery.
+    The more one learns about the history of banking (and its evil fruit) the more lies and deceptions one encounters. We cannot build a good civilization on lies, obviously. We can only build a good civilization by turning to God, through humility and ever-deepening repentance.
 
 
 
