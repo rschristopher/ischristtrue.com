@@ -71,11 +71,13 @@ Fiat money is a modern Tower of Babel (Genesis 11:1-9), a human attempt to play 
 
 ## Gold and Bitcoin
 
-Is there a money that honors God? Gold, requiring work to mine, reflects creation’s order more than fiat, which is conjured ex-nihilo. Bitcoin, built on cryptography and proof-of-work, goes further. Its fixed supply and decentralized nature resist central control, aligning with honest weights and measures (Leviticus 19:35-36). Unlike fiat, Bitcoin’s issuance and its transactions demand work, echoing God’s design. Bitcoin’s transactions are transparent and verifiable, unlike gold and especially unlike fiat’s opaque manipulations.
+Is there a money that honors God? Gold, requiring work to mine, reflects creation’s order more than fiat, which is conjured ex-nihilo and acts as a rebellion against God. Bitcoin, built on cryptography and proof-of-work, goes further than gold. Its fixed supply and decentralized nature resist central control, aligning with honest weights and measures (Leviticus 19:35-36). Unlike fiat, Bitcoin’s issuance and its transactions demand work, echoing God’s design. Bitcoin’s transactions are transparent and verifiable, unlike gold and especially unlike fiat’s opaque manipulations.
 
 What would the Church Fathers say? Clement might see Bitcoin’s work-based issuance as less prone to greed than fiat’s illusion: “Wealth used for good is a blessing; used for self, a curse.” Basil, critical of hoarding, might approve of Bitcoin’s resistance to centralized theft, urging its use for the poor: “Your wealth is not yours, but God’s.” Chrysostom, wary of luxury, might caution against Bitcoin’s speculative frenzy: “Riches tempt the heart to pride” (*Homilies on Romans*). Augustine, focused on divine order, might view Bitcoin’s mathematical limits as reflecting God’s laws: “All truth is God’s truth” (*On Christian Doctrine*). Yet all would agree: no money is divine. Bitcoin, like gold, is a tool, and its value lies in its use for God’s glory.
 
 Still, we must ask: Does Bitcoin free us from mammon or merely shift its form? Jesus warns, “Where your treasure is, there your heart will be also” (Matthew 6:21). Any currency can become an idol if it distracts from God.
+
+
 
 
 
