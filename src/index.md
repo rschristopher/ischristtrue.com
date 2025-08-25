@@ -15,6 +15,8 @@ Have mercy on me,
 
 
 
+---
+
 ## What is this?
 
 We are seeking 
@@ -40,6 +42,11 @@ Our [enlightenment](modern-views/enlightenment.md) view presupposes knowable tru
 
 
 
+
+
+
+---
+
 ## Who is R.S. Christopher?
 
 Reprobus Saint Christopher is the dog-headed saint of travelers and [Bitcoiners](https://isbitcointrue.com). 
@@ -54,7 +61,7 @@ And even now St. Christopher helps travelers and Bitcoiners find their way.
 
 
 
-
+---
 
 ## Who are you really?
 

@@ -16,6 +16,7 @@ For who are we to know the Spirit of Truth? Who are we to know God?
 
 
 
+---
 
 ## Revealed Truth 
 
@@ -38,6 +39,7 @@ Christ is our alpha and omega, our begining and end -- the power that completes 
 
 
 
+---
 
 ## The Word Made Flesh
 
@@ -62,6 +64,8 @@ Christ is both creator and created, allowing the ineffable being of God to be kn
 
 
 
+---
+
 ## Father, Son, Holy Spirit
 
 We learn from the life of Jesus that He is the Son of God, that the very word of God is itself a distinct person from God the Father. And that the bond between the Father and the Son, which proceeds from the Father to the Son -- the very love of the Father to the Son -- is the Holy Spirit, which is itself a distinct person.
@@ -75,6 +79,8 @@ Our very existence is an act of love, and through Christ can we understand the n
 
 
 
+
+---
 
 ## Christ is Knocking
 
@@ -113,6 +119,8 @@ He calls to you personally through beauty, through goodness, through truth, thro
 
 
 
+
+---
 
 ## Meaning of Life
 
@@ -157,6 +165,8 @@ We become the actuality of God's triumph over sin and death.
 
 
 
+
+---
 
 ## Theosis
 

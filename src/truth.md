@@ -98,6 +98,7 @@ When we seek truth,
 
 
 
+---
 
 ## Seeking Truth 
 
@@ -233,6 +234,8 @@ As the old Maori prayer goes,
 
 
 
+
+---
 
 ## Knowing Truth
 
@@ -423,6 +426,7 @@ In fact, as we shall see,
 
 
 
+---
 
 ## Spirit of Truth
 
@@ -552,7 +556,7 @@ Whoever this divine Spirit of Truth is,
 
 
 
-
+---
 
 ## Revealed Truth 
 
@@ -610,6 +614,8 @@ And fashion is transient and fleeting, which is very much the antithesis of beau
 
 
 
+
+---
 
 ## Antithesis of Truth
 
@@ -706,6 +712,9 @@ Orthodox, as opposed to heterodox,
 
 
 
+
+
+---
 
 ## Christianity and Truth 
 
