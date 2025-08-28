@@ -28,13 +28,13 @@ Isolated by Ottoman chains and Russian upheavals, ancient Christianity engaged t
 
 ## Limits of Rationalism
 
-The Enlightenment's boast -- unaided reason seizing ultimate truth -- implodes on inspection, flunking its own rational rigor. Reason can't corral creation, much less its Creator. Math, reason's crown jewel, hinges on irrationals like π (endless, unresolved) or √2 (square diagonal). Fractals boast "impossible" feats: bounded space in boundless bounds, mirroring nature's clouds, trees, cells via chaos theory, eluding rational grasp. The world is ckearly not contained in rationalism.
+The Enlightenment's boast -- unaided reason seizing ultimate truth -- implodes on inspection, flunking its own rational rigor. Reason can't corral creation, much less its Creator. Math, reason's crown jewel, hinges on irrationals like π (endless, unresolved) or √2 (square diagonal). Fractals boast "impossible" feats: bounded space in boundless bounds, mirroring nature's clouds, trees, cells via chaos theory, eluding rational grasp. The world is clearly not contained in rationalism.
 
-If math and matter defy total reason, how dare it cage God, architect of logic, space, time? Enlightenment rationalism posits a clockwork cosmos where God (if any) bows to human logic, akin to Calvin's rigid predestination -- yet Scripture unveils a God delighting in one repentant's turnaround (Luke 15:7), shattering mechanistic molds.
+If math and matter defy total reason, how dare it cage God, architect of logic, space, time? Enlightenment rationalism posits a clockwork cosmos where God (if any) bows to human logic, akin to Calvin's rigid predestination -- yet Scripture unveils a God delighting in one's repentance (Luke 15:7), shattering mechanistic molds.
 
-[Logic and reason](../truth/) are mere tools of consciousness, not autonomous; they spring from Christ's revealed Truth. Without this anchor, knowledge spirals into delusion or endless regress -- "turtles all the way down." Postmodern "deconstructions" nail rationalism's hubris but fail the test of honesty by ditching truth for relativist power plays.
+[Logic and reason](../truth.md) are mere tools of consciousness, not autonomous; they spring from Christ's revealed Truth. Without this anchor, knowledge spirals into delusion or endless regress -- "turtles all the way down." Postmodern "deconstructions" nail rationalism's hubris but fail the test of honesty by ditching truth for relativist power plays.
 
-Orthodoxy counters with [hesychasm](https://m.youtube.com/watch?v=SiINgxCdmqM): the mind plunging into heart via prayer, fusing reason with revelation; as Hallam paints it: mind heeds the Spirit's whisper, meeting Christ pre-comprehension, alchemizing knowledge, harmonizing faith-reason, heart-mind -- sans Enlightenment strife.
+Orthodoxy counters with [hesychasm](https://m.youtube.com/watch?v=SiINgxCdmqM): the mind plunging into heart via prayer, fusing reason with revelation; as Hallam paints it: mind heeds the Spirit's whisper, meeting Christ pre-comprehension, alchemizing knowledge, harmonizing faith with reason, heart with mind -- sans Enlightenment strife.
 
 
 
@@ -44,9 +44,9 @@ Orthodoxy counters with [hesychasm](https://m.youtube.com/watch?v=SiINgxCdmqM): 
 
 ## Enlightenment Nihilism
 
-By its own metrics of rational progress and moral elevation, the Enlightenment bombed spectacularly, birthing nihilism -- wholesale dismissal of objective ethics, beauty, meaning -- and a modern hellscape of despair. Despite promises of harmony, it sired blood-soaked revolutions, world wars, genocides, totalitarian nightmares (Nazism, Communism), ecological ruin, and psychic plagues like depression epidemics. Universities peddle "your truth" relativism, warping beauty into fad and morality into dominance, fueling a meaning crisis that mocks suffering and purpose.
+By its own metrics of rational progress and moral elevation, the Enlightenment failed spectacularly, birthing nihilism -- wholesale dismissal of objective ethics, beauty, meaning -- and a modern hellscape of despair. Despite promises of harmony, it sired blood-soaked revolutions, world wars, genocides, totalitarian nightmares (Nazism, Communism), ecological ruin, and psychic plagues like depression epidemics. Universities peddle "your truth" relativism, warping beauty into fad and morality into dominance, fueling a meaning crisis that mocks suffering and purpose.
 
-Internal rot doomed it: jettisoning Aristotelian telos (human purpose), reason became means-minus-ends, per Hume's is/ought chasm; Kant's duty ethic flopped in yielding concrete morals; Hume's desire-based utility couldn't justify justice; Kierkegaard's ethical leap lacked rationale. This birthed emotivism: morals as manipulative feels, without standards. Nietzsche lambasted its cowardice -- toppling dogmas but erecting new "metanarratives" that stifled freedom. Frankfurt School decried technical triumphs without moral growth, enabling industrialized horrors like Auschwitz.
+Internal rot doomed it: jettisoning Aristotelian telos (human purpose), reason became means-minus-ends, per Hume's is/ought chasm; Kant's duty ethic flopped in yielding concrete morals; Hume's desire-based utility couldn't justify justice; Kierkegaard's ethical leap lacked rationale. This birthed emotivism: morals as manipulative feels without standards. Nietzsche lambasted its cowardice -- toppling dogmas but erecting new "metanarratives" that stifled freedom. Frankfurt School decried technical triumphs without moral growth, enabling industrialized horrors like Auschwitz.
 
 In the end, the church triumphs:
 Christ, Truth embodied (John 14:6), re-unites God to man, revealing creation and making truth knowable. Beauty, goodness, and truth all call us to return to Him.
