@@ -7,6 +7,11 @@ And it has recently become a popular view amongst protestant Christian denominat
 To be clear, these are not [ancient views](../ancient-views/index.md) although there were traces of millennialism in the ancient world ([condemned](https://orthochristian.com/86556.html) by the early church).
 
 
+
+
+
+---
+
 ## χίλια ἔτη (chilia etē)
 
 Millennialism originated in the western scholastic period from interpretations of *Revelation 20:1-10* (*Apokalypsis* in Greek).
@@ -38,6 +43,11 @@ This is all despite explicit warnings in that same Book of Revelation not to add
     I testify to everyone who hears the words of prophecy in this book: If anyone adds to them, God will add to him the plagues described in this book. And if anyone takes away from the words of this book of prophecy, God will take away his share in the tree of life and the holy city, which are described in this book.
 
 
+
+
+
+
+---
 
 ## Modern Eisegesis
 
@@ -180,7 +190,7 @@ A **not millennial** view should perhaps just be called the "biblical view" or t
 
 
 
-
+---
 
 ## Orthodox Exegesis
 
@@ -414,7 +424,7 @@ And at this moment now, in our messianic age, we look forward to His glorious re
 
 
 
-
+---
 
 ## Messianic Age
 
@@ -459,7 +469,7 @@ Are we waiting for the second coming of Christ? Or are we waiting for the start 
 
 
 
-
+---
 
 ## Heretical or Apocryphal?
 

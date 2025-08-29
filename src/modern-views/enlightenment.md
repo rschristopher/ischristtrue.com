@@ -8,8 +8,10 @@ Have mercy on me
 
 The Age of Enlightenment, hailed as the triumphant "Age of Reason", promised to liberate humanity through pure intellect, ushering in unending progress, universal happiness, and moral clarity, all derived solely from logic and science. Spanning the 17th and 18th centuries across Europe, it exalted reason, empiricism, and individual rights as the antidotes to ignorance, tyranny, and superstition. Visionaries like Voltaire, Rousseau, Locke, and Newton proclaimed reason the ultimate arbiter, poised to decode the cosmos and perfect society. But judged by its own lofty benchmarks -- rational morality, societal harmony, and empirical truth -- the Enlightenment stands exposed as a catastrophic failure, a house of cards that collapsed under its own hubris, spawning the very chaos, relativism, and barbarism it swore to eradicate.
 
-Objective [truth](../truth/) isn't forged in the crucible of human logic but revealed personally by the Spirit of Truth, God Himself. The Enlightenment's idolatry of reason flips this divine order, crowning humans as self-luminary gods, in direct defiance of Christ's declaration: "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life" (John 8:12). Genuine enlightenment flows not from self but from union with Christ, the eternal Logos.
+Objective [truth](../truth/) isn't forged in the crucible of human logic but revealed personally by the Spirit of Truth, God Himself. The Enlightenment's idolatry of reason flips this divine order, crowning humans as self-luminary gods, in direct defiance of Christ. Genuine enlightenment flows not from self but from union with Christ, the eternal Logos.
 
+!!! quote "John 8:12"
+    Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.
 
 
 ---
@@ -49,7 +51,10 @@ Orthodoxy counters with [hesychasm](https://m.youtube.com/watch?v=SiINgxCdmqM): 
 
 By its own metrics of rational progress and moral elevation, the Enlightenment failed spectacularly, birthing nihilism -- wholesale dismissal of objective ethics, beauty, meaning -- and a modern hellscape of despair. Despite promises of harmony, it sired blood-soaked revolutions, world wars, genocides, totalitarian nightmares (Nazism, Communism), ecological ruin, and psychic plagues like depression epidemics. Universities peddle "your truth" relativism, warping beauty into fad and morality into dominance, fueling a meaning crisis that mocks suffering and purpose.
 
-Internal rot doomed it: jettisoning Aristotelian telos (human purpose), reason became means-minus-ends, per Hume's is/ought chasm; Kant's duty ethic flopped in yielding concrete morals; Hume's desire-based utility couldn't justify justice; Kierkegaard's ethical leap lacked rationale. This birthed emotivism: morals as manipulative feels without standards. Nietzsche lambasted its cowardice -- toppling dogmas but erecting new "metanarratives" that stifled freedom. Frankfurt School decried technical triumphs without moral growth, enabling industrialized horrors like Auschwitz.
+!!! quote "Matthew 7:16"
+    Know them by their fruits.
+
+Internal rot doomed the enlightenment project: jettisoning Aristotelian telos (human purpose), reason became means-minus-ends, per Hume's is/ought chasm; Kant's duty ethic flopped in yielding concrete morals; Hume's desire-based utility couldn't justify justice; Kierkegaard's ethical leap lacked rationale. This birthed emotivism: morals as manipulative feels without standards. Nietzsche lambasted its cowardice -- toppling dogmas but erecting new "metanarratives" that stifled freedom. Frankfurt School decried technical triumphs without moral growth, enabling industrialized horrors like Auschwitz.
 
 In the end, the church triumphs:
 Christ, Truth embodied, re-unites God to man, revealing creation and making truth knowable. Beauty, goodness, and truth all call us to return to Him.
@@ -59,8 +64,7 @@ Christ, Truth embodied, re-unites God to man, revealing creation and making trut
 
 Enlightenment's "light"? A fraudulent flicker, dooming modernity. Yet Christ's light is eternal, redeeming all. Hallam nails it: Unleash Orthodox Christianity on the West, the fullness of the Christian faith, and watch this sham evaporate.
 
-!!! quote "Matthew 7:16"
-    Know them by their fruits.
+
 
 
 

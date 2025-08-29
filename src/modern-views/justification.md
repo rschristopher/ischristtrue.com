@@ -22,6 +22,10 @@ Think of it as legalistic assurance of [salvation](../ancient-views/salvation.md
 We are saved through Christ (even legalistically). 
 
 
+
+
+---
+
 ## Orthodox View
 
 [Modern](index.md) Christianity often fixates on justification and it has become a controversial topic amongst Christian denominations, but it was never controversial in the [ancient](../ancient-views/index.md) world.
@@ -36,7 +40,7 @@ But works are not sufficient for justification.
 In other words, there is nothing you can do, no good deeds sufficient to earn your salvation, no works that can justify you.
 Justification, as a legalistic understanding of salvation, can never be through anything on your part.
 
-Importantly, it is not *our faith* that justifies, but Christ's faith that justifies us. Nowhere in scripture is there a dichotomy between our faith and our works. It is always about Christ.
+Importantly, it is not *our faith* that justifies, but Christ's perfect faith that justifies us. Nowhere in scripture is there a dichotomy between our faith and our works. It is always about Christ.
 
 St. Paul here refers to "faith of Christ" and not "faith in Christ" when discussing justification.
 
@@ -50,6 +54,8 @@ St. Paul here refers to "faith of Christ" and not "faith in Christ" when discuss
 
 
 
+
+---
 
 ## Sola Fide
 
@@ -114,6 +120,9 @@ Modern protestants, when pressed, do not hold Luther's strict *sola fide* but in
 
 
 
+
+
+---
 
 ## Deceptive Debates
 
@@ -183,6 +192,9 @@ We will praise God for all the good works that are His through grace, recognizin
 
 
 
+
+
+---
 
 ## Patristic Commentaries
 

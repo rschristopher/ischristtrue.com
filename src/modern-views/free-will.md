@@ -58,7 +58,7 @@ Pick any era in history in any culture
 
 
 
-
+---
 
 ## Christian Views
 
@@ -211,7 +211,7 @@ And while both sides have plenty of scriptural support,
 
 ### Arminianism
 
-Arminian synergism, which is similar to the Roman Catholic view of synergism, contains plenty of scriptural support. 
+Arminian synergism, which is similar to the modern Roman Catholic view of synergism, contains plenty of scriptural support. 
 However, there are many passages that must bend or break with this interpretation, e.g.,
 
 !!! quote "Romans 8:29-30"
@@ -223,7 +223,7 @@ We can confidently conclude that all forms of semi-Pelagianism are false.
 
 Additionally, we have historic hindsight into the bad fruits from even the most agreeable forms of rational Arminianism.
 In particular the risks of deism (which is simply a logical conclusion of semi-Pelagianism more generally) 
--- a slippery slope into the horrors of the postmodern "enlightenment" that denies God, truth, morality, and any defensible epistemology -- leaving man disintegrated into the dark waters of chaos, unable to justify any such thing as goodness or even hope.
+-- a slippery slope into the horrors of the postmodern "[enlightenment](enlightenment.md)" that denies God, truth, morality, and any defensible epistemology -- leaving man disintegrated into the dark waters of chaos, unable to justify any such thing as goodness or even hope.
 
 
 
@@ -302,7 +302,7 @@ We cannot condemn Arminianism while
 
     The traditional view of orthodox synergism strongly rejects any notion that God is or can be the author of evil, positing that God is 100% responsible for our salvation, and that man is 100% responsible for sin and condemnation.
 
-    Most all Christians agree with this, even the strict Calvinists will declare that God is never the author of evil -- and this demonstrates a deeper truth that is difficult (if not impossible) to properly articulate in rational terms. It is a truth that is lived, in particular a truth that was lived in the life of Jesus Christ. Attempting to rationalize this fundamental truth with monergism creates the inevitable semi-Pelagian / Arminian reaction.
+    Most all Christians agree with this, even the strict Calvinists will declare that God is never the author of evil -- God forbid -- and this demonstrates a deeper truth that is difficult (if not impossible) to properly articulate in rational terms. It is a truth that is lived, in particular a truth that was lived in the life of Jesus Christ. Attempting to rationalize this fundamental truth with monergism creates the inevitable semi-Pelagian / Arminian reaction.
 
 
 
@@ -310,6 +310,7 @@ We cannot condemn Arminianism while
 
 
 
+---
 
 ## Revolution and Reaction
 
@@ -341,7 +342,7 @@ The revealed truth of Christ with His divine will and human will, is the unifica
 
 
 
-
+---
 
 ## Orthodox View
 
@@ -407,7 +408,7 @@ This is what is traditionally known as
     
     For we are **fellow workers** with God: ye are God's husbandry, ye are God's building.
 
-Orthodox synergism is notably different from Roman Catholic synergism as well as rational Arminian synergism, in that the orthodox view affirms God's absolute sovereignty through Christ's divine will, while simultaneously affirming man's free will through Christ's human will.
+Orthodox synergism is notably different from modern Roman Catholic synergism as well as rational Arminian synergism, in that the orthodox view affirms God's absolute sovereignty through Christ's divine will, while simultaneously affirming man's free will through Christ's human will.
 This does not compromise on irresistible grace nor total depravity, nor any of the five points of Calvinism (though it does disagree with reprobation).
 In fact, it becomes clear that Calvinism speaks of Christ's divine will while making no claims about Christ's human will and the necessary implications to man's free will. Or rather, this is why Calvinists find reprobation (double predestination) so controversial.
 
@@ -453,7 +454,7 @@ These attempts at unification continue
 
 
 
-
+---
 
 ## Divine Love and Free Will
 
@@ -516,7 +517,7 @@ Either God's sovereignty requires absurd
 By falling away from Him,
  we become the playthings of demons,
  no longer able to exercise our
- God-given will.
+ God-given free will.
 
 These are difficult and even dangerous questions that if left untempered by truth (by Christ), then they will result in the continuation of the heretical cycles of revolution and reaction
  that we have seen before (and likely will continue to see till the end of time).
@@ -535,7 +536,7 @@ We affirm the *synergoi* between God and man,
 
 
 
-
+---
 
 ## What would change my mind?
 
