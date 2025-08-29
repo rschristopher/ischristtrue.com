@@ -1,6 +1,6 @@
 <!-- 
 
-Lotd Jesus Chrust, Son of God
+Lord Jesus Christ, Son of God
 Have mercy on me, a sinner
 
 
@@ -23,6 +23,7 @@ And yet we often see proud Christians, convinced of our status as members of the
 
 
 
+---
 
 ## The Modern Church
 
@@ -35,7 +36,7 @@ It has been said that if there were a perfect church, it would cease being perfe
     Two disciples sought privilege at the Lord's side, provoking envy from the rest. 
     And still another betrayed the Lord for thirty pieces of silver.
     
-    And even after His glorious resurrection and ascension, the apostles faced internal conflicts from Judiazers and many external conflicts with pagans and gnostics, distorting the teaching and fostering 
+    And even after His glorious resurrection and ascension, the apostles faced internal conflicts from Judaizers and many external conflicts with pagans and gnostics, distorting the teaching and fostering 
     [schisms](schisms.md) and heresies.
 
 
@@ -46,7 +47,7 @@ These are not churches pointing us towards the perfection that is Christ Jesus, 
 In other words, if we take the gospel to heart and submit ourselves completely to Christ, then it becomes clear that many modern Christian churches are preaching heretical messages contrary to the Biblical teachings of Christ.
 And yet as Christians we are called to His church.
 
-These divisions extend beyond the obvious transgender Marxist ideologues masquerading as Christians, but more subtly with female pastors and [moderm](index.md) political messaging from the pulpit,
+These divisions extend beyond the obvious transgender Marxist ideologues masquerading as Christians, but more subtly with female pastors and [modern](index.md) political messaging from the pulpit,
  trying to "modernize" the church (resulting in the inevitable [ecumenism](ecumenism.md), [syncretism](syncretism.md), and relativistic [spiritualism](spiritualism.md)).
 
 *Heresies come in many forms, as do temptations.*
@@ -60,6 +61,8 @@ These divisions extend beyond the obvious transgender Marxist ideologues masquer
 
 
 
+
+---
 
 ## The True Church
 
@@ -98,7 +101,7 @@ This may be difficult for many modern Christians and modern churches, but if we 
 
 
 
-
+---
 
 ## They Followed Him
 
@@ -148,7 +151,7 @@ He came to Christ with pride in his heart, believing he might already be perfect
 !!! quote "Psalms 51:17"
     The sacrifices of God are a broken spirit, A broken and a contrite heart— These, O God, You will not despise.
 
-Likewise, many modern Christians want the worldly benefits of the Christian lifestyle, and like this young man are fulfiling the worldly commandments, but they have not yet known God. They are not following the greatest commandment: *to love God with all your heart, mind, and soul*. And as we see in the gospel of Luke, it is not just wealth that we place above God,
+Likewise, many modern Christians want the worldly benefits of the Christian lifestyle, and like this young man are fulfilling the worldly commandments, but they have not yet known God. They are not following the greatest commandment: *to love God with all your heart, mind, and soul*. And as we see in the gospel of Luke, it is not just wealth that we place above God,
 
 !!! quote "Luke 9:57-62"
     And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest.
@@ -181,6 +184,12 @@ It is difficult to imagine such faith today.
 
 
 
+
+
+
+
+---
+
 ## Finding the Way
 
 Imagine a man who sold everything and went to a modern church, showing up at the door and telling the church staff, *"I have sold everything I own, and now I am here to follow Christ"*.
@@ -204,7 +213,7 @@ A modern church may certainly ask for a tithing, but why only 10% and not everyt
 If they are *the true church of Christ* do they not deserve everything? 
 If they are *not* the true church of Christ then they are a false church -- why does a false church deserve anything?
 
-Is not such fear and uncertaintly evidence that you most likely do not believe your church is the true church of Christ? 
+Is not such fear and uncertainty evidence that you most likely do not believe your church is the true church of Christ? 
 And by asking for only a tithing is that not evidence that they do not believe that they themselves are the true church of Christ?
 Perhaps they are only 10% truth, and your tithe confirms your 10% faith?
 
@@ -216,22 +225,27 @@ We are made to worship, and our modern churches are worshipping what exactly?
 
 If you found the *true* church and believed it was indeed the *true* church, you would give them everything. 
 You would follow exactly as Peter followed Jesus. 
-Anything less is clear evidence that we are dealing with the prophecied Laodicean church -- where Christ will be knocking.
+Anything less is clear evidence that we are dealing with the prophesied Laodicean church -- where Christ will be knocking.
 
 
 
 
 
+
+
+
+
+---
 
 ## Christ is Knocking 
 
 If we are in a church where Christ is knocking, then we are to answer -- we are to repent as the Spirit commanded.
 Recognize that the rebuke against our modern church is done out of love.
-We are to cover our nakedness and annoint our eyes that we may see.
+We are to cover our nakedness and anoint our eyes that we may see.
 In practice this means discerning truth, speaking against heresies, and growing closer to Christ who is there with us.
 
 !!! danger "Tongues and other Demonic Deceit"
-    If we are serious about the gifts of the Holy Spirit, then we should question the gutteral nonsense of modern charasmatic churches, so-called "speaking in tongues", and ask: ***why are you not speaking ancient Greek or Hebrew?***
+    If we are serious about the gifts of the Holy Spirit, then we should question the guttural nonsense of modern charismatic churches, so-called "speaking in tongues", and ask: ***why are you not speaking ancient Greek or Hebrew?***
 
     The ancient Greek language was the language chosen for the revealed truth that is the new testament. 
     Likewise ancient Hebrew was the language of God's chosen people, the language of the old testament.
@@ -259,6 +273,11 @@ If we cannot find the true church, or anywhere that Christ is knocking, then whe
 
 
 
+
+
+
+---
+
 ## Desert Wilderness
 
 If Christ is not knocking, and the churches are nothing but heresy -- and for many this will be their calling -- we are to go to where the true church will always be found, to the desert, to the wilderness. And we will be carried there by the Holy Spirit.
@@ -272,7 +291,7 @@ We see the truth of the wilderness throughout the Bible, in the gospel Jesus goe
     And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel; Ye have seen what I did unto the Egyptians, and how **I bare you on eagles' wings**, and brought you unto myself. Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine: And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.
 
 Note the symbolism of *eagles' wings*.
-That same symbolism is in the Book of Revelation as the prophecied church escapes into the wilderness,
+That same symbolism is in the Book of Revelation as the prophesied church escapes into the wilderness,
 
 !!! quote "Revelation 13:17"
     And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child. And to the woman were given **two wings of a great eagle**, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent. And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood. And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth. And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.

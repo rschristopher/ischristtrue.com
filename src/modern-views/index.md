@@ -1,6 +1,6 @@
 # Modern Views
 
-What is the modern view -- the spirit of our time -- how do we as modern people make sense of the world?
+What is the modern view -- the spirit of our time -- and how do we as modern people make sense of the world?
 
 If you ask around you'll get many different answers. There is secularism, rationalism, humanism, cultural "progress" and various political narratives. Some will profess faith in God, while others view God as a delusion, a fantasy leftover from a bygone superstitious era. There will be talk of revolutions, or maybe reactionary views to counter whichever revolution has gone too far. And most will talk of despair, that something is clearly wrong with the modern world. 
 
@@ -19,9 +19,13 @@ In truth, this is the failure of every generation, the echoes of man's original 
 
 
 
+
+
+---
+
 ## Where did this start?
 
-Conventional wisdom suggests that our moden view started in the 1960s, in the counterculture revolution, the start of the culture war.
+Conventional wisdom suggests that our modern view started in the 1960s, in the counterculture revolution, the start of the culture war.
 And there seems to be something to this, especially in the United States, as there was a seismic shift in western culture, a rejection of past social norms, the start of the civil rights movement, Roe v Wade, Woodstock --
 certainly it seems as if the culture prior to the famed hippy generation was distinctly different from everything that came afterwards.
 
@@ -122,7 +126,7 @@ There is a clear lineage from the time of Robespierre and the atrocities of the 
 Was the "Old Regime" prior to 1789 free of destructive revolutionary views?
 Turns out no.
 We can further trace the modern view back
- before the enlightenment,
+ before the [enlightenment](enlightenment.md),
  through the 
  [Copernican revolution](https://en.m.wikipedia.org/wiki/Copernican_Revolution)
  and further back into
@@ -143,7 +147,7 @@ in the 13th century imagined three ages (based on the trinity: Father, Son, Holy
 These views were (perhaps unconsciously) reflected in Nazism, that the 3rd Reich will rule for a thousand years.
 
 As Fr. Seraphim Rose notes,
-> revolutionary conclusions were drawn later by men of the thirteenth and fourteenth centuries, by the Franciscan Spirituals, who recognized in Joachim the new John the Baptist, heralding St. Francis as the novus dux of the last dispensation, even as the "new Christ".
+> revolutionary conclusions were drawn later by men of the thirteenth and fourteenth centuries, by the Franciscan Spirituals, who recognized in Joachim the new John the Baptist, heralding St. Francis as the *novus dux* of the last dispensation, even as the "new Christ".
 
 Any such view of a "new Christ" was anathema to orthodox Christianity, yet this corruption in western Christianity was one of many that led inevitably to the
 Protestant Reformation,
@@ -153,6 +157,10 @@ Our conventional wisdom tells us that protestantism was merely a consequence of 
 
 
 
+
+
+---
+
 ## Was it always like this?
 
 The short answer: no, not at all. A continuous destructive revolution was unheard of outside of western Europe and it's cultural influence. This was not the view of eastern Europe nor of eastern Christianity nor of any other major religion. This was not the view of the Byzantine Empire. This was not the view in the Ottoman empire. This was not the view in any of the historic dynasties of China. 
@@ -161,13 +169,16 @@ None of the
  [ancient views](../ancient-views/index.md)
  resembled this nihilistic path of
  destructive revolution and relativism.
-This is a unique worldview born of western Christianity post schism, with notably anti-Christian themes (as it emerged as an antithesis to Christianity). And yet today this destructive revolutionary view has been exported globally and has become the defacto modern globalist view (stripped of any Christian veneer and articulated in postmodern Marxist language).
+This is a unique worldview born of western Christianity post schism, with notably anti-Christian themes (as it emerged as an antithesis to Christianity). And yet today this destructive revolutionary view has been exported globally and has become the defacto modern globalist view (usually stripped of any Christian veneer and articulated in postmodern Marxist language).
 
-Outside of the western European cultural sphere, we can find only hints of this view sprinkled throughout history. But to the degree it emerged in early Christianity it was also condemned and anathematized. It only actualized into a continuous (albeit parasitic) ethos after the [great schism](schisms.md), emerging from the early scholastic movement and coming into fruition by the enlightenment era and into our present day.
-
-
+Outside of the western European cultural sphere, we can find only hints of this view sprinkled throughout history. But to the degree it emerged in early Christianity it was also condemned and anathematized. It only actualized into a continuous (albeit parasitic) ethos after the [great schism](schisms.md), emerging from the early scholastic movement and coming into full fruition by the enlightenment era and into our present day.
 
 
+
+
+
+
+---
 
 ## Christian Antithesis 
 

@@ -30,7 +30,10 @@ Isolated by Ottoman chains and Russian upheavals, ancient Christianity engaged t
 
 The Enlightenment's boast -- unaided reason seizing ultimate truth -- implodes on inspection, flunking its own rational rigor. Reason can't corral creation, much less its Creator. Math, reason's crown jewel, hinges on irrationals like π (endless, unresolved) or √2 (square diagonal). Fractals boast "impossible" feats: bounded space in boundless bounds, mirroring nature's clouds, trees, cells via chaos theory, eluding rational grasp. The world is clearly not contained in rationalism.
 
-If math and matter defy total reason, how dare it cage God, architect of logic, space, time? Enlightenment rationalism posits a clockwork cosmos where God (if any) bows to human logic, akin to Calvin's rigid predestination -- yet Scripture unveils a God delighting in one's repentance (Luke 15:7), shattering mechanistic molds.
+If math and matter defy total reason, how dare it cage God, architect of logic, space, time? Enlightenment rationalism posits a clockwork cosmos where God (if any) bows to human logic, akin to Calvin's rigid predestination -- yet Scripture unveils a God delighting in one's repentance, shattering mechanistic molds.
+
+!!! quote "Luke 15:7"
+    I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance.
 
 [Logic and reason](../truth.md) are mere tools of consciousness, not autonomous; they spring from Christ's revealed Truth. Without this anchor, knowledge spirals into delusion or endless regress -- "turtles all the way down." Postmodern "deconstructions" nail rationalism's hubris but fail the test of honesty by ditching truth for relativist power plays.
 
@@ -49,7 +52,10 @@ By its own metrics of rational progress and moral elevation, the Enlightenment f
 Internal rot doomed it: jettisoning Aristotelian telos (human purpose), reason became means-minus-ends, per Hume's is/ought chasm; Kant's duty ethic flopped in yielding concrete morals; Hume's desire-based utility couldn't justify justice; Kierkegaard's ethical leap lacked rationale. This birthed emotivism: morals as manipulative feels without standards. Nietzsche lambasted its cowardice -- toppling dogmas but erecting new "metanarratives" that stifled freedom. Frankfurt School decried technical triumphs without moral growth, enabling industrialized horrors like Auschwitz.
 
 In the end, the church triumphs:
-Christ, Truth embodied (John 14:6), re-unites God to man, revealing creation and making truth knowable. Beauty, goodness, and truth all call us to return to Him.
+Christ, Truth embodied, re-unites God to man, revealing creation and making truth knowable. Beauty, goodness, and truth all call us to return to Him.
+
+!!! quote "John 14:5"
+    Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
 
 Enlightenment's "light"? A fraudulent flicker, dooming modernity. Yet Christ's light is eternal, redeeming all. Hallam nails it: Unleash Orthodox Christianity on the West, the fullness of the Christian faith, and watch this sham evaporate.
 
