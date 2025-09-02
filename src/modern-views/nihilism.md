@@ -84,7 +84,7 @@ The real fruits of nihilism are, in fact, a Christ-shaped hole in every heart.
 !!! quote "John 14:6"
     Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
     
-    ![St-Peters-Basillica](/images/St-Peters-Basillica.jpg)
+    ![icons](/images/icon-veneration.jpg)
 
 
 Only in Him can we transcend nihilism's barrenness and embrace Truth and divine reality.
