@@ -26,12 +26,12 @@ The 20th century saw socialism spread via wars and ideologies, from China's Maoi
 
 ## Atheistic Roots
 
-As Fr. Seraphim Rose observed, socialism's core ideas are atheistic and materialistic, naively placing faith in science and human progress while driven by a passion to dismantle the existing order -- with atheism one finds the same socialistic tendencies (and the associated horrors) to be all but inevitable.
+As Fr. Seraphim Rose observed, socialism's core ideas are atheistic and materialistic, naively placing faith in science and human progress while driven by a passion to dismantle the existing order -- which inevitably produces a meaning crisis amidst existential horrors.
 
 !!! quote "Fr. Seraphim Rose"
     These ideas were atheistic, materialistic, extremely naive: science is the answer to everything. The philosophy itself is extremely stupid and there is nothing much worth believing, but his [Marx’s] power comes from his passion to overthrow the existing order.
 
-This rejection of divine Truth inevitably elevates man to god-like status, promising utopia but delivering tyranny and ultimately death and despair.
+This rejection of divine Truth inevitably elevates man to god-like status, promising utopia but delivering tyranny, despair and ultimately death.
 
 
 
@@ -68,34 +68,38 @@ These atrocities stem inevitably from socialism's godless foundation, where huma
 
 ---
 
+## Fascism
+
+Fascism emerged as a reactionary movement to socialism -- the flip-side of the atrocities of socialism -- particularly in the turbulent aftermath of World War I, when economic crises and the threat of communist revolutions gripped Europe. 
+Born in Italy under Benito Mussolini in 1919, fascism positioned itself as a fierce opponent to Bolshevism, mobilizing the middle classes and disillusioned veterans into violent squads to crush socialist organizations and labor movements. 
+In Germany, the National Socialists adapted fascist principles, blending ultranationalism, racism, and anti-communism into a totalitarian regime that promised to restore order amid economic despair.
+
+Though ostensibly anti-socialist, fascism is a reactionary movement, and shares socialism's godless foundation, deifying the state and the leader (as all socialist governments inevitably do). 
+This of course led to more unimaginable horrors: the Holocaust, where Jews, Christians, Romani, disabled, and political dissidents -- were systematically murdered; Italian colonial atrocities in Ethiopia; and the devastation of World War II itself, claiming tens of millions of lives. 
+Fascism, as the inverted mirror of socialism, rejects divine Truth, exalts human power, and views human lives as mere instruments for ideological ends -- ultimately attacking the very image and likeness of God.
+
+!!! quote "Romans 1:20-22"
+    For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse: Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened. Professing themselves to be wise, they became fools
+
+
+
+
+
+
+---
+
 ## Meaning Crisis
 
-Socialism's fruits extend to a profound meaning crisis, where individuals, bombarded by ideology, lose their true self. As Fr. Roman Braga warns, constant immersion in quotations and doctrines leaves no room for authentic existence -- a spiritual void echoing the broader rejection of Christ.
+Socialism's fruits (including fascism) extend to a profound meaning crisis, where individuals, bombarded by ideology, lose their true self. 
+As Fr. Roman Braga warns, constant immersion in quotations and doctrines leaves no room for authentic existence -- a spiritual void echoing the broader rejection of Christ.
 
 For reflection, watch [God is not in the books](https://www.youtube.com/watch?v=BtP-1x99Zw8), where Fr. Braga notes: "you don't have time to be yourself because you are made out of quotations."
 
 Socialism's history of horrors reveals the peril of all godless ideologies. 
-Only in Christ, the true source of justice and love, can humanity find genuine equality and purpose, free from the chains of man-made "utopia".
+Only in Christ, the true source of justice and love, can humanity find genuine equality and purpose, free from the chains of man-made "utopias".
 
 !!! quote "Matthew 6:33"
     But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 

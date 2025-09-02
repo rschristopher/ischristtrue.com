@@ -244,7 +244,7 @@ These councils resulted in a deeper articulation of Christian faith.
 The schisms were ultimately a good and necessary feature of the church, the means to make public all differences that must be resolved before communion.
 
 However, after the great schism, while the west innovated, the east stagnated (at least by our modern secular worldview).
-For better or worse, the Eastern Orthodox Church has not changed anything since those days of *one holy catholic and apostolic church*.
+For better or worse, the Eastern Orthodox Church has not changed much of anything since those days of *one holy catholic and apostolic church*.
 
 The goal of Orthodoxy is not vain unity, nor any kind of unity. 
 The goal of Orthodoxy is Christ. 
@@ -263,7 +263,7 @@ Most important, what heresy is being done by Eastern Orthodoxy? How are they wro
 
 All things considered, it looks an awful lot like Rome is in heresy, in schism from Christ's Church, and Eastern Orthodoxy is waiting patiently, "stuck" in the past as it were, waiting and waiting and waiting for the prodigal son of Rome and its protestant offspring to return to the Father. 
 
-At worst, Orthodox Churches are like the older son to the prodigal son, and as such many will receive the Father's rebuke on that day the prodigal son returns.
+At worst, Orthodox Churches are a bit like the older son to the prodigal son, and as such many will receive the Father's rebuke on that day the prodigal son returns.
 
 As Christians we ought to follow Christ, who taught us the story of the prodigal son, and we ought to identify ourselves and our church with the prodigal son *and* also with the older brother.
 If we are Catholic or protestant we ought to return home, and if we are Orthodox we ought to be grateful and celebrate when the prodigal son returns home to the Father.
