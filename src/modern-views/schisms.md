@@ -9,7 +9,7 @@ Lord, guide me, reveal for me Truth and grant me wisdom and insight in order to 
 -->
 
 A *schism* is a split in a religious body.
-And in order to best understand [modern Christianity](christianity.md) it can be instructive to understand the historic schisms.
+And in order to best understand [modern Christianity](christianity.md) it can be instructive to first understand the historic schisms.
 
 
 
@@ -18,13 +18,13 @@ And in order to best understand [modern Christianity](christianity.md) it can be
 
 
 
-
+---
 
 ## Brief History 
 
 There were many 
  [schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) in early Christianity, usually from heretical movements that broke away from the church.
-These heresies were often the impetus for ecumenical councils, which led to a deeper articulation of the faith.
+These heresies were often the impetus for ecumenical councils, which led to deeper articulations of the faith.
 
 !!! example "early schisms"
     * [Montanism](https://www.britannica.com/topic/Montanism), condemned in AD 177, and died out after a few centuries 
@@ -40,24 +40,24 @@ However, in AD 1054 the
 At that point, Christianity had remained a *relatively* unified worldview for over a thousand years.
 Perhaps unsurprisingly, the *great schism* fell roughly along the boundaries of the historic Eastern and Western Roman Empire.
 
-!!! info "East and West"
-    As Christianity spread into the world, the Roman empire had been divided between East and West (first by [Diocletian](https://www.worldhistory.org/Diocletian/)), and later the empire was temporarily reunited by [Constantine](https://www.worldhistory.org/Constantine_I/) who converted to Christianity and moved the capital away from old Rome and into [Byzantium](https://www.worldhistory.org/Byzantium/) which would later be renamed [Constantinople](https://www.worldhistory.org/Constantinople/). 
-    
-    Western Rome fell in AD 476, while 
-    Eastern Rome, also known as the [Byzantine Empire](https://www.worldhistory.org/Byzantine_Empire/), would continue the Roman empire (now as a Christian empire) for over a thousand more years (the longest living empire in the history of the world).
-    <center>![east-west-rome](/images/east-west-rome.jpg)</center>
+### East and West
+As Christianity spread into the world, the Roman empire had been divided between East and West (first by [Diocletian](https://www.worldhistory.org/Diocletian/)), and later the empire was temporarily reunited by [Constantine](https://www.worldhistory.org/Constantine_I/) who converted to Christianity and moved the capital away from old Rome and into [Byzantium](https://www.worldhistory.org/Byzantium/) which would later be renamed [Constantinople](https://www.worldhistory.org/Constantinople/). 
 
-    In AD 962, prior to the great schism, Frankish and Germanic remnants of the long dead Western Roman Empire established the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and through political ambitions insisted on papal supremacy over all of Christendom. By AD 1054 the east and west [officially](https://www.britannica.com/event/East-West-Schism-1054) excommunicated each other (first Rome excommunicated the patriarch of Constantinople, then all four eastern patriarchs excommunicated Rome).
-    <center>![east-west-1054](/images/east-west-1054.jpg)</center>
+Western Rome fell in AD 476, while 
+Eastern Rome, also known as the [Byzantine Empire](https://www.worldhistory.org/Byzantine_Empire/), would continue the Roman empire (now as a Christian empire) for over a thousand more years (the longest living empire in the history of the world).
+<center>![east-west-rome](/images/east-west-rome.jpg)</center>
+
+### The Great Schism
+In AD 962, Frankish and Germanic remnants of the long dead Western Roman Empire established the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and through political ambitions insisted on papal supremacy over all of Christendom. By AD 1054 the east and west [officially](https://www.britannica.com/event/East-West-Schism-1054) excommunicated each other (first Rome excommunicated the patriarch of Constantinople, then all four eastern patriarchs excommunicated Rome).
+<center>![east-west-1054](/images/east-west-1054.jpg)</center>
 
 
+### Reformation Schisms
 Later, in the 16th century the
- [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) started a process of continuous schisms within the decaying Holy Roman Empire.
+    [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) started a process of continuous schisms within the decaying Holy Roman Empire.
 Despite specific theological objections, the protestant reformation was mostly along ethnic lines, succeeding in northern Europe (England, Germany, Netherlands, etc) with a notable exception of Ireland which stayed Catholic.
 This left the Roman Catholic Church dominant in southern Europe, notably within the boundaries of the romance languages (Italy, France, Spain, Portugal).
-
-!!! info "Reformation Schisms"
-    <center>![east-west-prot](/images/east-west-prot.jpg)</center>
+<center>![east-west-prot](/images/east-west-prot.jpg)</center>
 
 Along these schismatic lines, Roman Catholicism spread into Central and South America (colonies from Spain and Portugal), whereas Protestantism spread into North America (immigrants from northern Europe).
 In fact many of the early settlers into the north-American colonies were escaping religious persecution (such as the various [anabaptist](https://en.m.wikipedia.org/wiki/Anabaptism) sects).
@@ -80,7 +80,7 @@ It's important to understand that this splintering is a continuation of the grea
 
 
 
-
+---
 
 ## Christ's Church
 
@@ -163,7 +163,7 @@ Because of this, we must concede that despite questionable historicity, modern C
 
 Like in the parable of the prodigal son, there were two sons, the younger left to waste his inheritance. He was still his father's son even while he was lost (in schism from the Father). And importantly, the older son who did not leave, he was rebuked for questioning his father after the prodigal son returned. Ultimately, both sons were in error.
 
-Likewise, one or both sides of the great schism is necessarily in error. This is true of any schism. The only question; which side of the schism is the prodigal son, and which is the older brother?
+Likewise, one or both sides of the great schism is necessarily in error. This is true of any schism. The only question; which side of the schism is the prodigal son, and which is the older brother? Or is it a little bit of both?
 
 While earlier schisms often resulted in a failed sect, like the many gnostic or Arian sects, Eastern and Western Christianity have both survived over a thousand years while in schism. They are both the remnants of long-lived empires, and both of those worldly empires have fallen. The gates of hell have not prevailed. It is perhaps wise to look at east and west as if they are both in error, and follow Christ obediently towards salvation.
 
@@ -178,7 +178,7 @@ And *your* beliefs are irrelevant to Truth, who is the person Christ Jesus.
 
 We ought to discern carefully here, and we should proceed cautiously. Our goal is to follow Christ and not antichrist.
 
-If we can understand that both eastern and westerm Christendom *were* the *one holy catholic and apostolic church*, then we must ask:
+If we can understand that both eastern and western Christendom *were* the *one holy catholic and apostolic church*, then we must ask:
 Are there heretical innovations that must be resolved in order to begin discussing unification between east and west?
 
 The Catholic answer, is maybe, and we have an instructive case of [Eastern Catholics](https://en.m.wikipedia.org/wiki/Eastern_Catholic_Churches).

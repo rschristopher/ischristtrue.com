@@ -1,7 +1,7 @@
 <!--
 Lord Jesus Christ,
 Son of God,
-Have merxy on me,
+Have mercy on me,
 a sinner
 -->
 # Nihilism
@@ -83,7 +83,7 @@ The real fruits of nihilism are, in fact, a Christ-shaped hole in every heart.
     ![icons](/images/icon-veneration.jpg)
 
 
-Only in Him can we transcend nihilism's shallow emptiness, and embrace Truth, including moral truth, and purpose in life sufficuent to overcone suffering (and even death itself).
+Only in Him can we transcend nihilism's shallow emptiness, and embrace Truth, including moral truth, and purpose in life sufficient to overcome suffering (and even death itself).
 
 
 
