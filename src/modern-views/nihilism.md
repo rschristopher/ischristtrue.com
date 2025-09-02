@@ -65,17 +65,13 @@ Without objective truth (objective moral truth), society drifts into chaos, wher
 
 ## Suffering
 
-One would think that without universal moral truth, cultures would drift randomly into pleasure-seeking hedonism, and yet the reality is quite different -- and interestingly, narrow and predictable.
-Such a culture collapses in suicidal decadence, whether Roman or Aztec, follows an almost predictable path of nihilism.
+One would think that without universal moral truth, cultures would drift randomly into various pleasure-seeking hedonisms, and yet the reality is quite different -- and interestingly, narrow and predictable.
+Such a culture collapses into suicidal decadence, whether Roman or Aztec, all follow a predictable path of destruction.
 
-The ultimate fruit of nihilism is suffering and death -- an existential despair that engulfs the soul in meaninglessness and dread. Confronting life's absurdities without purpose triggers depression, anxiety, and crises, as suffering's existence clashes with nihilistic indifference. This "existential crisis" amplifies personal and societal anguish, turning inward to despair or outward to apathy.
+The ultimate fruit of nihilism is suffering and death -- an existential despair that engulfs the soul in meaninglessness and eventually death. Confronting life's absurdities without purpose triggers depression, anxiety, and crises, as suffering's existence clashes with nihilistic indifference. 
+This "existential crisis" amplifies personal and societal anguish, turning inward to despair or outward to apathy, and ultimately to death (be it suicide or murder).
 
-In rejecting truth, we invite a foretaste of hell -- isolation from meaning, where suffering lacks redemptive value.
-
-
-
-
----
+In rejecting truth, we invite a foretaste of hell -- isolation from meaning, utter darkness, and gnashing of teeth.
 
 Nihilism's rejection of truth yields a harvest of emptiness: distorted art, shattered meaning, moral fog, and profound suffering. Yet, this void points to the necessity of Christ, the eternal Truth who infuses life with purpose, morality with foundation, and suffering with hope.
 
@@ -87,7 +83,7 @@ The real fruits of nihilism are, in fact, a Christ-shaped hole in every heart.
     ![icons](/images/icon-veneration.jpg)
 
 
-Only in Him can we transcend nihilism's barrenness and embrace Truth and divine reality.
+Only in Him can we transcend nihilism's shallow emptiness, and embrace Truth, including moral truth, and purpose in life sufficuent to overcone suffering (and even death itself).
 
 
 
