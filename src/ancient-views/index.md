@@ -11,7 +11,6 @@ Protect me from the evil one.
 
 Lord, grant me wisdom and the articulation of the truth that is Christ Jesus 
 -->
-
 Our 
  [modern](../modern-views/index.md)
  [enlightenment](../modern-views/enlightenment.md)
@@ -31,7 +30,7 @@ To put it bluntly: the old gods are returning.
 
 
 
-
+---
 
 ## What is a worldview?
 
@@ -104,7 +103,7 @@ This is why, for example, so many people in modern churches don't seem to actual
 So what happens when this subordinating principle fails completely, when we can't subordinate the ancient gods beneath our intellect and passions? What happens when those competing worldviews (the ancient gods) are no longer subordinated at all?
 
 We are living through exactly such a failure.
-As modernism gives way to postmodernism and nihilism, that is, the rejection of knowable objective truth, than gone too is the subordinating principle that kept those ancient worldviews bound to their respective mythology textbooks.
+As modernism gives way to postmodernism and nihilism, that is, the rejection of knowable objective truth, then gone too is the subordinating principle that kept those ancient worldviews bound to their respective mythology textbooks.
 We are thus experiencing powers and principalities that early Christians  understood as demonic, which were very much part of the struggles of daily life in the ancient world.
 
 !!! quote "Ephesians 6:12"
