@@ -80,7 +80,7 @@ While this sounds nice, it has led us into cultural decay and nihilism, into a m
 
 
 
-
+---
 
 ## Failure of the modern worldview
 
@@ -119,6 +119,9 @@ We are thus experiencing powers and principalities that early Christians  unders
 
 
 
+
+
+---
 
 ## Return of ancient worldviews 
 
@@ -233,7 +236,7 @@ We see today polygamy and
  and eunuchs (castrated men) and many many disposable men and women -- exactly as was the norm in the ancient world.
 We see abhorrent sexual behavior normalized and treated as if it's innovative and new, rather than more of the same ancient demonism.
 
-Moderm "masculinity" means to emasculate men into a pre-Christian archetype of slavish obedience to the powers and principalities ruling over us. 
+Modern "masculinity" means to emasculate men into a pre-Christian archetype of slavish obedience to the powers and principalities ruling over us. 
 This in turn creates reactionary masculinity leading to unnecessary violence which only strengthens the principalities.
 This is clearly demonic and anti-Christian.
 
@@ -394,6 +397,9 @@ That said, these deceitful "gods" are the background for which we can understand
 
 
 
+
+---
+
 ## Messianic Age
 
 Today, the ancient "gods" have no real power other than to deceive.
@@ -451,11 +457,11 @@ We are called to choose Christ, to choose the kingdom of heaven over the kingdom
 ???+ example "Last Judgment"
     <center>![last-judgment](/images/last-judgment.jpg)</center>
 
-And we find not one but two callings, two paths into the kingdom of God, monasticism and marriage.
+And we find two ways to walk this narrow path into the kingdom of God: monasticism and marriage.
 Marriage is the path for raising children in a consecrated union of man and woman. 
 Monasticism is the path for divine spiritual ascent in a consecrated celibacy. 
 
-These two paths are mutually supportive of one another. In fact, they represent the two natures of Christ, for Christ is both man and God. Christ was born of a good marriage and lived in the world as a carpenter, and He simultaneously lived in consecrated celibacy, preaching and fulfilling the law.
+These two ways are mutually supportive of one another. In fact, they represent the two natures of Christ, for Christ is both man and God. Christ was born of a good marriage and lived in the world as a carpenter, and He simultaneously lived in consecrated celibacy, preaching and fulfilling the law.
 
 In a Christian marriage, 
 the husband/father is the head of the household, raising children, ministering to his wife, and worshipping God.
@@ -466,17 +472,6 @@ In fact, the so-called
 
 In a Christian marriage, the family is an institution that triumphs over worldly empires, because those families serve Christ and not worldly powers.
 For He is ruling in the midst of His enemies, and to align ourselves with Christ is to make ourselves like David in his battle with Goliath.
-
-
-
-
-
-
-
-
-
-
-
 
 
 

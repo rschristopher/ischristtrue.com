@@ -22,6 +22,10 @@ And as we'll see, this is no accident.
 
 
 
+
+
+---
+
 ## Mythologies
 
 In our modern secular view we think of a *mythology* as false or make believe, like fairy tails, or as primitive beliefs from "less evolved civilizations".
@@ -129,7 +133,7 @@ Like the pagan mythologies, there seems to be something about these stories that
 
 
 
-----
+---
 
 ## Ancient Christianity 
 
@@ -210,7 +214,7 @@ The spirits (demons) on the left hand of God are the reprobate, such as the "lyi
 
 
 
-----
+---
 
 
 ## Angels
@@ -308,7 +312,7 @@ Angels are immortal with respect to humans, that is, they are not subject to dea
 
 Angels do not reproduce and thus are genderless.
 
-Angels are clearly not subject to time (and death) with the maleability that humans experience, allowing us to repent. Instead angels experience entire ages as we might experience a single moment, wherein they express their will onto an entire age. They cannot repent because their decisions have already been made from the beginning to the end of time as we understand it.
+Angels are clearly not subject to time (and death) with the malleability that humans experience, allowing us to repent. Instead angels experience entire ages as we might experience a single moment, wherein they express their will onto an entire age. They cannot repent because their decisions have already been made from the beginning to the end of time as we understand it.
 
 Similar to how we can understand that an angel is embodied in reference to God, but not embodied in reference to man -- angels exist within time in reference to God, but outside of time in reference to man.
 This is because angels and man are both created, and only God is truly timeless and eternal.
@@ -380,7 +384,7 @@ According to pseudo-Dionysus the Areopagite, in his book
 This hierarchy, while speculative, demonstrates layers of mediation between God and fallen man. The highest order is nearest to God, and the lowest order is nearest to man.
 
 !!! question "Why are all ranks still referred to as *'angels'*?"
-    *Angel* simply means messenger, which is both a rank as well as how we refer to all of these celestial beings (regardless of rank). This is because, like man, they are created in the image and likeness of God, which means they perform God's will. By their very nature they are divine messenging beings.
+    *Angel* simply means messenger, which is both a rank as well as how we refer to all of these celestial beings (regardless of rank). This is because, like man, they are created in the image and likeness of God, which means they perform God's will. By their very nature they are divine messaging beings.
 
 
 
@@ -461,10 +465,7 @@ By tradition, Raphael is the angel who descended into the pool at Bethesda.
 
 
 
-----
-
-
-
+---
 
 ## Demons
 
@@ -579,7 +580,7 @@ We see the *nephilim* first referenced immediately before the flood, associating
     And spared not the old world, but saved Noah the eighth person, a preacher of righteousness, bringing in the flood upon the world of the ungodly
 
 Living nephilim are also referenced after the flood, which demonstrates that this was not a uniquely antediluvian phenomena.
-And further that the descendents of Noah also produced nephilim.
+And further that the descendants of Noah also produced nephilim.
 
 !!! quote "Numbers 13:33"
     And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
@@ -589,11 +590,11 @@ The size seems both metaphoric as well as literal.
 They could be understood today as strongmen or warlords, metaphoric in some cases although the concept is universal across all ancient and modern cultures.
 
 In the original Hebrew these giants are sometimes referred to as *rephaim*, which are the spirits of the dead, or inhabitants of the underworld.
-It was believed (in ancient Judaism and in ancient Christianity) that the spirits of dead nephilim were among the ranks of demons -- specifically the "unclean spirits" and "evil spirits" referenced throughout the New Testamanent.
+It was believed (in ancient Judaism and in ancient Christianity) that the spirits of dead nephilim were among the ranks of demons -- specifically the "unclean spirits" and "evil spirits" referenced throughout the New Testament.
 And it was understood that the Messiah would inaugurate His kingdom by casting out these evil sprits (amongst other signs).
 
 ???+ danger "Sethite view"
-    The [Sethite view](https://www.khouse.org/articles/1997/110/) is a [modern](../modern-views/index.md) understanding of "sons of God" as referring to the male descendents of Seth, and the "daughters of men" referring to the female descendents of Cain. This view ignores scripture completely (both canonical and apocryphal) as well as ignoring tradition.
+    The [Sethite view](https://www.khouse.org/articles/1997/110/) is a [modern](../modern-views/index.md) understanding of "sons of God" as referring to the male descendants of Seth, and the "daughters of men" referring to the female descendants of Cain. This view ignores scripture completely (both canonical and apocryphal) as well as ignoring tradition.
     The Sethite view is a naive attempt to de-mythologize the Christian mythos, attempting to make it more appealing to pagan and secular worldviews (especially materialist worldviews), but ultimately it creates contradictions and absurdity.
 
 
@@ -771,16 +772,6 @@ Importantly, these primordial beasts have non-overlapping domains; of air (Ziz),
 Notice however that the beasts from Daniel and from Revelation are hybrids of all three primordial beasts, such as a winged leopard coming from the sea. 
 This hybridization denotes both a perversion of God's design and an ungodly dominion over creation (over life and death) by worldly kingdoms.
 This perversion reaches its conclusion in the vision of the [antichrist](antichrist.md), itself a hybrid of the beasts described in Daniel.
-
-
-
-
-
-
-
-
-
-
 
 
 
