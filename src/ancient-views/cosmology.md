@@ -11,9 +11,13 @@ Lord Jesus Christ, Son of God
 Have mercy on me, a sinner 
 -->
 
-In modern usage, *cosmology* is the study of the universe in terms of time and space. This is a secular view that presupposes *time*, *space*, *reason*, *logic*, and *knowledge* as first principles. As postmodernism reveals, such secular cosmology is a cascade of unquestioned presuppositions that crumble under scrutiny, yielding absurdity. 
+In modern usage, *cosmology* is the study of the universe in terms of time and space. 
+This is a secular view that presupposes *time* and *space* as first principles, as well as *reason* as a first principle, *logic* as a first principle, *knowledge* as a first principle, and so on.
+And as postmodernism will demonstrate, secular cosmology is very much a cascade of unquestioned presuppositions that yield absurdity under any proper scrutiny.
 
-The word *cosmology*, however, derives from *cosmos* -- the natural order of the universe, the opposite of *chaos* -- and *logia*, the divine word or story. Thus, the ancient and truer meaning of *cosmology* is non-secular: it is the divine story of the order of the universe, with the triune God as the first principle from which all transcendent categories arise.
+However, the word *cosmology* derives from *cosmos*, as in the natural order of the universe (*cosmos* is the opposite of *chaos*), and from *logia*, as in the divine word or story. 
+As such, the ancient and more accurate meaning of *cosmology* is non-secular -- it is the divine story of the order of the universe. 
+This presupposes the Christian God as revealed in Biblical canon (with the triune God as the first principle from which all transcendent categories arise).
 
 !!! quote "John 1:1-3"
     In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God. All things were made by him; and without him was not any thing made that was made.
@@ -25,7 +29,8 @@ The word *cosmology*, however, derives from *cosmos* -- the natural order of the
 
 ## Ancient Models
 
-It is difficult, if not impossible, to understand ancient cosmological models through our modern lens. With a beam in our eye, we expect geographic maps with fixed, mechanistic scales of distance, but instead we find esoteric symbolism -- trees, turtles, dragons, a heavenly realm above a worldly "middle" realm, and an underworld of the dead.
+It is difficult, if not impossible, to understand ancient cosmological models in our modern view. 
+With a beam in our eye, we somehow expect geographic maps with fixed, mechanistic scales of distance, and what we'll get instead is esoteric symbolism -- trees and turtles and dragons, usually some kind of heavenly realm above the worldly "middle" realm, and then some kind of "underworld" of the dead.
 
 ???+ example "The Spheres between Heaven and Hell"
     ![Spheres between Heaven and Hell](/images/spheres-heaven-hell.jpg)
@@ -36,14 +41,22 @@ It is difficult, if not impossible, to understand ancient cosmological models th
 ???+ example "The Egyptian Cosmos"
     ![Egyptian Cosmos](/images/egyptian.jpg)
 
-The conceit of our modern view is to imagine these were "scientific" models, as if ancient peoples believed in their literal geography rather than as theological maps of consciousness. Every civilization independently created such maps, and even today we conceive the world in similar terms: spheres of influence and behavior, a heavenly world above (aspirations, beauty, life), and a demonic underworld (fears, suffering, death). 
+The conceit of our modern view is to imagine these were "scientific" models, that people believed in the exact shape and literal geography of these models, rather than as a theological map of consciousness.
+Importantly, all civilizations independently made these kind of maps, and even today we conceive of the world around us in exactly these terms: various spheres of influence and behavior, a heavenly world above us (aspirations, beauty, life), and a demonic underworld (fears, suffering, death).
 
-All cosmological models, ancient and modern, attempt to map a heavenly precosmogonic origin and an underworld of death. Whether intentional or not, these elements inevitably manifest.
+All cosmological models attempt to map a heavenly precosmogonic origin, and then usually an underworld depicting death.
+Whether intentional or otherwise, these elements will inevitably manifest.
+Here's a modern cosmological map to drive the point home (note the origin, and the realm beyond the spheres of space-time),
 
 ???+ example "The Modern Cosmos"
     ![Modern Cosmos](/images/modern-cosmos.jpg)
 
-Truth is, no one *ever* believed these were geographic maps of physical terrain. The Romans and Pharisees understood the claim that heaven and earth met at Christ’s cross -- they disagreed but grasped it far better than we do -- and no one thought this was because the cross was physically tall or that heaven began at a certain elevation. Ancient cosmology is the living story of the ordering of the created universe, and the Scriptures are the ancient Christian cosmology, with symbolic maps as aids to understanding.
+Truth is, no one *ever* believed these were geographic maps of physical terrain. 
+For example, both The Romans and the Pharisees understood the claim that heaven and earth met at Christ’s cross -- they disagreed but grasped it far better than our modern view -- and no one thought this was because the cross was really tall. 
+
+No one thought that heaven began at a certain elevation above sea level and that hell began at a certain depth beneath.
+Remember, ancient cosmology is the story of the ordering of the created universe. As such, what we call the scriptures are the ancient Christian cosmology. 
+The various maps are merely aids to understanding a cosmology that is not static, but very much alive (that is, a story).
 
 !!! quote "Colossians 1:16-17"
     For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him: And he is before all things, and by him all things consist.
@@ -55,9 +68,16 @@ Truth is, no one *ever* believed these were geographic maps of physical terrain.
 
 ## Biblical Cosmology
 
-The Biblical canon presents a grand story of origin, sin, death, hope, prophecy, and redemption -- our story, the only cosmology from which morality and truth can be objectively known. Below is the chronological order of Scripture, reflecting the ancient Christian cosmology as a foundation for understanding God’s divine order. These dates are approximate, not to be taken in a modern reductionist sense, but as a holistic framework pointing to the eternal truth of Christ.
+Let us lay out the chronological order of the Biblical canon to see the ancient cosmology as it was understood in ancient times, as precursor -- a foundation -- to our modern view. 
+In doing so we are presented with a grand story of origin, of sin, of death, of hope, of prophecy, and ultimately of redemption. 
+It is our story.
+And it is the only cosmology from which morality and truth can be objectively knowable.
 
-!!! warning "These are approximate years based on the ordering of Scripture -- not to be taken literally in a modern reductionist view, but understood holistically as the origin of our modern understanding."
+Below is the chronological order of Scripture, reflecting the ancient Christian cosmology as a foundation for understanding God’s divine order. 
+These dates are approximate, not to be taken in a modern reductionist sense, but as a holistic framework pointing to the eternal truth of Christ.
+
+!!! warning "These are approximate years based on ordering of scripture -- and not to be taken literally in a modern reductionist view (although can be understood holistically as the origin of our modern reductionism)"
+
 
 
 
@@ -67,7 +87,13 @@ The Biblical canon presents a grand story of origin, sin, death, hope, prophecy,
 ## Precosmogonic Age
 
 !!! info "Before Time"
-    It is impossible to discuss time before time rationally. What we call *time* did not exist before creation. God is eternal, encompassing the three persons of the Trinity -- Father, Son, and Holy Spirit. This omniscient and omnipotent being is eternal: His will (the Father), His word (the Son), and His love (the Holy Spirit) are one. Before creation, there was God's will, word, and love -- the first principle from which time, space, reason, and all creation (visible and invisible) emerge.
+    It's impossible to rationally discuss time before time. What we call *time* did not exist before creation. 
+    
+    God is eternal, including the three persons of God that we refer to as Father, Son, and Holy Spirit -- this omniscient and omnipotent being is eternal and despite His transcendent nature, His will is a person (the Father); His word is a person (the Son); and His love (from Father to Son, from will to word) is also a person (the Holy Spirit).
+    
+    Before creation, before time itself, there was God's will, there was God's word, and there was God's love. 
+    God's will, word, and love are eternal and one; the first principle from which all creation emerges. 
+    From this trinity there emerges time, space, reason, and all of creation (visible and invisible).
 
 * ~Before Time  
   In the Beginning was the Word, John 1
@@ -80,7 +106,10 @@ The Biblical canon presents a grand story of origin, sin, death, hope, prophecy,
 ## Edenic Age
 
 !!! info "Walking with God"
-    The Edenic age was man walking with God, ending with the fall and exile from Eden. This age marks a radical cosmological shift, introducing death through sin. Before the fall, there was no death, and thus no evolution, which is life striving in the face of death.
+    The Edenic age was man walking with God, and it ended at the fall, at our exile from Eden.
+    
+    The cosmology during this age is best understood as a radical shift marked by the fall of man.
+    The fall introduced death, which necessarily means that prior to the fall there was no death, and thus no evolution (which is best understood as life striving and surviving in the face of death).
 
 * ~4000 BC  
   The Creation, Genesis 1  
@@ -98,7 +127,11 @@ The Biblical canon presents a grand story of origin, sin, death, hope, prophecy,
 ## Antediluvian Age
 
 !!! info "Sons of God and Nephilim"
-    This age reflects the consequences of the fall -- the first rebellion against God. Sin entered human hearts, leading to Cain’s murder of Abel (the second rebellion). Humans lived for centuries, and the sons of God (angels) sinned by taking human wives, producing the Nephilim. Only Enoch and later Noah walked with God.
+    The cosmology during this age is best understood as the consequence of the fall (the first rebellion against God).
+    And despite the spirit of God being with man, sin entered the hearts of man, leading to the firstborn, Cain, to murder his brother Abel (second rebellion against God).
+    Humans lived for centuries, and in this age the sons of God (the angels, the heavenly hosts) continued the sin against God and took for themselves the daughters of men.
+    
+    In this age only Enoch walked with God, and later his grandson Noah walked with God.
 
 * ~3000 BC  
   Cain kills Abel, Genesis 4  
@@ -115,7 +148,9 @@ The Biblical canon presents a grand story of origin, sin, death, hope, prophecy,
 ## Noahchian Age (Flood)
 
 !!! info "The Great Flood"
-    Seeing the wickedness of man, God caused a great flood, sparing only Noah and his family. After the flood, God withdrew His Spirit from man, shortening lifespans, marking a radical cosmological shift.
+    The cosmology of this age underwent a radical shift, where God -- seeing the wickedness of man, the consequence of sin in the world -- caused a great flood.
+    And the only human survivors were Noah and his family.
+    After the flood, God removed His Spirit from man, who would no longer live for centuries.
 
 * ~2500 BC  
   Wickedness Provokes God's wrath, Genesis 6  
@@ -135,7 +170,15 @@ The Biblical canon presents a grand story of origin, sin, death, hope, prophecy,
 ## Babel (Rebellion)
 
 !!! info "Rebellion of Babel"
-    After the flood, man’s final cosmological rebellion occurred. Speaking a unified divine language, Noah’s descendants defied God’s command to populate the earth, building a city and tower to reach heaven. God scattered them, confused their language, and subjected them to principalities and dark powers -- false gods and devils.
+    After the flood there was one final cosmological rebellion -- that is, a radical shift in cosmology as a consequence of man's (and angel's) rebellion against God.
+    Prior to this, man spoke a unified language, the divine language.
+    And man was subject to God and nothing else.
+    
+    The descendants of Noah were told to populate the world, but they instead built a great city and a great tower that they may reach heaven.
+    And with the divine language and sin in their hearts, God tells us of our ancestors, "nothing will be restrained from them, which they have imagined to do."
+    
+    So God scattered the people, confused their language, and placed them beneath the heavenly hosts.
+    Man would now be ruled by principalities and dark powers, false gods -- and we would become the playthings of these demons.
 
 * ~2100 BC  
   The Tower of Babel, Genesis 11
@@ -151,7 +194,13 @@ The Biblical canon presents a grand story of origin, sin, death, hope, prophecy,
 ## Abrahamic Age
 
 !!! info "Covenantal Age"
-    In this age, man is in a lowly state, subject to false gods and confused languages, yet hope begins with Abraham, the father of God’s chosen people, blessed by Melchizedek, priest of the most high God.
+    The cosmology of this age is familiar to us -- man is in a lowly state, subject to false gods (principalities and powers) and confused languages, yet in this age is the beginning of hope.
+    A single seed, Abraham, will be the father of a chosen people; blessed by a priest (Melchizedek) of the most high God.
+
+!!! quote "Jubilees 15:30b-32a"
+    He chose Israel to be His people.
+    And He sanctified it, and gathered it from amongst all the children of men; for there are many nations and many peoples, and all are His, and over all hath He placed spirits in authority to lead them astray from Him. 
+    But over Israel He did not appoint any angel or spirit, for He alone is their ruler
 
 * ~2100 BC  
   Job's Suffering and Faith, Job 1 - 42  
@@ -261,7 +310,9 @@ The Biblical canon presents a grand story of origin, sin, death, hope, prophecy,
 ## Mosaic Age
 
 !!! info "Exile and Promised Land"
-    This age sees God’s chosen people liberated from captivity and false gods. God’s law is written, yet the people repeatedly rebel and fail to uphold it, marking a cosmology of covenant and human frailty.
+    This is the age where God's chosen people are liberated from captivity, liberated from the false gods -- the worldly principalities and powers.
+    God's law is written.
+    And yet repeatedly, the people rebel and fail to uphold God's law.
 
 * ~1700 BC  
   Israelites Multiply in Egypt, Exodus 1:6  
@@ -404,7 +455,11 @@ The Biblical canon presents a grand story of origin, sin, death, hope, prophecy,
 ## Davidic Age
 
 !!! info "Davidic Monarchy"
-    This age is marked by prophecy, including the prophesied Messiah -- *Emmanuel, God with us* -- from the line of David, who will rule forever.
+    The cosmology of this age is marked by prophecy,
+    including the prophesied Messiah,
+    -- *Emmanuel, God with us* --
+    from the line of David.
+    This prophesied Messiah will rule forever.
 
 * ~1024 BC  
   Samuel Anoints David at Bethlehem, 1 Samuel 16  
@@ -780,7 +835,11 @@ The Biblical canon presents a grand story of origin, sin, death, hope, prophecy,
 ## Ezraitic Age
 
 !!! info "Second Temple Period"
-    This age begins with the Babylonian siege of Jerusalem, the destruction of Solomon’s Temple, and the loss of Judean independence. Marked by the cessation of prophecy, a growing Jewish diaspora, and synthesis with Roman legalism and Greek philosophy, it prepares the world for the Messiah.
+    This age commences when the Judeans lost their independence upon the Babylonian siege of Jerusalem
+    (and Solomon's Temple was destroyed).
+    The cosmology of this age is marked by the cessation of prophecy, a growing Jewish diaspora, and a synthesis with Jewish thought into the pagan world (Roman legalism and Greek philosophy).
+    
+    This is the age that prepares the world for the coming Messiah.
 
 * ~537 BC  
   The Proclamation of Cyrus, Ezra 1  
@@ -851,7 +910,12 @@ The Biblical canon presents a grand story of origin, sin, death, hope, prophecy,
 ## Messianic Age
 
 !!! info "Prophecy Fulfilled"
-    This is our current age, where the prophesied Messiah, Christ Jesus, the God-man, has come. The cosmology shifts radically: God’s law is written on human hearts, and Christ rules in the midst of His enemies. This age will end with Christ’s second coming, the final judgment, and the defeat of death itself.
+    This is the age where the prophecied Messiah comes, the God-man that is Christ Jesus.
+    It is our current age.
+    The cosmology of this age is radically different from all that came before.
+    Not only is God's law written into the hearts of men, Christ now rules in the midst of His enemies.
+        
+    This age will end at the second coming of Christ, the final judgment at the end of time where death itself is defeated.
 
 * ~6 BC  
   Birth of John the Baptist, Luke 1  
