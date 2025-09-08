@@ -1,7 +1,8 @@
 # Fall of Man
 
 Modern Christians tend to view ***the*** *fall* as a single act of rebellion 
--- but in Genesis there is not one but three distinct rebellions against God, each with dire consequences for man and the created order (the cosmos). These rebellions introduced the three great evils of mankind: death, sin, and domination by dark powers.
+-- but in Genesis there is not one but *three* distinct rebellions against God, each with dire consequences for man and the created order (the cosmos). 
+These rebellions introduced the three great evils of mankind: death, sin, and the demonic (domination by dark powers).
 
 The full interpretation of these rebellions has been lost in our [modern views](../modern-views/index.md),
  but the ancient view echoes truthfully from orthodox tradition, from scripture, and can be interpreted through original and [apocryphal](apocrypha.md) texts. 
@@ -10,6 +11,10 @@ For example, we know there were Nephilim in scripture,
 
 Below is an attempt to outline this ancient view as best as it can be understood today.
 
+
+
+
+---
 
 ## 1. Exile from Eden (death)
 
@@ -22,6 +27,10 @@ There was a single language, the divine language.
 And man was subject only to God.
 
 
+
+
+
+---
 
 ## 2. Cain (sin)
 
@@ -49,6 +58,13 @@ The sons of God -- in this case the watchers -- failed at their God-given duties
 In fact, the spirits of dead Nephilim were understood as [demons](angels-demons.md). From this point forward, men no longer live for centuries, and demons entered the world.
 
 
+
+
+
+
+
+
+---
 
 ## 3. Tower of Babel (dark powers)
 
@@ -87,6 +103,10 @@ And just as the rebellions led to dramatic changes in cosmology, so too does red
 
 
 
+
+
+---
+
 ## 3. Covenant with Israel
 
 The earth had been divided amongst the pagan gods, each with varying degrees of rebellion against God.
@@ -116,6 +136,10 @@ And then starting with Israel, the one true God placed himself directly into the
 
 
 
+
+
+---
+
 ## 2. New Covenant
 
 Jeremiah... moral law now written in our hearts 
@@ -131,6 +155,9 @@ The Holy Spirit is now with man, pointing us to Christ, to salvation. Man is no 
 
 
 
+
+
+---
 
 ## 1. Christ
 
