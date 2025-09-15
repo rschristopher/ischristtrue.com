@@ -1,148 +1,167 @@
 # The Holy Mysteries
 
-http://www.crivoice.org/creeddositheus.html
+<!--
+Lord Jesus Christ, Son of God
+Have mercy on me, a sinner
 
-Sacraments, evangelical mysteries
+Protect me from the evil one.
+Enlighten my mind and my heart so that your wisdom may be revealed and articulated, all for your glory.
 
+Lord Jesus Christ, Son of God
+Have mercy on me, a sinner 
+-->
 
-And the Mysteries consist of
- something natural,
- and of something supernatural;
- and are not bare signs of the promises of God.
-For then they would not differ
- from circumcision —
- what could be worse than that [idea]? 
-We acknowledge them to be, 
- of necessity, 
- efficient means of grace to the receivers.
+In our [modern view](../modern-views/index.md), we often reduce sacraments to symbolic rituals or optional traditions, stripping them of their transformative power and viewing them through a lens of individualism or rationalism. The ancient view, however, sees the Holy Mysteries -- also called evangelical mysteries or sacraments -- as essential channels of divine grace, uniting the natural and supernatural to convey God's promises efficaciously. Rooted in Scripture and patristic tradition, they are not mere signs but active means of salvation, as affirmed in the Confession of Dositheus (1672): "The Mysteries consist of something natural, and of something supernatural; and are not bare signs of the promises of God... We acknowledge them to be, of necessity, efficient means of grace to the receivers."
 
-
+!!! quote "Confession of Dositheus"
+    And the Mysteries consist of something natural, and of something supernatural; and are not bare signs of the promises of God. For then they would not differ from circumcision — what could be worse than that [idea]? We acknowledge them to be, of necessity, efficient means of grace to the receivers.
 
 
+
+
+---
+
+## The Nature of the Mysteries
+
+The Holy Mysteries are outward and visible signs of inward and spiritual grace, instituted by Christ and entrusted to the Church. There are seven principal Mysteries in Orthodox tradition, each drawing from apostolic teaching and fulfilling Old Testament types. They mediate Christ's presence, enabling theosis -- our participation in divine life. Unlike bare symbols, they effect what they signify, as the natural elements (water, oil, bread) unite with supernatural grace.
+
+This ancient understanding contrasts with Protestant reductions (e.g., sacraments as ordinances) or Western additions (e.g., scholastic definitions). The East emphasizes their mystical efficacy, rooted in the Incarnation: God becoming matter sanctifies matter itself.
+
+!!! quote "St. John of Damascus"
+    Since man is of a double nature, composed of body and soul, the Savior assumed both and united them in Himself... Thus He gave us the Mysteries, that through them we might be sanctified in body and soul.
+
+
+
+
+---
 
 ## 1. Holy Baptism
 
-"Go and make disciples of all the nations, 
- baptizing them in the name of the Father, 
- and of the Son, and of the Holy Spirit;"
- {Matthew 28:19}
+Baptism is the gateway Mystery, initiating us into Christ's death and resurrection, washing away original sin and granting new birth in the Spirit. It fulfills the Great Commission and promises salvation to believers.
 
-"He that believes and is baptized 
- shall be saved, 
- but he that does not believe 
- shall be condemned."
- {Mark 16:16}
+!!! quote "Matthew 28:19"
+    Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.
 
+!!! quote "Mark 16:16"
+    He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
+
+In ancient practice, baptism by triple immersion symbolizes the Trinity and burial with Christ, often followed immediately by Chrismation and Eucharist for full initiation.
 
 
 
 
+---
 
-## 2. Confirmation
+## 2. Confirmation (Chrismation)
 
-that is to say, of the Holy Myron 
- or Holy Chrism,
+Chrismation, or the seal of the Holy Spirit with holy oil (myron), completes baptism, bestowing the Spirit's gifts for Christian life. It echoes Pentecost's empowerment, enabling witness and growth in grace.
 
-"But ye — tarry ye in the city of Jerusalem,
- until ye be endued with power from on high."
- {Luke 24:49} 
+!!! quote "Luke 24:49"
+    And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.
 
-With which they were endued by 
- the coming of the Holy Spirit, 
- and this the 
- Mystery of Confirmation signifies; 
- concerning which Paul also wrote
- in the Second Epistle to the Corinthians, 
- chap. 1, and Dionysius the Areopagite
- more explicitly.
+St. Paul and Dionysius the Areopagite affirm this Mystery's role in equipping believers. In the East, it's administered to infants post-baptism; in the West (as Confirmation), it's delayed.
 
 
 
 
-## 3. Priesthood
+---
 
-"This do ye for My Memorial;"
- {Luke 22:19}
+## 3. Priesthood (Holy Orders)
 
-"Whatever you bind and loose 
- upon the earth shall be bound 
- and loosed in the heavens."
- {Matthew 18:18}
+Holy Orders ordains clergy -- bishops, priests, deacons -- to serve as icons of Christ, administering Mysteries and shepherding the flock. It confers apostolic succession, empowering binding and loosing.
 
+!!! quote "Luke 22:19"
+    And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.
 
+!!! quote "Matthew 18:18"
+    Verily I say unto you, Whatsoever ye shall bind on earth shall be bound in heaven: and whatsoever ye shall loose on earth shall be loosed in heaven.
 
-
-
-
-
-## 4. Divine Liturgy
-
-"Take, eat; This is My Body;"
- {Matthew 26:26;
-  Mark 14:22;
- and cf. Luke 22:19;
- 1 Corinthians 2:24}
-
-"Drink all of It;
- This is My Blood of the New Testament;"
- {Matthew 26:27; 
- and cf. Mark 14:24; 
- Luke 22:20; 
- 1 Corinthians 2:25} 
-
-"Unless you eat the Flesh of the Son of Man,
- you do not have life in yourselves."
- {John 6:53}
+This Mystery ensures the Church's continuity, with the priest acting in persona Christi during liturgy and absolution.
 
 
 
+
+---
+
+## 4. Divine Liturgy (Eucharist)
+
+The Eucharist is the central Mystery, where bread and wine become Christ's Body and Blood, nourishing us for eternal life. It fulfills the Last Supper and John's discourse on eating His flesh.
+
+!!! quote "Matthew 26:26"
+    And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body.
+
+!!! quote "John 6:53"
+    Then Jesus said unto them, Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you.
+
+Anciently, it's the "medicine of immortality" (St. Ignatius), re-presenting Calvary mystically, fostering communion with God and one another.
+
+
+
+
+---
 
 ## 5. Marriage
 
- when, having recited the things 
- which had been spoken thereof in the
- Old [Testament], 
- He, as it were, set His seal thereto 
- by the words,
+Holy Matrimony elevates natural union to a sacred Mystery, mirroring Christ's love for the Church. It sanctifies spouses for mutual salvation and family life.
 
-"Those whom God hath joined together, 
- do not let man put asunder,"
- {Matthew 19:6} 
+!!! quote "Matthew 19:6"
+    Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder.
 
-and this the divine Apostle also
- calls a great Mystery.
-{Ephesians 5:32}
+!!! quote "Ephesians 5:32"
+    This is a great mystery: but I speak concerning Christ and the church.
+
+The ancient view sees marriage as eternal, not dissolved by death, with crowns symbolizing martyrdom to self.
 
 
 
 
+---
 
+## 6. Penance (Confession)
 
+Penance, with sacramental confession, restores us through repentance and absolution, healing sin's wounds.
 
-## 6. Penance
+!!! quote "John 20:23"
+    Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.
 
-with which is joined sacramental confession,
- by the words, 
+!!! quote "Luke 13:3"
+    I tell you, Nay: but, except ye repent, ye shall all likewise perish.
 
-"If you forgive the sins of any,
- they are forgiven them;
- if you retain the sins of any,
- they are retained." [NRSV];
- {John 20:23}
-
-"unless you repent,
- you will [all] likewise perish."
- {Luke 13:3,5}
+Anciently, it's medicinal: confess to a priest (as spiritual physician), receive guidance, and be reconciled.
 
 
 
 
+---
 
-## 7. Holy Oil
+## 7. Holy Unction (Prayer-Oil)
 
- or Prayer-Oil is spoken of in Mark,
- {Mark 6:13}
+Holy Unction anoints the sick with oil for healing of body and soul, forgiving sins and restoring wholeness.
 
- and is expressly witnessed to by the
- Lord’s brother. {James 5:14}
+!!! quote "Mark 6:13"
+    And they cast out many devils, and anointed with oil many that were sick, and healed them.
+
+!!! quote "James 5:14"
+    Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord.
+
+In ancient practice, it's communal, emphasizing the Church's prayer for mercy and strength.
+
+
+
+
+---
+
+## Mysteries in Ancient Cosmology
+
+The Holy Mysteries restore fallen creation, bridging heaven and earth through Christ's incarnation. They are evangelical -- proclaiming the Gospel -- and mystical, veiling divine realities in humble forms. As efficient grace, they effect transformation, countering modern skepticism.
+
+In seeking Christ, embrace the Mysteries: they mediate salvation, drawing us into eternal life.
+
+For further reading, see the [Confession of Dositheus](http://www.crivoice.org/creeddositheus.html).
+
+!!! quote "St. Cyril of Jerusalem"
+    These daily introductions into the Mysteries... are profitable to the soul.
+
+
+
 

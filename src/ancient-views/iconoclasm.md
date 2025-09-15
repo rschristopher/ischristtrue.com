@@ -15,7 +15,7 @@ Iconoclastic influences have persisted through the ages and have resulted in bla
     ![icon-iconoclasm](/images/icon-iconoclasm.jpg)
 
 
-While the accusation is usually *idolatry*, an icococlasm is the violent destruction of icons (images), as well as defacing and even destroying churches. 
+While the accusation is usually *idolatry*, an iconoclasm is the violent destruction of icons (images), as well as defacing and even destroying churches. 
 Much 
 [blood](https://www.thecollector.com/what-was-iconoclasm-in-byzantium/) 
  and 
@@ -46,7 +46,7 @@ That said, were the iconoclasts right to destroy icons? Were the reformers right
 
 
 
-
+---
 
 ## Idols and Idolatry 
 
@@ -130,7 +130,7 @@ The life of Christ is a clear testament to why we cannot worship "molten gods" o
 
 
 
-
+---
 
 ## Icons (Images)
 
@@ -177,7 +177,7 @@ And when the second temple was built, it was adorned with icons big and small:
     And he overlaid the cherubims with gold.
 
 Note that cherubim were the highest of the heavenly hosts, and the most sacred created being in heaven one could make into an icon (but never as idol, never to worship).
-Even the prophecied temple in Ezekiel's vision contained cherub icons:
+Even the prophesied temple in Ezekiel's vision contained cherub icons:
 
 !!! quote "Ezekiel 41:18-19"
     And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces; 
@@ -208,7 +208,7 @@ Any icon, including your fellow human beings, should never be worshipped, but th
 
 
 
-
+---
 
 ## Icons are not Idols 
 
@@ -248,6 +248,9 @@ To explain this in metaphysical language: the finite cannot touch the infinite, 
 
 
 
+
+
+---
 
 ## Veneration is not Worship
 
@@ -293,6 +296,9 @@ If you can understand that you're not worshipping a Bible while venerating the w
 
 
 
+
+
+---
 
 ## Anathema!
 
@@ -366,7 +372,7 @@ Venerating icons is the same as venerating scripture. That is, we ought to treat
 
 
 
-
+---
 
 ## Icons of Christ 
 
@@ -435,7 +441,7 @@ Perhaps it is not the face of God you are seeking (but ought to be seeking, as H
 
 
 
-
+---
 
 ## Icons of Mary
 
@@ -458,13 +464,13 @@ Let's examine some of the iconoclastic reactions to icons of Mary:
     
     The reformers were reacting to the many abuses and innovations from Rome, and thus rejected what they saw as "Mary worship", but interestingly they kept the Augustinian view that leads to immaculate conception (original sin as inherited guilt).
     
-    Iconoclasm became a way for the reformers to avoid the "immaculate conception" of Mary but still keep to Augustinian presupositions, effectively by just ignoring Mary, icons and all.
+    Iconoclasm became a way for the reformers to avoid the "immaculate conception" of Mary but still keep to Augustinian presuppositions, effectively by just ignoring Mary, icons and all.
 
 ???+ example "Reaction to Intercessions"
      Venerating Mary involves intercession, i.e., Mary prays for you.
      Most protestants will reject this and ask, "why not pray directly to Christ?"
      
-     Obviously one should pray to Christ, but we should also pray for others (what are known as intercessory prayers) and ask others to pray for us. The reasons for intercessory prayes are many, and the protestant belief seems to be that only people living in the world can do intercessory prayers, and otherwise there's no living spirits who can intercede (which is a nihilistic view and should be rejected on those terms alone).
+     Obviously one should pray to Christ, but we should also pray for others (what are known as intercessory prayers) and ask others to pray for us. The reasons for intercessory prayers are many, and the protestant belief seems to be that only people living in the world can do intercessory prayers, and otherwise there's no living spirits who can intercede (which is a nihilistic view and should be rejected on those terms alone).
 
 Ultimately, Christ has a human and divine will, being both God and man -- and it is from Mary that Christ gets His humanity.
 The Orthodox view is that Mary is alive with her Son and is very much able to hear and respond to prayer requests.
@@ -485,7 +491,7 @@ As has been the tradition for two thousand years, we honor and respect icons of 
 
 
 
-
+---
 
 ## Icons of Saints
 
