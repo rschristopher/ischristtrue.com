@@ -208,7 +208,7 @@ For God the Father sees Christ in us, and is well pleased.
 
 > thy will be done on earth as it is in heaven.
 
-Christ, the Second Adam, reverses humanities rebellion and intimately connects God to man. 
+Christ, the Second Adam, reverses humanity's rebellion and intimately connects God to man. 
 By His obedience unto death, Christ crushes the serpent, defeating death and restoring access to the Tree of Life. 
 In Him, we regain divine likeness, transcending evolutionary strife through resurrection. 
 The cosmos renews: no more curse, eternal life in glorified humility, fulfilling our freedom through grace, not rebellion.
