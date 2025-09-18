@@ -13,7 +13,7 @@ Have mercy on me, a sinner
 
     In the ancient world, the Didache served as one of the earliest "Church Orders" -- a practical manual for Christian life, worship, and organization. Written in Koine Greek, it transitions from Jewish ethical traditions to Gentile inclusion, outlining the "Two Ways" of life and death for moral instruction, guidelines for baptism and Eucharist, discernment of prophets and leaders, and eschatological warnings. It addressed real needs of fledgling communities amid persecution, fostering unity in diverse house churches across the Roman Empire.
 
-    Today, the Didache offers timeless wisdom, reminding us of apostolic simplicity. Its emphasis on ethical living, sacramental practice, and vigilant community counters modern individualism and relativism. For Orthodox Christians, it affirms continuity in rituals and phronema; for Protestants, it echoes Gospel morals. In an era of false teachings and isolation, it calls for renewed discipleship, ethical discernment, and communal grace -- a blueprint for awakening [metanoia](metanoia.md) and embodying Christ's Kingdom.
+    Today, the Didache offers timeless wisdom, re-emerging during an age where ut is most needed. Its emphasis on ethical living, sacramental practice, and vigilant community counters modern individualism and relativism. For Christians, it affirms continuity in rituals and phronema; it echoes Gospel morals. In an era of false teachings and isolation, it calls for renewed discipleship, ethical discernment, and communal grace -- a blueprint for repej, awakening [metanoia](metanoia.md) and embodying Christ's Kingdom.
 
 
 
@@ -85,7 +85,30 @@ You shall not hate any man; but some you shall reprove, and concerning some you 
 ## Chapter 3. 
 ### Other Sins Forbidden
 
-My child, flee from every evil thing, and from every likeness of it. Be not prone to anger, for anger leads the way to murder; neither jealous, nor quarrelsome, nor of hot temper; for out of all these murders are engendered. My child, be not a lustful one; for lust leads the way to fornication; neither a filthy talker, nor of lofty eye; for out of all these adulteries are engendered. My child, be not an observer of omens, since it leads the way to idolatry; neither an enchanter, nor an astrologer, nor a purifier, nor be willing to look at these things; for out of all these idolatry is engendered. My child, be not a liar, since a lie leads the way to theft; neither money-loving, nor vainglorious, for out of all these thefts are engendered. My child, be not a murmurer, since it leads the way to blasphemy; neither self-willed nor evil-minded, for out of all these blasphemies are engendered. But be meek, since the meek shall inherit the earth. Matthew 5:5 Be long-suffering and pitiful and guileless and gentle and good and always trembling at the words which you have heard. You shall not exalt yourself, Luke 18:14 nor give over-confidence to your soul. Your soul shall not be joined with lofty ones, but with just and lowly ones shall it have its intercourse. The workings that befall you receive as good, knowing that apart from God nothing comes to pass.
+My child, flee from every evil thing, and from every likeness of it. 
+
+Be not prone to anger, for anger leads the way to murder; neither jealous, nor quarrelsome, nor of hot temper; for out of all these murders are engendered. 
+
+My child, be not a lustful one; for lust leads the way to fornication; neither a filthy talker, nor of lofty eye; for out of all these adulteries are engendered. 
+
+My child, be not an observer of omens, since it leads the way to idolatry; neither an enchanter, nor an astrologer, nor a purifier, nor be willing to look at these things; for out of all these idolatry is engendered. 
+
+My child, be not a liar, since a lie leads the way to theft; neither money-loving, nor vainglorious, for out of all these thefts are engendered. 
+
+My child, be not a murmurer, since it leads the way to blasphemy; neither self-willed nor evil-minded, for out of all these blasphemies are engendered. 
+
+But be meek, since the meek shall inherit the earth.
+
+!!! quote "Matthew 5:5"
+    Blessed are the meek: for they shall inherit the earth.
+
+Be long-suffering and pitiful and guileless and gentle and good and always trembling at the words which you have heard. 
+
+You shall not exalt yourself, nor give over-confidence to your soul. 
+
+Your soul shall not be joined with lofty ones, but with just and lowly ones shall it have its intercourse. 
+
+The workings that befall you receive as good, knowing that apart from God nothing comes to pass.
 
 
 
@@ -93,7 +116,38 @@ My child, flee from every evil thing, and from every likeness of it. Be not pron
 ---
 ## Chapter 4. 
 ### Other Various Precepts
-My child, him that speaks to you the word of God remember night and day; and you shall honour him as the Lord; for in the place whence lordly rule is uttered, there is the Lord. And you shall seek out day by day the faces of the saints, in order that you may rest upon their words. You shall not long for division, but shall bring those who contend to peace. You shall judge righteously, you shall not respect persons in reproving for transgressions. You shall not be undecided whether it shall be or no. Be not a stretcher forth of the hands to receive and a drawer of them back to give. If you have anything, through your hands you shall give ransom for your sins. You shall not hesitate to give, nor murmur when you give; for you shall know who is the good repayer of the hire. You shall not turn away from him that is in want, but you shall share all things with your brother, and shall not say that they are your own; for if you are partakers in that which is immortal, how much more in things which are mortal? You shall not remove your hand from your son or from your daughter, but from their youth shall teach them the fear of God. Ephesians 6:4 You shall not enjoin anything in your bitterness upon your bondman or maidservant, who hope in the same God, lest ever they shall fear not God who is over both; Ephesians 6:9; Colossians 4:1 for he comes not to call according to the outward appearance, but unto them whom the Spirit has prepared. And you bondmen shall be subject to your masters as to a type of God, in modesty and fear. Ephesians 6:5; Colossians 3:22 You shall hate all hypocrisy and everything which is not pleasing to the Lord. Forsake in no way the commandments of the Lord; but you shall keep what you have received, neither adding thereto nor taking away therefrom . Deuteronomy 12:32 In the church you shall acknowledge your transgressions, and you shall not come near for your prayer with an evil conscience. This is the way of life.
+
+My child, him that speaks to you the word of God remember night and day; and you shall honour him as the Lord; for in the place whence lordly rule is uttered, there is the Lord. 
+
+And you shall seek out day by day the faces of the saints, in order that you may rest upon their words. 
+
+You shall not long for division, but shall bring those who contend to peace. 
+
+You shall judge righteously, you shall not respect persons in reproving for transgressions. 
+
+You shall not be undecided whether it shall be or no. 
+
+Be not a stretcher forth of the hands to receive and a drawer of them back to give. 
+If you have anything, through your hands you shall give ransom for your sins. 
+
+You shall not hesitate to give, nor murmur when you give; for you shall know who is the good repayer of the hire. 
+
+You shall not turn away from him that is in want, but you shall share all things with your brother, and shall not say that they are your own; for if you are partakers in that which is immortal, how much more in things which are mortal? 
+
+You shall not remove your hand from your son or from your daughter, but from their youth shall teach them the fear of God. 
+
+Ephesians 6:4 You shall not enjoin anything in your bitterness upon your bondman or maidservant, who hope in the same God, lest ever they shall fear not God who is over both; for he comes not to call according to the outward appearance, but unto them whom the Spirit has prepared. 
+
+And you bondmen shall be subject to your masters as to a type of God, in modesty and fear. 
+
+!!! quote "Colossians 3:22"
+    Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God
+
+You shall hate all hypocrisy and everything which is not pleasing to the Lord. 
+
+Forsake in no way the commandments of the Lord; but you shall keep what you have received, neither adding thereto nor taking away therefrom.
+
+In the church you shall acknowledge your transgressions, and you shall not come near for your prayer with an evil conscience. This is the way of life.
 
 
 
