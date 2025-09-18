@@ -47,6 +47,9 @@ He is the literal embodiment of the answer to the fundamental questions of life.
 
 
 
+
+---
+
 ## -ology
 
 Our nihilistic [modern view](../modern-views/index.md) tells us that words ending in *-ology* refer to "the study of".
@@ -94,7 +97,7 @@ Let us not use our God-given mind for self-worship or nihilism, but instead wors
 
 
 
-
+---
 
 ## Christology
 
