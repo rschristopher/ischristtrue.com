@@ -11,7 +11,8 @@ Lord Jesus Christ, Son of God
 Have mercy on me, a sinner 
 -->
 
-In our [modern view](../modern-views/index.md), we often reduce order and chaos to psychological archetypes or scientific concepts -- like structured routines versus unpredictable events -- treating them as neutral forces in a godless universe. The ancient view, however, saw them as profound cosmic realities: order as the stable, life-giving structure of creation, chaos as the formless void threatening dissolution. Rooted in Scripture and echoed in traditions like Daoism, this duality reveals not ultimate principles but created effects, pointing to a higher divine order in Christ, who brings harmony from discord.
+In our [modern](../modern-views/index.md) secular world, we often reduce order and chaos to psychological archetypes or scientific concepts -- like structured routines versus unpredictable events -- treating them as mental models in a godless universe. 
+The ancient view, however, saw them as profound cosmic realities: order as the stable, life-giving structure of creation, chaos as the formless void threatening dissolution. Rooted in Scripture and echoed in traditions like Daoism, this duality reveals not ultimate principles but created effects, pointing to a higher divine order in Christ, who brings harmony from discord.
 
 !!! quote "Genesis 1:1-2"
     In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.

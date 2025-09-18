@@ -11,7 +11,7 @@ Lord Jesus Christ, Son of God
 Have mercy on me, a sinner 
 -->
 
-In our [modern views](../modern-views/index.md), we tend to conflate God's essence with His actions, assuming a simplistic unity that flattens the mystery of the Divine, often reducing theology to rational constructs devoid of experiential depth. 
+In theological discussions, we tend to conflate God's essence with His actions, assuming a simplistic unity that flattens the mystery of the Divine, often reducing theology to rational constructs devoid of experiential depth. 
 The ancient patristic view, however, upholds the essence-energies distinction -- a profound teaching that safeguards God's transcendence while affirming our participation in His life. 
 This distinction, central to Eastern Orthodox theology, reveals how we can know and encounter God without comprehending His ineffable essence, pointing us toward true theosis and union with Christ.
 

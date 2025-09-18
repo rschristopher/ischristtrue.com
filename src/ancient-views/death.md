@@ -11,7 +11,7 @@ Lord Jesus Christ, Son of God
 Have mercy on me, a sinner 
 -->
 
-In our [modern view](../modern-views/index.md), we tend to ignore and neglect death, hiding from its inevitability with pithy dismissals like "death and taxes." 
+In our [modern](../modern-views/index.md) world, we tend to ignore and neglect death, hiding from its inevitability with pithy dismissals like "death and taxes." 
 We pretend its ravages will be painless, failing to plan for the final stages of life -- years of suffering between retirement and the grave for most. 
 Ancient views lacked such luxury, confronting death continuously, weaving it into the fabric of our existence as a stark reminder of our fallen state and the hope of redemption.
 

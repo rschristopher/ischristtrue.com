@@ -7,7 +7,10 @@ Have mercy on me, a sinner
 -->
 
 
-In our [modern view](../modern-views/index.md), we often reduce "metanoia" to a vague "change of heart" or "spiritual conversion" -- something like a self-help epiphany or motivational shift. But this misses the profound, life-altering reality of the ancient Christian understanding. Metanoia is a radical transformation of the mind, heart, and soul, opening us to objective truth and divine communion. As seekers of whether Christ is true, exploring metanoia reveals it as the key to escaping relativistic illusions, leading us to continual repentance and union with God.
+Repentance, or "metanoia", is often misunderstood as a vague "change of heart" or "spiritual conversion" -- something like a self-help epiphany or motivational shift. 
+But this misses the profound, life-altering reality of the ancient Christian understanding. 
+Metanoia is a radical transformation of the mind, heart, and soul, opening us to objective truth and divine communion. 
+As seekers of whether Christ is true, exploring metanoia reveals it as the key to escaping relativistic illusions, leading us to continual repentance and union with God.
 
 !!! quote "Colossians 2:8"
     Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.

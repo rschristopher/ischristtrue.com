@@ -11,7 +11,7 @@ Lord Jesus Christ, Son of God
 Have mercy on me, a sinner 
 -->
 
-In our [modern view](../modern-views/index.md), we tend to overlook the filioque clause -- "and the Son" -- as a minor doctrinal footnote, yet this addition to the Nicene Creed exacerbated one of Christianity's deepest schisms, further fracturing East and West. 
+At first glance, the filioque clause -- "and the Son" -- seems like a minor doctrinal footnote, yet this addition to the Nicene Creed exacerbated one of Christianity's deepest schisms, further fracturing East and West. 
 The ancient view reveals it as more than semantics: a profound question of divine procession, authority, and our epistemic access to truth. 
 Understanding the filioque compels us to confront how we know God, pointing inexorably to Christ as the mediator of all revelation, without whom theology devolves into human speculation.
 
