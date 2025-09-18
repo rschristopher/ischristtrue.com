@@ -1,11 +1,19 @@
+<!--
+Lord Jesus Christ
+Son of God
+Have mercy on me, a sinner 
+
+-->
 # The Didache
 
 !!! success "The Lord's Teaching Through the Twelve Apostles to the Nations."
-    The Didache is a concise, anonymous early Christian text dated by scholars to the first century AD -- as early as 50 AD, making it contemporaneous with and even predating some New Testament books. Rediscovered in 1873 by Philotheos Bryennios in the Codex Hierosolymitanus, it was highly regarded by early Church Fathers like Clement of Alexandria and Origen, influencing later documents such as the Apostolic Constitutions and included in the Ethiopian canon.
+    The Didache is a concise, anonymous early Christian text dated by scholars to as early as AD 50, making it contemporaneous with and even predating some New Testament books. 
+    
+    Rediscovered in 1873 by Philotheos Bryennios in the Codex Hierosolymitanus, it was highly regarded by early Church Fathers like Clement of Alexandria and Origen, influencing later documents such as the Apostolic Constitutions and included in the Ethiopian canon.
 
     In the ancient world, the Didache served as one of the earliest "Church Orders" -- a practical manual for Christian life, worship, and organization. Written in Koine Greek, it transitions from Jewish ethical traditions to Gentile inclusion, outlining the "Two Ways" of life and death for moral instruction, guidelines for baptism and Eucharist, discernment of prophets and leaders, and eschatological warnings. It addressed real needs of fledgling communities amid persecution, fostering unity in diverse house churches across the Roman Empire.
 
-    Today, the Didache offers timeless wisdom for a fragmented world, reminding us of apostolic simplicity before institutional layers. Its emphasis on ethical living, sacramental practice, and vigilant community counters modern individualism and relativism. For Orthodox Christians, it affirms continuity in rituals and phronema; for Protestants, it echoes Gospel morals. In an era of false teachings and isolation, it calls for renewed discipleship, ethical discernment, and communal grace -- a blueprint for awakening [metanoia](metanoia.md) and embodying Christ's Kingdom.
+    Today, the Didache offers timeless wisdom, reminding us of apostolic simplicity. Its emphasis on ethical living, sacramental practice, and vigilant community counters modern individualism and relativism. For Orthodox Christians, it affirms continuity in rituals and phronema; for Protestants, it echoes Gospel morals. In an era of false teachings and isolation, it calls for renewed discipleship, ethical discernment, and communal grace -- a blueprint for awakening [metanoia](metanoia.md) and embodying Christ's Kingdom.
 
 
 
@@ -52,13 +60,31 @@ But also now concerning this, it has been said, Let your alms sweat in your hand
 ---
 ## Chapter 2. 
 ### The Second Commandment: Gross Sin Forbidden
-And the second commandment of the Teaching; You shall not commit murder, you shall not commit adultery, Exodus 20:13-14 you shall not commit pederasty, you shall not commit fornication, you shall not steal, Exodus 20:15 you shall not practice magic, you shall not practice witchcraft, you shall not murder a child by abortion nor kill that which is begotten. You shall not covet the things of your neighbor, Exodus 20:17 you shall not forswear yourself, Matthew 5:34 you shall not bear false witness, Exodus 20:16 you shall not speak evil, you shall bear no grudge. You shall not be double-minded nor double-tongued; for to be double-tongued is a snare of death. Your speech shall not be false, nor empty, but fulfilled by deed. You shall not be covetous, nor rapacious, nor a hypocrite, nor evil disposed, nor haughty. You shall not take evil counsel against your neighbor. You shall not hate any man; but some you shall reprove, and concerning some you shall pray, and some you shall love more than your own life.
+
+And the second commandment of the Teaching; You shall not commit murder, you shall not commit adultery, you shall not commit pederasty, you shall not commit fornication, you shall not steal, you shall not practice magic, you shall not practice witchcraft, you shall not murder a child by abortion nor kill that which is begotten. 
+
+You shall not covet the things of your neighbor, you shall not forswear yourself, you shall not bear false witness, you shall not speak evil, you shall bear no grudge. 
+
+You shall not be double-minded nor double-tongued; for to be double-tongued is a snare of death. 
+
+Your speech shall not be false, nor empty, but fulfilled by deed. 
+
+You shall not be covetous, nor rapacious, nor a hypocrite, nor evil disposed, nor haughty. 
+
+You shall not take evil counsel against your neighbor. 
+
+You shall not hate any man; but some you shall reprove, and concerning some you shall pray, and some you shall love more than your own life.
+
+!!! quote "Matthew 5:34-37"
+    But I say unto you, Swear not at all; neither by heaven; for it is God's throne: Nor by the earth; for it is his footstool: neither by Jerusalem; for it is the city of the great King. Neither shalt thou swear by thy head, because thou canst not make one hair white or black. But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.
+
 
 
 
 ---
 ## Chapter 3. 
 ### Other Sins Forbidden
+
 My child, flee from every evil thing, and from every likeness of it. Be not prone to anger, for anger leads the way to murder; neither jealous, nor quarrelsome, nor of hot temper; for out of all these murders are engendered. My child, be not a lustful one; for lust leads the way to fornication; neither a filthy talker, nor of lofty eye; for out of all these adulteries are engendered. My child, be not an observer of omens, since it leads the way to idolatry; neither an enchanter, nor an astrologer, nor a purifier, nor be willing to look at these things; for out of all these idolatry is engendered. My child, be not a liar, since a lie leads the way to theft; neither money-loving, nor vainglorious, for out of all these thefts are engendered. My child, be not a murmurer, since it leads the way to blasphemy; neither self-willed nor evil-minded, for out of all these blasphemies are engendered. But be meek, since the meek shall inherit the earth. Matthew 5:5 Be long-suffering and pitiful and guileless and gentle and good and always trembling at the words which you have heard. You shall not exalt yourself, Luke 18:14 nor give over-confidence to your soul. Your soul shall not be joined with lofty ones, but with just and lowly ones shall it have its intercourse. The workings that befall you receive as good, knowing that apart from God nothing comes to pass.
 
 
