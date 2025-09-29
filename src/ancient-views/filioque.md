@@ -33,8 +33,9 @@ The addition of the *filioque* alters the Trinity's relational dynamics: implyin
 The East sees this as safeguarding the Father's monarchy as the sole source of God's will, with the Spirit proceeding through the Son, enabling our participation (as Christ is both God and man).
 
 The clause risks depicting the Trinity as a binary procession, diminishing the Spirit's personhood. 
-The Trinity is beat understood in the relationships between Father, Son, and Holy Spirit.
+The Trinity is best understood in the relationships between Father, Son, and Holy Spirit.
 For example, the Son is eternally begotten fron the Father, but the Father is not begotten, and neither is the Holy Spirit -- the Holy Spirit eternally proceeds from the Father, but the Father does mot proceed from the Holy Spirit.
+
 There is a sovereignty *from* the Father that defines the relationships between Father and Son, as well as Father and Holy Spirit -- and the confusion of the *filioque* is about the relationship between the Son and the Holy Spirit.
 Christ reveals that He must be at the right hand of His Father in order to send the Holy Spirit, uniting us to the Father.
 This echoes Scriptural truths: the Spirit is sent by the Son (John 15:26), as willed by the Father, emphasizing Christ's role in divine economy.
@@ -56,8 +57,8 @@ By the 8th century, Charlemagne adopted it to unify his empire against Eastern i
 Pope Leo III resisted this insertion, engraving the original Creed on silver plates in Rome (A.D. 809) which are still present, but by the 11th century, amid Norman influences and anti-Greek sentiments, it gained papal endorsement. 
 The Great Schism (A.D. 1054) crystallized this: mutual excommunications partly over filioque, symbolizing Western claims to primacy.
 
-Reformers like Luther and Calvin retained it (despite rejecting papal prinacy), viewing the *filioque* as patristic (citing Augustine, although Augustine explicitly stated that there are not two principles behind the Holy Spirit, but one: unified from the Father and the Son), aligning with their emphasis on Christ's mediatory role. 
-Yet, this perpetuated the divide between East and West, ignoring Eastern concerns over unilateral alteration, rather than ecumenical consensus (i.e., ask the Holy Spirit and not the worldly dictates of man).
+Reformers like Luther and Calvin retained it (despite rejecting papal prinacy), viewing the *filioque* as patristic (citing Augustine, although Augustine explicitly stated that there are not two principles behind the Holy Spirit, but one: unified from the Father and the Son). 
+This perpetuated the divide between East and West, ignoring Eastern concerns over unilateral alteration, rather than ecumenical consensus (i.e., ask the Holy Spirit and not the dictates of man).
 
 !!! quote "Council of Toledo (589)"
     The Holy Spirit proceeds from the Father and the Son equally.
