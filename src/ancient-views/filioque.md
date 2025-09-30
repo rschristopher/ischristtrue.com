@@ -9,6 +9,12 @@ Enlighten my mind and my heart so that your wisdom may be revealed and articulat
 
 Lord Jesus Christ, Son of God
 Have mercy on me, a sinner 
+
+
+??? can the Holy Spirit proceed from the Father without the Son as mediator and recipient? it seems to be about the relationship -- 
+ and in the same way the Father did not beget the Son without the Holy Spirit
+
+
 -->
 
 At first glance, the filioque clause -- "and the Son" -- seems like a minor doctrinal footnote, yet this western addition to the Nicene Creed exacerbated one of Christianity's deepest schisms, further fracturing East and West. 
@@ -34,7 +40,7 @@ The East sees this as safeguarding the Father's monarchy as the sole source of G
 
 The clause risks depicting the Trinity as a binary procession, diminishing the Spirit's personhood. 
 The Trinity is best understood in the relationships between Father, Son, and Holy Spirit.
-For example, the Son is eternally begotten fron the Father, but the Father is not begotten, and neither is the Holy Spirit -- the Holy Spirit eternally proceeds from the Father, but the Father does mot proceed from the Holy Spirit.
+For example, the Son is eternally begotten fron the Father, but the Father is not begotten, and neither is the Holy Spirit -- the Holy Spirit eternally proceeds from the Father, but the Father does not proceed from the Holy Spirit.
 
 There is a sovereignty *from* the Father that defines the relationships between Father and Son, as well as Father and Holy Spirit -- and the confusion of the *filioque* is about the relationship between the Son and the Holy Spirit.
 Christ reveals that He must be at the right hand of His Father in order to send the Holy Spirit, uniting us to the Father.
@@ -95,7 +101,7 @@ The filioque is an ancient and unsolved controversy and should invite deep humil
 This aligns with Christ as the way, truth, and life: the Spirit, love between Father (Will) and Son (Word), mediates our access to God as it makes explicit the relationships within the Trinity, which was revealed to us (by Christ) so that we (limited and mortal) may come to know God (transcendent and eternal).
 
 The Trinity is the first principle from which logic and epistemology arise -- how we know truth, personified in Christ. 
-Without the filioque's balance, theology risks imbalance: Western emphasis on unity may overshadow persons; Eastern on monarchy preserves distinction.
+Without the filioque's balance, theology risks imbalance: Western emphasis on unity may overshadow persons; Eastern emphasis on monarchy preserves distinction.
 
 Most theological controversies resolve in the person of Christ: the Spirit of Truth, both God and man, who bridges infinite and finite. 
 We know the transcendent only through Him, our epistemic mediator.
@@ -117,7 +123,7 @@ The East's rejection upholds patristic fidelity; the West's addition combats her
 Yet, unity lies in Christ: the recipient ("to") of the Spirit, embodying divine love (from the Father to the Son). 
 Through Christ, we transcend debates, participating in Trinitarian life.
 
-As a seeker of truth, let the filioque debate drive you to Christ, where divisions heal in incarnate love.
+As a seeker of truth, let the filioque debate drive you closer to Christ, where divisions heal in incarnate love.
 
 For further reflection, watch this [discussion on the filioque](https://m.youtube.com/watch?v=NrLqxpmmy-4).
 

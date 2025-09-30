@@ -37,7 +37,7 @@ So we ask a simple question,
 Upon deeper analysis, this question is circular and presupposes that truth exists and is objectively knowable, which as we will see, is identical to the presupposition that Christ exists and is objectively knowable. But let's not get ahead of ourselves.
 
 We are asking this question from where we stand, atop the remnants of a dead civilization in the midst of a meaning crisis. 
-Our [enlightenment](modern-views/enlightenment.md) view presupposes knowable truth, but without God and without a mediator -- so we start where we start, clawing our way out of the existential despair of our time and into the Spirit of Truth. Whether we like it or not, our entire worldview comes from ancient Christian views, so we aim to delve into that past and see if we can find what is real, what is true.
+Our [enlightenment](modern-views/enlightenment.md) view presupposes knowable truth, but without God and without a mediator -- so we start where we start, clawing our way out of the existential despair of our time and into the Spirit of Truth. Whether we like it or not, our entire worldview comes from ancient Christian presuppositions, so we aim to delve into that past and see if we can find what is real, what is true.
 
 
 
