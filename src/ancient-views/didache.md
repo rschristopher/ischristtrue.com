@@ -13,7 +13,7 @@ Have mercy on me, a sinner
 
     In the ancient world, the Didache served as one of the earliest "Church Orders" -- a practical manual for Christian life, worship, and organization. Written in Koine Greek, it transitions from Jewish ethical traditions to Gentile inclusion, outlining the "Two Ways" of life and death for moral instruction, guidelines for baptism and Eucharist, discernment of prophets and leaders, and eschatological warnings. It addressed real needs of fledgling communities amid persecution, fostering unity in diverse house churches across the Roman Empire.
 
-    Today, the Didache offers timeless wisdom, re-emerging during an age where ut is most needed. Its emphasis on ethical living, sacramental practice, and vigilant community counters modern individualism and relativism. For Christians, it affirms continuity in rituals and phronema; it echoes Gospel morals. In an era of false teachings and isolation, it calls for renewed discipleship, ethical discernment, and communal grace -- a blueprint for repej, awakening [metanoia](metanoia.md) and embodying Christ's Kingdom.
+    Today, the Didache offers timeless wisdom, re-emerging during an age where it is most needed. Its emphasis on ethical living, sacramental practice, and vigilant community counters the nihilism in our modern world. For Christians, it affirms continuity in rituals and in phronema; it echoes Gospel morals. In an era of false teachings and isolation, the didache calls for renewed discipleship, ethical discernment, and communal grace -- a blueprint for repentance, awakening [metanoia](metanoia.md) and embodying Christ's Kingdom.
 
 
 
