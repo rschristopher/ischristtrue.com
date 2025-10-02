@@ -100,12 +100,12 @@ In our age of self-promotion and spiritual consumerism, how do we root out pride
 
 The ancient concept of *prelest* is strikingly relevant in our modern world, where spiritual deception abounds. 
 Our culture’s obsession with self-expression and instant gratification mirrors the pride that fuels *prelest*, encouraging us to trust our feelings or experiences over objective truth. 
-From New Age spiritualities to charismatic movements promising instant divine encounters, the temptation to seek sensational experiences over humble faith is pervasive. 
+From New Age spiritualties to charismatic movements promising instant divine encounters, the temptation to seek sensational experiences over humble faith is pervasive. 
 Even within Christianity, *prelest* manifests as self-righteousness, where one judges others while ignoring personal sins, or as chasing emotional highs mistaken for God’s presence.
 
 The ancient antidote -- humility, discernment, and submission to the Church -- challenges us to question our spiritual perceptions. 
 The Fathers urged reliance on Scripture, tradition, and spiritual elders to test experiences, ensuring they align with God’s truth. 
-In a world flooded with misinformation and competing spiritualities, how do we guard against *prelest*, seeking Christ’s truth with humility? 
+In a world flooded with misinformation and competing spiritualties, how do we guard against *prelest*, seeking Christ’s truth with humility? 
 The call is to anchor ourselves in the Church’s wisdom, cultivating a heart that seeks God above all, free from the deceptions that lead us astray.
 
 For deeper exploration, read St. Ignatius Brianchaninov’s *On Spiritual Deception* or St. John Climacus’s *The Ladder of Divine Ascent*, which offer profound insights into avoiding *prelest*.
