@@ -44,7 +44,7 @@ The East sees this as safeguarding the Father's monarchy as the sole source of G
 
 The clause risks depicting the Trinity as a binary procession, diminishing the Spirit's personhood. 
 The Trinity is best understood in the relationships between Father, Son, and Holy Spirit.
-For example, the Son is eternally begotten fron the Father, but the Father is not begotten, and neither is the Holy Spirit -- the Holy Spirit eternally proceeds from the Father, but the Father does not proceed from the Holy Spirit.
+For example, the Son is eternally begotten from the Father, but the Father is not begotten, and neither is the Holy Spirit -- the Holy Spirit eternally proceeds from the Father, but the Father does not proceed from the Holy Spirit.
 
 There is a sovereignty *from* the Father that defines the relationships between Father and Son, as well as Father and Holy Spirit -- and the confusion of the *filioque* is about the relationship between the Son and the Holy Spirit.
 Christ reveals that He must be at the right hand of His Father in order to send the Holy Spirit, uniting us to the Father.
