@@ -15,6 +15,10 @@ Have mercy on me, a sinner
  and in the same way the Father did not beget the Son without the Holy Spirit
 
 
+https://m.youtube.com/watch?v=1hcCesObkdQ
+https://www.newadvent.org/cathen/15130a.htm
+
+
 -->
 
 At first glance, the filioque clause -- "and the Son" -- seems like a minor doctrinal footnote, yet this western addition to the Nicene Creed exacerbated one of Christianity's deepest schisms, further fracturing East and West. 
