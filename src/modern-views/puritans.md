@@ -93,7 +93,7 @@ The hubris of assuming true Christianity vanished and requires human reclamation
 Such presumption -- that God relies on sinners to salvage or "reform" His bride -- verges on ludicrous pride, unworthy of the Almighty we adore. 
 Christ permits these [schisms](schisms.md) and their grievous repercussions not for His detriment but for our edification, imparting excruciating lessons in humility amid the spiritual desolation they wrought. 
 
-The Puritan legacy of rotten fruits compel recognition that mere conservative principles or Biblical literalism prove woefully insufficient; deeper communal bonds, repentance, and divine reliance are imperative. 
+The Puritan legacy of rotten fruits compel recognition that mere conservative principles and Biblical literalism prove woefully insufficient; deeper communal bonds, repentance, and divine reliance are imperative. 
 
 As we confront a plight arguably graver than Nineveh's pre-repentance era, the imperative resounds: it is high time for sackcloth and ashes, lest we forfeit grace before His imminent return.
 
