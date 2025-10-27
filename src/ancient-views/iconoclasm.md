@@ -1,11 +1,11 @@
 # Iconoclasm
 
 Literally, *breaking of images*, an iconoclasm is the deliberate destruction of artwork, typically religious artwork.
-Iconoclast movements have been an ongoing pattern starting with Islam and then influencing Christianity, such as the [Byzantine Iconoclasm](https://en.wikipedia.org/wiki/Byzantine_Iconoclasm)
+Iconoclast movements have been an ongoing pattern within Christendom, such as the [Byzantine Iconoclasm](https://en.wikipedia.org/wiki/Byzantine_Iconoclasm)
  or more recently during the
 [Reformation](https://folgerpedia.folger.edu/Idolatry:_Icons_and_Iconoclasm).
 
-Iconoclastic influences have persisted through the ages and have resulted in bland protestant churches which stand in sharp contrast to the iconographic beauty of orthodox churches.
+Iconoclastic influences have persisted through the ages and have resulted in bland protestant churches which stand in sharp contrast to the iconographic beauty of Roman Catholic and Eastern Orthodox churches.
 
 !!! example "Icons vs Iconoclasm"
     ![icon-veneration](/images/icon-veneration.jpg)
@@ -53,7 +53,7 @@ That said, were the iconoclasts right to destroy icons? Were the reformers right
 Ancient pagans created idols not merely as man-made trophies to worship, but in order to capture the essence of a specific god (a fallen spirit) such that people could make offerings and sacrifice to that god.
 
 A pagan god (fallen spirit) was in a sense captured and bound by a physical idol, allowing that spirit to act within rituals that the worshippers participated in.
-This was the universal backdrop of idol worship, and God worked through His chosen people and transformed this abhorrent practice from within, first into mediated communion in the Tabernacle, and then eventually into the life of Christ Jesus.
+This was the universal backdrop of idol worship, and God worked through His chosen people and transformed this inverted practice from within, first into mediated communion in the Tabernacle, and then eventually into the life of Christ Jesus.
 
 !!! info "Graven Images"
     The [Hebrew](https://www.ancient-hebrew.org/studies-words/hebrew-words-for-image.htm) word **pesel** (פסל) is used in Exodus 20:4 (and related passages), referring to a carved statue that is worshipped. Additionally, **temunah** (תמונה) is referring to a likeness or similitude.
@@ -338,6 +338,7 @@ In other words, iconoclasts have been expelled from the church, the body of Chri
 
 Ultimately, iconoclasts impede us from expressing our worship of God (worship of truth) -- effectively removing the primary means (imaging) of expressing our worship of God, confining how we worship -- making us vulnerable to image-based idolatry (such as pornography or politics).
 The bad fruits of iconoclastic churches demonstrate exactly this: they are not just ugly, but will inevitably produce a bland faith, where God becomes a lesser concern in people's daily life (such as giving God only an hour on Sunday).
+The [Puritans](../modern-views/puritans.md) are an instructive example of where these bad fruits have manifested (within formerly Puritan institutions and congregations).
 
 It is difficult in our
  [modern view](../modern-views/index.md)
@@ -346,10 +347,6 @@ Today, we are saturated with images which we pretend have lost all sacred value,
 
 If we look at today's overabundance of images, profane images such as pornography, or mundane political memes, and then examine how those images influence and shape our behavior, then it is clear that these images are as powerful and as sacred as images ever were in the ancient world, and that idolatry is as present as ever.
 The reformation iconoclasts have clearly not saved our modern world from image-based idolatry, quite the contrary.
-
-Today, while most iconoclastic protestants would never adorn their church with holy icons, they do not question a nativity scene in their own front yard during Christmas (good for them and may God bless them).
-Again, icons are inevitable.
-Should iconoclasts destroy nativity scenes?
 
 We ought never condone the destruction of images. It is reprehensible behavior.
 Venerating icons is the same as venerating scripture. That is, we ought to treat scripture as divinely revealed truth. Both icons and scripture are symbols pointing us to God, helping and guiding us towards Christ Jesus.
@@ -411,7 +408,7 @@ To dispel any iconoclast confusion, the word *icon* is used throughout scripture
 !!! quote "2 Corinthians 4:4"
     In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the **image of God**, should shine unto them.
 
-The person of Christ is literally the icon of God. And through Christ, through a baptismal death, are we renewed into the *image* of Christ.
+The person of Christ is literally the icon of God (the Word of God made flesh). And through Christ, through a baptismal death, are we renewed into the *image* of Christ.
 
 !!! quote "Colossians 3:9-10"
     Lie not one to another, seeing that ye have put off the old man with his deeds; 
@@ -460,9 +457,9 @@ If anyone is deserving of honor (veneration), it is the mother of the God-man Ch
 Let's examine some of the iconoclastic reactions to icons of Mary:
 
 ???+ example "Reaction to Immaculate Conception"
-    Roman Catholicism (papal protestantism) insists that Mary was born without original sin (the immaculate conception). This is due to a non-orthodox (and false) understanding of sin, a logical consequence to the Augustinian error of original sin as inherited guilt.
+    Roman Catholicism insists that Mary was born without original sin (the immaculate conception). This is due to the Augustinian understanding of sin, a logical consequence to the Augustinian view of original sin as inherited guilt.
     
-    The reformers were reacting to the many abuses and innovations from Rome, and thus rejected what they saw as "Mary worship", but interestingly they kept the Augustinian view that leads to immaculate conception (original sin as inherited guilt).
+    The reformers were reacting to the many abuses and innovations from Rome, and thus rejected what they saw as "Mary worship", but interestingly they kept the Augustinian view that inevitably leads to immaculate conception (original sin as inherited guilt).
     
     Iconoclasm became a way for the reformers to avoid the "immaculate conception" of Mary but still keep to Augustinian presuppositions, effectively by just ignoring Mary, icons and all.
 
@@ -473,10 +470,10 @@ Let's examine some of the iconoclastic reactions to icons of Mary:
      Obviously one should pray to Christ, but we should also pray for others (what are known as intercessory prayers) and ask others to pray for us. The reasons for intercessory prayers are many, and the protestant belief seems to be that only people living in the world can do intercessory prayers, and otherwise there's no living spirits who can intercede (which is a nihilistic view and should be rejected on those terms alone).
 
 Ultimately, Christ has a human and divine will, being both God and man -- and it is from Mary that Christ gets His humanity.
-The Orthodox view is that Mary is alive with her Son and is very much able to hear and respond to prayer requests.
+The traditional view is that Mary is alive with her Son and is very much able to hear and respond to prayer requests.
 Intercessions from Mary are a way to connect directly to Christ's humanity.
 
-As has been the tradition for two thousand years, we honor and respect icons of the Theotokos because she is the human mother of Christ. We ought never to destroy nor suppress such images.
+As has been the tradition for two thousand years, we honor and respect icons of the mother of God, the Theotokos, because she is the human mother of Christ. We ought never to destroy nor suppress such images.
 
 
 
@@ -527,7 +524,7 @@ Here are a few informative examples of icons of saints:
 
     In this icon we have the parable of the good Samaritan. The parable itself is depicted, not a named saint, although in Christ's telling of this parable he seemed to be referring to an actual event (of a man traveling from Jerusalem to Jericho).
 
-    Venerating this icon is to venerate the very words of Christ, as well as venerating the good Samaritan and appealing to the spirit of the good Samaritan for help and intercession.
+    Venerating this icon is to venerate the very words of Christ, as well as venerating the good Samaritan and appealing to the spirit of the good Samaritan for help and intercession (which is effectively a prayer to Christ, as all prayers are).
 
 
 

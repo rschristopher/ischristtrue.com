@@ -297,7 +297,7 @@ That same symbolism is in the Book of Revelation as the prophesied church escape
     And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child. And to the woman were given **two wings of a great eagle**, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent. And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood. And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth. And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.
 
 
-The true home of the church is the desert, the wilderness. And like the [desert fathers](https://earlychurchhistory.org/who-were-the-desert-fathers/) we are called by Christ -- whether that be in the apostolic church where we sell everything we own, or in a modern Laodicean church where we repent, or in the true church of the desert -- in all ages we are all called to follow Him.
+The true home of the church is the desert, the wilderness. And like the [desert fathers](https://earlychurchhistory.org/who-were-the-desert-fathers/) we are called by Christ -- whether that be in the apostolic church where we sell everything we own, or in a modern Laodicean church where we repent, or in the true church of the desert -- in all ages we are all called to repent, and to follow Him.
 
 
 
