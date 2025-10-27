@@ -71,7 +71,7 @@ The danger in the scholastic worldview (of which Aquinas exemplifies here) is th
 
 Our modern concept of a knowable good and evil is based entirely on the God of the Bible,
  where it is revealed that there is a universal good and evil,
- and that good and evil objectively knowable. 
+ and that good and evil are objectively knowable. 
 And sin (missing the mark, turning away from God) is the source of evil.
 In this view, evil has no substance, like darkness,
  it is merely the absence of light (absence of goodness).
