@@ -116,23 +116,48 @@ The Word (Logos) of God condescended down into His creation, and further down in
 These are the doctrines of Christ -- of the Logos incarnate -- His life, death, resurrection and ascension.
 This is the story of Truth, how we can know truth, and of our redemption and salvation from a fallen state.
 
-* [Annunciation](annunciation.md)
+* [1: Annunciation](1-annunciation.md)
 
-* [Nativity](nativity.md)
+* [2: Nativity](2-nativity.md)
 
-* [Baptism](baptism.md)
+* [3: Baptism](3-baptism.md)
 
-* [Temptations](temptations.md)
+* [4: Temptations](4-temptations.md)
 
-* [Ministry](ministry.md) (salvation)
+* [5: Early Ministry](5-early-ministry.md)
 
-* [Death on the Cross](cross.md) (coronation)
+* [6: Galilean Ministry](6-galilean-ministry.md)
 
-* [Harrowing of Hades](harrowing.md)
+* [7: Sermon on the Mount](7-sermon-on-the-mount.md)
 
-* [Resurrection](resurrection.md)
+* [8: Miracles and Mission](8-miracles-mission.md)
 
-* [Ascension](ascension.md)
+* [9: Transfiguration](9-transfiguration.md)
+
+* [10: Later Ministry](10-later-ministry.md)
+
+* [11: Triumphal Entry](11-triumphal-entry.md)
+
+* [12: Holy Week](12-holy-week.md)
+
+* [13: Crucifixion](13-crucifixion.md)
+
+* [14: Harrowing of Hades](14-harrowing.md)
+
+* [15: Resurrection](15-resurrection.md)
+
+* [16: Ascension](16-ascension.md)
+
+* [17: Dormition](17-dormition.md)
+
+* [18: Coronation](18-coronation.md)
+
+* [19: Church Age](19-church-age.md)
+
+* [20: Second Coming](20-second-coming.md)
+
+* [21: Final Judgment](21-final-judgment.md)
+
 
 
 
