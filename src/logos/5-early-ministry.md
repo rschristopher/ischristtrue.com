@@ -1,4 +1,4 @@
-# Early Ministry of Christ
+# Early Ministry
 
 
 ## Salvation
