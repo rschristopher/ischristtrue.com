@@ -116,6 +116,9 @@ The Word (Logos) of God condescended down into His creation, and further down in
 These are the doctrines of Christ -- of the Logos incarnate -- His life, death, resurrection and ascension.
 This is the story of Truth, how we can know truth, and of our redemption and salvation from a fallen state.
 
+
+### Kenosis
+
 * [1: Annunciation](1-annunciation.md)
 
 * [2: Nativity](2-nativity.md)
@@ -141,6 +144,10 @@ This is the story of Truth, how we can know truth, and of our redemption and sal
 * [12: Holy Week](12-holy-week.md)
 
 * [13: Crucifixion](13-crucifixion.md)
+
+
+
+### Exaltation 
 
 * [14: Harrowing of Hades](14-harrowing.md)
 
