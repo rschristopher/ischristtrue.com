@@ -84,27 +84,29 @@ nav:
         - Tradition: ancient-views/tradition.md
     - Logos:
         - logos/index.md
-        - "1: Annunciation": logos/1-annunciation.md
-        - "2: Nativity": logos/2-nativity.md
-        - "3: Baptism": logos/3-baptism.md
-        - "4: Temptations": logos/4-temptations.md
-        - "5: Early Ministry": logos/5-early-ministry.md
-        - "6: Galilean Ministry": logos/6-galilean-ministry.md
-        - "7: Sermon on the Mount": logos/7-sermon-on-the-mount.md
-        - "8: Miracles and Mission": logos/8-miracles-mission.md
-        - "9: Transfiguration": logos/9-transfiguration.md
-        - "10: Later Ministry": logos/10-later-ministry.md
-        - "11: Triumphal Entry": logos/11-triumphal-entry.md
-        - "12: Holy Week": logos/12-holy-week.md
-        - "13: Crucifixion": logos/13-crucifixion.md
-        - "14: Harrowing of Hades": logos/14-harrowing.md
-        - "15: Resurrection": logos/15-resurrection.md
-        - "16: Ascension": logos/16-ascension.md
-        - "17: Dormition": logos/17-dormition.md
-        - "18: Coronation": logos/18-coronation.md
-        - "19: Church Age": logos/19-church-age.md
-        - "20: Second Coming": logos/20-second-coming.md
-        - "21: Final Judgment": logos/21-final-judgment.md
+        - Kenosis:
+          - "1: Annunciation": logos/1-annunciation.md
+          - "2: Nativity": logos/2-nativity.md
+          - "3: Baptism": logos/3-baptism.md
+          - "4: Temptations": logos/4-temptations.md
+          - "5: Early Ministry": logos/5-early-ministry.md
+          - "6: Galilean Ministry": logos/6-galilean-ministry.md
+          - "7: Sermon on the Mount": logos/7-sermon-on-the-mount.md
+          - "8: Miracles and Mission": logos/8-miracles-mission.md
+          - "9: Transfiguration": logos/9-transfiguration.md
+          - "10: Later Ministry": logos/10-later-ministry.md
+          - "11: Triumphal Entry": logos/11-triumphal-entry.md
+          - "12: Holy Week": logos/12-holy-week.md
+          - "13: Crucifixion": logos/13-crucifixion.md
+        - Exultation:
+          - "14: Harrowing of Hades": logos/14-harrowing.md
+          - "15: Resurrection": logos/15-resurrection.md
+          - "16: Ascension": logos/16-ascension.md
+          - "17: Dormition": logos/17-dormition.md
+          - "18: Coronation": logos/18-coronation.md
+          - "19: Church Age": logos/19-church-age.md
+          - "20: Second Coming": logos/20-second-coming.md
+          - "21: Final Judgment": logos/21-final-judgment.md
     - References: 
         - references/index.md
 
