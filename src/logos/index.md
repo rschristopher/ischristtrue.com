@@ -145,11 +145,11 @@ This is the story of Truth, how we can know truth, and of our redemption and sal
 
 * [13: Crucifixion](13-crucifixion.md)
 
+* [14: Harrowing of Hades](14-harrowing.md)
+
 
 
 ### Exaltation 
-
-* [14: Harrowing of Hades](14-harrowing.md)
 
 * [15: Resurrection](15-resurrection.md)
 

@@ -1,4 +1,4 @@
-# Nativity
+# Nativity of Christ
 
 ... a decree from Caesar Augustus that all the world should be taxed.
 And Joseph traveled with Mary who was 9-months pregnant from Nazareth in Galilee out to Bethlehem, the city of David.

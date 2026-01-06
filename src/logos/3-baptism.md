@@ -1,4 +1,4 @@
-# Baptism
+# Baptism of Christ
 
 one baptism for the remission of sins
 
@@ -29,6 +29,20 @@ Jesus was baptized
     Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him. But John forbad him, saying, I have need to be baptized of thee, and comest thou to me? And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him. 
     
     And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him: And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
+
+
+Christ had no sin needing to be cleansed.
+Christ submits with humility to be baptized, and simultaneously carries all of humanity with him in those waters -- his baptism (like his death) was not for His sake, but for ours.
+
+The heavens opened to proclaim and bear witness that Jesus is the Messiah as the Son of God.
+And the Baptist himself proclaimed that Jesus is the Messiah as a man:
+
+!!! quote "John 1:32-34"
+    And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him. And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost. And I saw, and bare record that this is the Son of God.
+
+This dual testimony, from the Father in heaven and from John the Baptist, bears witness to Jesus as both fully God and fully man.
+
+
 
 
 
