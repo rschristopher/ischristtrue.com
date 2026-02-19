@@ -12,6 +12,7 @@ Have mercy on me, a sinner
 -->
 
 The prophesied *antichrist* -- both a person and a spirit -- is best understood in light of Christ’s decisive victory over the demons, principalities, and powers (the fallen angels). 
+The term "antichrist" derives from the Greek "anti," which can mean "instead of" or "in front of / before," rather than merely "opposite." Thus, the antichrist represents a substitute or counterfeit Christ, one who positions himself in place of or before the true Messiah.
 Through His life, death, and resurrection, Christ bound the "strong man" (Satan), stripping him of his authority and establishing the Kingdom of God on earth. 
 Yet, in the midst of Christ’s reign, the devil, though defeated, persists as a foil to the divine order, sowing the spirit of *antichrist* as his desperate countermove.
 
@@ -82,7 +83,7 @@ Jesus warned of deceivers who would lead many astray.
 !!! quote "Matthew 24:24"
     For there shall arise false Christs, and false prophets, and shall show great signs and wonders; insomuch that, if it were possible, they shall deceive the very elect.
 
-The antichrist is the antithesis of Christ -- an imitation that inverts truth itself. 
+The antichrist, understood through the etymology of "anti" as "instead of" or "in front of / before," serves as a false substitute for Christ -- an imitation that inverts truth itself. 
 Where Christ submits wholly to the Father and offers eternal life, the antichrist exalts himself, peddling lies of a worldly kingdom that leads only to death. 
 This spirit manifests in globalist ideologies, from ancient empires to modern transhumanism, where elites seek godhood through their own power.
 
@@ -106,6 +107,15 @@ The final antichrist -- the “man of sin” -- will rise not from heaven but fr
 This figure will embody the ultimate rebellion against God, cloaked in counterfeit signs and wonders. 
 Yet, discernment is possible through the lens of Christ’s truth.
 
+To discern Christ from the antichrist, Scripture provides clear guidance. The Apostle John instructs believers to test the spirits:
+
+!!! quote "1 John 4:1-3"
+    Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world. By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God, and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you heard was coming and now is in the world already.
+
+This test emphasizes the Incarnation: the antichrist spirit denies that Jesus is the Christ come in the flesh, often promoting a distorted or humanistic version of spirituality that rejects divine truth.
+
+Furthermore, consider the parable of the lost sheep (Luke 15:3-7). Christ, the Good Shepherd, leaves the ninety-nine righteous sheep to seek and rescue the one lost sheep, bringing it back to the fold and rejoicing in its restoration. In contrast, the antichrist inverts this divine compassion: under the guise of tolerance and false mercy, he leads the entire flock astray to accommodate the lost sheep, compromising truth and leading all toward perdition rather than salvation.
+
 ???+ danger "[Is it possible to recognize the antichrist?](https://orthochristian.com/92434.html)"
     <center>![Christ and Antichrist](/images/christ-antichrist.jpg)</center>
 
@@ -113,7 +123,3 @@ For deeper insight, explore the [patristic understanding](https://orthochristian
 
 ???+ example "Luca Signorelli’s Preaching of the Antichrist"
     <center>![Antichrist](/images/antichrist.jpg)</center>
-
-
-
-
