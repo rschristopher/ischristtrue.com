@@ -11,13 +11,6 @@ Lord, guide me, reveal for me Truth and grant me wisdom and insight in order to 
 A *schism* is a split in a religious body.
 And in order to best understand [modern Christianity](christianity.md) it can be instructive to first understand the historic schisms.
 
-
-
-
-
-
-
-
 ---
 
 ## Brief History 
@@ -35,10 +28,10 @@ These heresies were often the impetus for ecumenical councils, which led to deep
 
 
 However, in AD 1054 the
- [great schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism)
+ [Great Schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism)
  split East and West Christendom.
 At that point, Christianity had remained a *relatively* unified worldview for over a thousand years.
-Perhaps unsurprisingly, the *great schism* fell roughly along the boundaries of the historic Eastern and Western Roman Empire.
+Perhaps unsurprisingly, the *Great Schism* fell roughly along the boundaries of the historic Eastern and Western Roman Empire.
 
 ### East and West
 As Christianity spread into the world, the Roman empire had been divided between East and West (first by [Diocletian](https://www.worldhistory.org/Diocletian/)), and later the empire was temporarily reunited by [Constantine](https://www.worldhistory.org/Constantine_I/) who converted to Christianity and moved the capital away from old Rome and into [Byzantium](https://www.worldhistory.org/Byzantium/) which would later be renamed [Constantinople](https://www.worldhistory.org/Constantinople/). 
@@ -49,6 +42,7 @@ Eastern Rome, also known as the [Byzantine Empire](https://www.worldhistory.org/
 
 ### The Great Schism
 In AD 962, Frankish and Germanic remnants of the long dead Western Roman Empire established the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and through political ambitions insisted on papal supremacy over all of Christendom. By AD 1054 the east and west [officially](https://www.britannica.com/event/East-West-Schism-1054) excommunicated each other (first Rome excommunicated the patriarch of Constantinople, then all four eastern patriarchs excommunicated Rome).
+Yet the first thousand years had already shown a real center of unity and appeal in Rome -- as when Irenaeus wrote that all churches must agree with the Roman church on account of its pre-eminent authority, or when the fathers at Chalcedon acclaimed that “Peter has spoken through Leo.”
 <center>![east-west-1054](/images/east-west-1054.jpg)</center>
 
 
@@ -65,16 +59,11 @@ In fact many of the early settlers into the north-American colonies were escapin
 This splintering of protestantism never ceased and continues now into our modern age. 
 There are now tens of thousands of different "Christian" sects.
 In fact, a modern protestant is likely to experience a schism even at their own local church, which are usually anchored only by a popular pastor.
-It's important to understand that this splintering is a continuation of the great schism of AD 1054 and feeds into the continuous destructive revolutions of our [modern worldview](index.md).
+It's important to understand that this splintering is a continuation of the Great Schism of AD 1054 and feeds into the continuous destructive revolutions of our [modern worldview](index.md).
 
 
 !!! info "Timeline of Major Schisms"
     <center>![timeline-church](/images/timeline-church.jpg)</center>
-
-
-
-
-
 
 
 
@@ -97,9 +86,6 @@ How does one find Truth in this chaos? How does one find the *one holy catholic 
 
 !!! quote "Matthew 16:18"
     And I also say to you that you are Peter, and on this rock I will build My church, and the gates of Hades shall not prevail against it.
-
-
-
 
 
 
@@ -130,16 +116,11 @@ We must seek the *one holy catholic and apostolic church*, and it is necessarily
 
 
 
-
-
-
-
-
 ### Catholicism
 
 The word *catholic* simply means *universal*, and note that the [creed](https://en.m.wikipedia.org/wiki/Nicene_Creed) refers to *one holy catholic and apostolic church*.
 
-Roman Catholicism refers specifically to the presumed universal authority of the former Holy Roman Empire which arose in AD 962, but wasn't referred to as such till centuries after the great schism in AD 1054, and also became known as the *Holy Roman Empire of the Germanic Nation*.
+Roman Catholicism refers specifically to the presumed universal authority of the former Holy Roman Empire which arose in AD 962, but wasn't referred to as such till centuries after the Great Schism in AD 1054, and also became known as the *Holy Roman Empire of the Germanic Nation*.
 
 Prior to this, there was no presumption of a supreme worldly Christian authority.
 The church was unified under Christ, guided by the Holy Spirit, not by a worldly empire, and certainly not by an empire that wouldn't arise till nearly a thousand years after Christ.
@@ -153,17 +134,20 @@ The historic grounds for Roman Catholicism as *the one holy catholic and apostol
     This agglomeration which was called and which still calls itself the Holy Roman Empire was neither holy, nor Roman, nor an empire.
 
 
+Yet the first thousand years already knew a real center of unity in Rome -- long before the Holy Roman Empire arose. In fact, prior to the Great Schism there was one holy catholic and apostolic church in both the East and the West.
+
 This was not always the case, prior to the great schism there was *one holy catholic and apostolic church* in both the East and the West.
 There is a thousand years of historical evidence, ecumenical councils, church fathers, and even pagan Roman history attesting to the persecution of these unified Christians.
 
-In fact, immediately after the great schism, most all Christians had no idea there even was a schism. Even afterwards, entire generations had no idea. And those that did know assumed it would be resolved as [prior schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) always were. 
+In fact, immediately after the Great Schism, most all Christians had no idea there even was a schism. Even afterwards, entire generations had no idea. And those that did know assumed it would be resolved as [prior schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) always were. 
 When you're focused on Christ, the specifics of a temporary schism motivated by worldly empires is not actually all that important. 
 
 Because of this, we must concede that despite questionable historicity, modern Catholicism has a strong claim to be the original church. In fact, necessarily both east and west were Christ's church in the first thousand years. Other than getting muddier over time, did east or west at some point cease being His church?
 
 Like in the parable of the prodigal son, there were two sons, the younger left to waste his inheritance. He was still his father's son even while he was lost (in schism from the Father). And importantly, the older son who did not leave, he was rebuked for questioning his father after the prodigal son returned. Ultimately, both sons were in error.
+The wound of division has lasted because of our sins, which only Christ can heal.
 
-Likewise, one or both sides of the great schism is necessarily in error. This is true of any schism. The only question; which side of the schism is the prodigal son, and which is the older brother? Or is it a little bit of both?
+Likewise, one or both sides of the Great Schism is necessarily in error. This is true of any schism. The only question; which side of the schism is the prodigal son, and which is the older brother? Or is it a little bit of both?
 
 While earlier schisms often resulted in a failed sect, like the many gnostic or Arian sects, Eastern and Western Christianity have both survived over a thousand years while in schism. They are both the remnants of long-lived empires, and both of those worldly empires have fallen. The gates of hell have not prevailed. It is perhaps wise to look at east and west as if they are both in error, and follow Christ obediently towards salvation.
 
@@ -176,7 +160,7 @@ If "you" decide to be Catholic or Orthodox or even protestant, you're choosing [
 
 And *your* beliefs are irrelevant to Truth, who is the person Christ Jesus.
 
-We ought to discern carefully here, and we should proceed cautiously. Our goal is to follow Christ and not antichrist.
+We ought to discern carefully here, and we should proceed cautiously. The Great Schism has persisted nearly a thousand years as the fruit of human sin, and only Christ can restore the visible unity He prayed for.
 
 If we can understand that both eastern and western Christendom *were* the *one holy catholic and apostolic church*, then we must ask:
 Are there heretical innovations that must be resolved in order to begin discussing unification between east and west?
@@ -188,11 +172,16 @@ The Orthodox answer, is yes, absolutely there are many heretical innovations fro
 * filioque -- why was it added? What specific heresy is this guarding against? And why did the east not fall into that heresy without the filioque? Why was it added the way it was added?
 * papal supremacy and infallibility -- it did not exist for most of church history. Was everyone in the early church wrong? What about the innovations of Vatican I, and Vatican II?
 
-From a Roman Catholic perspective, what would need to change about the Orthodox churches for them to unify? We can look at Eastern Catholics to get an idea. Not much changes, but they must grant authority to the pope.
-Unification according to Roman Catholicism is thus not about Christ, but about the authority of the pope.
+From a Roman Catholic perspective, what would need to change about the Orthodox churches for them to unify? We can look at Eastern Catholics to get an idea. Not much changes, but they must grant authority to the pope.  
+Unification according to Roman Catholicism is thus not about Christ, but about the **universal jurisdiction of the Roman Pontiff** (primacy of jurisdiction over the whole Church of God, both episcopal and immediate, as defined at Vatican I).
+
+Honesty also requires noting an asymmetry. The Catholic Church affirms that Eastern Orthodox churches possess valid apostolic succession and sacraments (see [Vatican II’s *Unitatis Redintegratio* §15](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)). The reverse is not always granted, even though the points of difference do not equate to the Christological errors (such as Arianism) that would invalidate orders. Post-schism autocephaly -- the model of fully independent churches without a common reference -- is a later development that the pre-schism Church Fathers would have rejected. As St. Cyprian wrote in the third century, if someone deserts the chair of Peter upon whom the Church was built, he cannot be confident that he is in the Church (see quote below). These are the questions a truth-seeker must weigh.
+
+!!! quote "St. Cyprian, On the Unity of the Church (c. 251)"
+    There is one God and one Christ, and one Church, and one chair founded on Peter by the word of the Lord. It is not possible to set up another altar or to constitute another priesthood besides that one altar and one priesthood. If someone does not hold fast to this unity of Peter, can he imagine that he still holds the faith? If he desert the chair of Peter upon whom the Church was built, can he still be confident that he is in the Church?
 
 Catholics claim that papal supremacy is from Peter.
-Would the apostle Peter agree with the Roman Catholic claim of supremacy and the infallibility of the pope's teaching as head of the church? 
+Would the apostle Peter agree with the Roman Catholic claim of supremacy and the infallibility of the Pope's teaching as head of the church? 
 Did not Paul once rebuke Peter on his official teaching? 
 Did not Christ himself rebuke Peter many times?
 
@@ -228,11 +217,6 @@ And yet, like the prodigal son, this is still Christ's church, even if that chur
 
 
 
-
-
-
-
-
 ### Orthodoxy
 
 When Orthodox churches fall out of communion with each other, it is not hidden nor quietly resolved by a "vicar of Christ".
@@ -243,7 +227,7 @@ The councils were started by Constantine himself, in the Eastern Roman Empire.
 These councils resulted in a deeper articulation of Christian faith.
 The schisms were ultimately a good and necessary feature of the church, the means to make public all differences that must be resolved before communion.
 
-However, after the great schism, while the west innovated, the east stagnated (at least by our modern secular worldview).
+However, after the Great Schism, while the west innovated, the east stagnated (at least by our modern secular worldview).
 For better or worse, the Eastern Orthodox Church has not changed much of anything since those days of *one holy catholic and apostolic church*.
 
 The goal of Orthodoxy is not vain unity, nor any kind of unity. 
@@ -274,32 +258,8 @@ We ought to return home, and furthermore we ought to be grateful and celebrate w
     
     And he arose, and came to his father. 
     
-    But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son. But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: And bring hither the fatted calf, and kill it; and let us eat, and be merry: For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry.
+    But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son. But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: And bring hither the fatted calf, and kill it; and let us eat, and be merry: For this my son was dead, and is alive again, he was lost, and is found. And they began to be merry.
 
-    Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing. And he called one of the servants, and asked what these things meant. And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound. And he was angry, and would not go in: therefore came his father out, and intreated him. And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends: But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.
+    Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing. And he called one of the servants, and asked what these meant. And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound. And he was angry, and would not go in: therefore came his father out, and intreated him. And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends: But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.
     
     And he said unto him, Son, thou art ever with me, and all that I have is thine. It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
