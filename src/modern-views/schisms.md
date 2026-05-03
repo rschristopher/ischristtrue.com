@@ -164,8 +164,7 @@ In the parable of the prodigal son, there were two sons, the younger left to was
     And he said unto him, Son, thou art ever with me, and all that I have is thine. It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.
 
 
-There is one very glaring change in the Eastern Orthodox church from the pre-schism church.
-The pre-schism was not autocephalous. This is a radical innovation from the early church.
+There is one very glaring change in the Eastern Orthodox church from the pre-schism church. The pre-schism was not autocephalous. This is a radical innovation which departs from the early church.
 
 The Catholic Church affirms that Eastern Orthodox churches possess valid apostolic succession and sacraments (see [Vatican II’s *Unitatis Redintegratio* §15](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)). The reverse is not always granted, even though the points of difference do not equate to the Christological errors (such as Arianism) that would invalidate orders. 
 
@@ -174,7 +173,7 @@ Post-schism autocephaly of Eastern Orthodox -- the model of fully independent ch
 !!! quote "St. Cyprian, On the Unity of the Church (c. 251)"
     There is one God and one Christ, and one Church, and one chair founded on Peter by the word of the Lord. It is not possible to set up another altar or to constitute another priesthood besides that one altar and one priesthood. If someone does not hold fast to this unity of Peter, can he imagine that he still holds the faith? If he desert the chair of Peter upon whom the Church was built, can he still be confident that he is in the Church.
 
-... the schism has lasted for a thousand years, and the gates of hell have not prevailed on either east nor west...
+It is a tragedy beyond measure, the Great Schism has lasted for a thousand years, and the gates of hell have not prevailed on either east nor west ..
 The wound of division has lasted because of our sins, which only Christ can heal.
 
 
@@ -233,8 +232,7 @@ The Orthodox answer, is yes, absolutely there are many heretical innovations fro
 * filioque -- why was it added? What specific heresy is this guarding against? And why did the east not fall into that heresy without the filioque? Why was it added the way it was added?
 * papal supremacy and infallibility -- it did not exist for most of church history. Was everyone in the early church wrong? What about the innovations of Vatican I, and Vatican II?
 
-From a Roman Catholic perspective, what would need to change about the Orthodox churches for them to unify? We can look at Eastern Catholics to get an idea. Not much changes, but they must grant authority to the pope.  
-Unification according to Roman Catholicism is thus not about Christ, but about the **universal jurisdiction of the Roman Pontiff** (primacy of jurisdiction over the whole Church of God, both episcopal and immediate, as defined at Vatican I).
+From a Roman Catholic perspective, what would need to change about the Orthodox churches for them to unify? We can look at Eastern Catholics to get an idea. Not much changes, but they must grant authority to the pope. Unification according to Roman Catholicism is thus not about Christ, but about the **universal jurisdiction of the Roman Pontiff** (primacy of jurisdiction over the whole Church of God, both episcopal and immediate, as defined at Vatican I).
 
 Catholics claim that papal supremacy is from Peter.
 Would the apostle Peter agree with the Roman Catholic claim of supremacy and the infallibility of the pope's teaching as head of the church? 
@@ -281,10 +279,10 @@ No. The Catholic Church teaches something more ancient and more careful.
 
 The official doctrine, defined at the First Vatican Council (*Pastor Aeternus*, 1870) and rooted in the first millennium, is that the Roman Pontiff possesses a **primacy of jurisdiction** over the whole Church of God -- not as a worldly monarch, but as the visible center of unity and the servant of the servants of God. This jurisdiction is **episcopal and immediate**, meaning it can be exercised directly for the good of the whole flock, yet it does not abolish the ordinary jurisdiction of bishops in their own dioceses.
 
-Pope Gregory the Great was right to condemn a "universal bishop" as the headship of the entire church. The head of the Church is Christ, exactly as the Apostle Paul wrote:
+Pope Gregory the Great was right to condemn a "universal bishop" as the headship of the entire church. The head of the Church is Christ, exactly as the Catholic Church teaches:
 
-!!! quote "Colossians 1:18"
-    And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.
+!!! quote "Catechism of the Catholic Church (CCC 792)"
+    Christ is the Head of the Church.
 
 The **primacy of jurisdiction** is not a later invention. It is the development of what was already witnessed in the first thousand years.
 
