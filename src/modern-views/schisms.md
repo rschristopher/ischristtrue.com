@@ -173,8 +173,7 @@ Post-schism autocephaly of Eastern Orthodox -- the model of fully independent ch
 !!! quote "St. Cyprian, On the Unity of the Church (c. 251)"
     There is one God and one Christ, and one Church, and one chair founded on Peter by the word of the Lord. It is not possible to set up another altar or to constitute another priesthood besides that one altar and one priesthood. If someone does not hold fast to this unity of Peter, can he imagine that he still holds the faith? If he desert the chair of Peter upon whom the Church was built, can he still be confident that he is in the Church.
 
-It is a tragedy beyond measure, the Great Schism has lasted for a thousand years, and the gates of hell have not prevailed on either east nor west ..
-The wound of division has lasted because of our sins, which only Christ can heal.
+It is a tragedy beyond measure, the Great Schism has lasted for a thousand years, and the gates of hell have not prevailed on either east nor west. And the wound of division has lasted because of our sins, which only Christ can heal.
 
 
 
@@ -296,4 +295,4 @@ These were not acts of mere honor. They were the exercise of real, recognized au
 
 The Catholic Church also teaches that the Eastern Orthodox Churches possess valid apostolic succession and true sacraments (see Vatican II, *Unitatis Redintegratio* §15). The schism is real, but it has not destroyed the sacramental life Christ gave to His Church.
 
-We must also acknowledge that the Church has always been under attack -- not only from outside, but from within. Demonic powers and the spirit of antichrist have sought to undermine the visible unity Christ willed, through pride, division, and distortion of the truth in every age. The gates of hell have not prevailed, but the battle continues.
+The Church has always been under attack -- not only from outside, but from within. Demonic powers and the spirit of antichrist have sought to undermine the visible unity Christ willed, through pride, division, and distortion of the truth in every age. And yet, the gates of hell have not prevailed, and will not prevail.
