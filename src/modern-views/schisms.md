@@ -75,7 +75,7 @@ It's important to understand that this splintering is a continuation of the Grea
 
 In the midst of these continuous schisms, when someone says they are a Christian, what does that even mean?
 
-As atheists are want to point out, it is as if the so-called "Christians" are arbitrarily picking and choosing passages from scriptures that adhere to their 
+As atheists are wont to point out, it is as if the so-called "Christians" are arbitrarily picking and choosing passages from scriptures that adhere to their 
  [modern](index.md) secular worldview.
 In other words, is it Christ or antichrist that we are following?
 
