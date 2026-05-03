@@ -139,7 +139,7 @@ Is it that they became "stuck" in the past?
 Why was there not a protestant reformation in the East?
 Protestantism and its continuous disintegration into different sects certainly seems to be the fruits of the scholastic innovations in Roman Catholicism, fruits that were not seen in Eastern Orthodoxy.
 
-Lastly, if the goal is to commune with Christ, to come closer to Christ through His church, then why innovate? 
+And if the goal is to commune with Christ, to come closer to Christ through His church, then why innovate? 
 Would not the apostolic tradition be paramount above all else? Why change? 
 
 And if there was necessary change, is that not a tacit admission that everyone who came before, every saint (even western saints) within the *one holy catholic and apostolic church* was wrong or naive? And wouldn't this necessarily include Peter?
@@ -166,7 +166,7 @@ In the parable of the prodigal son, there were two sons, the younger left to was
 
 There is one very glaring change in the Eastern Orthodox church from the pre-schism church. The pre-schism was not autocephalous. This is a radical innovation which departs from the early church.
 
-The Catholic Church affirms that Eastern Orthodox churches possess valid apostolic succession and sacraments (see [Vatican II’s *Unitatis Redintegratio* §15](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)). The reverse is not always granted, even though the points of difference do not equate to the Christological errors (such as Arianism) that would invalidate orders. 
+The Catholic Church affirms that Eastern Orthodox churches possess valid apostolic succession and sacraments (see [Vatican II’s *Unitatis Redintegratio* §15](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)). The reverse is not affirmed, Eastern Orthodox do not consider Catholic sacraments as valid, even though the points of difference do not equate to the kind of Christological errors (such as Arianism) that would invalidate orders. The accusation that Rome "innovated" must be anakyzed carefully and that standard held universally.
 
 Post-schism autocephaly of Eastern Orthodox -- the model of fully independent churches without a common reference -- is a later development that the pre-schism Church Fathers would have rejected. As St. Cyprian wrote in the third century, if someone deserts the chair of Peter upon whom the Church was built, he cannot be confident that he is in the Church.
 
@@ -182,14 +182,14 @@ It is a tragedy beyond measure, the Great Schism has lasted for a thousand years
 
 The word *catholic* simply means *universal*, and note that the [creed](https://en.m.wikipedia.org/wiki/Nicene_Creed) refers to *one holy catholic and apostolic church*.
 
-Roman Catholicism refers specifically to the presumed universal authority of the former Holy Roman Empire which arose in AD 962, but wasn't referred to as such till centuries after the Great Schism in AD 1054, and also became known as the *Holy Roman Empire of the Germanic Nation*.
+Roman Catholicism often refers to the presumed universal authority of the former Holy Roman Empire which arose in AD 962, but wasn't referred to as such till centuries after the Great Schism in AD 1054, and also became known as the *Holy Roman Empire of the Germanic Nation*.
 
 Prior to this, there was no presumption of a supreme worldly Christian authority.
 The church was unified under Christ, guided by the Holy Spirit, not by a worldly empire, and certainly not by an empire that wouldn't arise till nearly a thousand years after Christ.
 
 Despite the name, the Holy Roman Empire was **not** the continuation of the old Roman Empire, nor even the Western Roman Empire which had fallen in AD 476.
 The Eastern Roman Empire, the Byzantine Empire, survived till AD 1453 (making it the longest living empire in the known history of the world).
-The historic grounds for Roman Catholicism as *the one holy catholic and apostolic church* is tenuous at best.
+The historic grounds for Roman Catholicism as *the one holy catholic and apostolic church* is tenuous in this light.
 
 
 !!! quote "Voltaire"
@@ -219,7 +219,7 @@ If "you" decide to be Catholic or Orthodox or even protestant, you're choosing [
 
 And *your* beliefs are irrelevant to Truth, who is the person Christ Jesus.
 
-We ought to discern carefully here, and we should proceed cautiously. The Great Schism has persisted nearly a thousand years as the fruit of human sin, and only Christ can restore the visible unity He prayed for.
+We ought to discern carefully here, and we should proceed cautiously. The Great Schism has persisted nearly a thousand years as the fruit of human sin, and only Christ can abd will restore the visible unity He prayed for.
 
 If we can understand that both eastern and western Christendom *were* the *one holy catholic and apostolic church*, then we must ask:
 Are there heretical innovations that must be resolved in order to begin discussing unification between east and west?
@@ -258,7 +258,7 @@ And, most fascinating and perhaps with great prescience, the greatest rebuke to 
 No man except the God-man is infallible.
 But even if we grant the claim of papal infallibility (when the Roman Pontiff speaks *ex cathedra*), why would that come in [AD 1870](https://en.m.wikipedia.org/wiki/Papal_infallibility)? Why is the successor to Peter only infallible in modern times and only in Rome?
 
-Peter also founded the church in Antioch, which is an Orthodox Church. 
+Peter also founded the church in Antioch, which is an Eastern Orthodox Church. 
 Is Peter's successor in Antioch also infallible?
 If infallibility was due to the importance of Rome then wouldn't infallibility have been granted to Constantinople?
 Old Rome had fallen during that first thousand years of the *one holy catholic and apostolic church*.
@@ -267,14 +267,14 @@ Importantly, these are the concerns of men -- the very reason Christ rebuked Pet
 Very obviously there was no infallible "vicar of Christ" in the *one holy catholic and apostolic church* (otherwise there would have been no need for ecumenical councils), and it is very clear that these are innovations and deviations from tradition.
 And yet, like the prodigal son, this is still Christ's church, even if that church is wasting its inheritance while in schism.
 
-Yet even Pope Gregory the Great -- one of the greatest and most respected popes in history -- rejected the very idea of a “universal bishop.” In letters written between 595 and 604, he called the title a proud and dangerous innovation that would destroy the true unity of the Church and prepare the way for the Antichrist.
+And even Pope Gregory the Great -- one of the greatest and most respected popes in history -- rejected the very idea of a “universal bishop.” In letters written between 595 and 604, he called the title a proud and dangerous innovation that would destroy the true unity of the Church and prepare the way for the Aatichrist.
 
 !!! quote "Pope Gregory the Great (letters to Patriarch John IV and Emperor Maurice, 595–604)"
-    I say it confidently, because whoever calls himself “universal bishop” or desires to be so called, is in his pride the forerunner of the Antichrist... For if one is universal, it follows that you are not a bishop.
+    I say it confidently, because whoever calls himself “universal bishop” or desires to be so called, is in his pride the forerunner of the antichrist... For if one is universal, it follows that you are not a bishop.
 
-**Is this the official position of the Catholic Church?**
+**What exactly is thr official position of the Catholic Church?**
 
-No. The Catholic Church teaches something more ancient and more careful.
+The Catholic Church teaches something more ancient and more careful.
 
 The official doctrine, defined at the First Vatican Council (*Pastor Aeternus*, 1870) and rooted in the first millennium, is that the Roman Pontiff possesses a **primacy of jurisdiction** over the whole Church of God -- not as a worldly monarch, but as the visible center of unity and the servant of the servants of God. This jurisdiction is **episcopal and immediate**, meaning it can be exercised directly for the good of the whole flock, yet it does not abolish the ordinary jurisdiction of bishops in their own dioceses.
 
@@ -289,10 +289,15 @@ Pope Victor I (c. 189--199) excommunicated the churches of Asia Minor over the d
 
 Pope Leo I the Great (440--461) saw his *Tome to Flavian* accepted by the Council of Chalcedon (451) as the orthodox definition of Christ’s two natures, with the fathers acclaiming “Peter has spoken through Leo.” Leo later annulled Canon 28 of Chalcedon, which attempted to elevate Constantinople -- a clear act of jurisdictional authority over an ecumenical council.
 
-Pope Gregory the Great himself (590--604) sent St. Augustine of Canterbury to convert England and placed the new English Church under Roman authority. He intervened in the Frankish Church, corrected bishops, and defended the rights of the Roman See against Constantinople’s claims. He wrote: “The care of the whole Church has been committed to me, though unworthy, in the place of Peter, the prince of the apostles.” He also referred to the Roman Church as having the “principatus” (primacy) and the duty to care for the universal Church.
+Pope Gregory the Great himself (590--604) sent St. Augustine of Canterbury to convert England and placed the new English Church under Roman authority. He intervened in the Frankish Church, corrected bishops, and defended the rights of the Roman See against Constantinople’s claims.
+
+!!! quote "Pope Gregory the Great"
+    The care of the whole Church has been committed to me, though unworthy, in the place of Peter, the prince of the apostles.
+
+Pope Gregpry the Great also referred to the Roman Church as having the “principatus” (primacy) and the duty to care for the universal Church.
 
 These were not acts of mere honor. They were the exercise of real, recognized authority for the unity of the Church.
 
 The Catholic Church also teaches that the Eastern Orthodox Churches possess valid apostolic succession and true sacraments (see Vatican II, *Unitatis Redintegratio* §15). The schism is real, but it has not destroyed the sacramental life Christ gave to His Church.
 
-The Church has always been under attack -- not only from outside, but from within. Demonic powers and the spirit of antichrist have sought to undermine the visible unity Christ willed, through pride, division, and distortion of the truth in every age. And yet, the gates of hell have not prevailed, and will not prevail.
+Ultimately, the wounds of the schism are manifest in our worldly ambitions. The Church has always been under attack -- not only from outside, but from within. Demonic powers and the spirit of antichrist have sought to undermine the visible unity Christ willed, through pride, division, and distortion of Truth in every age. And yet, the gates of hell have not prevailed, and will not prevail.
