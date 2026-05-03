@@ -42,7 +42,7 @@ Eastern Rome, also known as the [Byzantine Empire](https://www.worldhistory.org/
 
 ### The Great Schism
 In AD 962, Frankish and Germanic remnants of the long dead Western Roman Empire established the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and through political ambitions insisted on papal supremacy over all of Christendom. By AD 1054 the east and west [officially](https://www.britannica.com/event/East-West-Schism-1054) excommunicated each other (first Rome excommunicated the patriarch of Constantinople, then all four eastern patriarchs excommunicated Rome).
-Yet the first thousand years had already shown a real center of unity and appeal in Rome -- as when Irenaeus wrote that all churches must agree with the Roman church on account of its pre-eminent authority, or when the fathers at Chalcedon acclaimed that “Peter has spoken through Leo.”
+Yet the first thousand years had already shown a real center of unity in Rome -- as when Irenaeus wrote that all churches must agree with the Roman church on account of its pre-eminent authority, or when the fathers at Chalcedon acclaimed that “Peter has spoken through Leo.”
 <center>![east-west-1054](/images/east-west-1054.jpg)</center>
 
 
@@ -208,8 +208,6 @@ Likewise, one or both sides of the Great Schism is necessarily in error. This is
 
 While earlier schisms often resulted in a failed sect, like the many gnostic or Arian sects, Eastern and Western Christianity have both survived over a thousand years while in schism. They are both the remnants of long-lived empires, and both of those worldly empires have fallen. The gates of hell have not prevailed. It is perhaps wise to look at east and west as if they are both in error, and follow Christ obediently towards salvation.
 
-Yet the first thousand years already knew a real center of unity in Rome -- long before the Holy Roman Empire arose. In fact, prior to the Great Schism there was one holy catholic and apostolic church in both the East and the West.
-
 Importantly, we as Christians cannot judge His church; Truth is not decided by our judgement, but on His revelation and His judgment.
 If "you" decide to be Catholic or Orthodox or even protestant, you're choosing [nihilism](nihilism.md) and not Christ. 
 
@@ -219,7 +217,7 @@ If "you" decide to be Catholic or Orthodox or even protestant, you're choosing [
 
 And *your* beliefs are irrelevant to Truth, who is the person Christ Jesus.
 
-We ought to discern carefully here, and we should proceed cautiously. The Great Schism has persisted nearly a thousand years as the fruit of human sin, and only Christ can abd will restore the visible unity He prayed for.
+We ought to discern carefully here, and we should proceed cautiously. The Great Schism has persisted nearly a thousand years as the fruit of human sin, and only Christ can and will restore the visible unity He prayed for.
 
 If we can understand that both eastern and western Christendom *were* the *one holy catholic and apostolic church*, then we must ask:
 Are there heretical innovations that must be resolved in order to begin discussing unification between east and west?
