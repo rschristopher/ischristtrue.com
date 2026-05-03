@@ -116,6 +116,70 @@ We must seek the *one holy catholic and apostolic church*, and it is necessarily
 
 
 
+
+### Orthodoxy
+
+When Orthodox churches fall out of communion with each other, it is not hidden nor quietly resolved by a "vicar of Christ".
+Unification requires the two sides settle their difference as guided by the Holy Spirit.
+Traditionally, this was done at ecumenical councils, but there has not been such a council in over a thousand years.
+
+The councils were started by Constantine himself, in the Eastern Roman Empire.
+These councils resulted in a deeper articulation of Christian faith.
+The schisms were ultimately a good and necessary feature of the church, the means to make public all differences that must be resolved before communion.
+
+However, after the Great Schism, while the west innovated, the east stagnated (at least by our modern secular worldview).
+For better or worse, the Eastern Orthodox Church has not changed much of its liturgy since those days of *one holy catholic and apostolic church*.
+
+The goal of Orthodoxy is not vain unity, nor any kind of unity. 
+The goal of Orthodoxy is Christ. 
+Ultimately, Christ is the spirit of Truth, and He does not hide in darkness nor deceit.
+If the Catholics are right, then the East is merely in schism -- but what did the east do?
+Is it that they became "stuck" in the past?
+
+Why was there not a protestant reformation in the East?
+Protestantism and its continuous disintegration into different sects certainly seems to be the fruits of the scholastic innovations in Roman Catholicism, fruits that were not seen in Eastern Orthodoxy.
+
+Lastly, if the goal is to commune with Christ, to come closer to Christ through His church, then why innovate? 
+Would not the apostolic tradition be paramount above all else? Why change? 
+
+And if there was necessary change, is that not a tacit admission that everyone who came before, every saint (even western saints) within the *one holy catholic and apostolic church* was wrong or naive? And wouldn't this necessarily include Peter?
+
+Most important, what heresy is being done by Eastern Orthodoxy? How are they wrong today yet were right in the first thousand years of church history?
+
+All things considered, many in the East have concluded that Rome is in heresy, in schism from Christ's Church, and Eastern Orthodoxy is waiting patiently, "stuck" in the past as it were, waiting and waiting and waiting for the prodigal son of Rome and its protestant offspring to return to the Father. 
+
+As Christians we ought to follow Christ, who taught us the story of the prodigal son, and we ought to identify ourselves and our church with the prodigal son *and* also with the older brother. We ought to return home, and furthermore we ought to be grateful and celebrate when the prodigal son returns home to the Father.
+
+In the parable of the prodigal son, there were two sons, the younger left to waste his inheritance. He was still his father's son even while he was lost (in schism from the Father). And importantly, the older son who did not leave, he was rebuked for questioning his father after the prodigal son returned. Ultimately, both sons were in error.
+
+??? quote "Luke 15:11-24"
+    And he said, A certain man had two sons: And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living. And when he had spent all, there arose a mighty famine in that land; and he began to be in want. And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine. And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him. And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger! I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee, And am no more worthy to be called thy son: make me as one of thy hired servants. 
+    
+    And he arose, and came to his father. 
+    
+    But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son. But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: And bring hither the fatted calf, and kill it; and let us eat, and be merry: For this my son was dead, and is alive again, he was lost, and is found. And they began to be merry.
+
+    Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing. And he called one of the servants, and asked what these meant. And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound. And he was angry, and would not go in: therefore came his father out, and intreated him. And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends: But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.
+    
+    And he said unto him, Son, thou art ever with me, and all that I have is thine. It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.
+
+
+There is one very glaring change in the Eastern Orthodox church from the pre-schism church.
+The pre-schism was not autocephalous. This is a radical innovation from the early church.
+
+The Catholic Church affirms that Eastern Orthodox churches possess valid apostolic succession and sacraments (see [Vatican II’s *Unitatis Redintegratio* §15](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)). The reverse is not always granted, even though the points of difference do not equate to the Christological errors (such as Arianism) that would invalidate orders. 
+
+Post-schism autocephaly of Eastern Orthodox -- the model of fully independent churches without a common reference -- is a later development that the pre-schism Church Fathers would have rejected. As St. Cyprian wrote in the third century, if someone deserts the chair of Peter upon whom the Church was built, he cannot be confident that he is in the Church.
+
+!!! quote "St. Cyprian, On the Unity of the Church (c. 251)"
+    There is one God and one Christ, and one Church, and one chair founded on Peter by the word of the Lord. It is not possible to set up another altar or to constitute another priesthood besides that one altar and one priesthood. If someone does not hold fast to this unity of Peter, can he imagine that he still holds the faith? If he desert the chair of Peter upon whom the Church was built, can he still be confident that he is in the Church.
+
+... the schism has lasted for a thousand years, and the gates of hell have not prevailed on either east nor west...
+The wound of division has lasted because of our sins, which only Christ can heal.
+
+
+
+
 ### Catholicism
 
 The word *catholic* simply means *universal*, and note that the [creed](https://en.m.wikipedia.org/wiki/Nicene_Creed) refers to *one holy catholic and apostolic church*.
@@ -134,8 +198,6 @@ The historic grounds for Roman Catholicism as *the one holy catholic and apostol
     This agglomeration which was called and which still calls itself the Holy Roman Empire was neither holy, nor Roman, nor an empire.
 
 
-Yet the first thousand years already knew a real center of unity in Rome -- long before the Holy Roman Empire arose. In fact, prior to the Great Schism there was one holy catholic and apostolic church in both the East and the West.
-
 This was not always the case, prior to the great schism there was *one holy catholic and apostolic church* in both the East and the West.
 There is a thousand years of historical evidence, ecumenical councils, church fathers, and even pagan Roman history attesting to the persecution of these unified Christians.
 
@@ -144,12 +206,11 @@ When you're focused on Christ, the specifics of a temporary schism motivated by 
 
 Because of this, we must concede that despite questionable historicity, modern Catholicism has a strong claim to be the original church. In fact, necessarily both east and west were Christ's church in the first thousand years. Other than getting muddier over time, did east or west at some point cease being His church?
 
-Like in the parable of the prodigal son, there were two sons, the younger left to waste his inheritance. He was still his father's son even while he was lost (in schism from the Father). And importantly, the older son who did not leave, he was rebuked for questioning his father after the prodigal son returned. Ultimately, both sons were in error.
-The wound of division has lasted because of our sins, which only Christ can heal.
-
 Likewise, one or both sides of the Great Schism is necessarily in error. This is true of any schism. The only question; which side of the schism is the prodigal son, and which is the older brother? Or is it a little bit of both?
 
 While earlier schisms often resulted in a failed sect, like the many gnostic or Arian sects, Eastern and Western Christianity have both survived over a thousand years while in schism. They are both the remnants of long-lived empires, and both of those worldly empires have fallen. The gates of hell have not prevailed. It is perhaps wise to look at east and west as if they are both in error, and follow Christ obediently towards salvation.
+
+Yet the first thousand years already knew a real center of unity in Rome -- long before the Holy Roman Empire arose. In fact, prior to the Great Schism there was one holy catholic and apostolic church in both the East and the West.
 
 Importantly, we as Christians cannot judge His church; Truth is not decided by our judgement, but on His revelation and His judgment.
 If "you" decide to be Catholic or Orthodox or even protestant, you're choosing [nihilism](nihilism.md) and not Christ. 
@@ -175,13 +236,8 @@ The Orthodox answer, is yes, absolutely there are many heretical innovations fro
 From a Roman Catholic perspective, what would need to change about the Orthodox churches for them to unify? We can look at Eastern Catholics to get an idea. Not much changes, but they must grant authority to the pope.  
 Unification according to Roman Catholicism is thus not about Christ, but about the **universal jurisdiction of the Roman Pontiff** (primacy of jurisdiction over the whole Church of God, both episcopal and immediate, as defined at Vatican I).
 
-Honesty also requires noting an asymmetry. The Catholic Church affirms that Eastern Orthodox churches possess valid apostolic succession and sacraments (see [Vatican II’s *Unitatis Redintegratio* §15](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)). The reverse is not always granted, even though the points of difference do not equate to the Christological errors (such as Arianism) that would invalidate orders. Post-schism autocephaly -- the model of fully independent churches without a common reference -- is a later development that the pre-schism Church Fathers would have rejected. As St. Cyprian wrote in the third century, if someone deserts the chair of Peter upon whom the Church was built, he cannot be confident that he is in the Church (see quote below). These are the questions a truth-seeker must weigh.
-
-!!! quote "St. Cyprian, On the Unity of the Church (c. 251)"
-    There is one God and one Christ, and one Church, and one chair founded on Peter by the word of the Lord. It is not possible to set up another altar or to constitute another priesthood besides that one altar and one priesthood. If someone does not hold fast to this unity of Peter, can he imagine that he still holds the faith? If he desert the chair of Peter upon whom the Church was built, can he still be confident that he is in the Church?
-
 Catholics claim that papal supremacy is from Peter.
-Would the apostle Peter agree with the Roman Catholic claim of supremacy and the infallibility of the Pope's teaching as head of the church? 
+Would the apostle Peter agree with the Roman Catholic claim of supremacy and the infallibility of the pope's teaching as head of the church? 
 Did not Paul once rebuke Peter on his official teaching? 
 Did not Christ himself rebuke Peter many times?
 
@@ -214,52 +270,32 @@ Importantly, these are the concerns of men -- the very reason Christ rebuked Pet
 Very obviously there was no infallible "vicar of Christ" in the *one holy catholic and apostolic church* (otherwise there would have been no need for ecumenical councils), and it is very clear that these are innovations and deviations from tradition.
 And yet, like the prodigal son, this is still Christ's church, even if that church is wasting its inheritance while in schism.
 
+Yet even Pope Gregory the Great -- one of the greatest and most respected popes in history -- rejected the very idea of a “universal bishop.” In letters written between 595 and 604, he called the title a proud and dangerous innovation that would destroy the true unity of the Church and prepare the way for the Antichrist.
 
+!!! quote "Pope Gregory the Great (letters to Patriarch John IV and Emperor Maurice, 595–604)"
+    I say it confidently, because whoever calls himself “universal bishop” or desires to be so called, is in his pride the forerunner of the Antichrist... For if one is universal, it follows that you are not a bishop.
 
+**Is this the official position of the Catholic Church?**
 
-### Orthodoxy
+No. The Catholic Church teaches something more ancient and more careful.
 
-When Orthodox churches fall out of communion with each other, it is not hidden nor quietly resolved by a "vicar of Christ".
-Unification requires the two sides settle their difference as guided by the Holy Spirit.
-Traditionally, this was done at ecumenical councils, but there has not been such a council in over a thousand years.
+The official doctrine, defined at the First Vatican Council (*Pastor Aeternus*, 1870) and rooted in the first millennium, is that the Roman Pontiff possesses a **primacy of jurisdiction** over the whole Church of God -- not as a worldly monarch, but as the visible center of unity and the servant of the servants of God. This jurisdiction is **episcopal and immediate**, meaning it can be exercised directly for the good of the whole flock, yet it does not abolish the ordinary jurisdiction of bishops in their own dioceses.
 
-The councils were started by Constantine himself, in the Eastern Roman Empire.
-These councils resulted in a deeper articulation of Christian faith.
-The schisms were ultimately a good and necessary feature of the church, the means to make public all differences that must be resolved before communion.
+Pope Gregory the Great was right to condemn a "universal bishop" as the headship of the entire church. The head of the Church is Christ, exactly as the Apostle Paul wrote:
 
-However, after the Great Schism, while the west innovated, the east stagnated (at least by our modern secular worldview).
-For better or worse, the Eastern Orthodox Church has not changed much of anything since those days of *one holy catholic and apostolic church*.
+!!! quote "Colossians 1:18"
+    And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.
 
-The goal of Orthodoxy is not vain unity, nor any kind of unity. 
-The goal of Orthodoxy is Christ. 
-Ultimately, Christ is the spirit of Truth, and He does not hide in darkness nor deceit.
-If the Catholics are right, then they have to claim that the east "fell" and is in heresy -- but what did the east do? What about them is heretical?
-Is it that they became "stuck" in the past? Can that even be a heresy?
+The **primacy of jurisdiction** is not a later invention. It is the development of what was already witnessed in the first thousand years.
 
-Why was there not a protestant reformation in the east?
-Protestantism and its continuous disintegration into different sects certainly seems to be the fruits of the scholastic innovations in Roman Catholicism, fruits that were not seen in Eastern Orthodoxy.
+Pope Victor I (c. 189--199) excommunicated the churches of Asia Minor over the date of Easter -- a direct exercise of authority over distant churches that provoked strong reaction from the East, proving it was understood as real power, not mere honor.
 
-Lastly, if the goal is to commune with Christ, to come closer to Christ through His church, then why innovate? Would not the apostolic tradition be paramount above all else? Why change? 
+Pope Leo I the Great (440--461) saw his *Tome to Flavian* accepted by the Council of Chalcedon (451) as the orthodox definition of Christ’s two natures, with the fathers acclaiming “Peter has spoken through Leo.” Leo later annulled Canon 28 of Chalcedon, which attempted to elevate Constantinople -- a clear act of jurisdictional authority over an ecumenical council.
 
-And if there was necessary change, is that not a tacit admission that everyone who came before, every saint (even western saints) within the *one holy catholic and apostolic church* was wrong or naive? And wouldn't this necessarily include Peter?
+Pope Gregory the Great himself (590--604) sent St. Augustine of Canterbury to convert England and placed the new English Church under Roman authority. He intervened in the Frankish Church, corrected bishops, and defended the rights of the Roman See against Constantinople’s claims. He wrote: “The care of the whole Church has been committed to me, though unworthy, in the place of Peter, the prince of the apostles.” He also referred to the Roman Church as having the “principatus” (primacy) and the duty to care for the universal Church.
 
-Most important, what heresy is being done by Eastern Orthodoxy? How are they wrong today yet were right in the first thousand years of church history?
+These were not acts of mere honor. They were the exercise of real, recognized authority for the unity of the Church.
 
-All things considered, it looks an awful lot like Rome is in heresy, in schism from Christ's Church, and Eastern Orthodoxy is waiting patiently, "stuck" in the past as it were, waiting and waiting and waiting for the prodigal son of Rome and its protestant offspring to return to the Father. 
+The Catholic Church also teaches that the Eastern Orthodox Churches possess valid apostolic succession and true sacraments (see Vatican II, *Unitatis Redintegratio* §15). The schism is real, but it has not destroyed the sacramental life Christ gave to His Church.
 
-At worst, Orthodox Churches are a bit like the older son to the prodigal son, and as such many will receive the Father's rebuke on that day the prodigal son returns.
-
-As Christians we ought to follow Christ, who taught us the story of the prodigal son, and we ought to identify ourselves and our church with the prodigal son *and* also with the older brother.
-We ought to return home, and furthermore we ought to be grateful and celebrate when the prodigal son returns home to the Father.
-
-
-??? quote "Luke 15:11-24"
-    And he said, A certain man had two sons: And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living. And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living. And when he had spent all, there arose a mighty famine in that land; and he began to be in want. And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine. And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him. And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger! I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee, And am no more worthy to be called thy son: make me as one of thy hired servants. 
-    
-    And he arose, and came to his father. 
-    
-    But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him. And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son. But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet: And bring hither the fatted calf, and kill it; and let us eat, and be merry: For this my son was dead, and is alive again, he was lost, and is found. And they began to be merry.
-
-    Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing. And he called one of the servants, and asked what these meant. And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound. And he was angry, and would not go in: therefore came his father out, and intreated him. And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends: But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf.
-    
-    And he said unto him, Son, thou art ever with me, and all that I have is thine. It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found.
+We must also acknowledge that the Church has always been under attack -- not only from outside, but from within. Demonic powers and the spirit of antichrist have sought to undermine the visible unity Christ willed, through pride, division, and distortion of the truth in every age. The gates of hell have not prevailed, but the battle continues.
