@@ -65,9 +65,9 @@ First appearing in Spanish councils (e.g., Toledo, A.D. 589) to combat Arianism 
 By the 8th century, Charlemagne adopted it to unify his empire against Eastern influence, inserting it into the Creed without ecumenical consent.
 
 Pope Leo III resisted this insertion, engraving the original Creed on silver plates in Rome (A.D. 809) which are still present, but by the 11th century, amid Norman influences and anti-Greek sentiments, it gained papal endorsement. 
-The Great Schism (A.D. 1054) crystallized this: mutual excommunications partly over filioque, symbolizing Western claims to primacy.
+The Great Schism (A.D. 1054) crystallized this: mutual excommunications partly over the filioque, symbolizing Western claims to primacy.
 
-Reformers like Luther and Calvin retained it (despite rejecting papal prinacy), viewing the *filioque* as patristic (citing Augustine, although Augustine explicitly stated that there are not two principles behind the Holy Spirit, but one: unified from the Father and the Son). 
+Reformers like Luther and Calvin retained it (despite rejecting papal primacy), viewing the *filioque* as patristic (citing Augustine, who explicitly stated that there are not two principles behind the Holy Spirit, but one: unified from the Father and the Son). 
 This perpetuated the divide between East and West, ignoring Eastern concerns over unilateral alteration, rather than ecumenical consensus (i.e., ask the Holy Spirit and not the dictates of man).
 
 !!! quote "Council of Toledo (589)"
@@ -80,19 +80,19 @@ This perpetuated the divide between East and West, ignoring Eastern concerns ove
 
 ## Eastern Rejection as Heresy
 
-The East rejected the filioque as heretical innovation, violating the Creed's ecumenical status -- no single church could alter it unilaterally. 
-St. Photius the Great (9th century) condemned it in his *Mystagogy of the Holy Spirit*, arguing it introduces two causes in the Trinity, risking subordinationism or ditheism.
+The East rejected the filioque as a heretical innovation that violated the ecumenical status of the Creed -- no single church or bishop had the authority to alter it unilaterally. 
+St. Photius the Great (9th century) condemned it in his *Mystagogy of the Holy Spirit*, arguing that it introduces two principles (causes) in the Trinity, which is intolerable and risks subordinationism or ditheism.
 
-Patristic consensus, per the Cappadocians and St. John Damascene, holds the Father's monarchy: the Son is begotten, the Spirit proceeds from the Father, eternally manifesting through the Son. 
-Adding "and the Son" confuses eternal procession (hypostatic origin) with economic sending (mission in time).
+Patristic consensus, according to the Cappadocians and St. John Damascene, upholds the Father’s monarchy as the sole source: the Son is eternally begotten of the Father, and the Holy Spirit eternally proceeds from the Father, manifesting through the Son in the divine economy. 
+Adding "and the Son" confuses eternal procession (the hypostatic origin of the Spirit) with the temporal mission (the sending of the Spirit in salvation history).
 
-Palamite councils (A.D. 1341-1351) anathematized it, affirming the [essence-energies](essence-energies.md) distinction: we participate in God's energies, not essence, preserving mystery. 
-The East sees the addition of the *filioque* as rational overreach, imposing Western scholasticism on divine ineffability.
+The Palamite councils (A.D. 1341--1351) formally anathematized the addition, affirming the essence--energies distinction and preserving the mystery of God from Western scholastic rationalism. 
+The East sees the unilateral insertion of the filioque as a dangerous overreach that subordinates the Spirit and undermines the Father’s unique monarchy -- the very foundation of Trinitarian theology.
 
 !!! quote "St. Photius the Great"
     If the Spirit proceeds from the Son as well as from the Father, then there are two principles in the Trinity, which is intolerable.
 
-Note that even St. Augustine, whose writings are supportive of the *filioque*, would have agreed with Eastern criticism; St. Augustine explicitly stated that there cannot be two principles in the Trinity, but a single unified principle.
+Note that even St. Augustine, whose writings are often cited in support of the filioque, explicitly stated that there cannot be two principles in the Trinity, but only a single unified principle.
 
 
 
@@ -102,7 +102,7 @@ Note that even St. Augustine, whose writings are supportive of the *filioque*, w
 ## Theological Implications
 
 The filioque is an ancient and unsolved controversy and should invite deep humility and very careful consideration: "proceeds from" implies relational flow, suggesting alternatives like "through the Son" -- emphasizing the Spirit's cooperation with Christ. 
-This aligns with Christ as the way, truth, and life: the Spirit, love between Father (Will) and Son (Word), mediates our access to God as it makes explicit the relationships within the Trinity, which was revealed to us (by Christ) so that we (limited and mortal) may come to know God (transcendent and eternal).
+This aligns with Christ as the way, the truth, and the life: the Spirit, love between Father (Will) and Son (Word), mediates our access to God as it makes explicit the relationships within the Trinity, which was revealed to us (by Christ) so that we (limited and mortal) may come to know God (transcendent and eternal).
 
 The Trinity is the first principle from which logic and epistemology arise -- how we know truth, personified in Christ. 
 Without the filioque's balance, theology risks imbalance: Western emphasis on unity may overshadow persons; Eastern emphasis on monarchy preserves distinction.
@@ -136,4 +136,30 @@ For further reflection, watch this [discussion on the filioque](https://m.youtub
 
 
 
+---
+
+## Magisterial Teaching
+
+The Catholic Church has never taught two principles in the Trinity.
+
+The official doctrine, solemnly defined at the Council of Florence (1439), states that the Holy Spirit proceeds from the Father **and the Son as from one single principle** (*tamquam ab uno principio*). 
+This does not contradict the original Creed but clarifies the eternal relation revealed in Scripture.
+
+The Catholic teaching preserves the Father’s monarchy while affirming the Son’s full participation in the spiration of the Spirit -- exactly as many Eastern Fathers already taught. St. John Chrysostom spoke of the Spirit proceeding “from the Father through the Son.” St. Cyril of Alexandria and St. Maximus the Confessor used equivalent language. St. Augustine likewise taught that the Spirit proceeds from the Father and the Son as from one single principle -- precisely the teaching later defined at Florence.
+
+The *Catechism of the Catholic Church* (CCC 246--248) and the 1995 Vatican clarification on the Filioque confirm this is not a denial of the Father as source, but an affirmation that the one divine essence is communicated from the Father through the Son.
+
+The filioque is therefore not an innovation that destroys Trinitarian harmony, but a development that safeguards the equality of the Son while maintaining the monarchy of the Father.
+
+Like every theological rift, the filioque finds its final resolution in Christ Jesus -- the one Mediator in whom the Father and the Spirit are perfectly united. Only in Him do East and West find the visible unity the Church was given from the beginning.
+
+The wound of this division has lasted because of our sins, which only Christ can heal.
+
+
+!!! danger "The Danger of Leaving the Son–Spirit Relationship Undefined"
+    Eastern theology rightly holds that the Father alone is the sole hypostatic cause of the Holy Spirit. However, by confining the Son’s relationship with the Spirit strictly to the economic mission in time, it leaves their *eternal* relationship strikingly undefined.
+    
+    Scripture, by contrast, reveals a unique and intimate bond that cannot be reduced to history alone: the Son sends the Spirit (John 15:26; 20:22), pours Him out upon the Church (Acts 2:33), receives Him at His baptism, and is conceived by the Holy Spirit at the Annunciation. 
+    
+    To refuse any eternal relation between the Son and the Spirit creates a serious theological gap and risks reducing the Son to a merely functional or historical role within the Trinity. The Catholic Magisterium, following the witness of both Eastern and Western Fathers, has defined with precision that the Holy Spirit proceeds from the Father and the Son as from one single principle. This preserves the Father’s monarchy while giving clear expression to the eternal bond between the Son and the Spirit that Scripture so consistently reveals.
 
