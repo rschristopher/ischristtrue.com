@@ -64,7 +64,7 @@ The filioque emerged in the West amid theological and political pressures.
 First appearing in Spanish councils (e.g., Toledo, A.D. 589) to combat Arianism -- denying Christ's divinity -- it affirmed the Son's equality with the Father. 
 By the 8th century, Charlemagne adopted it to unify his empire against Eastern influence, inserting it into the Creed without ecumenical consent.
 
-Pope Leo III resisted this insertion, engraving the original Creed on silver plates in Rome (A.D. 809) which are still present, but by the 11th century, amid Norman influences and anti-Greek sentiments, it gained papal endorsement. 
+Pope Leo III resisted this insertion, engraving the original Creed on silver plates in Rome (A.D. 809) which are still present, but by the 11th century, amid Norman influences and anti-Greek sentiment, it gained papal endorsement. 
 The Great Schism (A.D. 1054) crystallized this: mutual excommunications partly over the filioque, symbolizing Western claims to primacy.
 
 Reformers like Luther and Calvin retained it (despite rejecting papal primacy), viewing the *filioque* as patristic (citing Augustine, who explicitly stated that there are not two principles behind the Holy Spirit, but one: unified from the Father and the Son). 
