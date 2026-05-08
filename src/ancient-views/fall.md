@@ -175,7 +175,7 @@ Jeremiah prophesied a new covenant where God's law is written on hearts, overcom
 !!! quote "Jeremiah 31:33"
     But this shall be the covenant that I will make with the house of Israel; After those days, saith the Lord, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.
 
-The [harrowing of Hades](../logos/14-harrowing.md): Christ overcomes death. 
+The [harrowing of Hell](../logos/harrowing-of-hell.md): Christ overcomes death. 
 And it is here that all of the Dominions and Principalities lose their authority. 
 Demons are cast out by the disciples of Christ. 
 Mankind is offered salvation.

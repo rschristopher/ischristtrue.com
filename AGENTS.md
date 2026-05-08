@@ -2,28 +2,20 @@
 
 This is a simple MkDocs site (Poetry + Material theme).
 
-### Commands
-- `make run` – build + serve locally (binds 127.0.0.1:7000)
-- `make build` – generate site into `docs/`
-- `make clean` – remove generated `docs/`
-
 ### Layout
 - Content: `src/` (not `docs/`)
 - Output: `docs/` (committed for GitHub Pages)
 - Config: `mkdocs.yml`
 
 ### Development
-When working on content:
 
-- User will `make run` once to start the local development server.
+Do NOT run any `make` commands. The user will do so.
+
+- User will start the local development server.
 - Any time you **save a `.md` file** in the `src/` directory, the dev server will automatically detect the change and refresh the browser.
-- There is **no need** to run `make build` during normal editing. `make build` is only needed for final production output or CI.
+- There is **no need** to run any additional commands, just save the file and the dev server will automatically refresh.
+- You only edit files in this project, that's it! Do NOT run any build commands or git commands unless explicitly instructed to do so.
 
-This provides a fast, live preview workflow.
-
-### CI
-- `publish.yml` triggers on `main` pushes touching `src/**`, `mkdocs.yml`, or the workflow itself.
-- Runs `make build` then commits `docs/` back to the repo.
 
 ---
 

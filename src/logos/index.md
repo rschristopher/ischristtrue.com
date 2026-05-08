@@ -10,6 +10,8 @@ More specifically, Christ, the Logos, is Truth revealed in the flesh.
     And ye also shall bear witness, because ye have been with me from the beginning.
 
 
+## Truth Incarnate
+
 [Modern views](../modern-views/index.md) offer a subtle nihilism where truth is relativistic and reductionist, a reversion to the [ancient](../ancient-views/index.md) "gods" where there was no objective knowable truth.
 Even modern
  [Orthodox](http://orthodoxinfo.com/general/doctrine1.aspx)
@@ -50,7 +52,7 @@ He is the literal embodiment of the answer to the fundamental questions of life.
 
 ---
 
-## -ology
+## Logia
 
 Our nihilistic [modern view](../modern-views/index.md) tells us that words ending in *-ology* refer to "the study of".
 The etymology is from *Logia* and refers to divine stories or words, specifically  *the word* (Logos) who is Christ Jesus.
@@ -109,7 +111,7 @@ This is the only justifiable and sufficient epistemology, as the person of Chris
 !!! quote "John 14:6"
     Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
 
-As affirmed in traditional Orthodox Christology, Christ Jesus is both God and man, fully human and fully God. 
+As affirmed in orthodox Christology, Christ Jesus is both God and man, fully human and fully God. 
 He has two natures, two wills, human and divine working in perfect synergy.
 The Word (Logos) of God condescended down into His creation, and further down into death (the actual death of God), so that He may save us by overcoming sin and death.
 
@@ -117,53 +119,28 @@ These are the doctrines of Christ -- of the Logos incarnate -- His life, death, 
 This is the story of Truth, how we can know truth, and of our redemption and salvation from a fallen state.
 
 
-### Kenosis
-
-* [1: Annunciation](1-annunciation.md)
-
-* [2: Nativity](2-nativity.md)
-
-* [3: Baptism](3-baptism.md)
-
-* [4: Temptations](4-temptations.md)
-
-* [5: Early Ministry](5-early-ministry.md)
-
-* [6: Galilean Ministry](6-galilean-ministry.md)
-
-* [7: Sermon on the Mount](7-sermon-on-the-mount.md)
-
-* [8: Miracles and Mission](8-miracles-mission.md)
-
-* [9: Transfiguration](9-transfiguration.md)
-
-* [10: Later Ministry](10-later-ministry.md)
-
-* [11: Triumphal Entry](11-triumphal-entry.md)
-
-* [12: Holy Week](12-holy-week.md)
-
-* [13: Crucifixion](13-crucifixion.md)
-
-* [14: Harrowing of Hades](14-harrowing.md)
 
 
+---
 
-### Exaltation 
+### Joyful Mysteries
 
-* [15: Resurrection](15-resurrection.md)
+The Joyful Mysteries proclaim the Incarnation of the only-begotten Son. In the Annunciation, Visitation, Nativity, Presentation, and Finding in the Temple, Jesus — true God from true God — enters creation as a child for us and for our salvation, revealing the Father in the flesh.
 
-* [16: Ascension](16-ascension.md)
+!!! quote "St. Irenaeus"
+    The Word of God became what we are, that He might make us what He is.
 
-* [17: Dormition](17-dormition.md)
+* [Annunciation](annunciation.md)
+* [Visitation](visitation.md)
+* [Nativity](nativity.md)
+* [Presentation in the Temple](presentation-in-the-temple.md)
+* [Finding in the Temple](finding-in-the-temple.md)
 
-* [18: Coronation](18-coronation.md)
+---
 
-* [19: Church Age](19-church-age.md)
+Around the age of thirty, Jesus is led by the Spirit into the wilderness to confront the tempter. There He fasts for forty days and refuses every false path to power and glory, remaining faithful to the Father and beginning His public ministry in perfect obedience.
 
-* [20: Second Coming](20-second-coming.md)
-
-* [21: Final Judgment](21-final-judgment.md)
+* [Temptations](temptations.md)
 
 
 
@@ -171,6 +148,57 @@ This is the story of Truth, how we can know truth, and of our redemption and sal
 
 
 
+---
+
+### Luminous Mysteries
+
+The Luminous Mysteries reveal the public ministry of the incarnate Son. Through Baptism, the Wedding at Cana, the Proclamation of the Kingdom, the Transfiguration, and the Institution of the Eucharist, Jesus manifests the light of divine Truth to the world and establishes the new and eternal covenant.
+
+!!! quote "St. John Chrysostom"
+    He who is the Light of the world was baptized with water, that He might sanctify the waters.
+
+* [Baptism of Jesus](baptism-of-jesus.md)
+* [Wedding at Cana](wedding-at-cana.md)
+* [Proclamation of the Kingdom](proclamation-of-the-kingdom.md)
+* [Transfiguration](transfiguration.md)
+* [Institution of the Eucharist](institution-of-the-eucharist.md)
+
+---
+
+During the years of His public ministry, Jesus teaches with divine authority throughout Galilee and Judea. He delivers the Sermon on the Mount, performs signs and wonders, proclaims the coming of the Kingdom, and sets His face toward Jerusalem, gathering disciples and revealing the Father to those who would listen.
+
+* [Ministry in Galilee](ministry-in-galilee.md)
+* [Sermon on the Mount](sermon-on-the-mount.md)
+* [Signs and Wonders](signs-and-wonders.md)
+* [Journey to Jerusalem](journey-to-jerusalem.md)
+* [Triumphal Entry](triumphal-entry.md)
+
+
+
+
+
+
+---
+
+### Sorrowful Mysteries
+
+The Sorrowful Mysteries display Jesus entering the depths of human suffering and death. In the Agony, Scourging, Crowning with Thorns, Carrying of the Cross, and Crucifixion, the Word who is Life submits to death and descends into hell so that Truth may overcome the lie of sin and the power of death.
+
+!!! quote "St. Leo the Great"
+    He who was crucified in weakness is the same who rose in power.
+
+* [Agony in the Garden](agony-in-the-garden.md)
+* [Scourging at the Pillar](scourging-at-the-pillar.md)
+* [Crowning with Thorns](crowning-with-thorns.md)
+* [Carrying of the Cross](carrying-of-the-cross.md)
+* [Crucifixion](crucifixion.md)
+
+---
+
+Having conquered death on the Cross, Jesus descends in His soul into the realm of the dead. There He shatters the gates of hell and frees the righteous who had waited in hope, fulfilling the promise that not even death could hold the Author of Life.
+
+
+* [Harrowing of Hell](harrowing-of-hell.md)
 
 
 
@@ -178,17 +206,28 @@ This is the story of Truth, how we can know truth, and of our redemption and sal
 
 
 
+---
+
+### Glorious Mysteries
+
+The Glorious Mysteries crown the victory of the risen Christ. In the Resurrection, Ascension, Descent of the Holy Spirit, Dormition, and Coronation of the Theotokos, Jesus is exalted at the right hand of the Father, and the Spirit of Truth is poured out upon the Church.
+
+!!! quote "St. Athanasius"
+    He became man that we might become God.
+
+* [Resurrection](resurrection.md)
+* [Ascension](ascension.md)
+* [Descent of the Holy Spirit](descent-of-the-holy-spirit.md)
+* [Dormition of the Theotokos](dormition-of-the-theotokos.md)
+* [Coronation of the Theotokos](coronation-of-the-theotokos.md)
+
+---
+
+At the end of the age, Jesus will come again in glory to judge the living and the dead. He will bring the story of Truth to its final consummation and establish His kingdom that will have no end.
 
 
-
-
-
-
-
-
-
-
-
+* [Second Coming](second-coming.md)
+* [Final Judgment](final-judgment.md)
 
 
 

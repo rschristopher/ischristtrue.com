@@ -117,7 +117,7 @@ We can agree or disagree with this Biblical view -- if we agree then there is no
 
 In the final analysis, we clearly have knowledge of good and evil, and a moral law written into our hearts. 
 We exist in this fallen state and despite our sin, we are offered salvation and forgiveness through Christ Jesus
- -- the [Logos incarnate](../logos/index.md).
+  -- the [Logos incarnate](../logos/index.md).
 
 
 

@@ -1,7 +1,0 @@
-# Galilean Ministry
-
-
-
-
-
-

@@ -78,7 +78,7 @@ The pre-Fall cosmos was incorrupt, vibrant with divine energy, free from time's 
 
 Ancient views grasped this: death as unnatural, a curse from rebellion. 
 Pagan myths echo it -- Hades, Hel, Thanatos, Abaddon -- realms of shadow, referenced in Scripture as conquered by Christ. 
-The [Harrowing of Hades](../logos/harrowing.md) joins earth to the underworld, shattering its gates, freeing captives.
+The [Harrowing of Hell](../logos/harrowing-of-hell.md) joins earth to the underworld, shattering its gates, freeing captives.
 
 The living God reigns over life, not death; spirits of the dead are created consequences of sin, not divine. 
 Satan, the fallen seraph, holds power over death -- eating dust eternally -- until Christ's victory.

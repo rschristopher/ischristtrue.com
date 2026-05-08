@@ -38,15 +38,15 @@ Understanding the *filioque* compels us to confront how we know God, pointing in
 The filioque -- Latin for "and the Son" -- was inserted into the Nicene Creed's statement on the Holy Spirit: "who proceeds from the Father [and the Son]." 
 Originally formulated at the Councils of Nicaea (A.D. 325) and Constantinople (A.D. 381), the Creed affirmed the Spirit's procession from the Father alone, reflecting Eastern patristic consensus.
 
-The addition of the *filioque* alters the Trinity's relational dynamics: implying the Spirit proceeds eternally from both Father and Son, potentially subordinating the Spirit or blurring hypostatic distinctions. 
+The addition of the *filioque* is accused of altering the Trinity's relational dynamics: implying the Spirit proceeds eternally from both Father and Son, potentially subordinating the Spirit or blurring hypostatic distinctions. 
 "Proceeds from" suggests a directional flow, implying a "to" -- why not "to the Son" or "through the Son"? 
 The East sees this as safeguarding the Father's monarchy as the sole source of God's will, with the Spirit proceeding through the Son, enabling our participation (as Christ is both God and man).
 
-The clause risks depicting the Trinity as a binary procession, diminishing the Spirit's personhood. 
+The clause is said to risk depicting the Trinity as a binary procession, diminishing the Spirit's personhood. 
 The Trinity is best understood in the relationships between Father, Son, and Holy Spirit.
 For example, the Son is eternally begotten from the Father, but the Father is not begotten, and neither is the Holy Spirit -- the Holy Spirit eternally proceeds from the Father, but the Father does not proceed from the Holy Spirit.
 
-There is a sovereignty *from* the Father that defines the relationships between Father and Son, as well as Father and Holy Spirit -- and the confusion of the *filioque* is about the relationship between the Son and the Holy Spirit.
+There is a sovereignty *from* the Father that defines the relationships between Father and Son, as well as Father and Holy Spirit -- and the *filioque* is claimed to confuse the relationship between the Son and the Holy Spirit.
 Christ reveals that He must be at the right hand of His Father in order to send the Holy Spirit, uniting us to the Father.
 This echoes Scriptural truths: the Spirit is sent by the Son (John 15:26), as willed by the Father, emphasizing Christ's role in divine economy.
 
@@ -62,13 +62,13 @@ This echoes Scriptural truths: the Spirit is sent by the Son (John 15:26), as wi
 
 The filioque emerged in the West amid theological and political pressures. 
 First appearing in Spanish councils (e.g., Toledo, A.D. 589) to combat Arianism -- denying Christ's divinity -- it affirmed the Son's equality with the Father. 
-By the 8th century, Charlemagne adopted it to unify his empire against Eastern influence, inserting it into the Creed without ecumenical consent.
+By the 8th century, Charlemagne adopted it to unify his empire against Eastern influence, inserting it into the Creed without what the East regards as proper ecumenical consent.
 
 Pope Leo III resisted this insertion, engraving the original Creed on silver plates in Rome (A.D. 809) which are still present, but by the 11th century, amid Norman influences and anti-Greek sentiment, it gained papal endorsement. 
 The Great Schism (A.D. 1054) crystallized this: mutual excommunications partly over the filioque, symbolizing Western claims to primacy.
 
 Reformers like Luther and Calvin retained it (despite rejecting papal primacy), viewing the *filioque* as patristic (citing Augustine, who explicitly stated that there are not two principles behind the Holy Spirit, but one: unified from the Father and the Son). 
-This perpetuated the divide between East and West, ignoring Eastern concerns over unilateral alteration, rather than ecumenical consensus (i.e., ask the Holy Spirit and not the dictates of man).
+This perpetuated the divide between East and West, as critics charge that it ignored Eastern concerns over unilateral alteration rather than seeking ecumenical consensus.
 
 !!! quote "Council of Toledo (589)"
     The Holy Spirit proceeds from the Father and the Son equally.
@@ -80,13 +80,13 @@ This perpetuated the divide between East and West, ignoring Eastern concerns ove
 
 ## Eastern Rejection as Heresy
 
-The East rejected the filioque as a heretical innovation that violated the ecumenical status of the Creed -- no single church or bishop had the authority to alter it unilaterally. 
+The East rejected the filioque as a heretical innovation that, in its view, violated the ecumenical status of the Creed -- no single church or bishop had the authority to alter it unilaterally. 
 St. Photius the Great (9th century) condemned it in his *Mystagogy of the Holy Spirit*, arguing that it introduces two principles (causes) in the Trinity, which is intolerable and risks subordinationism or ditheism.
 
-Patristic consensus, according to the Cappadocians and St. John Damascene, upholds the Father’s monarchy as the sole source: the Son is eternally begotten of the Father, and the Holy Spirit eternally proceeds from the Father, manifesting through the Son in the divine economy. 
-Adding "and the Son" confuses eternal procession (the hypostatic origin of the Spirit) with the temporal mission (the sending of the Spirit in salvation history).
+Patristic consensus, the East maintains, upholds the Father’s monarchy as the sole source: the Son is eternally begotten of the Father, and the Holy Spirit eternally proceeds from the Father, manifesting through the Son in the divine economy. 
+Adding "and the Son," it is argued, confuses eternal procession (the hypostatic origin of the Spirit) with the temporal mission (the sending of the Spirit in salvation history).
 
-The Palamite councils (A.D. 1341--1351) formally anathematized the addition, affirming the essence--energies distinction and preserving the mystery of God from Western scholastic rationalism. 
+The Palamite councils (A.D. 1341--1351) formally anathematized the addition, affirming the essence-energies distinction and preserving the mystery of God from Western scholastic rationalism. 
 The East sees the unilateral insertion of the filioque as a dangerous overreach that subordinates the Spirit and undermines the Father’s unique monarchy -- the very foundation of Trinitarian theology.
 
 !!! quote "St. Photius the Great"

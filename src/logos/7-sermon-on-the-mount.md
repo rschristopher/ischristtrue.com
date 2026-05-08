@@ -1,8 +1,0 @@
-# Sermon on the Mount
-
-
-
-
-
-
-
