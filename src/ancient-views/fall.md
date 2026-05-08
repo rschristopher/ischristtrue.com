@@ -11,10 +11,9 @@ Lord Jesus Christ, Son of God
 Have mercy on me, a sinner 
 -->
 
-Modern Christians tend to view ***the*** *fall* as a single act of rebellion -- but in Genesis there is not one but *three* distinct rebellions against God, each with dire consequences for man as well as the created order (the cosmos). 
-These rebellions introduced the three great evils of mankind: death, sin, and the demonic (domination by dark powers).
+Modern Christians tend to view the *fall* as a single act of rebellion -- but in Genesis there is not one but *three* distinct rebellions against God, each with dire consequences for man and the created order. 
 
-
+These rebellions introduced the three great evils of mankind: death, sin, and the domination by dark powers. Yet from the beginning God promised victory through the seed of the woman (Genesis 3:15). In Christ this victory is fully realized.
 
 
 
@@ -23,7 +22,7 @@ These rebellions introduced the three great evils of mankind: death, sin, and th
 
 ## Rebellions
 
-The full interpretation of these rebellions has been lost in our [modern view](../modern-views/index.md), but the ancient view echoes truthfully from orthodox tradition, from scripture, and can be interpreted through original and [apocryphal](apocrypha.md) texts. 
+The full interpretation of these rebellions has been lost in our [modern view](../modern-views/index.md), but the ancient Church read Genesis in light of the whole of Scripture and apostolic tradition, drawing also on Second Temple Jewish texts to illuminate certain details.
 For example, we know there were Nephilim in scripture, but we can only know the story of the Nephilim from [apocryphal sources](apocrypha.md) (specifically in *1 Enoch*).
 
 Below is an attempt to outline this ancient view as best as it can be understood today.
@@ -216,5 +215,15 @@ The cosmos renews: no more curse, eternal life in glorified humility, fulfilling
 
 
 
+---
 
+## Redemption in the Church
+
+Christ has already triumphed over the serpent, over sin, and over the principalities and powers. Yet this victory is not merely historical, it is continually made present in His Church.
+
+In the Catholic Church, Christ is objectively and fully present: Body, Blood, Soul, and Divinity in the Eucharist. Through the sacraments He applies the fruits of His victory (forgiveness of sins, deliverance from demonic influence, and the grace of theosis) to every generation until He comes again.
+
+Here the original harmony is being restored. Here death is trampled by death. Here the nations are reclaimed and united under the true King.
+
+> Thy will be done on earth as it is in heaven.
 
