@@ -1,5 +1,25 @@
 # Presentation in the Temple
 
+Forty days after the Nativity, the eternal *Logos* -- the Word of God made flesh -- is brought to the Temple in Jerusalem. In this quiet, humble act of obedience to the Law, the Creator of the universe submits Himself to the very rituals He gave to Israel. This is the first public presentation of Christ to His people.
+
+!!! warning "Timeline Note"
+    According to Jewish law (Leviticus 12), the Presentation and Purification of Mary took place **forty days after birth**.  
+    This event occurs *before* the visit of the Magi, the Flight into Egypt, and the Massacre of the Innocents.
+
+---
+
+## Circumcision and Naming
+
+On the eighth day after His birth, the child was circumcised and given the name announced by the angel:
+
+!!! quote "Luke 2:21"
+    And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.
+
+In this simple act the eternal Son of God receives the name that means *Yahweh saves*. He who is the fulfillment of the Law submits Himself to the Law from the very first days of His earthly life, sanctifying every stage of human growth and obedience.
+
+
+
+
 
 
 !!! quote "Luke 2:21"
