@@ -10,6 +10,10 @@ More specifically, Christ, the Logos, is Truth revealed in the flesh.
     And ye also shall bear witness, because ye have been with me from the beginning.
 
 
+
+
+---
+
 ## Truth Incarnate
 
 [Modern views](../modern-views/index.md) offer a subtle nihilism where truth is relativistic and reductionist, a reversion to the [ancient](../ancient-views/index.md) "gods" where there was no objective knowable truth.
@@ -90,7 +94,6 @@ These are echoes of that same snake in the garden,
 > Ye shall be as gods
 
 Let us not use our God-given mind for self-worship or nihilism, but instead worship and glorify God, our creator -- the Spirit of Truth made known to us through Christ Jesus.
-
 
 
 
