@@ -10,7 +10,7 @@ The Baptism of Christ is the great Theophany, the solemn public revelation of th
 
 ## Baptismal Prefigurations
 
-From the very dawn of creation, Gwater was a sacred sign of life, judgment, cleansing, and new birth.
+From the very dawn of creation, water was a sacred sign of life, judgment, cleansing, and new birth.
 
 !!! quote "Genesis 1:2"
     And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
@@ -87,6 +87,8 @@ Baptism may never be repeated. The Church confesses with one voice: one baptism 
 
 Through this form the eternal Logos continues to act in His Church, incorporating souls into His Body and applying the fruits of His redemption to each person.
 
+!!! quote "Romans 6:3-4"
+    Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
 
 
 
@@ -132,89 +134,74 @@ Because the incarnate Word of God was baptized for us, the waters now have power
 
 
 
+---
 
+## The Dual Testimony
 
+At the moment Jesus rises from the water, two distinct voices bear witness to who He is.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Baptism of Christ
-
-one baptism for the remission of sins
-
-unbaptized, the devil is in our heart and God must work from the outside.
-
-baptized, God is in our heart and the devil must work from the outside.
-
-
-https://orthodoxchristiantheology.com/2020/12/17/the-orthodox-doctrine-of-justification-the-patristic-and-conciliar-teaching
-
-!!! quote "Matthew 28:19-20"
-    Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.
-
-!!! quote "Mark 16:15-16"
-    And he said unto them, Go ye into all the world, and preach the gospel to every creature. He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
-
-
-The symbolism of baptism, and why triple immersion.
-
-!!! quote "Romans 6:3-4"
-    Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death? Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.
-
-
-
-Jesus was baptized 
-
-!!! quote "Matthew 3:13-17"
-    Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him. But John forbad him, saying, I have need to be baptized of thee, and comest thou to me? And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him. 
-    
-    And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him: And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
-
-
-Christ had no sin needing to be cleansed.
-Christ submits with humility to be baptized, and simultaneously carries all of humanity with him in those waters -- his baptism (like his death) was not for His sake, but for ours.
-
-The heavens opened to proclaim and bear witness that Jesus is the Messiah as the Son of God.
-And the Baptist himself proclaimed that Jesus is the Messiah as a man:
+John the Baptist, the forerunner, had already seen the Spirit descend and remain upon Jesus. He now testifies openly:
 
 !!! quote "John 1:32-34"
-    And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him. And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost. And I saw, and bare record that this is the Son of God.
+    And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him. 
+    And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost. 
+    And I saw, and bare record that this is the Son of God.
 
-This dual testimony, from the Father in heaven and from John the Baptist, bears witness to Jesus as both fully God and fully man.
+At the same instant the voice of the Father Himself is heard from heaven:
+
+!!! quote "Matthew 3:17"
+    And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
+
+In this dual testimony the Most Holy Trinity is revealed to the world for the first time in its fullness. The eternal Word of God made flesh stands in the Jordan. The Holy Spirit descends upon Him like a dove. The Father declares His eternal delight. The three Persons are present and distinct, yet perfectly one.
+
+This is the true Epiphany. The baptismal formula Christ would later command: “in the name of the Father, and of the Son, and of the Holy Ghost”. The Trinity is fully revealed in this moment. God reveals His own inner life to us in the very act by which He begins to save us.
+
+The Church Fathers saw here the foundation of every Christian baptism. The same Trinity that was manifested over the Jordan is now invoked over every soul that is baptized. Because the incarnate Word of God was baptized for us, the waters now have power to cleanse us. Because the Trinity was revealed in this act, we are baptized into the very life of God.
 
 
-What of the spirits of the dead?
+
+
+
+---
+
+## Preaching to the Spirits in Prison
+
+The baptism of Christ is not only a public revelation of the Trinity. It is also the moment when the incarnate Word of God begins His victory over the powers of darkness.
+
+St. Peter connects this mystery directly to baptism:
 
 !!! quote "1 Peter 3:19-22"
-    By which also he went and preached unto the spirits in prison; Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water. The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ: Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him.
+    By which also he went and preached unto the spirits in prison; Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water. 
+    The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ.
 
-https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments/baptism
+The Fathers understood these “spirits in prison” as the rebellious angels and the souls held captive by sin and death since the days of Noah. When Christ descended into the waters of the Jordan, He was already beginning the work of liberation. His baptism was the first public act of the New Adam confronting and overcoming the forces that had held humanity in bondage.
 
-https://orthodoxwiki.org/Baptism
+Just as Noah and his family were saved through water in the ark, so now the Church is saved through the waters of baptism. The flood judged the world, but the ark preserved the righteous. In the same way, baptism buries the old life and raises the new life in Christ.
 
-https://www.saintjohnchurch.org/orthodox-baptism-newness-of-life/
+Through His baptism, the eternal Word made flesh entered the realm of death and judgment so that He might proclaim victory there. The same power that was at work in the Jordan is now at work in every baptism: the powers of darkness are confronted, sin is forgiven, and the soul is transferred from the kingdom of death into the Kingdom of the beloved Son.
 
-
-Infant baptism 
-
-http://www.orthodoxresearchinstitute.org/articles/liturgics/bajis_infant_baptism.htm
-
-https://stpeterorthodoxchurch.com/new-to-orthodoxy/what-does-the-orthodox-church-teach-about-infant-baptism/
+This is why the Church has always seen baptism as far more than a personal ritual. It is a participation in Christ’s own victorious descent and rising, the moment when the prisoner becomes free and the dead are made alive.
 
 
-Baptism brings the child into a christian family, that they will be raised as a Christian.
 
-https://orthodoxwiki.org/Infant_baptism
+
+
+---
+
+## Christ is Present
+
+The eternal Word of God made flesh, who came to the waters of the Jordan, who sanctified them from within, and in whom the Most Holy Trinity was revealed, is the same Christ who is with us today.
+
+In the Catholic Church this same incarnate Lord remains objectively and fully present. Body, Blood, Soul, and Divinity, He is truly present in the Most Holy Eucharist. The waters He sanctified in the Jordan are the same waters in which every Christian is baptized. The Trinity that was manifested over the river is the same Trinity into whose name we are baptized.
+
+Every valid baptism participates in the mystery that began at the Jordan. Every time the words “in the name of the Father, and of the Son, and of the Holy Ghost” are spoken over water, the power of Christ’s own baptism is made present again. The same Lord who descended into the river descends into the font. The same Spirit who rested upon Him rests upon the baptized. The same voice of the Father who declared His delight now calls each new son and daughter into His life.
+
+Because the incarnate Word of God was baptized for us, baptism now has power to save us. Because He entered the river of repentance, we can be buried with Him and rise with Him to everlasting life.
+
+The Baptism of Christ is not only an event in the past. It is a living reality in the Church. Here the eternal Word continues to come to us in humility, to sanctify us, and to draw us into the life of the Most Holy Trinity.
+
+
+
 
 
 
