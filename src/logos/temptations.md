@@ -129,7 +129,7 @@ In the eternal Logos the old Adam is perfectly recapitulated and healed. Where t
 
 ---
 
-## Victory and Model
+## Victory
 
 !!! quote "Matthew 4:11"
     Then the devil left him, and behold, angels came and ministered to him.
