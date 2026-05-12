@@ -2,6 +2,10 @@
 
 The eternal *Logos*, having sanctified the waters of the Jordan and triumphed over the devil in the wilderness, now advances into public ministry. The New Adam proclaims the arrival of the Kingdom. In His own Person He brings to its divinely appointed fulfillment the long expectation of the ages. What was promised from Adam through the Law and the Prophets now stands present and active. The same royal proclamation and grace are offered to every soul in the Church today.
 
+
+
+
+
 ---
 
 ## Fulfillment of Time
@@ -47,3 +51,34 @@ The Kingdom announced by the eternal *Logos* is not a distant hope or an earthly
 St. Augustine teaches that the Kingdom of God is Christ Himself. Wherever the King is present, there the Kingdom has arrived in its fullness. The pre-schism Fathers of East and West proclaim that this Kingdom restores the original order of creation under its rightful Lord. It overcomes the disorder introduced by sin, casts down the tyranny of demons, and begins the defeat of death itself.
 
 St. John Chrysostom declares that the arrival of the King brings the arrival of the Kingdom with divine power. What prophets glimpsed from afar now stands visibly in their midst. The eternal *Logos* made flesh does not merely speak of a future age -- He embodies and inaugurates the Kingdom here and now. This same Kingdom, present and active in Christ, continues in the Catholic Church, where the King rules through the sacraments and extends the identical grace to every soul that will receive Him.
+
+
+
+
+
+
+
+---
+
+## Repent
+
+!!! quote "Luke 5:32"
+    “I have not come to call the righteous but sinners to repentance.”
+
+!!! quote "Matthew 11:20"
+    Then he began to denounce the cities where most of his mighty works had been done, because they did not repent.
+
+The eternal *Logos* issues a radical summons. This is no mere moral reform. It is the total conversion of heart and mind -- the decisive turning away from the old Adam and the old order of sin into the life of the Kingdom. Repentance is the narrow gate through which souls enter the reign of the King.
+
+St. Augustine teaches that true repentance is a gift of grace, the soul’s return from exile to its true homeland in God. It is the reversal of Adam’s fall, made possible only because the New Adam has come. The pre-schism Fathers of East and West are unanimous: this [metanoia](../ancient-views/metanoia.md) is the essential first response to the presence of the Kingdom. It is the renunciation of self-rule and the joyful submission to the sovereign *Logos* incarnate.
+
+St. John Chrysostom stresses the urgency born of the King’s arrival. Where the Kingdom has come in power, continued rebellion brings greater judgment. The same call that went forth in Galilee now sounds in the Church. Through the sacrament of penance the eternal *Logos* continues to bestow this grace, raising the dead to life and restoring souls to the Kingdom won by His Cross.
+
+
+
+
+
+
+
+
+
