@@ -79,6 +79,56 @@ St. John Chrysostom stresses the urgency born of the King’s arrival. Where the
 
 
 
+---
+
+## Authority
+
+!!! quote "Mark 1:27"
+    And they were all amazed, so that they questioned among themselves, saying, “What is this? A new teaching with authority! He commands even the unclean spirits, and they obey him.”
+
+!!! quote "Matthew 7:29"
+    For he was teaching them as one who had authority, and not as their scribes.
+
+!!! quote "Mark 2:10"
+    “But that you may know that the Son of Man has authority on earth to forgive sins” -- he said to the paralytic.
+
+The eternal *Logos* speaks and acts with immediate, intrinsic authority. Unlike the scribes who cite tradition or the prophets who say “thus says the Lord,” Christ commands in His own name. Demons obey. Sins are forgiven on earth. Nature and disease submit instantly. This is the royal authority of the King who possesses in Himself what He bestows.
+
+St. John Chrysostom explains that the astonishment of the crowds arose precisely because this teaching and power belonged to no human office. The unclean spirits recognized their Creator and submitted without delay. The pre-schism Fathers of East and West affirm that such authority over spirits and sin belongs to God alone. When the incarnate *Logos* exercises it as man, He reveals the restoration of humanity’s true dignity and dominion.
+
+St. Augustine underscores that the authority to forgive sins on earth is the clearest sign that God Himself has visited His people. Only the divine King can remit offenses committed against the divine Majesty. This authority remains fully active in the Catholic Church through the apostolic priesthood, where the same King continues to teach, absolve, and command the powers of darkness.
+
+
+
+
+
+
+---
+
+## Signs
+
+!!! quote "Matthew 11:4-5"
+    “Go and tell John what you hear and see: the blind receive their sight and the lame walk, lepers are cleansed and the deaf hear, and the dead are raised up, and the poor have good news preached to them.”
+
+!!! quote "John 2:11"
+    This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him.
+
+These visible signs are not incidental wonders. They are the concrete proof that the Kingdom has arrived in power. The eternal *Logos* reverses the effects of the Fall: sight restored to the blind, mobility to the lame, cleanness to the unclean, hearing to the deaf, life to the dead. Each miracle declares that the reign of sin and death is broken in the New Adam.
+
+St. John Chrysostom teaches that these signs were performed openly so that no one could deny the arrival of the King. They fulfill the ancient prophecies and demonstrate that the Creator has entered His creation to heal and renew it from within. The pre-schism Fathers of East and West see in every miracle the restoration of humanity’s original state and a foretaste of the final renewal of all things.
+
+St. Augustine explains that the signs were works of mercy and power that revealed the identity of the Worker. When the dead rise and the afflicted are healed, it is the Kingdom itself breaking the chains forged by Adam’s transgression. These same signs continue in the Catholic Church through the sacraments and the ongoing miracles granted to the saints. The eternal *Logos* still heals souls in confession, feeds multitudes in the Eucharist, and raises the spiritually dead to life, manifesting the identical Kingdom that was proclaimed in Galilee.
+
+
+
+Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.
+
+Maranatha. Come, Lord Jesus.
+
+
+
+
+
 
 
 
