@@ -1,6 +1,7 @@
 # Temptations of Christ
 
-Immediately after His Baptism in the Jordan, the Spirit led our Lord Jesus Christ into the wilderness to be tempted by the devil (Matthew 4:1; Mark 1:12; Luke 4:1). The New Adam confronted the same threefold concupiscence that had conquered the first Adam in Eden (Genesis 3:6; 1 John 2:16). In this combat the eternal *Logos* triumphed completely, giving us both the model and the grace to overcome.
+Immediately after His Baptism in the Jordan, the Spirit led our Lord Jesus Christ into the wilderness to be tempted by the devil (Matthew 4:1; Mark 1:12; Luke 4:1). The New Adam confronted the same threefold concupiscence that had conquered the first Adam in Eden (Genesis 3:6; 1 John 2:16). 
+In this combat Jesus triumphed completely, giving us both the model and the grace to overcome.
 
 ???+ info "Dostoevsky’s Grand Inquisitor"
     In *The Brothers Karamazov* the Grand Inquisitor accuses Christ: "Thou didst reject the three powers ... miracle, mystery and authority ... Thou wouldst not enslave man by a miracle ... Thou didst crave for free love and not the base raptures of the slave before the might that has overawed him for ever." The world still hungers for these three more than for the living God.
@@ -21,12 +22,13 @@ Immediately after His Baptism in the Jordan, the Spirit led our Lord Jesus Chris
 
 The wilderness into which the Spirit drove Christ is the desolate region west of the Jordan and the Dead Sea (the same arid wasteland where Israel wandered forty years (Deuteronomy 8:2-4), where Moses and Elijah fasted forty days (Exodus 34:28; 1 Kings 19:8), and where John the Baptist had preached repentance (Matthew 3:1)). Mark’s Gospel states the Spirit “drove” (*ekballō*) Him there (Mark 1:12), the same forceful verb used for casting out demons. Christ fasted forty days and forty nights, becoming genuinely hungry (Matthew 4:2; Luke 4:2).  
 
-This was no mere symbolic retreat. Pre-schism Fathers see it as deliberate recapitulation:
+This was no mere symbolic retreat. Church Fathers see it as deliberate recapitulation:
 
 ??? quote "St. John Chrysostom, *Homily on Matthew* 13.1"
     "Christ goes into the wilderness to overthrow the tyranny of the devil, who had held sway over the earth since Adam's fall ... He fasts forty days to teach us that fasting is the mother of all virtue and the strongest weapon against the devil."
 
-St. Augustine adds that the New Adam must conquer precisely where the old Adam was conquered -- through hunger, presumption, and ambition -- so that every temptation we face might be overcome in Him (*De Trinitate* 4.13; *Sermon* 341). The wilderness therefore becomes the battlefield of salvation history, the place where the *Logos* who created the world now reclaims it from the ancient serpent by the same free obedience Adam refused.
+St. Augustine adds that the New Adam must conquer precisely where the old Adam was conquered -- through hunger, presumption, and ambition -- so that every temptation we face might be overcome in Him (*De Trinitate* 4.13; *Sermon* 341). 
+The wilderness therefore becomes the battlefield of salvation history, the place where the *Logos* who created the world now reclaims it from the ancient serpent by the same free obedience Adam refused.
 
 
 
@@ -50,7 +52,8 @@ This first temptation corresponds to the lust of the flesh in the threefold conc
 
 St. Gregory the Great summarizes the patristic consensus when he writes that Christ, by fasting forty days and then refusing the bread offered on the devil's terms, "taught us that the soul is more important than the body and that the word of God is the true nourishment of the rational creature" (Homily on the Gospels 16).
 
-The eternal Logos, who is Himself the Bread of Life (John 6:35), would not turn stones into bread at the devil's command. In this refusal He reclaims the ground lost in Eden and supplies the grace by which every Christian can subject the desires of the flesh to the will of the Father.
+Jesus, who is Himself the Bread of Life (John 6:35), would not turn stones into bread at the devil's command. 
+In this refusal He reclaims the ground lost in Eden and supplies the grace by which every Christian can subject the desires of the flesh to the will of the Father.
 
 
 
@@ -73,7 +76,8 @@ This second temptation corresponds to presumption and vainglory -- the desire to
 
 St. Gregory the Great echoes the consensus of the Fathers when he explains that this temptation is the assault of pride: the devil tempts us to demand visible proofs of God's protection rather than to walk by faith and trust in His word (Homily on the Gospels 16).
 
-The eternal Logos, who is Himself the Temple (John 2:21), would not cast Himself down to prove His identity on the devil's terms. In this refusal He reclaims the ground lost in Eden and supplies the grace by which every Christian can reject presumption and walk in humble obedience to the Father.
+Jesus, who is Himself the Temple (John 2:21), would not cast Himself down to prove His identity on the devil's terms. 
+In this refusal He reclaims the ground lost in Eden and supplies the grace by which every Christian can reject presumption and walk in humble obedience to the Father.
 
 
 
@@ -87,7 +91,7 @@ The eternal Logos, who is Himself the Temple (John 2:21), would not cast Himself
 !!! quote "Matthew 4:8-10"
     Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory. And he said to him, "All these I will give you, if you will fall down and worship me." Then Jesus said to him, "Be gone, Satan! For it is written, 'You shall worship the Lord your God and him only shall you serve.'"
 
-This third temptation corresponds to the lust of the eyes and ambition in the threefold concupiscence (1 John 2:16), the very point at which the first Adam fell when he saw that the tree was desirable to make one wise (Genesis 3:6).
+This third temptation corresponds to the lust of the eyes and ambition in the threefold concupiscence (1 John 2:16), the very point at which the first Adam fell when he saw that the tree was desirable to make one wise and to be like God (Genesis 3:6).
 
 !!! quote "St. John Chrysostom, Homily on Matthew 13.4"
     "Having failed with the belly and with vainglory, the devil now attacks through the desire for power and dominion. He offers all the kingdoms of the world, not that he possesses them, but that he might seduce Christ into idolatry. But the Lord repels him with the command of Scripture, teaching us that we must worship God alone and refuse every earthly kingdom offered at the price of apostasy."
@@ -97,7 +101,8 @@ This third temptation corresponds to the lust of the eyes and ambition in the th
 
 St. Gregory the Great summarizes the patristic consensus when he writes that Christ, by rejecting the offer of all earthly power, "taught us that the soul must never barter its eternal inheritance for temporal glory and that true authority belongs only to those who serve God alone" (Homily on the Gospels 16).
 
-The eternal Logos, who is Himself the King of kings (Revelation 19:16), would not fall down and worship the devil to gain the kingdoms of the world. In this refusal He reclaims the ground lost in Eden and supplies the grace by which every Christian can reject ambition and serve the Father alone.
+Jesus, who is Himself the King of kings (Revelation 19:16), would not fall down and worship the devil to gain the kingdoms of the world. 
+In this refusal He reclaims the ground lost in Eden and supplies the grace by which every Christian can reject ambition and serve the Father alone.
 
 
 
@@ -121,7 +126,8 @@ The three temptations correspond precisely to this threefold concupiscence that 
 !!! quote "St. Gregory the Great, Homily on the Gospels 16"
     "These three temptations contain the whole of the enemy's art. Whatever he suggests to us comes under one of these three heads: the lust of the flesh, the lust of the eyes, or the pride of life. Christ our Lord, by refusing each in order, has broken the power of all three and given us the pattern and the grace of victory."
 
-In the eternal Logos the old Adam is perfectly recapitulated and healed. Where the first man fell by yielding to concupiscence, the New Adam stands firm in perfect obedience, supplying every Christian with the grace to overcome the same threefold assault.
+In Christ Jesus the old Adam is perfectly recapitulated and healed. 
+Where the first man fell by yielding to concupiscence, the New Adam stands firm in perfect obedience, supplying every Christian with the grace to overcome the same threefold assault.
 
 
 
@@ -134,7 +140,8 @@ In the eternal Logos the old Adam is perfectly recapitulated and healed. Where t
 !!! quote "Matthew 4:11"
     Then the devil left him, and behold, angels came and ministered to him.
 
-With the threefold concupiscence decisively conquered, the eternal Logos stands victorious where the first Adam had fallen. The ancient serpent is repelled, and the angels who had been absent since Eden now return to serve the New Adam.
+With the threefold concupiscence decisively conquered, Jesus stands victorious where the first Adam had fallen. 
+The ancient serpent is repelled, and the angels who had been absent since Eden now return to serve the New Adam.
 
 !!! quote "St. John Chrysostom, Homily on Matthew 13.4"
     "Christ has overcome the devil completely, not by force or by angelic aid at the beginning, but by the power of His own obedience. In this victory He has given us the model of spiritual combat: we too must answer every temptation with the word of God and never depart from the Father's will."
@@ -145,7 +152,8 @@ With the threefold concupiscence decisively conquered, the eternal Logos stands 
 !!! quote "St. Gregory the Great, Homily on the Gospels 16"
     "By this threefold victory the Lord has taught us the whole art of spiritual warfare. Let no one despair when tempted, for the Captain of our salvation has already broken the enemy's power. In Christ the New Adam the old Adam is healed, and grace is now supplied to every soul that fights by the same obedience."
 
-In the eternal Logos the battlefield of the wilderness becomes the pattern of every Christian life. Where the first man yielded, the Second has conquered, supplying the grace by which we too can subject the flesh, reject presumption, refuse false authority, and worship the Father alone.
+In the temptations of Christ the battlefield of the wilderness becomes the pattern of every Christian life. 
+Where the first man yielded, the Second has conquered, supplying the grace by which we too can subject the flesh, reject presumption, refuse false authority, and worship the Father alone.
 
 
 
