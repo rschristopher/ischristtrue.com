@@ -108,6 +108,91 @@ The sudden and total obedience of these unlearned fishermen reveals the divine a
 
 
 
+---
+
+## Teaching with Authority
+
+The Lord Jesus enters the synagogues of Galilee and teaches with divine authority.
+
+!!! quote "Mark 1:21-22"
+    And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught. And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes.
+
+!!! quote "Luke 4:31-32"
+    And he came down to Capernaum, a city of Galilee, and taught them on the sabbath days. And they were astonished at his doctrine: for his word was with power.
+
+!!! quote "Matthew 4:23"
+    And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.
+
+??? quote "St. John Chrysostom, Homily on Matthew 16"
+    "He taught them as one having authority, and not as the scribes. For the Scribes merely repeated what Moses had said, but Christ spoke as from Himself, and with divine power ... He did not say, Thus saith the Lord, but I say unto you."
+
+??? quote "St. Augustine, Sermon 52"
+    "The Word itself was teaching, not through the prophets but in His own person. The authority was not borrowed; it was His own, for He is the Wisdom of the Father."
+
+In this teaching the incarnate Logos restores true wisdom to minds darkened by the fall. The New Adam does not cite external authority; He is the Authority. By His living Word He begins to heal the intellect wounded in Adam and to draw the hearers into the obedience of faith.
+
+
+
+
+
+
+
+
+
+
+---
+
+## Capernaum Healings
+
+The power of the Kingdom is manifested as the Lord Jesus exercises sovereign authority over both unclean spirits and bodily infirmity right in the heart of Capernaum.
+
+!!! quote "Mark 1:23-27"
+    And there was in their synagogue a man with an unclean spirit; and he cried out, Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art, the Holy One of God. And Jesus rebuked him, saying, Hold thy peace, and come out of him. And when the unclean spirit had torn him, and cried with a loud voice, he came out of him. And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine is this? for with authority commandeth he even the unclean spirits, and they do obey him.
+
+!!! quote "Mark 1:29-31"
+    And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John. But Simon's wife's mother lay sick of a fever, and anon they tell him of her. And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them.
+
+!!! quote "Mark 1:32-34"
+    And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils. And all the city was gathered together at the door. And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him.
+
+??? quote "St. John Chrysostom, Homily on Matthew 27"
+    "He commands the unclean spirits with authority... He did not say, 'I command you in the name of God', but with His own authority."
+
+??? quote "St. John Chrysostom, Homily on Matthew 27"
+    "See how He not only delivers from disease by word, but also by touch. For His body was life-giving."
+
+In these mighty works the New Adam confronts the consequences of the first Adam's disobedience. He who is the Lord of creation rebukes the demonic powers and restores the broken creation by His mere word and touch, showing that the Kingdom of God has drawn near with power.
+
+
+
+
+
+---
+
+## Growing Fame
+
+The report of these mighty works spreads swiftly far beyond Capernaum.
+
+!!! quote "Matthew 4:24-25"
+    And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them. And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan.
+
+!!! quote "Mark 1:28"
+    And immediately his fame spread abroad throughout all the region round about Galilee.
+
+??? quote "St. John Chrysostom, Homily on Matthew 15"
+    "He did not seek fame, yet fame followed Him ... This happened that the multitudes might be drawn to Him and receive the benefit of His teaching and healing."
+
+The growing fame of the New Adam reveals the irresistible attraction of the restored humanity He brings. Where the first Adam brought division and scattering, the New Adam begins to draw all peoples to Himself, fulfilling the ancient promise that in the seed of Abraham all the nations of the earth would be blessed.
+
+
+
+
+
+
+
+
+
+
 
 
 
