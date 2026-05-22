@@ -205,10 +205,11 @@ In each sign the Church Fathers see the same divine economy: what Jesus did once
 
 Above all, the signs call for faith. 
 They do not compel belief; they invite it.
-The centurion, the Syrophoenician woman, the disciples in the storm, Martha and Mary -- each is drawn from doubt or fear into trust by a word from Jesus. 
+The centurion, the Syrophoenician woman, the disciples in the storm, Martha and Mary; each is drawn from doubt or fear into trust by a word from Jesus. 
 This is the pattern for every believer: the signs confront the brokenness caused by sin and demand the response that alone receives grace -- humble, persistent faith in the One who commands wind and sea, demons and death, and who will one day command the graves to open.
 
-Thus the signs and wonders of the public ministry stand as living testimony that Jesus is the eternal Logos made flesh, the restorer of all that sin had ruined, and the author of the new creation that will be consummated in His Cross and Resurrection.
+Thus the signs and wonders of the public ministry stand as living testimony that Jesus is the incarnate Word pf God, that God condescended down into His creation as a man, to save us from our rebellion while respecting our freedom to rebel (revealing His nature and character). 
+He is the restorer of all that sin had ruined, and the author of the new creation that will be consummated in His Cross and Resurrection.
 
 
 
