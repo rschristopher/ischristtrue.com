@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This is a simple MkDocs site (Poetry + Material theme).
+This is a MkDocs site (Poetry + Material).
 
 ### Layout
 - Content: `src/` (not `docs/`)
@@ -49,30 +49,35 @@ Schisms are acknowledged as real wounds caused by human sin, which only Christ, 
 
 ### Style Conventions
 
-- Use ` -- ` (space hyphen hyphen space) for all dashes. Never use an emdash (—).
-- Separate major sections (`##`) with a horizontal rule: `---`
+- Never use emdash, if truly needed use ` -- ` (space hyphen hyphen space).
+- Begin each major sections (`##`) with a horizontal rule: `---`
 - Preserve the genuine truth-seeking tone for sincere inquirers and questioning Catholics.
-- Do not drop existing content without explicit confirmation.
 - Always prioritize primary sources (Scripture, patristics, Magisterium) over modern interpretations.
+- Refer to Christ or Jesus (the man) and only use titles when relevant.
 
-This file serves as the single source of truth for both technical setup and editorial direction of the site.
 
 #### Admonitions (mkdocs-material)
 
-Always use Material for MkDocs admonitions for patristic, scriptural, and magisterial quotes:
+Always use Material for MkDocs admonitions for patristic, scriptural, and magisterial quotes. 
+
+Do noy use inline quotes.
+
+Do not paraphrase or summarize a quote.
 
 **Regular quote (always visible):**
 ```markdown
 !!! quote "St. John Chrysostom"
-    All indeed depends on God, but not in such a way that our free will be hindered...
+    All indeed depends on God, but not in such a way that our free will be hindered ...
 
 **Collapsible quote (default open with +):**
-???+ quote "Luke 15:11-24 (KJV)"
-    And he said, A certain man had two sons...
+???+ quote "Luke 15:11-24"
+    And he said, A certain man had two sons
 
 Collapsible quote (default closed):
 ??? quote "St. Gregory Palamas"
     Text here...
+
+Use KJV for holy scripture but do not write "(KJV)"
 
 The user may also request admonitions for warning or danger or info, which can be used to augment a given essay.
 
