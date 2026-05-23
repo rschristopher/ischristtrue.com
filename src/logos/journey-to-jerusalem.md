@@ -241,6 +241,27 @@ He awaits the return of every soul in thanksgiving and worship.
 
 ## Passion Predicted
 
+???+ quote "Luke 18:31-34"
+    Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.
+    For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:
+    And they shall scourge him, and put him to death: and the third day he shall rise again.
+    And they understood none of these things: and this saying was hid from them, neither knew they the things which were spoken.
+
+The Twelve understood none of these things.
+Christ here can do all things because He is the Author of all. 
+As the incarmate Word through whom the Father created and sustains the universe, He sovereignly ordains the Passion to fulfill every prophecy written concerning the Son of man.
+
+!!! quote "St. Cyril of Alexandria, Commentary on Luke"
+    He foretells these things clearly, that when they came to pass the disciples might remember that He had foreknown them and had foretold them, and so might believe that He was God by nature.
+
+In the Church the same Lord still leads His people along this road. 
+The Passion is made present in the Holy Sacrifice of the Mass. 
+By grace we embrace the path of obedient suffering, death, and resurrection into the freedom of the children of God.
+
+
+
+
+
 
 
 
@@ -250,6 +271,38 @@ He awaits the return of every soul in thanksgiving and worship.
 
 ## Bartimaeus and Zacchaeus
 
+???+ quote "Luke 18:35-43"
+    And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:
+    And hearing the multitude pass by, he asked what it meant.
+    And they told him, that Jesus of Nazareth passeth by.
+    And he cried, saying, Jesus, thou Son of David, have mercy on me.
+    And they which went before rebuked him, that he should hold his peace: but he cried the more, Thou Son of David, have mercy on me.
+    And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him,
+    Saying, What wilt thou that I shall do unto thee? And he said, Lord, that I may receive my sight.
+    And Jesus said unto him, Receive thy sight: thy faith hath saved thee.
+    And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God.
+
+???+ quote "Luke 19:1-10"
+    And Jesus entered and passed through Jericho.
+    And, behold, there was a man named Zacchaeus, which was the chief among the publicans, and he was rich.
+    And he sought to see Jesus who he was; and could not for the press, because he was little of stature.
+    And he ran before, and climbed up into a sycomore tree to see him: for he was to pass that way.
+    And when Jesus came to the place, he looked up, and saw him, and said unto him, Zacchaeus, make haste, and come down; for to day I must abide at thy house.
+    And he made haste, and came down, and received him joyfully.
+    And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner.
+    And Zacchaeus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold.
+    And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.
+    For the Son of man is come to seek and to save that which was lost.
+
+Bartimaeus, though blind, sees who Jesus is and persists in crying for mercy. 
+Zacchaeus, small and sinful, is called by name. 
+Christ, the Author of all, grants sight by faith and brings salvation to the lost.
+
+!!! quote "St. Cyril of Alexandria"
+    Zacchaeus therefore, while he was in the crowd, saw not Christ, but having advanced beyond the vulgar ignorance, was thought worthy to entertain Him.
+
+In the Church the same Lord calls sinners by name, grants mercy to persistent faith, and brings salvation to every house that receives Him.
+
 
 
 
@@ -257,11 +310,44 @@ He awaits the return of every soul in thanksgiving and worship.
 
 ## Ten Minas
 
+???+ quote "Luke 19:11-27"
+    And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.
+    He said therefore, A certain nobleman went into a far country to receive for himself a kingdom, and to return.
+    And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.
+    But his citizens hated him, and sent a message after him, saying, We will not have this man to reign over us.
+    And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.
+    Then came the first, saying, Lord, thy pound hath gained ten pounds.
+    And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.
+    And the second came, saying, Lord, thy pound hath gained five pounds.
+    And he said likewise to him, Be thou also over five cities.
+    And another came, saying, Lord, behold, here is thy pound, which I have kept laid up in a napkin:
+    For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.
+    And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
+    Wherefore then gavest not thou my money into the bank, that at my coming I might have required mine own with usury?
+    And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds.
+    (And they said unto him, Lord, he hath ten pounds.)
+    For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.
+    But those mine enemies, which would not that I should reign over them, bring hither, and slay them before me.
+
+The people supposed the kingdom of God would immediately appear. 
+Christ, the Author of all, is the nobleman who ascends to receive the kingdom and will return to reward faithful servants and judge the unfaithful.
+
+!!! quote "St. Cyril of Alexandria, Commentary on Luke"
+    He speaks this parable because they thought that the kingdom of God was to appear immediately; but He shows that it was necessary for Him first to go to the Father and then to return.
+
+In the Church the same Lord entrusts us with His gifts and will return to reward faithful stewardship.
+
+
+
+
 
 
 ---
 
 ## The New Exodus
+
+Jesus has led the disciples on this journey from Galilee to Jerusalem. 
+Every teaching, healing, and encounter has prepared them for what He will accomplish in the holy city: the fulfillment of all that the prophets wrote concerning the Son of man through His Passion, death, and resurrection.
 
 
 
