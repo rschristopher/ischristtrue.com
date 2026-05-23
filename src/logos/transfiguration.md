@@ -170,8 +170,7 @@ Christ alone abides.
 He is Lord of both the old and the new.
 
 As they came down the mountain Jesus charged them to tell the vision to no man until the Son of man be risen from the dead. 
-The full meaning of this glory could only be grasped after the Resurrection. 
-For the Church that now lives in the light of the risen Christ the message is clear.
+The full meaning of this glory could only be grasped after the Resurrection.
 Look to Jesus only. 
 In Him a Christian has all things.
 
