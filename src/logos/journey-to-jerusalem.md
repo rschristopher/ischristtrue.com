@@ -2,8 +2,8 @@
 
 Following the Transfiguration, where Moses and Elijah spoke with Jesus of the exodus He would accomplish, Jesus was set to go to Jerusalem.
 
-The New Adam turned toward the Holy City. 
-In this journey He would teach the full cost of discipleship, reveal the mercy that fulfills the Law, and lead His people from the bondage of sin and death into the freedom of the heavenly Jerusalem.
+Amd so Jesus turned toward the Holy City. 
+In this journey He would teach the full cost of discipleship, reveal the mercy that fulfills the Law, and lead His people from the bondage of sin and death into the freedom of salvation that He would pay for with His life, death, and resurrection.
 
 
 
@@ -15,8 +15,8 @@ In this journey He would teach the full cost of discipleship, reveal the mercy t
 !!! quote "Luke 9:51"
     And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem.
 
-The New Adam turned toward the Holy City to accomplish the exodus spoken of on the mountain.
-He went willingly to the Passion that would fulfill the Law and the Prophets and open the way to the heavenly Jerusalem.
+Jesus turned toward the Holy City to accomplish the exodus spoken of on the mountain.
+He went willingly to the Passion that would fulfill the Law and the Prophets and open the way to salvation.
 
 !!! quote "St. Cyril of Alexandria, Commentary on Luke"
     For when the days were fulfilled for His being taken up, He set His face to go to Jerusalem. By which is meant, that as the time had now come for Him to suffer, He went voluntarily to His Passion.
@@ -32,12 +32,14 @@ He went willingly to the Passion that would fulfill the Law and the Prophets and
 !!! quote "Luke 9:57-62"
     And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest.
     And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head.
+    
     And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father.
     Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God.
+    
     And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house.
     And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.
 
-Jesus here reveals the absolute cost of discipleship on the way to Jerusalem.
+Jesus here reveals the absolute cost of discipleship.
 In His kenosis the Son of Man has nowhere to lay His head.
 He demands complete detachment from every earthly comfort and natural bond.
 
@@ -60,9 +62,12 @@ He demands complete detachment from every earthly comfort and natural bond.
     Therefore said he unto them, The harvest truly is great, but the labourers are few: pray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest.
     Go your ways: behold, I send you forth as lambs among wolves.
 
-The New Adam appointed seventy others and sent them to prepare the cities.
+Jesus appointed seventy others and sent them to prepare the cities.
+Seventy (or seventy-two im some translations) is a reference to the table of nations after the flood, the very same seventy nations that were scattered after the fall of the Tower of Babel.
+At this moment, Jesus is extending His work unto all the nations of the world.
+
 The Lord of the harvest sent forth laborers into a field that embraced both Jew and Gentile.
-As lambs among wolves they went in humility, prefiguring the apostolic mission of the Church empowered by His authority.
+As lambs among wolves they went in humility, prefiguring the apostolic mission of the Church, empowered by His authority.
 
 !!! quote "St. Cyril of Alexandria, Commentary on Luke"
     An outline of this ordinance also was set forth in the words of Moses, who at the command of God chose out seventy, upon whom God poured out His Spirit.
@@ -95,7 +100,7 @@ As lambs among wolves they went in humility, prefiguring the apostolic mission o
     Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?
     And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.
 
-Jesus is the Good Samaritan who came down from the heavenly Jerusalem to the man fallen among thieves.
+Jesus is the Good Samaritan who came down from the heav to the man fallen among thieves.
 In His kenosis He bound the wounds of fallen humanity with oil and wine and carried him to the inn of the Church.
 
 The priest and the Levite of the old covenant could not save; only the merciful Stranger who is God incarnate fulfills the Law of love.
