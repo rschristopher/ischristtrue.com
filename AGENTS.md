@@ -33,7 +33,7 @@ The Roman Catholic Church continues this Petrine ministry under Christ the Head 
 
 On every topic that involves controversy or division:
 
-- First present the **strongest possible critique** (especially from Eastern Orthodox, Protestant, or other perspectives) in its most honest, compelling, and persuasive form -- so that a sincere truth-seeking critic would read it and say, “Yes, that is a fair and strong statement of our position.”
+- First present the **strongest possible critique** (especially from Eastern Orthodox, Protestant, or other perspectives) in its most honest, compelling, and persuasive form, so that a sincere truth-seeking critic would read it and say, “Yes, that is a fair and strong statement of our position.”
 - Then answer those critiques directly and thoroughly with **Truth** drawn from:
   - Sacred Scripture
   - The Church Fathers (pre-schism East and West consensus where it exists)
@@ -47,7 +47,7 @@ Schisms are acknowledged as real wounds caused by human sin, which only Christ, 
 
 ---
 
-### Style Conventions
+### Style Requirements
 
 - Never use emdash, if truly needed use ` -- ` (space hyphen hyphen space).
 - Begin each major sections (`##`) with a horizontal rule: `---`
@@ -56,13 +56,13 @@ Schisms are acknowledged as real wounds caused by human sin, which only Christ, 
 - Refer to Christ or Jesus (the man) and only use titles when relevant.
 
 
-#### Admonitions (mkdocs-material)
+### Quote Requirements
 
 Always use Material for MkDocs admonitions for patristic, scriptural, and magisterial quotes. 
 
 Do noy use inline quotes.
 
-Do not paraphrase or summarize a quote.
+Do not paraphrase or summarize a quote in redundant text before or after the quote.
 
 **Regular quote (always visible):**
 ```markdown
