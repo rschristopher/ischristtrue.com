@@ -207,6 +207,33 @@ May we, like the disciples, learn to ask with faith, seek with perseverance, and
 
 ## Ten Lepers
 
+???+ quote "Luke 17:11-19"
+    And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.
+    And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:
+    And they lifted up their voices, and said, Jesus, Master, have mercy on us.
+    And when he saw them, he said unto them, Go shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed.
+    And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,
+    And fell down on his face at his feet, giving him thanks: and he was a Samaritan.
+    And Jesus answering said, Were there not ten cleansed? but where are the nine?
+    There are not found that returned to give glory to God, save this stranger.
+    And he said unto him, Arise, go thy way: thy faith hath made thee whole.
+
+Only one of the ten returned to give thanks and worship at the feet of Jesus. This act of gratitude marked the difference between external cleansing and full salvation. The Lord declared to the Samaritan stranger that his faith had made him whole.
+
+The passage shows the mercy of God reaching beyond Israel. 
+It reveals that true response to divine goodness is thankful adoration. 
+Many receive benefits but few return to the Giver.
+
+!!! quote "St. Cyril of Alexandria"
+    The Saviour of all does not reject the stranger but receives him who gives glory to God.
+
+In the Catholic Church the same Lord grants healing through the sacraments. 
+He awaits the return of every soul in thanksgiving and worship.
+
+
+
+
+
 
 
 
