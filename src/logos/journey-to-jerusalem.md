@@ -123,6 +123,39 @@ The Christian journey is one from death to life, paid in full by the Samaritan w
 
 ## Mary and Martha
 
+???+ quote "Luke 10:38-42"
+    Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into his house.
+    And she had a sister called Mary, which also sat at Jesus' feet, and heard his word.
+    But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.
+    And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:
+    But one thing is needful: and Mary hath chosen that good part, which shall not be taken away from her.
+
+Continuing His journey to Jerusalem, the Lord entered into a certain village and was received into the house of Martha. 
+There, two sisters set before us two ways of receiving the Lord.
+
+Martha was diligent and full of hospitality.
+She was cumbered about much serving. 
+Though her labor sprang from love, it brought forth anxiety. 
+In her distraction she asked the Lord to command her sister to rise and assist her.
+
+Mary chose instead to sit at Jesus feet and hear His word. 
+She fixed her whole attention upon the very Logos made flesh.
+
+The Lord corrected Martha with tender authority. 
+She was careful and troubled about many things, but only one thing is needful. 
+Mary had chosen that good part which shall not be taken away from her.
+
+On the road to Jerusalem, and to the Cross, Christ teaches every disciple the true order of the Christian life. 
+All service and action must flow from contemplation and attentive listening to the Word. 
+Without communion with Christ, even the finest works become burdensome and restless.
+
+!!! quote "St. Augustine"
+    Martha was troubled about many things, when but one thing was needful. Mary chose the better part, which shall not be taken away from her. She chose to be fed by the Lord, rather than to feed Him.
+
+The example of Mary calls every soul toward the contemplative heart. 
+In the Catholic Church the Lord sustains both the active and the contemplative life, yet always in right order: first to receive from Christ, then to serve in His name. 
+As we continue this journey with Him toward Jerusalem, may we also choose that good part which alone endures forever.
+
 
 
 
@@ -131,7 +164,40 @@ The Christian journey is one from death to life, paid in full by the Samaritan w
 
 ---
 
-## Ask, Seek, Knock
+### Ask, Seek, Knock
+
+???+ quote "Luke 11:9-13"
+    And I say unto you, Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.
+    For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
+    If a son shall ask bread of any of you that is a father, will he give him a stone? or if he ask a fish, will he for a fish give him a serpent?
+    Or if he shall ask an egg, will he offer him a scorpion?
+    If ye then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the Holy Spirit to them that ask him?
+
+Continuing His journey to Jerusalem, the Lord instructs His disciples in confident and persistent prayer. 
+Having taught them the words of the Our Father, He now urges them to ask, to seek, and to knock with the assurance of a loving Father who gives good gifts, above all the Holy Spirit.
+
+The image is intimate and familial. 
+Earthly fathers, though fallen, do not give stones for bread or serpents for fish. 
+How much more will the heavenly Father respond to those who come to Him through the Son?
+
+This teaching stands as a direct preparation for the trials that await in Jerusalem. 
+The road ahead demands not self reliance but bold, continual dependence upon the Father.
+The very Logos who journeys toward the Cross reveals the heart of the Father. 
+
+Prayer is no mere formality. 
+It is the living relationship that sustains every disciple. 
+In the Catholic Church this same invitation remains open. 
+The Lord preserves the grace of persistent prayer through the sacraments and the liturgy so that every soul may ask, seek, and knock until it receives the fullness of the Holy Spirit.
+
+!!! quote "St. Cyril of Alexandria"
+    He who asks receives, and he who seeks finds, and to him who knocks it shall be opened. For the heavenly Father gives the Holy Spirit to those who ask Him.
+
+As the shadow of the Passion lengthens on the road to Jerusalem, the Lord calls every heart to this holy boldness in prayer. 
+May we, like the disciples, learn to ask with faith, seek with perseverance, and knock with confidence, knowing that the Father who sent His Son will not refuse the Spirit to those who entreat Him.
+
+
+
+
 
 
 
