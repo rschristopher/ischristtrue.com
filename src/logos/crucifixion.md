@@ -109,6 +109,15 @@ The Church Fathers saw here the perfect pattern of obedience, mercy, and victory
 
 ## Forgive Them
 
+Even In the midst of rejection and torment Jesus intercedes for His executioners.
+
+!!! quote "Luke 23:34"
+    Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.
+
+The Church Fathers beheld here the perfect High Priest offering the sacrifice of the New Covenant. 
+Where the first Adam accused and hid, the New Adam pleads and restores. 
+This word reveals the depth of divine mercy: even the crime of deicide lies within the reach of the Saviour’s compassion, opening the fountain of forgiveness that flows from Calvary to every contrite heart.
+
 
 
 
@@ -135,7 +144,7 @@ The Church Fathers saw here the perfect pattern of obedience, mercy, and victory
 
 ---
 
-#% It is Finished
+## It is Finished
 
 
 
