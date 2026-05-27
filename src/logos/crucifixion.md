@@ -42,12 +42,10 @@ What the chief priests reject and Pilate writes in irony becomes the unchangeabl
 The very instrument of Roman authority proclaims the royal dignity of Christ to Jew and Gentile alike. 
 The Church Fathers beheld here the hand of God: even the pagan governor is made to testify to the truth that the King of the Jews reigns from the wood of the cross.
 
-??? info "Titulus"
-    INRI  
-    Latin phrase IESVS·NAZARENVS·REX·IVDÆORVM (Jesus Nazarenus, rex Judæorum)
+???+ info "Titulus"
+    **INRI** -- Latin phrase IESVS·NAZARENVS·REX·IVDÆORVM (Jesus Nazarenus, rex Judæorum)
     
-    INBI  
-    Greek version of the inscription, Ἰησοῦς ὁ Ναζωραῖος ὁ Bασιλεὺς τῶν Ἰουδαίων. Some representations change the title to "ΙΝΒΚ" ὁ Bασιλεὺς τοῦ κόσμου ("The King of the World"), or "ΙΝΒΔ" ὁ Bασιλεὺς τῆς Δόξης ("The King of Glory"), not implying that this was really what was written, but reflecting the tradition that icons depict the spiritual reality rather than the physical reality. 
+    +*INBI**  -- Greek version of the inscription, Ἰησοῦς ὁ Ναζωραῖος ὁ Bασιλεὺς τῶν Ἰουδαίων. Some representations change the title to "ΙΝΒΚ" ὁ Bασιλεὺς τοῦ κόσμου ("The King of the World"), or "ΙΝΒΔ" ὁ Bασιλεὺς τῆς Δόξης ("The King of Glory"), not implying that this was really what was written, but reflecting the tradition that icons depict the spiritual reality rather than the physical reality. 
     
     In Hebrew, the phrase is commonly rendered ישוע הנצרי ומלך היהודים (Yeshua` HaNotsri U'Melech HaYehudim IPA: [jeːʃuːɑʕ hɑnːɑtseri meleχ hɑjːəhuðiːm]), which translates to "Jesus the Nazarite and King of the Jews." This version has the acronym that constitute the tetragrammaton (יהוה) name corresponding with Yahweh or Jehovah. 
 
@@ -105,22 +103,28 @@ The Church Fathers saw here the perfect pattern of obedience, mercy, and victory
 
 
 
+
+
 ---
 
 ## Forgive Them
 
-Even In the midst of rejection and torment Jesus intercedes for His executioners.
+Even the midst of rejection and torment Jesus intercedes for His executioners,
+exactly as foretold by Isaiah when describing the suffering Servant.
+
+!!! quote "Isaiah 53:12"
+    Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.
 
 !!! quote "Luke 23:34"
     Then said Jesus, Father, forgive them; for they know not what they do. And they parted his raiment, and cast lots.
 
-The Church Fathers beheld here the perfect High Priest offering the sacrifice of the New Covenant. 
-Where the first Adam accused and hid, the New Adam pleads and restores. 
-This word reveals the depth of divine mercy: even the crime of deicide lies within the reach of the Saviour’s compassion, opening the fountain of forgiveness that flows from Calvary to every contrite heart.
+Even amid the miracles of the cross, the darkened sun, the rending rocks, the opened graves; Christ teaches by deed what He commanded in word.
 
+The Church Fathers with one voice see the perfect High Priest of the New Covenant offering the atoning sacrifice.
+St. John Chrysostom beholds here the supreme example of meekness and love for our enemies.
+Augustine hears in this prayer the very voice of divine mercy that Stephen the martyr echoed while being stoned, proving every believer must imitate Christ.
 
-
-
+This utterance reveals that all sin lies within the reach of the Saviour’s compassion, opening the fountain of forgiveness that flows from Calvary to every contrite heart across the ages.
 
 
 
