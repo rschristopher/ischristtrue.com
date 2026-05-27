@@ -1,6 +1,71 @@
-# Harrowing of Hades
+# The Harrowing of Hell
 
-> and the nature of hell
+When the Lord Jesus cried “It is finished” and yielded up the ghost on the cross, His redemptive work did not end. It entered its most confrontational phase. 
+
+Modern man clings to the comforting lie of annihilation. He yearns for nothingness after death, hoping the soul he fears is immortal will simply dissolve into the void. Yet the soul does not dissolve. It is created in the image of God and stands under judgment. Christ did not descend into emptiness. 
+
+He descended into Hades -- the realm of the dead, the prison of immortal souls forged by the first Adam’s fall. 
+The New Adam entered the stronghold of the enemy not as a captive but as Conqueror, carrying the victory of the Cross into the very heart of death’s domain.
+
+
+
+
+
+
+---
+
+## The Descent
+
+The body of the Lord Jesus was laid in the tomb. 
+Yet His soul, united to the divine Person, descended at once into Hades. 
+
+He entered as the perfect man, the Word of God made flesh, the one man hell cannot contain.
+The realm the first Adam had opened by his disobedience now received the New Adam who came to close it forever. 
+Hades, the place of waiting for all immortal souls since the Fall, trembled at His approach. 
+Death, which had held humanity captive, confronted its Destroyer.
+
+No angel announced Him. 
+No trumpet sounded. 
+The silent, sovereign entry of the crucified Christ into the underworld began the Harrowing. 
+He came as the ransom was paid, the blood already shed, to claim what belonged to Him from the foundation of the world.
+
+
+
+
+
+
+
+
+
+---
+
+## Nature of Hell
+
+Hades is the prison of immortal souls forged by the first Adam’s disobedience.
+Every soul survives death. 
+None dissolves into the nothingness modern man desperately craves in order to escape judgment. 
+The soul, created in the image of God, stands under the eyes of its Creator. 
+Fear of that judgment drives the longing for annihilation. 
+Yet annihilation is the lie. 
+Hell is the place of waiting where the dead remain conscious, accountable, and exposed.
+
+!!! quote "Revelation 20:11-15"
+    And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them. And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works. And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works. And death and hell were cast into the lake of fire. This is the second death.
+
+This judgment reveals the true nature of the realm Christ entered. 
+Death and Hades must one day surrender every captive. 
+No soul escapes into the void. 
+The Harrowing of Hell begins precisely here: the New Adam invades the prison the old Adam opened, to liberate what belongs to Him before the final casting of death and Hades into the lake of fire.
+
+
+
+
+
+
+
+
+
+# harrowing of hades
 
 
 
