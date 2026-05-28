@@ -24,13 +24,20 @@ Have mercy on me, a sinner
     ---
     
     Christus resurrexit
-    > Vere resurrexit
+    
+    Vere resurrexit
+    
+    ---
     
     Cristo ha resucitado
-    > Verdaderamente ha resucitado
+    
+    Verdaderamente ha resucitado
+    
+    ---
     
     Christos Voskrese
-    > Voistinu Voskrese
+    
+    Voistinu Voskrese
     
 
 
