@@ -12,87 +12,17 @@ The New Adam entered the stronghold of the enemy not as a captive but as Conquer
 
 
 
----
-
-## The Descent
-
-The body of the Lord Jesus was laid in the tomb. 
-Yet His soul, united to the divine Person, descended at once into Hades. 
-
-He entered as the perfect man, the Word of God made flesh, the one man hell cannot contain.
-The realm the first Adam had opened by his disobedience now received the New Adam who came to close it forever. 
-Hades, the place of waiting for all immortal souls since the Fall, trembled at His approach. 
-Death, which had held humanity captive, confronted its Destroyer.
-
-No angel announced Him. 
-No trumpet sounded. 
-The silent, sovereign entry of the crucified Christ into the underworld began the Harrowing. 
-He came as the ransom was paid, the blood already shed, to claim what belonged to Him from the foundation of the world.
 
 
 
-
-
-
-
+https://www.newworldencyclopedia.org/entry/Harrowing_of_Hell
 
 
 ---
 
-## Nature of Hell
+## Death and the Void
 
-Hades is the prison of immortal souls forged by the first Adam’s disobedience.
-Every soul survives death. 
-None dissolves into the nothingness modern man desperately craves in order to escape judgment. 
-The soul, created in the image of God, stands under the eyes of its Creator. 
-Fear of that judgment drives the longing for annihilation. 
-Yet annihilation is the lie. 
-Hell is the place of waiting where the dead remain conscious, accountable, and exposed.
-
-!!! quote "Revelation 20:11-15"
-    And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them. And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works. And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works. And death and hell were cast into the lake of fire. This is the second death.
-
-This judgment reveals the true nature of the realm Christ entered. 
-Death and Hades must one day surrender every captive. 
-No soul escapes into the void. 
-The Harrowing of Hell begins precisely here: the New Adam invades the prison the old Adam opened, to liberate what belongs to Him before the final casting of death and Hades into the lake of fire.
-
-
-
-
-
-
-
-
-
-# harrowing of hades
-
-
-
-https://www.earlychristianwritings.com/actspilate.html
-
-
-*Hell, Hades, Sheol* -- the underworld
-
-
-On the nature of hell.
-On what happens to our immortal soul
- after death.
-For in the end, death itself is thrown into the *lake of fire*.
-
-!!! quote "Revelation 20:11-15"
-    Then I saw a great white throne and Him who sat on it, from whose face the earth and the heaven fled away. And there was found no place for them. 
-    And I saw the dead, small and great, standing before God, and books were opened. And another book was opened, which is the Book of Life. And the dead were judged according to their works, by the things which were written in the books. 
-    The sea gave up the dead who were in it, and Death and Hades delivered up the dead who were in them. And they were judged, each one according to his works. 
-    Then Death and Hades were cast into the lake of fire. This is the second death. 
-    And anyone not found written in the Book of Life was cast into the lake of fire.
-
-There is a longing by nihilists
- -- *from
- the humanists who don't consider
- themselves nihilists, to the
- realists who scoff at the very idea* --
- that after death is nothingness.
+There is a longing by nihilists and secularists that after death is nothingness.
 They don't just believe this, 
  they yearn for this.
 And note when they say,
@@ -127,13 +57,14 @@ But this, as we will see, is itself
  a feel-good fantasy.
 Note these same "*intellectuals*"
  will take seriously 
- trans-hunanist
+ trans-humanist
  arguments
- and want to "upload" their consciousness
+ and attempt to "upload" their consciousness
  into a machine.
 
 Truth is, Christians fear immortality,
- because they fear God -- they fear
+ because they fear God.
+They fear
  the judgment that is due.
 Because they know, deep down, that they
  are unworthy of His grace.
@@ -142,7 +73,7 @@ And that only through the intercession
 
 As much as some pious half-hearted
  Christians imagine themselves as already
- saved, deep down they know,
+ saved, deep down they know
  that it was us
  who crucified the Son of God.
 The creator of the universe became man,
@@ -179,7 +110,9 @@ And in our sin of pride, of wanting
 And so, what happens to such exalted
  creatures, made in the image and likeness
  of God, when we die?
+
 Nothingness?
+
 This is the longing of the atheist -- because the alternative is too frightful to bear.
 For if God is real, then man's soul 
  is immortal,
@@ -203,8 +136,7 @@ They exist in meaningless darkness,
  which in their pride is what they would do.
 God's love is here, ready to
  save, and yet they still refuse, forever,
- burning in that lake of fire while desperate for
- the abyss of nothingness.
+ burning in that lake of fire while desperate for the abyss of nothingness.
 This is hell.
 
 If you want to understand hell,
@@ -220,6 +152,72 @@ A human soul is not destined for nirvana nor moksha --
  every soul is destined for truth, be it glorious, be it cold, be it fire.
  
 God have mercy on us.
+
+
+
+
+
+
+
+
+---
+
+## Descent into Hell
+
+The body of the Lord Jesus was laid in the tomb. 
+Yet His soul, united to the divine Person, descended at once into Hades. 
+
+He entered as the perfect man, the Word of God made flesh, the one man hell cannot contain.
+The realm the first Adam had opened by his disobedience now received the New Adam who came to close it forever. 
+Hades, the place of waiting for all immortal souls since the Fall, trembled at His approach. 
+Death, which had held humanity captive, confronted its Destroyer.
+
+No angel announced Him. 
+No trumpet sounded. 
+The silent, sovereign entry of the crucified Christ into the underworld began the Harrowing. 
+He came as the ransom was paid, the blood already shed, to claim what belonged to Him from the foundation of the world.
+
+
+
+
+
+
+
+
+
+---
+
+## The Nature of Hell
+
+On the nature of hell.
+On what happens to our immortal soul
+ after death.
+For in the end, death itself is thrown into the *lake of fire*.
+
+*Hell, Hades, Sheol* -- the underworld
+
+Hades is the prison of immortal souls forged by the first Adam’s disobedience.
+Every soul survives death. 
+None dissolves into the nothingness modern man desperately craves in order to escape judgment. 
+The soul, created in the image of God, stands under the eyes of its Creator. 
+Fear of that judgment drives the longing for annihilation. 
+Yet annihilation is the lie. 
+Hell is the place of waiting where the dead remain conscious, accountable, and exposed.
+
+!!! quote "Revelation 20:11-15"
+    And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them. And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works. And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works. And death and hell were cast into the lake of fire. This is the second death.
+
+This judgment reveals the true nature of the realm Christ entered. 
+Death and Hades must one day surrender every captive. 
+No soul escapes into the void. 
+The Harrowing of Hell begins precisely here: the New Adam invades the prison the old Adam opened, to liberate what belongs to Him before the final casting of death and Hades into the lake of fire.
+
+
+
+
+
+
+
 
 
 
