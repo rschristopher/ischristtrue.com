@@ -6,8 +6,7 @@ Have mercy on me, a sinner
 
 -->
 
-
-Jesus rises from the dead on the third day. 
+And on the third day He rose again. 
 The stone is rolled away from the tomb. 
 The grave clothes lie folded. 
 The body is gone.
@@ -60,7 +59,6 @@ What began with the crucifixion reaches its consummation here, that by His risin
 
 
 
----
 
 
 
@@ -141,15 +139,6 @@ From the road to Emmaus the Church receives the pattern that Scripture and Sacra
 
 
 
-
----
-
-## Peace be unto you
-
-Luke 24:36-43, John 20:19-25
-
-Thomas doubts
-Mark 16:14, John 20:26-29, 1 Corinthians 15:5
 
 
 ---
@@ -273,22 +262,25 @@ In the glorified yet physical reality of the risen Lord the one, holy, catholic,
 
 ---
 
-## The Resurrection Body
+## The Great Commission
 
-The risen Lord appears to many witnesses over forty days. 
-He is seen by Cephas, then by the twelve, then by more than five hundred brethren at once, then by James, then by all the apostles, and last of all by Paul.
+The eleven apostles go to Galilee, to the mountain where the Lord had appointed them. 
+They see Him and worship Him.
 
-!!! quote "1 Corinthians 15:3-8"
-    For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; And that he was buried, and that he rose again the third day according to the scriptures: And that he was seen of Cephas, then of the twelve: After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep. After that, he was seen of James; then of all the apostles. And last of all he was seen of me also, as of one born out of due time.
+!!! quote "Matthew 28:18-20"
+    And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth. Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost: Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen.
 
-!!! quote "1 Corinthians 15:42-49"
-    So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption: It is sown in dishonour; it is raised in glory: it is sown in weakness; it is raised in power: It is sown a natural body; it is raised a spiritual body. There is a natural body, and there is a spiritual body. And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit. Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual. The first man is of the earth, earthy: the second man is the Lord from heaven. As is the earthy, such are they also that are earthy: and as is the heavenly, such are they also that are heavenly.
+The risen Christ claims universal authority and sends the apostles to every nation under heaven. 
+The command to baptize in the name of the Father, the Son, and the Holy Ghost institutes the Trinitarian foundation of every Christian sacrament. 
 
-The same body that was crucified and buried now lives in glory. The testimony of more than five hundred living witnesses, most of whom were still alive when Paul wrote, anchors the resurrection in public, verifiable history. The risen flesh is continuous with the flesh that suffered, yet transformed: sown in corruption and raised in incorruption, sown in weakness and raised in power, sown a natural body and raised a spiritual body. 
+The charge to teach all that He commanded makes the apostolic doctrine the permanent rule of faith. 
+The promise “I am with you alway, even unto the end of the world” is the assurance that the same risen Lord remains present in His Church through every age.
 
-The Church Fathers, in pre-schism consensus, beheld in this mystery the fulfillment of God’s plan for the human race. St. Irenaeus taught that the incarnate Son, as the last Adam, recapitulates and restores all that the first Adam lost. St. Athanasius explained that the Lord took a real body so that in that same body He might destroy death and bestow incorruption upon our flesh. The resurrection body of Christ is therefore the first fruits and the guarantee of the general resurrection. What was mortal is made immortal; what was corruptible is made incorruptible. 
+St. John Chrysostom, in Homily 90 on the Gospel of Matthew, beholds in this final charge the expansion of salvation from Israel to the whole human race. 
+The apostles, once fearful and scattered, now receive the power that will found the one, holy, catholic, and apostolic Church.
+Through their preaching and baptism the victory of the resurrection is carried to every people, and the gate of paradise stands open until the end of the age.
 
-In the glorified yet physical reality of the risen Lord the one, holy, catholic, and apostolic Church proclaims the certain hope that every believer united to Him will one day rise in like manner.
+What began in the empty tomb reaches its fulfillment here: the same Lord who rose in the flesh now sends His Body, the Church, to make disciples of all nations until He comes again.
 
 
 
