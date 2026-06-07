@@ -2,8 +2,12 @@
 
 The eternal *Logos*, having sanctified the waters of the Jordan and triumphed over the devil in the wilderness, now advances into public ministry. The New Adam proclaims the arrival of the Kingdom. In His own Person He brings to its divinely appointed fulfillment the long expectation of the ages. What was promised from Adam through the Law and the Prophets now stands present and active. The same royal proclamation and grace are offered to every soul in the Church today.
 
+!!! info "Proclamation of the Kingdom"
+    <center>
+    ![Christ in glory proclaiming the Kingdom -- enthroned with the twelve apostles](/images/icon-logos-proclamation-of-the-kingdom.jpg)
+    </center>
 
-
+    Byzantine icon of Christ in glory with the twelve apostles (mid-14th century, Constantinople). Christ is enthroned upon a throne borne by seraphim, blessing with His right hand and holding open the Gospel in His left. The text in the Gospel records His royal commission: *All authority in heaven and on earth has been given to Me; go therefore and make disciples of all nations.* The twelve apostles stand in busts at left and right, receiving the proclamation of the Kingdom.
 
 
 ---

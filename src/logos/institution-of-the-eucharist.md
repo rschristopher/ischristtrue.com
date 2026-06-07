@@ -7,6 +7,13 @@ He took the cup, gave thanks, and gave it to them with the words that made it Hi
 This single act is the source and summit of the Christian life and the most profound mystery of the faith: the true Flesh and Blood of the Saviour given as food and drink for eternal life. 
 The Church Fathers received these words from the Apostles as the reality of the New Covenant, in which the same Flesh that suffered for our sins becomes our nourishment unto everlasting life.
 
+!!! info "Institution of the Eucharist"
+    <center>
+    ![The Mystical Supper -- Christ giving the Eucharist to the apostles](/images/icon-logos-institution-of-the-eucharist.jpg)
+    </center>
+
+    Byzantine icon of the Mystical Supper (Τὸ Μυστικὸν Δεῖπνον). From the festal tier of the iconostasis at Trinity Cathedral, Trinity-St. Sergius Lavra (Sergiev Posad), 1420s; workshop of Daniel Chorny and Andrey Rublev. Christ stands at the center of the horseshoe table distributing the Eucharist to the apostles; Judas reaches for the dipped morsel while the others receive the Body and Blood of the New Covenant.
+
 
 
 

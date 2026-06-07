@@ -3,6 +3,13 @@
 Immediately after His Baptism in the Jordan, the Spirit led our Lord Jesus Christ into the wilderness to be tempted by the devil (Matthew 4:1; Mark 1:12; Luke 4:1). The New Adam confronted the same threefold concupiscence that had conquered the first Adam in Eden (Genesis 3:6; 1 John 2:16). 
 In this combat Jesus triumphed completely, giving us both the model and the grace to overcome.
 
+!!! info "Temptations of Christ"
+    <center>
+    ![The Temptations of Christ -- Christ fasting in the wilderness, tempted by the devil](/images/icon-logos-temptations.jpg)
+    </center>
+
+    Byzantine icon of the Temptations (Οἱ Πειρασμοὶ). Christ stands fasting in the wilderness while the devil appears in three scenes: offering stones turned to bread, displaying the kingdoms of the world from a high mountain, and tempting Him to cast Himself from the temple pinnacle. In iconographic tradition the forty days of fasting precede the combat, and Christ's victory over the threefold concupiscence supplies the pattern for every Christian struggle.
+
 ???+ info "Dostoevsky’s Grand Inquisitor"
     In *The Brothers Karamazov* the Grand Inquisitor accuses Christ: "Thou didst reject the three powers ... miracle, mystery and authority ... Thou wouldst not enslave man by a miracle ... Thou didst crave for free love and not the base raptures of the slave before the might that has overawed him for ever." The world still hungers for these three more than for the living God.
 

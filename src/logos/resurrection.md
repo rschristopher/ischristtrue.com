@@ -20,47 +20,40 @@ Through this victory death had held sway over the world; through this victory th
 
 What began with the crucifixion reaches its consummation here, that by His rising we might be raised and the gate to paradise restored.
 
+!!! info "Resurrection of Christ"
+    <center>
+    ![The Resurrection -- the myrrhbearing women at the empty tomb](/images/icon-logos-resurrection.jpg)
+    </center>
 
+    Byzantine icon of the Myrrhbearing Women at the Tomb (Αἱ Μυροφόροι). The angel sits upon the rolled stone and announces that Christ is risen; the burial cloths lie empty within the sepulchre while the guard lies fallen at the door. The women come bearing spices and find instead the first witness of the Paschal victory -- the tomb opened, the body gone, and life restored to the world.
 
-!!! info "Christ is Risen!"
+!!! cross "Christ is Risen!"
     
-    Christ is risen!
-    
-    Indeed He is risen!
+    Christ is risen! -- **Indeed He is risen!**
     
     ---
     
-    Christos Anesti (Χριστός ἀνέστη)
-    
-    Alithos Anesti (Ἀληθῶς ἀνέστη)
+    Christos Anesti (Χριστός ἀνέστη) -- **Alithos Anesti (Ἀληθῶς ἀνέστη)**
     
     ---
     
-    Christus resurrexit
-    
-    Vere resurrexit
+    Christus resurrexit -- **Vere resurrexit**
     
     ---
     
-    Cristo ha resucitado
-    
-    Verdaderamente ha resucitado
+    Cristo ha resucitado -- **Verdaderamente ha resucitado**
     
     ---
     
-    Christos Voskrese
+    Christos Voskrese -- **Voistinu Voskrese**
     
-    Voistinu Voskrese
+    ---
     
-
-
-
-
-
-
-
-
-
+    Mshiho qom (ܡܫܝܚܐ ܩܡ) -- **B'hokhot qom (ܒܗܩܘܛ ܩܡ)**
+    
+    ---
+    
+    Al-Masih qam (المسيح قام!) -- **Haqqan qam (حقاً قام!)**
 
 ---
 

@@ -8,6 +8,13 @@ Christ [descended into Hades](
 https://www.newworldencyclopedia.org/entry/Harrowing_of_Hell) -- the realm of the dead, the prison of immortal souls forged by the first Adam’s fall. 
 The New Adam entered the stronghold of the enemy not as a captive but as Conqueror, carrying the victory of the Cross into the very heart of death’s domain.
 
+!!! info "The Harrowing of Hell"
+    <center>
+    ![The Harrowing of Hell -- Christ raising Adam and Eve from Hades](/images/icon-logos-harrowing-of-hell.jpg)
+    </center>
+
+    Byzantine fresco of the Anastasis (Ἡ Ἀνάστασις), 14th century, Chora Church (Kariye Camii), Istanbul. Christ stands victorious upon the shattered gates of Hades, robes radiant in uncreated light, grasping Adam and Eve by the wrist and drawing them forth from their tombs. Kings, prophets, and John the Baptist kneel behind Adam while death lies bound beneath the cross-shaped nimbus -- the Harrowing made visible in the Church's oldest iconographic tradition.
+
 
 
 

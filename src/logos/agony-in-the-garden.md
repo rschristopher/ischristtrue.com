@@ -9,6 +9,13 @@ Modern sentiment often reduces this scene to ordinary human anxiety or emotional
 The ancient Church has always beheld something far deeper: the incarnate God confronting in full the cup of divine wrath against sin. 
 In Gethsemane the perfect obedience of the Son meets the full reality of human rebellion.
 
+!!! info "Agony in the Garden"
+    <center>
+    ![Agony in the Garden -- Christ praying in Gethsemane as an angel presents the cup](/images/icon-logos-agony-in-the-garden.jpg)
+    </center>
+
+    Byzantine icon of the Agony in the Garden (Μολή εἰς τὸν κῆπον). Cretan School; Christ Church, University of Oxford. Christ kneels in prayer upon the rock of Gethsemane as an angel descends from heaven; the apostles sleep below while He returns to find them and calls them to watch. The incarnate Son confronts the full weight of the Passion and submits His human will perfectly to the Father.
+
 
 
 

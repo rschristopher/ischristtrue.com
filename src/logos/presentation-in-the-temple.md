@@ -2,6 +2,13 @@
 
 Forty days after the Nativity, the eternal *Logos* -- the Word of God made flesh -- is brought to the Temple in Jerusalem. In this quiet, humble act of obedience to the Law, the Creator of the universe submits Himself to the very rituals He gave to Israel. This is the first public presentation of Christ to His people.
 
+!!! info "Presentation in the Temple"
+    <center>
+    ![The Presentation in the Temple -- Simeon receives the infant Christ from the Virgin Mary](/images/icon-logos-presentation-in-the-temple.jpg)
+    </center>
+
+    Byzantine icon of the Hypapante (Ἡ Ὑπαπαντή / Сретение Господне). Simeon the Righteous stands upon the temple steps and receives the infant Christ in his arms as the Virgin Mary presents her Son; the prophetess Anna holds her scroll nearby, and Joseph stands in attendance. The aged Simeon's outstretched arms fulfill the prophecy that he would not see death before beholding the Lord's Christ.
+
 !!! warning "Timeline Note"
     According to Jewish law (Leviticus 12), the Presentation and Purification of Mary took place **forty days after birth**.  
     This event occurs *before* the visit of the Magi, the Flight into Egypt, and the Massacre of the Innocents.

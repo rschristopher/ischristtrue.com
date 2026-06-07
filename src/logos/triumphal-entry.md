@@ -3,8 +3,12 @@
 The Triumphal Entry is the moment Jesus entered Jerusalem as King in fulfillment of prophecy. 
 In deliberate humility, Jesus approached the Holy City on a colt, publicly declaring His messianic kingship while setting in motion the events of the Passion.
 
+!!! info "Triumphal Entry"
+    <center>
+    ![The Triumphal Entry -- Christ enters Jerusalem on a colt](/images/icon-logos-triumphal-entry.jpg)
+    </center>
 
-
+    Byzantine icon of the Entry into Jerusalem (ὁ Εἰσέλευσις εἰς τὰ Ἱεροσόλυμα). Fourteenth-century icon from St. Catherine's Monastery, Mount Sinai. Christ rides a donkey toward the gates of Jerusalem; the disciples walk before Him, and the crowd spreads garments and palm branches in the way. The Lord turns toward those who greet Him, fulfilling Zechariah's prophecy of the King who comes meek and riding upon an ass.
 
 
 ---

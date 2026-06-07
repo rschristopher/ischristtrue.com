@@ -6,7 +6,14 @@ The soldiers led Jesus into the Praetorium and bound him to the pillar.
 Here the physical torment of the Passion begins in earnest.
 
 Modern sentiment often reduces this scene to political expediency or random Roman brutality. 
-The ancient Church has always beheld something far deeper: the incarnate Son voluntarily submitting His sinless flesh to the lash in fulfillment of prophecy and for the healing fron our own rebellion.
+The ancient Church has always beheld something far deeper: the incarnate Son voluntarily submitted His sinless flesh to the lash, all in fulfillment of prophecy, for the healing of our own rebellion.
+
+!!! info "Scourging at the Pillar"
+    <center>
+    ![The Scourging at the Pillar -- Christ bound to the pillar, scourged by Roman soldiers](/images/icon-logos-scourging-at-the-pillar.jpg)
+    </center>
+
+    Byzantine icon of the Scourging (Ἡ Μάστιξις). Christ stands bound to the low pillar, His back turned to the lash as Roman soldiers strike with the flagrum. The iconographers of the Kremlin Armory painted this 16th--17th century panel in the traditional Orthodox manner: the sinless Lord submits in silence, His voluntary suffering purchasing the healing foretold by Isaiah.
 
 
 

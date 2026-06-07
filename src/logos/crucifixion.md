@@ -12,6 +12,13 @@ Through this wood death had entered the world; through this wood the Author of l
 
 What began with the carrying of the cross reaches its consummation here, that by His stripes we might be healed and the gate to paradise restored.
 
+!!! info "The Crucifixion"
+    <center>
+    ![The Crucifixion -- Christ upon the cross with the Virgin Mary and Saint John](/images/icon-logos-crucifixion.jpg)
+    </center>
+
+    Byzantine icon of the Crucifixion (Ὁ Σταυρός). Late Comnenos style, second half of the 12th century, Saint Catherine's Monastery, Mount Sinai. Christ hangs upon the cross in the Orthodox manner, flanked by the Virgin Mary and John the Evangelist; the sun and moon darken above, and the skull of Adam lies beneath Golgotha, signifying that through this wood the curse of death is undone and the way of life restored.
+
 
 
 

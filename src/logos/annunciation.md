@@ -4,8 +4,12 @@ The Annunciation is the moment the eternal *Logos* -- the very Word of God, obje
 In the womb of the Virgin Mary, the Word became flesh. 
 This is not merely a historical event; it is the decisive turning point of all creation.
 
+!!! info "Annunciation of Christ"
+    <center>
+    ![The Annunciation -- the Archangel Gabriel and the Virgin Mary](/images/icon-logos-annunciation.jpg)
+    </center>
 
-
+    Byzantine icon of the Evangelismos (ὁ Εὐαγγελισμός). The Archangel Gabriel announces to the Virgin Mary that she will conceive and bear the Son of God. Mary raises both hands, palms outward, in the gesture of the *orans* -- the posture of humble acceptance before God, expressing her Fiat: *be it unto me according to thy word.* Lilies between the figures signify her virginity; the ray descending from above signifies the overshadowing of the Holy Spirit.
 
 
 ---
@@ -62,8 +66,6 @@ The moment arrived. The angel Gabriel was sent to a virgin in Nazareth named Mar
     For with God nothing shall be impossible. 
 
     And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.
-
-<center>![Gabriel](/images/icon-gabriel.jpg)</center>
 
 *Be it unto me according to thy word.* This is Mary's *Fiat* -- her great act of faith and obedience. This young girl from the village of Nazareth became the first believer in Christ Jesus.
 

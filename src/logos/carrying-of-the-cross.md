@@ -10,9 +10,12 @@ Here the Second Adam embraces the tree that the first Adam could not bear, rever
 The Church Fathers contemplated this procession as the supreme mystery of obedience. 
 Through the wood death had entered the world; through this wood the Author of life now carries death itself back to the Father, that by His voluntary suffering the many might be made alive.
 
+!!! info "Carrying the Cross"
+    <center>
+    ![Carrying the Cross -- Christ bearing the wood of execution on the road to Golgotha](/images/icon-logos-carrying-of-the-cross.jpg)
+    </center>
 
-
-
+    Byzantine fresco of the Carrying of the Cross (Ἡ Σταυροφορία / Ἡ Ἀνάβασις εἰς τὸν Σταυρόν). Christ advances toward Golgotha with the cross upon His shoulders; soldiers press around Him and force the wood of execution forward. The incarnate Son, who is without sin, bears in His own body the instrument of the curse and walks the sorrowful path of obedience that reverses the fall of the first Adam.
 
 
 ---

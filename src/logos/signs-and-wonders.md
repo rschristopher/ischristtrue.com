@@ -4,6 +4,13 @@ During His public ministry Jesus performed many signs and wonders, manifesting H
 
 These were not mere displays of power but *sēmeia* -- signs that revealed His identity as the Messiah, fulfilled prophecy, restored what sin had broken, and called forth faith (John 20:30-31; Acts 2:22).
 
+!!! info "Signs and Wonders"
+    <center>
+    ![Christ Healing the Sick -- the multitude seeks to touch Him and be healed](/images/icon-logos-signs-and-wonders.jpg)
+    </center>
+
+    Byzantine icon of Christ Healing the Sick. Christ grants sight to a young blind man while a multitude of the lame, leprous, and possessed petition Him for mercy; the woman with an issue of blood reaches for the hem of His garment. Virtue goes out of Him and heals them all -- signs that reveal His identity as the Messiah, restore what sin has broken, and call forth faith.
+
 
 
 

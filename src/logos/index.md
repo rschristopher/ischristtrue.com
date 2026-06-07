@@ -4,6 +4,13 @@ Logos (Λόγος) means literally the *Word of God*.
 Christ is the *Logos incarnate*, the Word made flesh. 
 More specifically, Christ, the Logos, is Truth revealed in the flesh.
 
+!!! info "Logos"
+    <center>
+    ![Christ Pantocrator enthroned with the four Evangelists](/images/icon-logos-logos.jpg)
+    </center>
+
+    Byzantine icon of Christ Pantocrator (Χριστὸς Παντοκράτωρ) enthroned in glory, surrounded by the Tetramorph -- the winged symbols of Matthew, Mark, Luke, and John. Christ holds the open Gospel with the words *I am the light of the world* (John 8:12); beneath His feet the sun and stars mark the cosmos He rules. The incarnate Logos who *was in the beginning* is the same Christ who is forever God and who took flesh for our salvation -- the Truth revealed in the flesh.
+
 
 !!! quote "John 15:26-27"
     But when the Comforter is come, whom I will send unto you from the Father, even the *Spirit of truth*, which proceedeth from the Father, he shall testify of me: 
@@ -25,8 +32,6 @@ Even modern
 
 !!! quote "John 1:1"
     In the beginning was the Word (Logos), and the Word (Logos) was with God, and the Word (Logos) was God.
-
-    <center>![icon-christ](/images/icon-christ.jpg)</center>
 
 !!! quote "John 15:16-17"
     Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you. 

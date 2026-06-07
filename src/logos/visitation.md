@@ -2,8 +2,12 @@
 
 The Visitation is the first encounter of the incarnate *Logos* -- the Word of God -- with the world. Still hidden in the womb of the Virgin Mary, Christ already begins His saving work by sanctifying John the Baptist in the womb of Elizabeth. This is the moment the Word made flesh first makes Himself known, not with words, but with His mere presence.
 
+!!! info "Visitation"
+    <center>
+    ![The Visitation -- Mary and Elizabeth embrace, Christ and John in the womb](/images/icon-logos-visitation.jpg)
+    </center>
 
-
+    Byzantine icon of the Visitation (Ἐπισκέψις / Ὁ Ἀσπασμός) by Samuel Epperly. Mary and Elizabeth embrace in greeting; the infant Christ and John are visible in the womb medallions as John leaps for joy at the nearness of his Lord. A servant waits in the doorway of Elizabeth's house as stylized hills and architecture frame the hill-country meeting in which the incarnate Word, still hidden in Mary's womb, already sanctifies the Baptist before his birth.
 
 
 ---

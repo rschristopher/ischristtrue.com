@@ -12,6 +12,13 @@ In this voluntary humiliation the New Adam bears the curse of the first Adam, an
 Cassiodorus beheld in the relics preserved at Jerusalem that the thorny crown was set upon the head of the Redeemer such that all the thorns of the world might be gathered together and broken.
 The Fathers see in this act the reversal of the fall: where thorns sprang from sin, now the crown of thorns becomes the diadem of the King who restores paradise.
 
+!!! info "Crowning with Thorns"
+    <center>
+    ![Christ the Bridegroom crowned with thorns, hands bound](/images/icon-logos-crowning-with-thorns.jpg)
+    </center>
+
+    Byzantine icon of Christ the Bridegroom (ὁ Νυμφίος) in the Crown of Thorns. Christ wears the thorny circlet upon His sacred head, His hands bound and holding the reed of mockery, His gaze bowed in patient endurance. The soldiers intended ridicule; they unwittingly enthroned the King of kings. The thorns drawn from the earth cursed for Adam's sin become the diadem of the New Adam who bears the rebellion of the world upon Himself.
+
 
 
 

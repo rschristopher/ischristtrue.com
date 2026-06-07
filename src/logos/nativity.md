@@ -2,6 +2,14 @@
 
 The Nativity is the moment the eternal *Logos* -- the Word of God -- entered the world as a helpless infant. In the poverty of a stable in Bethlehem, the Creator of the universe was born among us. This is the fulfillment of every promise.
 
+!!! info "Nativity of Christ"
+    <center>
+    ![The Nativity -- the infant Christ in the cave at Bethlehem](/images/icon-logos-nativity.jpg)
+    </center>
+
+    Byzantine icon of the Nativity (Ἡ Γέννησις). The Star of Bethlehem shines above the cave; the infant Christ lies in the manger as the Virgin Mary rests beside Him and Joseph sits apart in contemplation. Angels announce the birth; the ox and ass look upon the newborn Lord. In the poverty of Bethlehem the eternal Logos enters the world in true human flesh.
+
+
 ---
 
 ## Birth of Jesus

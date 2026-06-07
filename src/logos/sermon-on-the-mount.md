@@ -10,6 +10,13 @@ Every word of the Sermon is both command and gift, showing what the Kingdom dema
 
 In this teaching the eternal Logos lays the foundation of Christian life and reveals the perfect standard of the City of God on earth.
 
+!!! info "Sermon on the Mount"
+    <center>
+    ![The Sermon on the Mount -- Christ teaching the Beatitudes from the mountain](/images/icon-logos-sermon-on-the-mount.jpg)
+    </center>
+
+    Byzantine icon of the Sermon on the Mount. Christ stands upon the rocky hillside, His right hand raised in the teaching gesture and a scroll in His left hand, as disciples listen from the slopes on either side. The incarnate Word, the true Lawgiver who gave the Law at Sinai, now ascends the mountain and reveals its perfect fulfillment -- the charter of the Kingdom of Heaven.
+
 !!! quote "Matthew 5:1-2"
     And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:
     And he opened his mouth, and taught them, saying,

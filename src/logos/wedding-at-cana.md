@@ -2,6 +2,13 @@
 
 The eternal *Logos*, by whose word all things were made, performs His first public sign at a wedding in Cana. At Mary's intercession He changes water into wine, manifesting His glory, sanctifying marriage, and revealing the abundance of the new covenant. This sign points forward to Baptism, to the water and blood from His side on the Cross, and to the Eucharist, where the best wine is kept until now.
 
+!!! info "Wedding at Cana"
+    <center>
+    ![The Wedding at Cana -- Christ changes water into wine at the feast](/images/icon-logos-wedding-at-cana.jpg)
+    </center>
+
+    Byzantine fresco of the Wedding at Cana (ὁ Γάμος ἐν Κανᾷ). From Visoki Dečani monastery, Kosovo, c. 1350. Christ stands among the wedding guests as Mary directs the servants to do whatever He tells them; the stone water jars of Jewish purification stand filled to the brim, and at His word the water becomes the finest wine. The steward, tasting what he does not know is a miracle, declares that the good wine has been kept until now.
+
 
 
 

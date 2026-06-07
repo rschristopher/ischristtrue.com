@@ -2,9 +2,12 @@
 
 After His victorious confrontation with the tempter in the wilderness and the manifestation of His glory at the wedding feast in Cana, the incarnate Logos returns to Galilee to begin His public ministry in earnest. This movement into the northern region, long considered peripheral and mixed with Gentile influence, is no accident. It is the strategic and prophetic beginning of the restoration of fallen humanity by the New Adam.
 
+!!! info "Ministry in Galilee"
+    <center>
+    ![Ministry in Galilee -- Christ calling the apostles at the Sea of Galilee](/images/icon-logos-ministry-in-galilee.jpg)
+    </center>
 
-
-
+    Byzantine mosaic of the Miraculous Draught of Fishes (Η Θαυμαστή Αλιεία). Christ stands upon the shore of the Sea of Galilee; Peter and Andrew cast their nets from the boat as He calls them to become fishers of men. The scene opens the Galilean ministry in which the incarnate Logos gathers disciples, teaches with authority, and heals the sick. After the 6th-century original in Sant'Apollinare Nuovo, Ravenna; Metropolitan Museum of Art.
 
 
 ---

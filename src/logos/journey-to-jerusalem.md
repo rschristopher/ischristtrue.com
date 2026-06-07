@@ -5,7 +5,12 @@ Following the Transfiguration, where Moses and Elijah spoke with Jesus of the ex
 Amd so Jesus turned toward the Holy City. 
 In this journey He would teach the full cost of discipleship, reveal the mercy that fulfills the Law, and lead His people from the bondage of sin and death into the freedom of salvation that He would pay for with His life, death, and resurrection.
 
+!!! info "Journey to Jerusalem"
+    <center>
+    ![The Journey to Jerusalem -- the parable of the Good Samaritan](/images/icon-logos-journey-to-jerusalem.jpg)
+    </center>
 
+    Russian Orthodox icon of the Parable of the Good Samaritan (ὁ Καλὸς Σαμαρείτης), late 18th century. A man fallen among thieves lies wounded on the road; the priest and Levite pass by, but the Samaritan dismounts, binds his wounds, and bears him to the inn. In the Lucan journey to Jerusalem, Christ sets this parable before those who would follow Him -- the incarnate Son Himself is the Samaritan who came down to heal the man left half dead and who promises to return.
 
 
 ---

@@ -2,7 +2,12 @@
 
 The hidden years of Christ’s childhood are veiled in silence. Yet in one dramatic moment, when Jesus was twelve years old, the eternal *Logos*, the Word of God made flesh, gave the world its first public glimpse of His divine wisdom and mission. This is the Finding in the Temple.
 
+!!! info "Finding in the Temple"
+    <center>
+    ![The Finding in the Temple -- the twelve-year-old Christ among the teachers](/images/icon-logos-finding-in-the-temple.jpg)
+    </center>
 
+    Byzantine icon of the Finding in the Temple (Ἡ Εὕρεσις ἐν τῷ Ἱερῷ), also celebrated in the Orthodox Church as Mid-Pentecost (Μεσοπεντηκοστή). The twelve-year-old Christ sits enthroned among the teachers of Israel in the Temple, listening and questioning them while astonishing all with His divine wisdom. Joseph and Mary appear at the doorway, having sought Him sorrowing for three days before finding the Word of God about His Father's business.
 
 
 ---
@@ -109,6 +114,8 @@ In this hidden life in Nazareth, the Word of God teaches us that true greatness 
 
 
 
+
+---
 
 ## Christ is Present
 

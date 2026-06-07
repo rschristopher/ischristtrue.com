@@ -10,6 +10,8 @@ dev_addr: 127.0.0.1:7000
 copyright: Uncopyright &copy; 2023-2026 ~ R.St. Christopher
 extra:
     generator: false
+extra_css:
+    - stylesheets/extra.css
 theme:
     name: material
     features:

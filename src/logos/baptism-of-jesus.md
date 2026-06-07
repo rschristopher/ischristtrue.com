@@ -2,8 +2,12 @@
 
 The Baptism of Christ is the great Theophany, the solemn public revelation of the Most Holy Trinity and the sanctification of the waters for the salvation of the world. The sinless Son of God enters the Jordan not for His own purification, but to cleanse the waters themselves and to open the way for every soul to be reborn through baptism.
 
+!!! info "Baptism of Christ"
+    <center>
+    ![The Baptism of Christ -- Christ in the Jordan with John the Baptist](/images/icon-logos-baptism-of-jesus.jpg)
+    </center>
 
-
+    Byzantine icon of the Theophany (Ἡ Θεοφάνεια). Christ stands in the Jordan as John the Baptist baptizes Him from the rocky bank; the Spirit descends as a dove within rays from the opened heavens. Angels attend on the right with garments for the Lord while the personified Jordan and the powers lurking in the deep cower beneath the sinless Son who enters the waters not for His own purification but to sanctify them for the salvation of the world -- the great manifestation of the Most Holy Trinity.
 
 
 ---
