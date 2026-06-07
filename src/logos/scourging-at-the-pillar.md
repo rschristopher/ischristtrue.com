@@ -13,7 +13,7 @@ The ancient Church has always beheld something far deeper: the incarnate Son vol
     ![The Scourging at the Pillar -- Christ bound to the pillar, scourged by Roman soldiers](/images/icon-logos-scourging-at-the-pillar.jpg)
     </center>
 
-    Byzantine icon of the Scourging (Ἡ Μάστιξις). Christ stands bound to the low pillar, His back turned to the lash as Roman soldiers strike with the flagrum. The iconographers of the Kremlin Armory painted this 16th--17th century panel in the traditional Orthodox manner: the sinless Lord submits in silence, His voluntary suffering purchasing the healing foretold by Isaiah.
+    Byzantine icon of the Scourging (Ἡ Μάστιξις). Christ stands bound to the low pillar, His back turned to the lash as Roman soldiers strike with the flagrum. The iconographers of the Kremlin Armory painted this 16th-17th century panel in the traditional Orthodox manner: the sinless Lord submits in silence, His voluntary suffering purchasing the healing foretold by Isaiah.
 
 
 

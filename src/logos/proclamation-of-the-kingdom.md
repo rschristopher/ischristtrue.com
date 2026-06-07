@@ -125,9 +125,10 @@ St. Augustine explains that the signs were works of mercy and power that reveale
 
 
 
-Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.
-
-Maranatha. Come, Lord Jesus.
+!!! cross "Maranatha"
+    Gloria Patri, et Filio, et Spiritui Sancto. Sicut erat in principio, et nunc, et semper, et in saecula saeculorum. Amen.
+    
+    Maranatha. Come, Lord Jesus.
 
 
 

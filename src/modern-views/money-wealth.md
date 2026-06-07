@@ -44,7 +44,7 @@ Clement of Alexandria, in *Who Is the Rich Man That Shall Be Saved?*, saw the da
 
 ## Wealth
 
-True wealth is not in bank accounts but in God. Scripture calls us to store “treasures in heaven” (Matthew 6:19-20), where moths, rust (and central bankers) cannot destroy. Basil the Great declared, “The bread you hoard belongs to the hungry; the cloak in your wardrobe belongs to the naked” (*On Wealth*). Hoarding wealth while others starve is not just greed -- it is theft from God’s poor.
+True wealth is not in bank accounts but in God. Scripture calls us to store “treasures in heaven” (Matthew 6:19-20), where moths, rust (and central bankers) cannot destroy. Basil the Great declared, “The bread you hoard belongs to the hungry; the cloak in your wardrobe belongs to the naked” (*Homily on "I Will Pull Down My Barns"*). Hoarding wealth while others starve is not just greed -- it is theft from God’s poor.
 
 Work is the root of godly wealth. God tasked Adam to tend creation (Genesis 2:15), and work remains good, a divine gift. Money, as a social technology, directs labor, but when produced without work -- as fiat is -- it becomes a tool of iniquity. The early Church rejected this, sharing all so “there were no needy persons among them” (Acts 4:34-35). John Chrysostom declares, “The rich man is not one who has much, but one who gives much” (*Homilies on Matthew*). Wealth is God’s, and we are stewards, not owners.
 

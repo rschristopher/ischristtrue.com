@@ -181,6 +181,9 @@ Every immortal soul created in the image of God will face the judgment the New A
 Death and hell are defeated. 
 The victory is finished.
 
+!!! cross "Christ is risen from the dead"
+    Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life.
+
 
 
 

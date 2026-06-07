@@ -354,7 +354,7 @@ Not only do we see *ouroboros* iconography resurging in modern culture, it is pa
 Here's an explicit example from 1971,
 
 !!! quote "Saul Alinsky, Rules for Radicals, 1971"
-    Lest we forget at least an over-the-shoulder acknowledgment to the very first radical: from all our legends, mythology, and history (and who is to know where mythology leaves off and history begins or which is which), the first radical known to man who rebelled against the establishment and did it so effectively that he at least won his own kingdom – Lucifer
+    Lest we forget at least an over-the-shoulder acknowledgment to the very first radical: from all our legends, mythology, and history (and who is to know where mythology leaves off and history begins or which is which), the first radical known to man who rebelled against the establishment and did it so effectively that he at least won his own kingdom -- Lucifer
 
 An easy way to understand *serpent* iconography is as primordial chaos, and when in an ouroboros position it is explicitly Luciferian, or at least trying to be.
 Contrast this with the *broken ouroboros* imagery where there's a higher ordering principle touching heaven, typically a staff (such as the staff of Moses in Exodus, or the staff of Hermes Trismigestus) but also the cross where Christ is as the serpent, explicitly breaking the ouroboros in the cross and putting the serpent in its place under a divine ordering principle.

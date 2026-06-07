@@ -81,3 +81,5 @@ Use KJV for holy scripture but do not write "(KJV)"
 
 The user may also request admonitions for warning or danger or info, which can be used to augment a given essay.
 
+Use the custom `cross` admonition (`!!! cross "Title"`) for brief liturgical acclamations and doxologies -- strong Christian proclamations that are not Scripture (which always uses `quote`); see `logos/resurrection.md`, `logos/harrowing-of-hell.md`, `logos/proclamation-of-the-kingdom.md`, and `truth.md`.
+

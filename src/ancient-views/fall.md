@@ -47,7 +47,7 @@ This first rebellion shattered the harmony of creation.
 Man, created in God's image, now faced toil, pain, and mortality -- a cosmic wound that altered time itself, introducing decay and the relentless march toward dust. 
 Yet, in mercy, God clothed Adam and Eve in animal skins (protecting from death, by death), foreshadowing the ultimate covering through Christ's sacrifice.
 
-!!! quote "The Hours of Pascha"
+!!! cross "The Hours of Pascha"
     Christ is risen from the dead, trampling down death by death, and upon those in the tombs bestowing life.
 
 

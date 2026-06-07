@@ -727,15 +727,18 @@ The Christian answer to Truth is,
  and on the other hand,
  a necessary claim for
  Truth to be knowable.
-That is, the Spirit of Truth -- God Almighty --
- the creator of the universe,
- was incarnate as man,
- was crucified for us,
- and on the third day He
- rose again.
-Truth is the incarnate word of God, and any articulation of Truth must be revealed to you personally.
-Truth (the word of God) is the literal person of Christ Jesus.
-In other words, from mathematics to philosophy to literature, Truth in those fields is the revealed word of God, the [logos](logos/index.md) made visible, who is Christ Jesus.
+
+!!! cross "Christ is the Truth"
+    The Spirit of Truth -- God Almighty --
+    the creator of the universe,
+    was incarnate as man,
+    was crucified for us,
+    and on the third day He rose again.
+    
+    Truth is the incarnate Word of God.
+    Truth is the person of Christ Jesus.
+
+In other words, from mathematics to philosophy to literature, Truth in those fields is the revealed word of God, the [logos](logos/index.md) made visible, who is Christ Jesus. Any articulation of Truth must be revealed to you personally.
 
 And even more outrageous,
  Christ is the mediator between

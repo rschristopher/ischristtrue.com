@@ -267,7 +267,7 @@ And yet, like the prodigal son, this is still Christ's church, even if that chur
 
 And even Pope Gregory the Great -- one of the greatest and most respected popes in history -- rejected the very idea of a “universal bishop.” In letters written between 595 and 604, he called the title a proud and dangerous innovation that would destroy the true unity of the Church and prepare the way for the Aatichrist.
 
-!!! quote "Pope Gregory the Great (letters to Patriarch John IV and Emperor Maurice, 595–604)"
+!!! quote "Pope Gregory the Great (letters to Patriarch John IV and Emperor Maurice, 595-604)"
     I say it confidently, because whoever calls himself “universal bishop” or desires to be so called, is in his pride the forerunner of the antichrist... For if one is universal, it follows that you are not a bishop.
 
 **What exactly is thr official position of the Catholic Church?**
@@ -283,11 +283,11 @@ Pope Gregory the Great was right to condemn a "universal bishop" as the headship
 
 The **primacy of jurisdiction** is not a later invention. It is the development of what was already witnessed in the first thousand years.
 
-Pope Victor I (c. 189--199) excommunicated the churches of Asia Minor over the date of Easter -- a direct exercise of authority over distant churches that provoked strong reaction from the East, proving it was understood as real power, not mere honor.
+Pope Victor I (c. 189-199) excommunicated the churches of Asia Minor over the date of Easter -- a direct exercise of authority over distant churches that provoked strong reaction from the East, proving it was understood as real power, not mere honor.
 
-Pope Leo I the Great (440--461) saw his *Tome to Flavian* accepted by the Council of Chalcedon (451) as the orthodox definition of Christ’s two natures, with the fathers acclaiming “Peter has spoken through Leo.” Leo later annulled Canon 28 of Chalcedon, which attempted to elevate Constantinople -- a clear act of jurisdictional authority over an ecumenical council.
+Pope Leo I the Great (440-461) saw his *Tome to Flavian* accepted by the Council of Chalcedon (451) as the orthodox definition of Christ’s two natures, with the fathers acclaiming “Peter has spoken through Leo.” Leo later annulled Canon 28 of Chalcedon, which attempted to elevate Constantinople -- a clear act of jurisdictional authority over an ecumenical council.
 
-Pope Gregory the Great himself (590--604) sent St. Augustine of Canterbury to convert England and placed the new English Church under Roman authority. He intervened in the Frankish Church, corrected bishops, and defended the rights of the Roman See against Constantinople’s claims.
+Pope Gregory the Great himself (590-604) sent St. Augustine of Canterbury to convert England and placed the new English Church under Roman authority. He intervened in the Frankish Church, corrected bishops, and defended the rights of the Roman See against Constantinople’s claims.
 
 !!! quote "Pope Gregory the Great"
     The care of the whole Church has been committed to me, though unworthy, in the place of Peter, the prince of the apostles.

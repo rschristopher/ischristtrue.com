@@ -86,7 +86,7 @@ St. Photius the Great (9th century) condemned it in his *Mystagogy of the Holy S
 Patristic consensus, the East maintains, upholds the Father’s monarchy as the sole source: the Son is eternally begotten of the Father, and the Holy Spirit eternally proceeds from the Father, manifesting through the Son in the divine economy. 
 Adding "and the Son," it is argued, confuses eternal procession (the hypostatic origin of the Spirit) with the temporal mission (the sending of the Spirit in salvation history).
 
-The Palamite councils (A.D. 1341--1351) formally anathematized the addition, affirming the essence-energies distinction and preserving the mystery of God from Western scholastic rationalism. 
+The Palamite councils (A.D. 1341-1351) formally anathematized the addition, affirming the essence-energies distinction and preserving the mystery of God from Western scholastic rationalism. 
 The East sees the unilateral insertion of the filioque as a dangerous overreach that subordinates the Spirit and undermines the Father’s unique monarchy -- the very foundation of Trinitarian theology.
 
 !!! quote "St. Photius the Great"
@@ -147,7 +147,7 @@ This does not contradict the original Creed but clarifies the eternal relation r
 
 The Catholic teaching preserves the Father’s monarchy while affirming the Son’s full participation in the spiration of the Spirit -- exactly as many Eastern Fathers already taught. St. John Chrysostom spoke of the Spirit proceeding “from the Father through the Son.” St. Cyril of Alexandria and St. Maximus the Confessor used equivalent language. St. Augustine likewise taught that the Spirit proceeds from the Father and the Son as from one single principle -- precisely the teaching later defined at Florence.
 
-The *Catechism of the Catholic Church* (CCC 246--248) and the 1995 Vatican clarification on the Filioque confirm this is not a denial of the Father as source, but an affirmation that the one divine essence is communicated from the Father through the Son.
+The *Catechism of the Catholic Church* (CCC 246-248) and the 1995 Vatican clarification on the Filioque confirm this is not a denial of the Father as source, but an affirmation that the one divine essence is communicated from the Father through the Son.
 
 The filioque is therefore not an innovation that destroys Trinitarian harmony, but a development that safeguards the equality of the Son while maintaining the monarchy of the Father.
 
@@ -156,7 +156,7 @@ Like every theological rift, the filioque finds its final resolution in Christ J
 The wound of this division has lasted because of our sins, which only Christ can heal.
 
 
-!!! danger "The Danger of Leaving the Son–Spirit Relationship Undefined"
+!!! danger "The Danger of Leaving the Son-Spirit Relationship Undefined"
     Eastern theology rightly holds that the Father alone is the sole hypostatic cause of the Holy Spirit. However, by confining the Son’s relationship with the Spirit strictly to the economic mission in time, it leaves their *eternal* relationship strikingly undefined.
     
     Scripture, by contrast, reveals a unique and intimate bond that cannot be reduced to history alone: the Son sends the Spirit (John 15:26; 20:22), pours Him out upon the Church (Acts 2:33), receives Him at His baptism, and is conceived by the Holy Spirit at the Annunciation. 

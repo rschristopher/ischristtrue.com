@@ -10,7 +10,7 @@ In this revelation He manifested the Trinity, fulfilled the Law and the Prophets
     ![The Transfiguration -- Christ on Tabor with Moses and Elijah](/images/icon-logos-transfiguration.jpg)
     </center>
 
-    Byzantine icon of the Transfiguration (Ἡ Μεταμόρφωσις). By Theophanes the Greek (Feofan Grek), c. 1400--1410, State Tretyakov Gallery, Moscow. Christ stands in a mandorla of uncreated light upon Mount Tabor; Moses and Elijah appear at His sides, bearing witness to the Law and the Prophets. Below, Peter, James, and John fall prostrate before the glory of the God-man, who reveals in His flesh the radiance that human nature was created to bear.
+    Byzantine icon of the Transfiguration (Ἡ Μεταμόρφωσις). By Theophanes the Greek (Feofan Grek), c. 1400-1410, State Tretyakov Gallery, Moscow. Christ stands in a mandorla of uncreated light upon Mount Tabor; Moses and Elijah appear at His sides, bearing witness to the Law and the Prophets. Below, Peter, James, and John fall prostrate before the glory of the God-man, who reveals in His flesh the radiance that human nature was created to bear.
 
 
 

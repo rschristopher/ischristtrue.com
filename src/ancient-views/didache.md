@@ -6,7 +6,7 @@ Have mercy on me, a sinner
 -->
 # The Didache
 
-!!! success "The Lord's Teaching Through the Twelve Apostles to the Nations."
+!!! cross "The Lord's Teaching Through the Twelve Apostles to the Nations."
     The Didache is a concise, anonymous early Christian text dated by scholars to as early as AD 50, making it contemporaneous with and even predating some New Testament books. 
     
     Rediscovered in 1873 by Philotheos Bryennios in the Codex Hierosolymitanus, it was highly regarded by early Church Fathers like Clement of Alexandria and Origen, influencing later documents such as the Apostolic Constitutions and included in the Ethiopian canon.

@@ -46,7 +46,7 @@ The Major Prophets -- Isaiah, Jeremiah, Ezekiel, and Daniel -- offer sweeping na
 
 ### Isaiah
 
-Isaiah ministered in Judah from approximately 739 to 701 BC, a period of political upheaval as the Assyrian empire loomed and internal corruption eroded the nation’s moral core. Serving under kings like Uzziah, Jotham, Ahaz, and Hezekiah, he urged reliance on God over fragile alliances with foreign powers. His 66-chapter book, often called the “fifth Gospel,” is a masterpiece of prophetic literature, blending judgment, mercy, and Messianic hope with such clarity that St. Jerome described Isaiah as an evangelist, not merely a prophet. The book’s structure mirrors the Bible itself: chapters 1–39 focus on rebuke and judgment, akin to the Old Testament, while chapters 40–66 emphasize comfort and redemption, echoing the New Testament’s promise. However, these chapter divisions, added by medieval Christians in the 13th century, should not dictate interpretation; the book demands to be read as a unified whole, its themes spiraling across time -- from Isaiah’s day to the exile, the Messianic age, and the end of history.
+Isaiah ministered in Judah from approximately 739 to 701 BC, a period of political upheaval as the Assyrian empire loomed and internal corruption eroded the nation’s moral core. Serving under kings like Uzziah, Jotham, Ahaz, and Hezekiah, he urged reliance on God over fragile alliances with foreign powers. His 66-chapter book, often called the “fifth Gospel,” is a masterpiece of prophetic literature, blending judgment, mercy, and Messianic hope with such clarity that St. Jerome described Isaiah as an evangelist, not merely a prophet. The book’s structure mirrors the Bible itself: chapters 1-39 focus on rebuke and judgment, akin to the Old Testament, while chapters 40-66 emphasize comfort and redemption, echoing the New Testament’s promise. However, these chapter divisions, added by medieval Christians in the 13th century, should not dictate interpretation; the book demands to be read as a unified whole, its themes spiraling across time -- from Isaiah’s day to the exile, the Messianic age, and the end of history.
 
 ![isaiah-timeline](/images/isaiah-timeline.jpg)
 
@@ -72,7 +72,7 @@ Isaiah’s prophecies transcend the old covenant, laying the foundation for the 
 
 From chapter 40, the tone shifts to comfort: “Comfort ye, comfort ye my people, saith your God” (40:1), heralding the end of exile and the coming of John the Baptist, the “voice crying in the wilderness” (40:3). Idols are mocked as powerless (44), contrasted with the Redeemer in whom God delights (42:1). A Trinitarian glimpse appears: “The Lord God, and his Spirit, hath sent me” (48:16). Salvation is no mere concept but a person -- the Word of God -- who overcomes death (46:10-13).
 
-Babylon’s fall (47) exposes false saviors like astrologers, while the Suffering Servant (50–55) bears humanity’s sins, “wounded for our transgressions” (53:5), offering His back to smiters (50:6). This Servant, speaking with authority and often in past tense (51:6), is the pre-incarnate Logos, God Himself. The coal’s purging (6:6-7) echoes the smith’s fire crafting redemption (54:16), culminating in an everlasting covenant of peace (55) open to all.
+Babylon’s fall (47) exposes false saviors like astrologers, while the Suffering Servant (50-55) bears humanity’s sins, “wounded for our transgressions” (53:5), offering His back to smiters (50:6). This Servant, speaking with authority and often in past tense (51:6), is the pre-incarnate Logos, God Himself. The coal’s purging (6:6-7) echoes the smith’s fire crafting redemption (54:16), culminating in an everlasting covenant of peace (55) open to all.
 
 These prophecies expand God’s plan: salvation for Gentiles (49:6), light to nations. Isaiah’s vision challenges us to move beyond narrow loyalties or prejudices, embracing Christ’s universal call to salvation. In a world divided by tribe and ideology, how do we respond to a Savior who redeems all nations?
 
@@ -82,7 +82,7 @@ Isaiah’s eschatology weaves a vivid tapestry of judgment and renewal, with loc
 
 Chapter 24 paints a global judgment: cities desolate, joy turned to mourning as God shakes creation’s foundations. Yet, chapter 25 bursts into praise, with God swallowing death forever, wiping tears, and hosting a banquet for all peoples. Chapter 26 sings of a salvation city, its gates open to the righteous, while chapter 27 celebrates slaying Leviathan, the chaotic serpent, signaling victory over disorder.
 
-Chapters 32–33 exalt God in consuming fire, toppling Satan and forgiving Zion. Chapter 57 notes the merciful spared from evil, while the wicked, trusting idols, find no peace. Chapter 58 teaches fasting that pleases God -- loosing bonds of injustice, sharing bread -- and honoring the Sabbath for delight in the Lord. Chapter 59 explains sin’s darkness hides God’s face, yet the Redeemer comes for the repentant. Chapter 63’s vengeance day, with the Lord treading the winepress alone, blood-stained (echoed in Revelation 19:15), underscores divine justice.
+Chapters 32-33 exalt God in consuming fire, toppling Satan and forgiving Zion. Chapter 57 notes the merciful spared from evil, while the wicked, trusting idols, find no peace. Chapter 58 teaches fasting that pleases God -- loosing bonds of injustice, sharing bread -- and honoring the Sabbath for delight in the Lord. Chapter 59 explains sin’s darkness hides God’s face, yet the Redeemer comes for the repentant. Chapter 63’s vengeance day, with the Lord treading the winepress alone, blood-stained (echoed in Revelation 19:15), underscores divine justice.
 
 These fractal patterns -- local judgments prefiguring the ultimate -- reveal history’s divine design. In our era of systemic corruption and global crises, Isaiah’s warnings urge us to repent before the day arrives, while his promises of mercy invite us to trust in God’s redemptive plan.
 
@@ -96,7 +96,7 @@ No human intercessor suffices (60); the Suffering Servant, the divine Logos, bri
 
 #### Authorship
 
-The question of Isaiah’s authorship has sparked significant debate, particularly among modern scholars who propose multiple writers. The “Deutero-Isaiah” theory suggests chapters 1–39 come from the 8th-century prophet, while 40–55 (or 40–66) were penned by an anonymous figure during the Babylonian exile, and the “Trito-Isaiah” hypothesis posits chapters 56–66 as the work of a post-exilic author. These ideas stem from perceived shifts in style, tone, and historical context, with later chapters seemingly addressing exilic audiences directly.
+The question of Isaiah’s authorship has sparked significant debate, particularly among modern scholars who propose multiple writers. The “Deutero-Isaiah” theory suggests chapters 1-39 come from the 8th-century prophet, while 40-55 (or 40-66) were penned by an anonymous figure during the Babylonian exile, and the “Trito-Isaiah” hypothesis posits chapters 56-66 as the work of a post-exilic author. These ideas stem from perceived shifts in style, tone, and historical context, with later chapters seemingly addressing exilic audiences directly.
 
 However, these theories lack concrete evidence and clash with both scripture and ancient tradition. 
 The Gospel of John explicitly attributes passages from both Isaiah 6 (the commission vision) and Isaiah 53 (the Suffering Servant) to a single prophet, Isaiah, connecting them with the phrase “because Isaiah said again” (John 12:37-41). 
@@ -163,9 +163,9 @@ Jeremiah’s life and words teach the high cost of prophetic faithfulness. Speak
 
 Daniel’s life bridges the courts of empires and the realm of divine vision, offering a testament to faithfulness under pressure. Taken captive as a noble youth from Judah in 605 BC, he served in Babylonian and later Persian courts until around 536 BC, rising to prominence through wisdom and integrity. His book, a blend of historical narratives and apocalyptic visions, spans the reigns of Nebuchadnezzar, Belshazzar, Darius, and Cyrus, showcasing God’s sovereignty over human powers.
 
-The first half (chapters 1–6) recounts dramatic stories that highlight God’s protection. Daniel and his friends -- Shadrach, Meshach, and Abednego -- refuse the king’s food to honor God’s law (1), demonstrating faithfulness in a pagan culture. They survive the fiery furnace (3) and Daniel the lions’ den (6), proving God’s power over earthly threats. Daniel interprets Nebuchadnezzar’s dream of a statue -- representing successive empires (Babylon, Medo-Persia, Greece, Rome) crushed by a divine stone (2) -- and Belshazzar’s ominous handwriting on the wall (5), foretelling Babylon’s fall.
+The first half (chapters 1-6) recounts dramatic stories that highlight God’s protection. Daniel and his friends -- Shadrach, Meshach, and Abednego -- refuse the king’s food to honor God’s law (1), demonstrating faithfulness in a pagan culture. They survive the fiery furnace (3) and Daniel the lions’ den (6), proving God’s power over earthly threats. Daniel interprets Nebuchadnezzar’s dream of a statue -- representing successive empires (Babylon, Medo-Persia, Greece, Rome) crushed by a divine stone (2) -- and Belshazzar’s ominous handwriting on the wall (5), foretelling Babylon’s fall.
 
-The second half (7–12) unveils apocalyptic visions: four beasts from the sea (7), symbolizing empires; a ram and goat (8), depicting Persia and Greece; and the “seventy weeks” (9:24-27), a timeline pointing to the Messiah’s coming. The “Son of Man” receiving eternal dominion (7:13-14) becomes Jesus’ self-title (Matthew 26:64), linking Daniel’s visions to Christ’s kingdom. The promise of resurrection -- “many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame” (12:2) -- offers hope beyond temporal powers.
+The second half (7-12) unveils apocalyptic visions: four beasts from the sea (7), symbolizing empires; a ram and goat (8), depicting Persia and Greece; and the “seventy weeks” (9:24-27), a timeline pointing to the Messiah’s coming. The “Son of Man” receiving eternal dominion (7:13-14) becomes Jesus’ self-title (Matthew 26:64), linking Daniel’s visions to Christ’s kingdom. The promise of resurrection -- “many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame” (12:2) -- offers hope beyond temporal powers.
 
 Daniel’s book emphasizes God’s control over history, the call to remain faithful in hostile cultures, and the assurance of resurrection. His ability to serve pagan kings without compromising faith models cultural engagement with integrity. In a world of clashing ideologies and powers, Daniel’s courage prompts us to ask: Where do we see God’s kingdom breaking through, and how do we stand firm without bowing to cultural pressures? His visions assure us that no empire outlasts God’s eternal rule, inspiring steadfastness in an uncertain world.
 
@@ -185,9 +185,9 @@ Ezekiel’s prophetic ministry unfolded in the shadow of exile, a time of displa
 
 The Book of Ezekiel opens with a breathtaking theophany: a chariot-throne borne by four living creatures (cherubim), each with four faces (man, lion, ox, eagle) and wings, surrounded by wheels within wheels, full of eyes, carrying God’s glory (chapter 1). This vision of divine mobility assured exiles that God was not confined to Jerusalem’s Temple but present even in Babylon. Ezekiel’s prophetic acts were vivid and shocking: eating a scroll inscribed with lamentations (3:1-3) to internalize God’s word; lying bound for 430 days (4:4-8) to symbolize Judah’s and Israel’s years of sin; shaving his head and burning, scattering, or hiding the hair (5:1-4) to depict Jerusalem’s fate. These performances made abstract truths unforgettable, embedding God’s message in the exiles’ minds.
 
-A central theme is the departure of God’s glory from the corrupt Temple (10–11), signaling judgment for idolatry and injustice, but its promised return to a renewed Temple (43) offers hope of restoration. Ezekiel introduces a radical shift in theology: individual responsibility. He declares, “The soul that sinneth, it shall die” (18:4), moving away from collective punishment to personal accountability -- a transformative concept for his audience. This emphasis challenges us to consider our own actions, not just societal failures, as we stand before God.
+A central theme is the departure of God’s glory from the corrupt Temple (10-11), signaling judgment for idolatry and injustice, but its promised return to a renewed Temple (43) offers hope of restoration. Ezekiel introduces a radical shift in theology: individual responsibility. He declares, “The soul that sinneth, it shall die” (18:4), moving away from collective punishment to personal accountability -- a transformative concept for his audience. This emphasis challenges us to consider our own actions, not just societal failures, as we stand before God.
 
-Hope permeates Ezekiel’s message, even in exile’s darkness. He prophesies a “new heart” and “new spirit” (36:26), where God will remove stony hearts and give hearts of flesh, a promise fulfilled in the outpouring of the Holy Spirit at Pentecost (Acts 2). The vision of dry bones reviving in a valley (37:1-14) vividly portrays Israel’s restoration and, by extension, humanity’s resurrection through Christ -- a powerful image of God’s life-giving power. The Messianic hope shines in chapter 34, where God as Good Shepherd gathers scattered sheep, a role Jesus claims (John 10:11). Ezekiel’s vision of a restored Temple (40–48) with a river flowing to heal the land (47:1-12) foreshadows the new creation in Revelation 22.
+Hope permeates Ezekiel’s message, even in exile’s darkness. He prophesies a “new heart” and “new spirit” (36:26), where God will remove stony hearts and give hearts of flesh, a promise fulfilled in the outpouring of the Holy Spirit at Pentecost (Acts 2). The vision of dry bones reviving in a valley (37:1-14) vividly portrays Israel’s restoration and, by extension, humanity’s resurrection through Christ -- a powerful image of God’s life-giving power. The Messianic hope shines in chapter 34, where God as Good Shepherd gathers scattered sheep, a role Jesus claims (John 10:11). Ezekiel’s vision of a restored Temple (40-48) with a river flowing to heal the land (47:1-12) foreshadows the new creation in Revelation 22.
 
 Ezekiel’s personal suffering -- his wife’s death as a sign to the exiles (24:15-18) -- underscores the sacrificial cost of prophecy. He was commanded not to mourn publicly, mirroring Israel’s stunned silence in judgment. This models obedience in adversity, teaching that God’s word demands embodiment, not just proclamation. Ezekiel’s ministry invites reflection: In our own “exile” -- whether personal alienation or societal chaos -- how do we seek God’s renewing Spirit? His visions challenge us to imagine: If God can breathe life into dry bones, what dead areas of our lives await His transformative touch? Ezekiel shows that even in the darkest moments, God’s presence moves, promising restoration to those who turn to Him.
 
@@ -244,7 +244,7 @@ Joel’s message teaches that crises -- whether natural disasters or personal tr
 
 ### Amos
 
-Amos, a shepherd and fig farmer from Tekoa in Judah, prophesied to northern Israel around 760–750 BC, during Jeroboam II’s prosperous reign. Beneath the wealth lay corruption: the elite exploited the poor, perverted justice, and indulged in hollow religious rituals. Amos thundered against this hypocrisy: “I hate, I despise your feast days, and I will not smell in your solemn assemblies” (5:21). His vision of a plumb line (7:7-9) measured Israel’s righteousness, finding it wanting.
+Amos, a shepherd and fig farmer from Tekoa in Judah, prophesied to northern Israel around 760-750 BC, during Jeroboam II’s prosperous reign. Beneath the wealth lay corruption: the elite exploited the poor, perverted justice, and indulged in hollow religious rituals. Amos thundered against this hypocrisy: “I hate, I despise your feast days, and I will not smell in your solemn assemblies” (5:21). His vision of a plumb line (7:7-9) measured Israel’s righteousness, finding it wanting.
 
 Amos’s oracles extend judgment to surrounding nations -- Damascus, Gaza, Tyre -- before zeroing in on Israel, showing God’s universal justice. Yet, hope emerges: “I will raise up the tabernacle of David that is fallen” (9:11), a Messianic promise of restoration quoted in Acts 15:16 to affirm Gentile inclusion.
 
@@ -279,7 +279,7 @@ Obadiah’s message teaches that pride precedes destruction, and loyalty to God�
 
 ### Jonah
 
-Jonah’s story, set around 785–760 BC, is unique among the prophets for its narrative focus. Called to preach repentance to Nineveh, Assyria’s brutal capital, Jonah fled by ship, fearing or resenting God’s mercy toward enemies. Swallowed by a great fish, he prayed from its belly, repenting and vowing obedience. Nineveh, astonishingly, heeded his warning and repented, averting judgment. 
+Jonah’s story, set around 785-760 BC, is unique among the prophets for its narrative focus. Called to preach repentance to Nineveh, Assyria’s brutal capital, Jonah fled by ship, fearing or resenting God’s mercy toward enemies. Swallowed by a great fish, he prayed from its belly, repenting and vowing obedience. Nineveh, astonishingly, heeded his warning and repented, averting judgment. 
 Jonah, however, sulked, angry at God’s compassion.
 
 The book’s Messianic significance lies in the “sign of Jonah” -- three days in the fish foreshadowing Christ’s burial and resurrection (Matthew 12:40). 
@@ -333,7 +333,7 @@ Nahum’s prophecy teaches that God’s justice, though delayed, is certain. In 
 
 ### Habakkuk
 
-Habakkuk, active around 612–589 BC, wrestled with a theological dilemma: Why would God use the wicked Babylonians to punish Judah? His book is a dialogue with God, blending questions, visions, and a concluding hymn. God’s response: “The vision is yet for an appointed time… the just shall live by his faith” (2:3-4), a verse pivotal in Romans 1:17.
+Habakkuk, active around 612-589 BC, wrestled with a theological dilemma: Why would God use the wicked Babylonians to punish Judah? His book is a dialogue with God, blending questions, visions, and a concluding hymn. God’s response: “The vision is yet for an appointed time… the just shall live by his faith” (2:3-4), a verse pivotal in Romans 1:17.
 
 Habakkuk’s faith grows, culminating in a psalm of trust: “Yet I will rejoice in the Lord, I will joy in the God of my salvation” (3:18), even if crops fail. This shift from doubt to worship models honest engagement with God.
 
@@ -350,7 +350,7 @@ Habakkuk’s dialogue teaches that questioning God, when rooted in faith, leads 
 
 ### Zephaniah
 
-Zephaniah, prophesying around 640–609 BC under King Josiah, warned of the “day of the Lord” as universal judgment sweeping Judah and nations for idolatry and pride. Yet, a humble remnant would survive, restored to worship with a “pure language” (3:9).
+Zephaniah, prophesying around 640-609 BC under King Josiah, warned of the “day of the Lord” as universal judgment sweeping Judah and nations for idolatry and pride. Yet, a humble remnant would survive, restored to worship with a “pure language” (3:9).
 
 His Messianic vision is intimate: “The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy” (3:17), portraying God singing over His people. This tenderness amid wrath highlights divine love.
 
@@ -382,7 +382,7 @@ Haggai’s prophecy teaches that obedience unlocks blessing. In our busy lives, 
 
 ### Zechariah
 
-Zechariah, prophesying alongside Haggai in 520–518 BC, encouraged Temple rebuilding through eight symbolic visions: a horseman among myrtles, a measuring line, a cleansed high priest. These assure purification and restoration, with Jerusalem as God’s dwelling.
+Zechariah, prophesying alongside Haggai in 520-518 BC, encouraged Temple rebuilding through eight symbolic visions: a horseman among myrtles, a measuring line, a cleansed high priest. These assure purification and restoration, with Jerusalem as God’s dwelling.
 
 Messianic prophecies abound: the pierced one mourned (12:10; John 19:37), the humble King riding a donkey (9:9; Matthew 21:5). Zechariah’s imagery -- Branch, Cornerstone -- points to Christ’s priesthood and kingship.
 
