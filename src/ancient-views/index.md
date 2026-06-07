@@ -295,7 +295,7 @@ While this is arguably a perversion of orthodox Hinduism, the symbolism is clear
 And should anyone think this is benign and some misunderstanding or misrepresentation, because obviously Kali isn't a feminist icon, here is a more recent article that makes these claims very [explicit](https://qz.com/1768545/hinduisms-kali-is-the-feminist-icon-the-world-desperately-needs):
 
 !!! quote "[Kali is the 3,000-year-old feminist icon we need today](https://qz.com/1768545/hinduisms-kali-is-the-feminist-icon-the-world-desperately-needs)"
-    This makes Kali the feminist icon we need today, in that she is a complex figure of many contrasting traits, all of which are equally worthy expressions of female strength—unapologetic because it doesn’t even consider that there could be anything to apologise for.
+    This makes Kali the feminist icon we need today, in that she is a complex figure of many contrasting traits, all of which are equally worthy expressions of female strength -- unapologetic because it doesn’t even consider that there could be anything to apologise for.
 
 While a sincere scholar of Hinduism could say this is a blatant misunderstanding of Kali, and of course that's true in the sense that Hinduism isn't exactly *feminist*, but the symbolism of Kali is also very clear. 
 Perhaps it's the scholars that are misunderstanding Kali, especially if they can't explain why her image is suddenly so popular within modern western culture.

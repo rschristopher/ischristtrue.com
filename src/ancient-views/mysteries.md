@@ -15,7 +15,7 @@ In [modern](../modern-views/index.md) Christianity, we often reduce sacraments t
 The ancient view, however, sees the Holy Mysteries -- also called evangelical mysteries or sacraments -- as essential channels of divine grace, uniting the natural and supernatural to convey God's promises efficaciously. Rooted in Scripture and patristic tradition, they are not mere signs but active means of salvation, as affirmed in the Confession of Dositheus (1672): "The Mysteries consist of something natural, and of something supernatural; and are not bare signs of the promises of God... We acknowledge them to be, of necessity, efficient means of grace to the receivers."
 
 !!! quote "Confession of Dositheus"
-    And the Mysteries consist of something natural, and of something supernatural; and are not bare signs of the promises of God. For then they would not differ from circumcision — what could be worse than that [idea]? We acknowledge them to be, of necessity, efficient means of grace to the receivers.
+    And the Mysteries consist of something natural, and of something supernatural; and are not bare signs of the promises of God. For then they would not differ from circumcision -- what could be worse than that [idea]? We acknowledge them to be, of necessity, efficient means of grace to the receivers.
 
 
 

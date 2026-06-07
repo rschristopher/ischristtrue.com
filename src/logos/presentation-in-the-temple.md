@@ -31,7 +31,7 @@ In this simple act the eternal Son of God receives the name that means *Yahweh s
 It was the custom under the Law to offer a lamb as a burnt offering for the purification of the mother. However, Joseph and Mary were poor and could not afford a lamb. Instead, in accordance with the provision of the Law, they offered two young pigeons:
 
 !!! quote "Leviticus 12:8"
-    And if she is not able to bring a lamb, then she may bring two turtledoves or two young pigeons—one as a burnt offering and the other as a sin offering. So the priest shall make atonement for her, and she will be clean.
+    And if she is not able to bring a lamb, then she may bring two turtledoves or two young pigeons -- one as a burnt offering and the other as a sin offering. So the priest shall make atonement for her, and she will be clean.
 
 In this humble offering we see the profound poverty of the Holy Family. The eternal *Logos*, the Creator of heaven and earth, enters His Temple not with riches or splendor, but with the offering of the poor. The One to whom all sacrifices are ultimately offered now submits Himself to the very Law of sacrifice, identifying completely with the lowly and the needy.
 

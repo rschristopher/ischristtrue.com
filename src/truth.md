@@ -28,7 +28,7 @@ What is truth? Hear Lactantius (de Ira Dei, cap. ii.) pointing out its three ste
 
 What is truth? "I am the way, the Truth, and the life." (John xiv.) 
 What is truth? It is the very highest good, says S. Basil in Antonius, surnamed Melissa.*;
-What is truth? It is God, says S. Dionysius, inasmuch as He is in His nature one only, and not many. For the truth is one — falsehood is manifold. !!!
+What is truth? It is God, says S. Dionysius, inasmuch as He is in His nature one only, and not many. For the truth is one -- falsehood is manifold. !!!
 What is truth? It is the faculty which brings to the light things which are shrouded in darkness, says Philo. 
 What is truth? The mightiest of all things, says Nazianzen (Orat. xiii.) 
 What is truth? It is a firm apprehension of an object in the mind, says S. Chrysostom. Hence the saying of Zorobabel, 3Esdr3, "A king is strong, wine is strong, but truth is strongest of all." And chap iv36 , "All the earth invokes truth, heaven also blesses it, and all things are moved by, and tremble at it;" and vcr40 , "There is no iniquity in its judgment, but strength and sovereignty and power, and the majesty of all ages. Blessed be the God of truth." 

@@ -128,7 +128,7 @@ This is the story of Truth, how we can know truth, and of our redemption and sal
 
 ### Joyful Mysteries
 
-The Joyful Mysteries proclaim the Incarnation of the only-begotten Son. In the Annunciation, Visitation, Nativity, Presentation, and Finding in the Temple, Jesus — true God from true God — enters creation as a child for us and for our salvation, revealing the Father in the flesh.
+The Joyful Mysteries proclaim the Incarnation of the only-begotten Son. In the Annunciation, Visitation, Nativity, Presentation, and Finding in the Temple, Jesus -- true God from true God -- enters creation as a child for us and for our salvation, revealing the Father in the flesh.
 
 !!! quote "St. Irenaeus"
     The Word of God became what we are, that He might make us what He is.

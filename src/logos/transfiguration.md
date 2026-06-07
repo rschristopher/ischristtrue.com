@@ -64,7 +64,7 @@ What the apostles beheld was the true state of human nature when it is fully uni
 
 ## Moses and Elijah
 
-!!! quote "Matthew 17:3–4"
+!!! quote "Matthew 17:3-4"
     And, behold, there appeared unto them Moses and Elias talking with him. Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias.
 
 Moses and Elijah appeared talking with Jesus. Moses represented the Law. Elijah represented the Prophets. They spoke with the New Adam who fulfilled them. 
@@ -89,7 +89,7 @@ The New Adam stood between them as the one in whom both find their completion.
 
 ## Cloud of Glory
 
-!!! quote "Matthew 17:5–6"
+!!! quote "Matthew 17:5-6"
     While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him. And when the disciples heard it, they fell on their faces, and were sore afraid.
 
 A bright cloud overshadowed them. 
@@ -143,7 +143,7 @@ He gives strength to those who belong to Him.
 
 ## Only Jesus
 
-!!! quote "Matthew 17:8–9"
+!!! quote "Matthew 17:8-9"
     And when they had lifted up their eyes, they saw no man, save Jesus only. And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead.
 
 When the disciples lifted up their eyes they saw no man save Jesus only. 
