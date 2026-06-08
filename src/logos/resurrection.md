@@ -11,6 +11,13 @@ The stone is rolled away from the tomb.
 The grave clothes lie folded. 
 The body is gone.
 
+!!! info "Resurrection of Christ"
+    <center>
+    ![The Resurrection -- the myrrhbearing women at the empty tomb](/images/icon-logos-resurrection.jpg)
+    </center>
+
+    Byzantine icon of the Myrrhbearing Women at the Tomb (Αἱ Μυροφόροι). The angel sits upon the rolled stone and announces that Christ is risen; the burial cloths lie empty within the sepulchre while the guard lies fallen at the door. The women come bearing spices and find instead the first witness of the Paschal victory -- the tomb opened, the body gone, and life restored to the world.
+
 Christ emerges victorious from the tomb. 
 He who is without sin has born in His own body the full weight of death. 
 Here the incarnate Son defeats death itself, reversing the ancient fall and opening the way of life for all who follow Him.
@@ -19,13 +26,6 @@ The Church Fathers contemplated the Resurrection as the climax of the Paschal My
 Through this victory death had held sway over the world; through this victory the Author of life defeats death, sin, and the devil. 
 
 What began with the crucifixion reaches its consummation here, that by His rising we might be raised and the gate to paradise restored.
-
-!!! info "Resurrection of Christ"
-    <center>
-    ![The Resurrection -- the myrrhbearing women at the empty tomb](/images/icon-logos-resurrection.jpg)
-    </center>
-
-    Byzantine icon of the Myrrhbearing Women at the Tomb (Αἱ Μυροφόροι). The angel sits upon the rolled stone and announces that Christ is risen; the burial cloths lie empty within the sepulchre while the guard lies fallen at the door. The women come bearing spices and find instead the first witness of the Paschal victory -- the tomb opened, the body gone, and life restored to the world.
 
 !!! cross "Christ is Risen!"
     
