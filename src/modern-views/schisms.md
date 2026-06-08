@@ -15,8 +15,7 @@ And in order to best understand [modern Christianity](christianity.md) it can be
 
 ## Brief History 
 
-There were many 
- [schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) in early Christianity, usually from heretical movements that broke away from the church.
+There were many [schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) in early Christianity, usually from heretical movements that broke away from the church.
 These heresies were often the impetus for ecumenical councils, which led to deeper articulations of the faith.
 
 !!! example "early schisms"
@@ -27,9 +26,7 @@ These heresies were often the impetus for ecumenical councils, which led to deep
     * [Nestorianism](https://en.m.wikipedia.org/wiki/Nestorianism), resolved in the [Council of Chalcedon](https://en.m.wikipedia.org/wiki/Council_of_Chalcedon) in AD 451
 
 
-However, in AD 1054 the
- [Great Schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism)
- split East and West Christendom.
+However, in AD 1054 the [Great Schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism) split East and West Christendom.
 At that point, Christianity had remained a *relatively* unified worldview for over a thousand years.
 Perhaps unsurprisingly, the *Great Schism* fell roughly along the boundaries of the historic Eastern and Western Roman Empire.
 
@@ -47,10 +44,9 @@ Yet the first thousand years had already shown a real center of unity in Rome --
 
 
 ### Reformation Schisms
-Later, in the 16th century the
-    [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) started a process of continuous schisms within the decaying Holy Roman Empire.
+Later, in the 16th century the [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) started a process of continuous schisms within the decaying Holy Roman Empire.
 Despite specific theological objections, the protestant reformation was mostly along ethnic lines, succeeding in northern Europe (England, Germany, Netherlands, etc) with a notable exception of Ireland which stayed Catholic.
-This left the Roman Catholic Church dominant in southern Europe, notably within the boundaries of the romance languages (Italy, France, Spain, Portugal).
+This left the Roman Catholic Church dominant in southern Europe, notably within the boundaries of the Romance languages (Italy, France, Spain, Portugal).
 <center>![east-west-prot](/images/east-west-prot.jpg)</center>
 
 Along these schismatic lines, Roman Catholicism spread into Central and South America (colonies from Spain and Portugal), whereas Protestantism spread into North America (immigrants from northern Europe).
@@ -58,7 +54,7 @@ In fact many of the early settlers into the north-American colonies were escapin
 
 This splintering of protestantism never ceased and continues now into our modern age. 
 There are now tens of thousands of different "Christian" sects.
-In fact, a modern protestant is likely to experience a schism even at their own local church, which are usually anchored only by a popular pastor.
+In fact, a modern protestant is likely to experience a schism even at their own local church, which is usually anchored only by a popular pastor.
 It's important to understand that this splintering is a continuation of the Great Schism of AD 1054 and feeds into the continuous destructive revolutions of our [modern worldview](index.md).
 
 
@@ -166,7 +162,7 @@ In the parable of the prodigal son, there were two sons, the younger left to was
 
 There is one very glaring change in the Eastern Orthodox church from the pre-schism church. The pre-schism was not autocephalous. This is a radical innovation which departs from the early church.
 
-The Catholic Church affirms that Eastern Orthodox churches possess valid apostolic succession and sacraments (see [Vatican II’s *Unitatis Redintegratio* §15](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)). The reverse is not affirmed, Eastern Orthodox do not consider Catholic sacraments as valid, even though the points of difference do not equate to the kind of Christological errors (such as Arianism) that would invalidate orders. The accusation that Rome "innovated" must be anakyzed carefully and that standard held universally.
+The Catholic Church affirms that Eastern Orthodox churches possess valid apostolic succession and sacraments (see [Vatican II’s *Unitatis Redintegratio* §15](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)). The reverse is not affirmed, Eastern Orthodox do not consider Catholic sacraments as valid, even though the points of difference do not equate to the kind of Christological errors (such as Arianism) that would invalidate orders. The accusation that Rome "innovated" must be analyzed carefully and that standard must be held universally.
 
 Post-schism autocephaly of Eastern Orthodox -- the model of fully independent churches without a common reference -- is a later development that the pre-schism Church Fathers would have rejected. As St. Cyprian wrote in the third century, if someone deserts the chair of Peter upon whom the Church was built, he cannot be confident that he is in the Church.
 
@@ -265,12 +261,12 @@ Importantly, these are the concerns of men -- the very reason Christ rebuked Pet
 Very obviously there was no infallible "vicar of Christ" in the *one holy catholic and apostolic church* (otherwise there would have been no need for ecumenical councils), and it is very clear that these are innovations and deviations from tradition.
 And yet, like the prodigal son, this is still Christ's church, even if that church is wasting its inheritance while in schism.
 
-And even Pope Gregory the Great -- one of the greatest and most respected popes in history -- rejected the very idea of a “universal bishop.” In letters written between 595 and 604, he called the title a proud and dangerous innovation that would destroy the true unity of the Church and prepare the way for the Aatichrist.
+And even Pope Gregory the Great -- one of the greatest and most respected popes in history -- rejected the very idea of a “universal bishop.” In letters written between 595 and 604, he called the title a proud and dangerous innovation that would destroy the true unity of the Church and prepare the way for the antichrist.
 
 !!! quote "Pope Gregory the Great (letters to Patriarch John IV and Emperor Maurice, 595-604)"
     I say it confidently, because whoever calls himself “universal bishop” or desires to be so called, is in his pride the forerunner of the antichrist... For if one is universal, it follows that you are not a bishop.
 
-**What exactly is thr official position of the Catholic Church?**
+**What exactly is the official position of the Catholic Church?**
 
 The Catholic Church teaches something more ancient and more careful.
 
@@ -292,7 +288,7 @@ Pope Gregory the Great himself (590-604) sent St. Augustine of Canterbury to con
 !!! quote "Pope Gregory the Great"
     The care of the whole Church has been committed to me, though unworthy, in the place of Peter, the prince of the apostles.
 
-Pope Gregpry the Great also referred to the Roman Church as having the “principatus” (primacy) and the duty to care for the universal Church.
+Pope Gregory the Great also referred to the Roman Church as having the “principatus” (primacy) and the duty to care for the universal Church.
 
 These were not acts of mere honor. They were the exercise of real, recognized authority for the unity of the Church.
 
