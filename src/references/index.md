@@ -8,9 +8,17 @@
 <br />
 traditional Christian creed
 
-* [Book of 1 Enoch](https://www.ccel.org/c/charles/otpseudepig/enochenoch/enoch.htm)
+* [*Apostolic Constitutions*](https://www.newadvent.org/fathers/0715.htm)
+<br />
+early Christian church order
+
+* [Book of 1 Enoch](https://www.gutenberg.org/ebooks/77935)
 <br />
 ancient Jewish pseudepigraphal text
+
+* [Book of 1 Maccabees](https://www.newadvent.org/bible/1ma001.htm)
+<br />
+deuterocanonical historical book
 
 * [Book of Jubilees](https://www.pseudepigrapha.com/jubilees/index.htm)
 <br />
@@ -18,23 +26,103 @@ ancient Jewish pseudepigraphal text
 
 * [Confession of Dositheus](http://www.crivoice.org/creeddositheus.html)
 <br />
-Synod of Jerusalem (1672)
+Synod of Jerusalem (A.D. 1672)
 
 * [*The Didache*](https://www.ccel.org/ccel/richardson/fathers.viii.i.ii.html)
 <br />
 early Christian church order
 
-* [Hours of Pascha](https://www.goarch.org/chapel/liturgical_texts/pascha)
+* [Hours of Pascha](https://www.antiochian.org/liturgicallibrary/pascha)
 <br />
 Orthodox liturgical text
 
-* [Nicene Creed](https://www.ccel.org/creeds/nicene-constantinopolitan.creed.html)
+* [Nicene Creed](https://www.ccel.org/creeds/nicene.creed.html)
 <br />
 ecumenical creed
 
+* [Septuagint](https://www.ccel.org/bible/brenton/index.html)
+<br />
+Greek Old Testament translation
+
+* [Wisdom of Sirach](https://www.newadvent.org/bible/sir001.htm)
+<br />
+deuterocanonical wisdom book
+
 ---
 
-## Contemporary
+## Philosophy
+
+* [*The Republic*](https://www.gutenberg.org/ebooks/1497)
+<br />
+by Plato
+
+* [*Laws*](https://classics.mit.edu/Plato/laws.html)
+<br />
+by Plato
+
+* [*Metaphysics*](https://classics.mit.edu/Aristotle/metaphysics.html)
+<br />
+by Aristotle
+
+* [*Politics*](https://www.gutenberg.org/ebooks/6762)
+<br />
+by Aristotle
+
+* [*Essay on the Manner and Spirit of Nations*](https://archive.org/details/bim_eighteenth-century_an-essay-on-universal-hi_voltaire_1759_1)
+<br />
+by Voltaire
+
+* [*A Treatise of Human Nature*](https://www.gutenberg.org/ebooks/4705)
+<br />
+by David Hume
+
+* [*The Social Contract*](https://www.gutenberg.org/ebooks/46333)
+<br />
+by Jean-Jacques Rousseau
+
+* [*Critique of Pure Reason*](https://www.gutenberg.org/ebooks/4280)
+<br />
+by Immanuel Kant
+
+* [*The World as Will and Representation*](https://www.gutenberg.org/ebooks/38427)
+<br />
+by Arthur Schopenhauer
+
+* [*Religion and Philosophy in Germany*](https://www.gutenberg.org/files/37478/37478-h/37478-h.htm#RELIGION_AND_PHILOSOPHY_IN_GERMANY)
+<br />
+by Heinrich Heine
+
+* [*The Communist Manifesto*](https://www.gutenberg.org/ebooks/61)
+<br />
+by Karl Marx
+
+* [*The Possessed*](https://www.gutenberg.org/ebooks/8117)
+<br />
+by Fyodor Dostoyevsky
+
+* [*The Brothers Karamazov*](https://www.gutenberg.org/ebooks/28054)
+<br />
+by Fyodor Dostoyevsky
+
+* [*The Gay Science*](https://www.gutenberg.org/ebooks/52881)
+<br />
+by Friedrich Nietzsche
+
+* [*Thus Spake Zarathustra*](https://www.gutenberg.org/ebooks/1998)
+<br />
+by Friedrich Nietzsche
+
+* [*The Will to Power*](https://www.gutenberg.org/ebooks/52914)
+<br />
+by Friedrich Nietzsche
+
+* [*The Gulag Archipelago*](https://archive.org/details/gulagarchipelago00solz)
+<br />
+by Aleksandr Solzhenitsyn
+
+---
+
+## Modern Christian Sources
 
 * [*Nihilism: The Root of the Revolution of the Modern Age*](https://www.sainthermanmonastery.com/product-p/nihil.htm)
 <br />
@@ -56,23 +144,23 @@ by Fr. Seraphim Rose
 <br />
 by Matthew the Poor
 
-* [Vision to Elder Anthimos](https://www.orthodox.net/askthepastor/)
+* [Vision to Elder Anthimos](https://www.johnsanidopoulos.com/2010/06/elders-anthimos-and-philotheos-vision.html)
 <br />
-attributed to Elder Anthimos (traditional Orthodox account; no published work)
+attributed to Elder Anthimos
 
 * [Teachings of Fr. Roman Braga](https://www.youtube.com/watch?v=BtP-1x99Zw8)
 <br />
-by Fr. Roman Braga (no specific book cited)
+by Fr. Roman Braga
 
 * [Glory to God for All Things](https://blogs.ancientfaith.com/glory2godforallthings/)
 <br />
-by Fr. Stephen Freeman (blog; no specific book cited)
+by Fr. Stephen Freeman
 
-* [Monastic Wisdom](https://www.orthodoxmonasteryicons.com/st-joseph-the-hesychast/)
+* [Monastic Wisdom](https://www.johnsanidopoulos.com/2013/10/the-life-of-elder-joseph-hesychast.html)
 <br />
 by St. Joseph the Hesychast
 
-* [*Mere Christianity*](https://www.cslewisinstitute.org/resources_mere-christianity/)
+* [*Mere Christianity*](https://www.gutenberg.org/ebooks/150)
 <br />
 by C.S. Lewis
 
@@ -88,9 +176,9 @@ by Fr. Seraphim Rose
 <br />
 by Fr. Seraphim Rose
 
-* [Sayings of Blessed Synkletike](https://www.orthodox.net/askthepastor/synkletike.htm)
+* Sayings of Blessed Synkletike
 <br />
-by Blessed Synkletike (no specific title cited)
+by Blessed Synkletike
 
 ---
 
@@ -100,19 +188,19 @@ by Blessed Synkletike (no specific title cited)
 <br />
 Catholic Church
 
-* [Council of Toledo (589)](https://www.newadvent.org/cathen/15130a.htm)
+* [Council of Toledo (A.D. 589)](https://www.newadvent.org/cathen/15130a.htm)
 <br />
 regarding the *Filioque*
 
-* [Council of Florence (1439)](https://www.vatican.va/content/eugenius-iv/en/documents/bulla-laetentur-caeli-6-iulii-1439.html)
+* [Council of Florence (A.D. 1439)](https://www.vatican.va/content/eugenius-iv/en/documents/bulla-laetentur-caeli-6-iulii-1439.html)
 <br />
 *Laetentur Caeli*, regarding the *Filioque*
 
-* [*Dei Filius*](https://www.vatican.va/content/pius-ix/en/documents/constitutiones-dogmaticae-s-s-pius-ix-dei-filius-24-april-1870.html)
+* [*Dei Filius*](https://www.papalencyclicals.net/councils/ecum20.htm)
 <br />
 First Vatican Council
 
-* [*Pastor Aeternus*](https://www.vatican.va/content/pius-ix/en/documents/constitutiones-dogmaticae-s-s-pius-ix-pastor-aeternus-18-july-1870.html)
+* [*Pastor Aeternus*](https://www.papalencyclicals.net/councils/ecum20.htm)
 <br />
 First Vatican Council
 
@@ -124,17 +212,17 @@ Second Vatican Council
 <br />
 by Pope Pius XII
 
-* [*Munificentissimus Deus*](https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_01111950_munificentissimus-deus.html)
+* [*Munificentissimus Deus*](https://www.papalencyclicals.net/pius12/p12munif.htm)
 <br />
 by Pope Pius XII
 
 * [The Greek and Latin Traditions Regarding the Procession of the Holy Spirit](https://www.christianunity.va/content/unitacristiani/en/documenti/altri-testi/en1.html)
 <br />
-Pontifical Council for Promoting Christian Unity (1995), regarding the *Filioque*
+Pontifical Council for Promoting Christian Unity (A.D. 1995), regarding the *Filioque*
 
 ---
 
-## Patristic Literature
+## Patristic Writings
 
 * [Epistle on the Arian Heresy](https://www.newadvent.org/fathers/2502.htm)
 <br />
@@ -142,7 +230,7 @@ by Alexander of Alexandria
 
 * [Writings of St. Ambrose](https://www.newadvent.org/fathers/3401.htm)
 <br />
-by St. Ambrose of Milan (no specific title cited)
+by St. Ambrose of Milan
 
 * [*On the Incarnation*](https://www.newadvent.org/fathers/2802.htm)
 <br />
@@ -184,6 +272,10 @@ by St. Augustine of Hippo
 <br />
 by St. Augustine of Hippo
 
+* [*Expositions on the Psalms*](https://www.newadvent.org/fathers/1801.htm)
+<br />
+by St. Augustine of Hippo
+
 * [*On the Holy Spirit*](https://www.newadvent.org/fathers/3203.htm)
 <br />
 by St. Basil the Great
@@ -192,7 +284,7 @@ by St. Basil the Great
 <br />
 by St. Basil the Great
 
-* [*On Spiritual Deception*](https://www.orthodoxinfo.com/inquirers/brianchaninov_prelest.aspx)
+* *On Spiritual Deception*
 <br />
 by St. Ignatius Brianchaninov
 
@@ -200,7 +292,7 @@ by St. Ignatius Brianchaninov
 <br />
 by St. John Cassian
 
-* [Homilies on the Acts of the Apostles](https://www.newadvent.org/fathers/2005.htm)
+* [Homilies on the Acts of the Apostles](https://www.newadvent.org/fathers/2101.htm)
 <br />
 by St. John Chrysostom
 
@@ -212,11 +304,15 @@ by St. John Chrysostom
 <br />
 by St. John Chrysostom
 
-* [*The Ladder of Divine Ascent*](https://www.ccel.org/ccel/john_climacus/ladder.html)
+* [Homilies on Romans](https://www.ccel.org/ccel/schaff/npnf111/npnf111.vii.html)
+<br />
+by St. John Chrysostom
+
+* [*The Ladder of Divine Ascent*](https://www.orthodox.net/ustav/ladder-of-divine-ascent.html)
 <br />
 by St. John Climacus
 
-* [*Who Is the Rich Man That Shall Be Saved?*](https://www.ccel.org/ccel/clement/richman.html)
+* [*Who Is the Rich Man That Shall Be Saved?*](https://www.newadvent.org/fathers/0207.htm)
 <br />
 by Clement of Alexandria
 
@@ -248,11 +344,11 @@ by St. Cyril of Jerusalem
 <br />
 by St. John of Damascus
 
-* [*On Divine Images*](https://www.ccel.org/ccel/schaff/npnf09/npnf09.html)
+* [*On Divine Images*](https://ccel.org/ccel/damascus/icons)
 <br />
 by St. John of Damascus
 
-* [*The Hymns on Faith*](https://www.ccel.org/ccel/ephraim/hymnsfaith.html)
+* *The Hymns on Faith*
 <br />
 by St. Ephraim the Syrian
 
@@ -260,7 +356,7 @@ by St. Ephraim the Syrian
 <br />
 by St. Gregory the Great
 
-* [Letters to Patriarch John IV and Emperor Maurice (595-604)](https://www.newadvent.org/fathers/3602.htm)
+* [Letters to Patriarch John IV and Emperor Maurice (A.D. 595-604)](https://www.newadvent.org/fathers/3602.htm)
 <br />
 by Pope St. Gregory the Great
 
@@ -268,7 +364,7 @@ by Pope St. Gregory the Great
 <br />
 by St. Gregory of Nazianzus (St. Gregory the Theologian)
 
-* [*Triads in Defense of the Holy Hesychasts*](https://www.ccel.org/ccel/gregorypalamas/triads.html)
+* *Triads in Defense of the Holy Hesychasts*
 <br />
 by St. Gregory Palamas
 
@@ -284,7 +380,7 @@ by St. Irenaeus of Lyon
 <br />
 by St. Isaac the Syrian
 
-* [*Commentary on Isaiah*](https://www.ccel.org/ccel/jerome/isah.html)
+* [*Commentary on Isaiah*](https://ccel.org/ccel/schaff/npnf206/npnf206.i.html)
 <br />
 by St. Jerome
 
@@ -296,19 +392,23 @@ by Julius Africanus
 <br />
 by St. Leo the Great
 
-* [*Tome to Flavian*](https://www.papalencyclicals.net/leo01/l-tome.htm)
+* [*Tome to Flavian*](https://www.newadvent.org/fathers/3604028.htm)
 <br />
 by St. Leo the Great
 
-* [Writings on the Passions](https://www.ccel.org/ccel/maximus_confessor/discipline.toc.html)
+* Writings on the Passions
 <br />
 by St. Maximus the Confessor
 
-* [*Commentary on Jonah*](https://www.ccel.org/ccel/origen/homilies_jonah.toc.html)
+* *Commentary on Jonah*
 <br />
 by Origen
 
-* [*Mystagogy of the Holy Spirit*](https://www.orthodoxinfo.com/inquirers/mystagogy_photius.aspx)
+* [*Celestial Hierarchy*](https://www.ccel.org/ccel/dionysius/celestial.html)
+<br />
+by Pseudo-Dionysius
+
+* *Mystagogy of the Holy Spirit*
 <br />
 by St. Photius the Great
 
@@ -320,7 +420,7 @@ by St. Symeon the New Theologian
 <br />
 by Tertullian
 
-* [*The Path to Salvation*](https://www.ccel.org/ccel/theophan/salvation.html)
+* *The Path to Salvation*
 <br />
 by St. Theophan the Recluse
 
