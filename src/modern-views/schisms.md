@@ -16,50 +16,51 @@ And in order to best understand [modern Christianity](christianity.md) it can be
 ## Brief History 
 
 There were many [schisms](https://en.m.wikipedia.org/wiki/Schism_in_Christianity) in early Christianity, usually from heretical movements that broke away from the church.
-These heresies were often the impetus for ecumenical councils, which led to deeper articulations of the faith.
+These disputes often provoked ecumenical councils, which articulated the faith of the churches that remained in communion.
 
 !!! example "early schisms"
     * [Montanism](https://www.britannica.com/topic/Montanism), condemned in AD 177, and died out after a few centuries 
-    * [Arianism](https://en.m.wikipedia.org/wiki/Arianism), resolved in the [First Council of Nicea](https://en.m.wikipedia.org/wiki/First_Council_of_Nicaea) in AD 325
-    * [Donatism](https://www.britannica.com/topic/Donatists), resolved in the [Conference of Carthage](https://en.m.wikipedia.org/wiki/Council_of_Carthage) in AD 411
-    * [Pelagianism](https://en.m.wikipedia.org/wiki/Pelagianism), resolved in the [Council of Carthage](https://en.m.wikipedia.org/wiki/Council_of_Carthage) in AD 418
-    * [Nestorianism](https://en.m.wikipedia.org/wiki/Nestorianism), resolved in the [Council of Chalcedon](https://en.m.wikipedia.org/wiki/Council_of_Chalcedon) in AD 451
+    * [Arianism](https://en.m.wikipedia.org/wiki/Arianism), defined against at the [First Council of Nicea](https://en.m.wikipedia.org/wiki/First_Council_of_Nicaea) in AD 325
+    * [Donatism](https://www.britannica.com/topic/Donatists), addressed at the [Conference of Carthage](https://en.m.wikipedia.org/wiki/Council_of_Carthage) in AD 411
+    * [Pelagianism](https://en.m.wikipedia.org/wiki/Pelagianism), condemned at the [Council of Carthage](https://en.m.wikipedia.org/wiki/Council_of_Carthage) in AD 418
+    * [Nestorianism](https://en.m.wikipedia.org/wiki/Nestorianism), defined against at the [Council of Chalcedon](https://en.m.wikipedia.org/wiki/Council_of_Chalcedon) in AD 451 (the [Church of the East](https://en.m.wikipedia.org/wiki/Church_of_the_East) continues outside Byzantine communion)
 
-
-However, in AD 1054 the [Great Schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism) split East and West Christendom.
-At that point, Christianity had remained a *relatively* unified worldview for over a thousand years.
-Perhaps unsurprisingly, the *Great Schism* fell roughly along the boundaries of the historic Eastern and Western Roman Empire.
+Those early breaks were largely **heresies**: movements that denied what the councils confessed. For the first millennium, east and west still shared *one holy catholic and apostolic church* -- one baptism, one creed, councils that spoke for the whole Church, and a **pentarchy** of patriarchates at Rome, Constantinople, Alexandria, Antioch, and Jerusalem.
 
 ### East and West
 As Christianity spread into the world, the Roman empire had been divided between East and West (first by [Diocletian](https://www.worldhistory.org/Diocletian/)), and later the empire was temporarily reunited by [Constantine](https://www.worldhistory.org/Constantine_I/) who converted to Christianity and moved the capital away from old Rome and into [Byzantium](https://www.worldhistory.org/Byzantium/) which would later be renamed [Constantinople](https://www.worldhistory.org/Constantinople/). 
 
 Western Rome fell in AD 476, while 
-Eastern Rome, also known as the [Byzantine Empire](https://www.worldhistory.org/Byzantine_Empire/), would continue the Roman empire (now as a Christian empire) for over a thousand more years (the longest living empire in the history of the world).
+Eastern Rome, also known as the [Byzantine Empire](https://www.worldhistory.org/Byzantine_Empire/), would continue the Roman empire (now as a Christian empire) for nearly a thousand more years.
 <center>![east-west-rome](/images/east-west-rome.jpg)</center>
 
 ### The Great Schism
-In AD 962, Frankish and Germanic remnants of the long dead Western Roman Empire established the [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), and through political ambitions insisted on papal supremacy over all of Christendom. By AD 1054 the east and west [officially](https://www.britannica.com/event/East-West-Schism-1054) excommunicated each other (first Rome excommunicated the patriarch of Constantinople, then all four eastern patriarchs excommunicated Rome).
-Yet the first thousand years had already shown a real center of unity in Rome -- as when Irenaeus wrote that all churches must agree with the Roman church on account of its pre-eminent authority, or when the fathers at Chalcedon acclaimed that “Peter has spoken through Leo.”
+In AD 1054, Rome and Constantinople [excommunicated one another](https://www.britannica.com/event/East-West-Schism-1054) -- the breach later called the [Great Schism](https://en.m.wikipedia.org/wiki/East%E2%80%93West_Schism). It followed centuries of growing distance: disputes over jurisdiction, the [filioque](../ancient-views/filioque.md) in the Creed, liturgical and disciplinary differences, and the long political fracture between Eastern and Western Rome. The line of division fell roughly along the old imperial border.
+
+This was a different kind of schism from the patristic heresies. East and west each claimed to be the Church Christ founded. Neither side simply vanished like the Arian or Donatist movements. The wound remained open.
+
+The East did not simply continue the first-millennium **pentarchy** intact. Rome was now absent from Eastern communion, so the old five-patriarch order was broken in fact even when it was still named in theory. **Constantinople** -- "New Rome" -- became the senior see still in communion with Alexandria, Antioch, and Jerusalem, exercising a *primus inter pares* role among Eastern bishops through the Byzantine centuries. That is not the same thing as Rome's Petrine primacy transferred wholesale; it is Constantinople leading the Eastern patriarchates until imperial Constantinople itself fell in AD 1453.
+
+Eastern Christendom was not free of further schism. The [sack of Constantinople](https://en.m.wikipedia.org/wiki/Sack_of_Constantinople) in AD 1204 deepened the East-West breach. Later reunion councils -- Lyons (1274) and especially [Florence](https://en.m.wikipedia.org/wiki/Council_of_Florence) (1439) -- split Eastern bishops between those who accepted union with Rome and those who rejected it; Moscow broke communion with Constantinople in AD 1448 over Florence. After 1453, Moscow's rising power, Ottoman rule, and national awakenings slowly replaced the old patriarchal order with the **autocephalous** national churches familiar today. Internal fractures continued as well -- the [Old Believer](https://en.m.wikipedia.org/wiki/Old_Believers) schism in Russia (1666), ethnophyletism disputes (condemned in 1872), and modern jurisdictional conflicts over autocephaly -- so that even the Eastern Orthodox world, for all its claim to continuity, bears its own wounds of divided authority.
+
 <center>![east-west-1054](/images/east-west-1054.jpg)</center>
 
 
 ### Reformation Schisms
-Later, in the 16th century the [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) started a process of continuous schisms within the decaying Holy Roman Empire.
-Despite specific theological objections, the protestant reformation was mostly along ethnic lines, succeeding in northern Europe (England, Germany, Netherlands, etc) with a notable exception of Ireland which stayed Catholic.
-This left the Roman Catholic Church dominant in southern Europe, notably within the boundaries of the Romance languages (Italy, France, Spain, Portugal).
+In the 16th century, the [protestant reformation](https://en.m.wikipedia.org/wiki/Reformation) broke Latin Christendom again -- this time within the West, driven by theological disputes over grace, authority, and Scripture, though the break often followed political and ethnic boundaries. It succeeded in much of northern Europe (England, Germany, the Netherlands, and elsewhere), with notable exceptions such as Ireland.
+
+The [Holy Roman Empire](https://www.worldhistory.org/Holy_Roman_Empire/), established in AD 962, is part of the Western political background to these later centuries; it is not the same thing as the apostolic Church, nor a simple explanation for the schism of AD 1054. After the Reformation, Roman Catholicism remained dominant across much of southern Europe, notably within the boundaries of the Romance languages (Italy, France, Spain, Portugal).
 <center>![east-west-prot](/images/east-west-prot.jpg)</center>
 
-Along these schismatic lines, Roman Catholicism spread into Central and South America (colonies from Spain and Portugal), whereas Protestantism spread into North America (immigrants from northern Europe).
-In fact many of the early settlers into the north-American colonies were escaping religious persecution (such as the various [anabaptist](https://en.m.wikipedia.org/wiki/Anabaptism) sects).
+Along these lines, Roman Catholicism spread into Central and South America through Spanish and Portuguese colonies, while Protestantism spread into North America through immigrants from northern Europe -- including settlers fleeing persecution (such as the various [anabaptist](https://en.m.wikipedia.org/wiki/Anabaptism) sects and the [Puritans](puritans.md)).
 
-This splintering of protestantism never ceased and continues now into our modern age. 
-There are now tens of thousands of different "Christian" sects.
-In fact, a modern protestant is likely to experience a schism even at their own local church, which is usually anchored only by a popular pastor.
-It's important to understand that this splintering is a continuation of the Great Schism of AD 1054 and feeds into the continuous destructive revolutions of our [modern worldview](index.md).
+Protestant splintering did not stop with the Reformation. Confessional churches multiplied, merged, and divided again. Today there are tens of thousands of competing "Christian" groups. That fragmentation belongs to the same modern crisis of divided authority that runs through our [modern worldview](index.md). Many local congregations, especially in the evangelical world, depend on little more than a popular pastor to hold them together -- another face of the same divided authority, not an exception to it.
 
-
-!!! info "Timeline of Major Schisms"
-    <center>![timeline-church](/images/timeline-church.jpg)</center>
+<center>
+<a href="/images/schism-splintering.svg" target="_blank" title="Open full diagram with details">
+<img src="/images/schism-splintering-inline.svg" alt="Timeline of the Major Schisms" style="max-width: 100%;">
+</a>
+</center>
 
 
 
@@ -87,30 +88,22 @@ How does one find Truth in this chaos? How does one find the *one holy catholic 
 
 
 
-### Protestantism 
+### Protestantism
 
-It can be said that most Christians agree completely on the major issues of Christianity but are only in schism over some theological or ecclesiological disagreements.
-This is the *Mere Christianity* approach (by C.S. Lewis) and it is popular amongst mainline protestants.
-However, if we choose whichever protestant church we "feel" is right, then are we not giving in to self-worship and nihilism?
-Truth is not found by our judgment, but in Christ.
+The Protestant Reformation was not, in its own telling, a desire to multiply churches. It was a call to return to Christ and to Scripture -- to recover the gospel when the medieval church had obscured it through corruption and abuse. For Luther, Calvin, and the confessional traditions that followed them, *sola scriptura* meant conscience bound to God's written word, not license for each believer to invent his own religion. The Bible judges the church; the Christian submits.
+
+Protestant ecclesiology, at its strongest, still affirms a visible church. The local congregation preaching the gospel, administering the sacraments, and exercising discipline is not optional spirituality but Christ's body in a definite place. Confessions such as the Augsburg Confession and the Westminster Confession were meant to guard that body against drift -- fixed standards by which a church could be recognized as faithful, not a menu of personal opinions.
+
+Thoughtful Protestants have always known schism is a tragedy, not a triumph. The reformers broke communion with Rome because they believed the truth required it; they did not thereby solve the problem of where final authority resides when Christians disagree. Who judges disputed readings of Scripture when two confessing parties both appeal to the same Bible? Why have reformations and counter-reformations multiplied into tens of thousands of sects if one Holy Spirit guides one people? The softer *Mere Christianity* approach popular among mainline protestants -- major doctrines held in common, details left aside -- retreats from these questions rather than answering them.
+
+The historical fruits are instructive. Institutions founded to preserve orthodoxy have not always endured on their own terms. The [Puritans](puritans.md), for all their zeal to purify the church according to Scripture, bequeathed universities and denominations that, by the standards of their own founders, suggest the gates of hell can prevail against a church that lacks the visible unity Christ promised to Peter.
 
 !!! quote "John 6:68"
     Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life.
 
-If we are honest, we cannot consider any protestant church as being the *one holy catholic and apostolic church*, to do otherwise or claim an "invisible church" puts ourselves as judge over Christ and His words.
+The creed nevertheless confesses *one* holy catholic and apostolic church, not many. Protestantism's "invisible church" -- Christ's faithful known to God across separated bodies -- cannot be squared with that confession without making each believer the final court of appeal. If we name any single protestant denomination as the one church, we reason in circles; if we name none, we abandon visibility. Christ did not remain a spirit without a body; He was visible to His disciples, to the Pharisees, to the Romans, to the Canaanite woman, to everyone. The church He promised to Peter must be as visible as He is.
 
-And perhaps the most troubling aspect of modern protestantism is the continued schisms.
-In a protestant worldview, my own personal interpretation of scripture is as valid as any.
-This is encouraged within a secular worldview, and this is to turn our back on Christ Himself.
-
-And even if you were to find a pious protestant church, how long till that church falls into blatant heresy?
-How many churches today have founders that would war against their modern members? Remember that the reformers would put to death anabaptists, and yet today "believers baptism" has become the norm in many reformed churches.
-
-We must seek the *one holy catholic and apostolic church*, and it is necessarily as visible as Christ Jesus -- the God-man was visible to His disciples, to the Pharisees, to the Romans, to the Canaanite woman, to everyone.
-
-
-
-
+We must seek that *one holy catholic and apostolic church*. Protestantism named real abuses in medieval Christianity; it does not, by itself, restore the unity Christ willed.
 
 
 ### Orthodoxy

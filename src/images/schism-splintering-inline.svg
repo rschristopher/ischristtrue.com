@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of the Major Schisms</title>
+  <desc id="desc">Simplified inline view of the major Christian schisms. Open the full diagram for details.</desc>
+
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#222"/>
+    </marker>
+    <style>
+      .bg { fill: #fafafa; }
+      .title { font: 700 24px Arial, Helvetica, sans-serif; fill: #111; }
+      .axis { stroke: #ccc; stroke-width: 1.5; fill: none; marker-end: url(#arrow); }
+      .tick { stroke: #ddd; stroke-width: 1; }
+      .drop { stroke: #ebebeb; stroke-width: 1; stroke-dasharray: 3 4; }
+      .tick-label { font: 600 13px Arial, Helvetica, sans-serif; fill: #555; }
+      .tick-diag { font: 600 12px Arial, Helvetica, sans-serif; fill: #555; }
+      .trunk { stroke: #111; stroke-width: 5; fill: none; stroke-linecap: square; }
+      .solid { stroke: #111; stroke-width: 2.5; fill: none; stroke-linecap: square; }
+      .grey { stroke: #999; stroke-width: 1.3; fill: none; stroke-linecap: square; }
+      .box { fill: #fff; stroke: #222; stroke-width: 1.3; }
+      .box-end { fill: #fff; stroke: #333; stroke-width: 1.5; }
+      .label { font: 700 17px Arial, Helvetica, sans-serif; fill: #111; }
+      .label-sm { font: 600 16px Arial, Helvetica, sans-serif; fill: #111; }
+      .schism { font: 700 13px Arial, Helvetica, sans-serif; fill: #111; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1500" height="760"/>
+
+  <text class="title" x="60" y="42">Timeline of the Major Schisms</text>
+
+  <line class="axis" x1="80" y1="110" x2="1120" y2="110"/>
+  <line class="drop" x1="298" y1="114" x2="298" y2="450"/>
+  <line class="drop" x1="613" y1="114" x2="613" y2="450"/>
+  <line class="drop" x1="821" y1="114" x2="821" y2="258"/>
+  <line class="drop" x1="855" y1="114" x2="855" y2="642"/>
+
+  <!-- THICK BLACK: The Church (pre-schism) -->
+  <path class="trunk" d="M 80 450 L 613 450"/>
+
+  <!-- SOLID BLACK: Eastern Christendom & Western Christendom only -->
+  <path class="solid" d="M 613 450 L 613 258 L 821 258"/>
+  <path class="solid" d="M 613 450 L 613 642 L 855 642"/>
+
+  <!-- THIN GREY: present-day churches -->
+  <path class="grey" d="M 298 450 L 298 175"/>
+  <path class="grey" d="M 298 175 L 298 155 L 1120 155"/>
+  <path class="grey" d="M 298 175 L 298 213 L 1120 213"/>
+  <path class="grey" d="M 821 258 L 821 340"/>
+  <path class="grey" d="M 821 340 L 821 314 L 1120 314"/>
+  <path class="grey" d="M 821 340 L 821 473 L 1120 473"/>
+  <path class="grey" d="M 933 314 L 933 415 L 1120 415"/>
+  <path class="grey" d="M 1185 473 L 1185 563"/>
+  <path class="grey" d="M 855 642 L 855 563 L 1120 563"/>
+  <path class="grey" d="M 855 642 L 855 690 L 1120 690"/>
+  <path class="grey" d="M 960 690 L 1120 652"/>
+  <path class="grey" d="M 980 690 L 1120 664"/>
+  <path class="grey" d="M 1000 690 L 1120 676"/>
+  <path class="grey" d="M 1020 690 L 1120 688"/>
+  <path class="grey" d="M 1040 690 L 1120 702"/>
+  <path class="grey" d="M 1060 690 L 1120 714"/>
+  <path class="grey" d="M 1080 690 L 1120 726"/>
+  <path class="grey" d="M 1100 690 L 1120 738"/>
+
+  <line class="tick" x1="80" y1="106" x2="80" y2="114"/>
+  <line class="tick" x1="298" y1="106" x2="298" y2="114"/>
+  <line class="tick" x1="613" y1="106" x2="613" y2="114"/>
+  <line class="tick" x1="821" y1="106" x2="821" y2="114"/>
+  <line class="tick" x1="855" y1="106" x2="855" y2="114"/>
+  <line class="tick" x1="1120" y1="106" x2="1120" y2="114"/>
+
+  <circle cx="80" cy="450" r="5" fill="#111"/>
+  <circle cx="298" cy="450" r="4" fill="#222"/>
+  <circle cx="613" cy="450" r="6" fill="#111"/>
+  <circle cx="821" cy="258" r="5" fill="#111"/>
+  <circle cx="855" cy="642" r="5" fill="#111"/>
+
+  <rect class="box" x="115" y="432" width="170" height="36" rx="4"/>
+  <rect class="box" x="633" y="238" width="168" height="40" rx="4"/>
+  <rect class="box" x="650" y="622" width="168" height="40" rx="4"/>
+
+  <rect class="box-end" x="1120" y="133" width="250" height="44" rx="4"/>
+  <rect class="box-end" x="1120" y="191" width="250" height="44" rx="4"/>
+  <rect class="box-end" x="1120" y="292" width="250" height="44" rx="4"/>
+  <rect class="box-end" x="1120" y="393" width="250" height="44" rx="4"/>
+  <rect class="box-end" x="1120" y="451" width="250" height="44" rx="4"/>
+  <rect class="box-end" x="1120" y="541" width="250" height="44" rx="4"/>
+  <rect class="box-end" x="1120" y="668" width="250" height="44" rx="4"/>
+
+  <text class="tick-label" x="80" y="102">AD 33</text>
+  <text class="tick-diag" transform="rotate(-40 286 94)" x="286" y="94">451</text>
+  <text class="tick-label" x="613" y="130" text-anchor="middle">1054</text>
+  <text class="tick-diag" transform="rotate(-40 809 94)" x="809" y="94">1453</text>
+  <text class="tick-label" x="855" y="130" text-anchor="middle">1517</text>
+  <text class="tick-label" x="1120" y="102" text-anchor="end">today</text>
+
+  <text class="label" x="127" y="456">The Church</text>
+
+  <text class="schism" x="622" y="447">Great Schism</text>
+
+  <text class="label-sm" x="645" y="264">Eastern Church</text>
+  <text class="schism" x="828" y="251">Fall of Constantinople</text>
+
+  <text class="label-sm" x="662" y="648">Western Church</text>
+  <text class="schism" x="862" y="635">Reformation</text>
+
+  <text class="label-sm" x="1132" y="162">Oriental Orthodox</text>
+  <text class="label-sm" x="1132" y="220">Church of the East</text>
+  <text class="label-sm" x="1132" y="321">Eastern Orthodox</text>
+  <text class="label-sm" x="1132" y="420">Old Believers</text>
+  <text class="label-sm" x="1132" y="478">Eastern Catholic</text>
+  <text class="label" x="1132" y="568">Roman Catholic Church</text>
+  <text class="label" x="1132" y="695">Protestantism</text>
+</svg>

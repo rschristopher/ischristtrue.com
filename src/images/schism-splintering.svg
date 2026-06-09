@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of the Major Schisms</title>
+  <desc id="desc">Thick pre-schism trunk, solid Eastern and Western Christendom, thin grey lines to present-day churches.</desc>
+
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#222"/>
+    </marker>
+    <style>
+      .bg { fill: #fafafa; }
+      .title { font: 700 22px Arial, Helvetica, sans-serif; fill: #111; }
+      .axis { stroke: #ccc; stroke-width: 1.5; fill: none; marker-end: url(#arrow); }
+      .tick { stroke: #ddd; stroke-width: 1; }
+      .drop { stroke: #ebebeb; stroke-width: 1; stroke-dasharray: 3 4; }
+      .tick-label { font: 400 10px Arial, Helvetica, sans-serif; fill: #777; }
+      .tick-diag { font: 400 9px Arial, Helvetica, sans-serif; fill: #777; }
+      .trunk { stroke: #111; stroke-width: 5; fill: none; stroke-linecap: square; }
+      .solid { stroke: #111; stroke-width: 2.5; fill: none; stroke-linecap: square; }
+      .grey { stroke: #999; stroke-width: 1.3; fill: none; stroke-linecap: square; }
+      .box { fill: #fff; stroke: #222; stroke-width: 1.3; }
+      .box-end { fill: #fff; stroke: #333; stroke-width: 1.5; }
+      .box-end-lg { fill: #fff; stroke: #333; stroke-width: 1.5; }
+      .label { font: 600 12px Arial, Helvetica, sans-serif; fill: #111; }
+      .label-sm { font: 500 11px Arial, Helvetica, sans-serif; fill: #222; }
+      .label-xs { font: 400 10px Arial, Helvetica, sans-serif; fill: #444; }
+      .label-xxs { font: 400 9px Arial, Helvetica, sans-serif; fill: #555; }
+      .schism { font: 700 11px Arial, Helvetica, sans-serif; fill: #111; }
+    </style>
+  </defs>
+
+  <!-- x = 80 + (year - 33) * 1040 / 1993 -->
+  <!-- right box centers (y): OO 155 | CoE 213 | EO 314 | OB 415 | EC 473 | RCC 563 | Prot 690 -->
+
+  <rect class="bg" x="0" y="0" width="1500" height="1000"/>
+  <text class="title" x="60" y="42">Timeline of the Major Schisms</text>
+
+  <line class="axis" x1="80" y1="110" x2="1120" y2="110"/>
+  <line class="drop" x1="298" y1="114" x2="298" y2="450"/>
+  <line class="drop" x1="613" y1="114" x2="613" y2="450"/>
+  <line class="drop" x1="821" y1="114" x2="821" y2="258"/>
+  <line class="drop" x1="855" y1="114" x2="855" y2="642"/>
+
+  <!-- THICK BLACK: The Church (pre-schism) -->
+  <path class="trunk" d="M 80 450 L 613 450"/>
+
+  <!-- SOLID BLACK: Eastern Christendom & Western Christendom only -->
+  <path class="solid" d="M 613 450 L 613 258 L 821 258"/>
+  <path class="solid" d="M 613 450 L 613 642 L 855 642"/>
+
+  <!-- THIN GREY: present-day churches (all right-side boxes) -->
+  <!-- from 451 -->
+  <path class="grey" d="M 298 450 L 298 175"/>
+  <path class="grey" d="M 298 175 L 298 155 L 1120 155"/>
+  <path class="grey" d="M 298 175 L 298 213 L 1120 213"/>
+  <!-- after Fall of Constantinople -->
+  <path class="grey" d="M 821 258 L 821 340"/>
+  <path class="grey" d="M 821 340 L 821 314 L 1120 314"/>
+  <path class="grey" d="M 821 340 L 821 473 L 1120 473"/>
+  <path class="grey" d="M 933 314 L 933 415 L 1120 415"/>
+  <path class="grey" d="M 1185 473 L 1185 563"/>
+  <!-- after Reformation: up to RCC, down to Protestantism, splinters off prot trunk -->
+  <path class="grey" d="M 855 642 L 855 563 L 1120 563"/>
+  <path class="grey" d="M 855 642 L 855 690 L 1120 690"/>
+  <path class="grey" d="M 960 690 L 1120 652"/>
+  <path class="grey" d="M 980 690 L 1120 664"/>
+  <path class="grey" d="M 1000 690 L 1120 676"/>
+  <path class="grey" d="M 1020 690 L 1120 688"/>
+  <path class="grey" d="M 1040 690 L 1120 702"/>
+  <path class="grey" d="M 1060 690 L 1120 714"/>
+  <path class="grey" d="M 1080 690 L 1120 726"/>
+  <path class="grey" d="M 1100 690 L 1120 738"/>
+
+  <line class="tick" x1="80" y1="106" x2="80" y2="114"/>
+  <line class="tick" x1="298" y1="106" x2="298" y2="114"/>
+  <line class="tick" x1="613" y1="106" x2="613" y2="114"/>
+  <line class="tick" x1="821" y1="106" x2="821" y2="114"/>
+  <line class="tick" x1="855" y1="106" x2="855" y2="114"/>
+  <line class="tick" x1="1120" y1="106" x2="1120" y2="114"/>
+
+  <circle cx="80" cy="450" r="5" fill="#111"/>
+  <circle cx="298" cy="450" r="4" fill="#222"/>
+  <circle cx="613" cy="450" r="6" fill="#111"/>
+  <circle cx="821" cy="258" r="5" fill="#111"/>
+  <circle cx="855" cy="642" r="5" fill="#111"/>
+
+  <rect class="box" x="115" y="427" width="170" height="46" rx="4"/>
+  <rect class="box" x="633" y="231" width="168" height="48" rx="4"/>
+  <rect class="box" x="650" y="615" width="168" height="50" rx="4"/>
+
+  <rect class="box-end" x="1120" y="133" width="220" height="44" rx="4"/>
+  <rect class="box-end" x="1120" y="191" width="220" height="44" rx="4"/>
+  <rect class="box-end-lg" x="1120" y="249" width="300" height="130" rx="4"/>
+  <rect class="box-end" x="1120" y="393" width="220" height="44" rx="4"/>
+  <rect class="box-end" x="1120" y="451" width="220" height="44" rx="4"/>
+  <rect class="box-end-lg" x="1120" y="509" width="300" height="108" rx="4"/>
+  <rect class="box-end-lg" x="1120" y="631" width="300" height="118" rx="4"/>
+
+  <text class="tick-label" x="80" y="102">AD 33</text>
+  <text class="tick-diag" transform="rotate(-40 286 94)" x="286" y="94">451</text>
+  <text class="tick-label" x="613" y="130" text-anchor="middle">1054</text>
+  <text class="tick-diag" transform="rotate(-40 809 94)" x="809" y="94">1453</text>
+  <text class="tick-label" x="855" y="130" text-anchor="middle">1517</text>
+  <text class="tick-label" x="1120" y="102" text-anchor="end">today</text>
+
+  <text class="label" x="127" y="447">The Church</text>
+  <text class="label-xs" x="127" y="463">one holy catholic and apostolic</text>
+
+  <text class="schism" x="622" y="447">Great Schism</text>
+
+  <text class="label-sm" x="645" y="251">Eastern Christendom</text>
+  <text class="label-xs" x="645" y="267">Byzantine era</text>
+  <text class="schism" x="828" y="251">Fall of Constantinople</text>
+
+  <text class="label-sm" x="662" y="633">Western Christendom</text>
+  <text class="label-xs" x="662" y="649">Latin West</text>
+  <text class="schism" x="862" y="635">Reformation</text>
+
+  <text class="label-sm" x="1132" y="153">Oriental Orthodox</text>
+  <text class="label-xs" x="1132" y="169">from 451</text>
+
+  <text class="label-sm" x="1132" y="211">Church of the East</text>
+  <text class="label-xs" x="1132" y="227">from 451</text>
+
+  <text class="label" x="1132" y="271">~14 autocephalous Eastern Orthodox</text>
+  <text class="label-xxs" x="1132" y="289">Constantinople · Alexandria · Antioch · Jerusalem</text>
+  <text class="label-xxs" x="1132" y="305">Russia · Serbia · Romania · Bulgaria · Georgia</text>
+  <text class="label-xxs" x="1132" y="321">Cyprus · Greece · Poland · Albania</text>
+  <text class="label-xxs" x="1132" y="337">Czech Lands &amp; Slovakia</text>
+  <text class="label-xs" x="1132" y="355">national churches · separate synods</text>
+  <text class="label-xs" x="1132" y="369">mutually recognized, not one jurisdiction</text>
+
+  <text class="label-sm" x="1132" y="413">Old Believers</text>
+  <text class="label-xs" x="1132" y="429">from 1666</text>
+
+  <text class="label-sm" x="1132" y="471">Eastern Catholic</text>
+  <text class="label-xs" x="1132" y="487">gradual unions with Rome</text>
+
+  <text class="label" x="1132" y="531">Roman Catholic Church</text>
+  <text class="label-xs" x="1132" y="549">Latin West after the schism of 1054</text>
+  <text class="label-xs" x="1132" y="565">Petrine See · ecumenical councils</text>
+  <text class="label-xs" x="1132" y="589">missions worldwide · not in communion with Eastern Orthodox</text>
+
+  <text class="label" x="1132" y="655">Protestantism</text>
+  <text class="label-xs" x="1132" y="673">Lutheran · Reformed · Anglican · Methodist · Baptist</text>
+  <text class="label-xs" x="1132" y="689">Presbyterian · Pentecostal · Episcopal · Congregational</text>
+  <text class="label-xs" x="1132" y="705">non-denominational and independent churches</text>
+  <text class="label-xs" x="1132" y="721">tens of thousands of competing denominations</text>
+  <text class="label-xs" x="1132" y="737">non-Trinitarian heretical sects</text>
+
+  <line class="trunk" x1="60" y1="920" x2="110" y2="920"/>
+  <text class="label-xs" x="118" y="924">thick black = The Church (pre-schism)</text>
+  <line class="solid" x1="340" y1="920" x2="390" y2="920"/>
+  <text class="label-xs" x="398" y="924">solid black = Eastern &amp; Western Christendom</text>
+  <line class="grey" x1="620" y1="920" x2="670" y2="920"/>
+  <text class="label-xs" x="678" y="924">thin grey = present-day churches</text>
+</svg>
