@@ -39,7 +39,7 @@ When the Gospel entered the ancient world, the same old logic reasserted itself 
 
 ## Christ Reveals the Trinity
 
-Christ did not deliver a treatise on metaphysics. He revealed the Father, and the Spirit, in the events of His own life. In the Incarnation the eternal Word became flesh: distinct from the Father, yet one with Him. He taught, prayed, and acted as the Son who knows the Father and makes Him known. At the Jordan the revelation became public and complete.
+Christ did not deliver a treatise on metaphysics. He revealed the Father, and the Spirit, in the events of His own life. In the Incarnation the eternal Word became flesh: distinct from the Father, yet one with Him. He taught, prayed, and acted as the Son who knows the Father and makes Him known. At the Jordan -- the great [Theophany](../logos/baptism-of-jesus.md) -- the revelation became public and complete.
 
 !!! info "Theophany at the Jordan"
     <center>
@@ -48,12 +48,10 @@ Christ did not deliver a treatise on metaphysics. He revealed the Father, and th
 
     Byzantine icon of the Theophany. Christ stands in the Jordan as John baptizes Him; the Spirit descends as a dove within rays from the opened heavens while the Father's voice declares the Beloved Son. The three Persons are manifest and distinct, yet perfectly one -- the great revelation of the Most Holy Trinity at the beginning of Christ's public ministry.
 
-The Father speaks from heaven. The Son stands in the water. The Spirit descends upon Him. Three Persons, one God, unveiled in a single moment of salvation.
-
 !!! quote "Matthew 3:16-17"
     And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him: And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
 
-The same revelation continues through the Transfiguration, where the Father again bears witness to the Son and the Spirit overshadows the holy mountain; through the upper-room discourse, where Christ promises to send the Spirit of truth from the Father; through the Cross and Resurrection, where the Son offers Himself to the Father in the power of the Spirit; and through Pentecost, where the ascended Christ pours out what the Father had promised. What God does for us in time (*economic* Trinity) shows us who God is eternally (*immanent* Trinity). The missions do not create the Persons; they disclose Them. And we know this transcendent mystery only through the incarnate Mediator, for no one has seen the Father except the Son, and those to whom the Son reveals Him ([mediation](mediation.md)).
+The same revelation continues through the Transfiguration, where the Father again bears witness to the Son and the Spirit overshadows the holy mountain; through the upper-room discourse, where Christ promises to send the Spirit of truth from the Father; through the Cross and Resurrection, where the Son offers Himself to the Father in the power of the Spirit; and through Pentecost, where the ascended Christ pours out what the Father had promised. What God does for us in time (*economic* Trinity) shows us who God is eternally (*immanent* Trinity). The missions do not create the Persons; they disclose Them. We know this transcendent mystery only through the incarnate Mediator ([mediation](mediation.md)). When Philip asked to be shown the Father, Christ answered:
 
 !!! quote "John 14:9"
     Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?
@@ -119,7 +117,7 @@ How the Spirit relates eternally to the Father and the Son became a wound betwee
 
 ## Trinity as First Principle
 
-The Trinity is not an appendix to Christianity. It is the first principle from which [cosmology](cosmology.md), reason, and salvation proceed. Before creation and before time, there was the Father's will, the Son who is the Word of truth, and the Spirit who is the love from the Father to the Son. From this communion there emerges everything that is: time, space, personhood, moral order, and the possibility of [metanoia](metanoia.md) at all. We exist because God is eternal interpersonal love, not solitary force.
+The Trinity is not an appendix to Christianity. As [who Christ is](../who-is-christ.md) discloses, it is the first principle from which [cosmology](cosmology.md), reason, and salvation proceed. Before creation and before time, there was the Father's will, the Son who is the Word of truth, and the Spirit who is the love from the Father to the Son. From this communion there emerges everything that is: time, space, personhood, moral order, and the possibility of [metanoia](metanoia.md) at all. We exist because God is eternal interpersonal love, not solitary force.
 
 Father, Son, and Holy Spirit are therefore not decorative titles. They name how the transcendent God becomes knowable to us. All fatherhood springs from the Father; all truth from the Word; all life from the Spirit who is Love. Christ did not reveal a God who remains infinitely remote behind symbols. He revealed a God who sends His Son, breathes His Spirit, and draws us into Their life. Without the Trinity, Christ cannot be Truth in the full sense, and the Church cannot know what it professes.
 
@@ -133,7 +131,7 @@ Father, Son, and Holy Spirit are therefore not decorative titles. They name how 
 
 ## Living the Mystery
 
-The Trinity is not stored in a textbook. It is lived in the Church Christ founded. Every baptism administers what He commanded: immersion into the one name of Father, Son, and Holy Ghost, as the [Holy Mysteries](mysteries.md) unite the visible and invisible. Triple immersion in the ancient rite still confesses what Nicaea defended: one God, three Persons, undivided. Every doxology -- *Glory be to the Father, and to the Son, and to the Holy Spirit* -- ascribes equal honor to each Person. The sign of the cross marks the believer's forehead and breast with the pattern of revelation, a daily remembrance that we belong to the God who is three and one.
+The Trinity is not stored in a textbook. It is lived in the Church Christ founded. Every baptism administers what He commanded: immersion into the one name of Father, Son, and Holy Ghost, as the [Holy Mysteries](mysteries.md) unite the visible and invisible. Triple immersion in the ancient rite still confesses what Nicaea defended: one God, three Persons, undivided. Every doxology -- *Glory be to the Father, and to the Son, and to the Holy Ghost* -- ascribes equal honor to each Person. The sign of the cross marks the believer's forehead and breast with the pattern of revelation, a daily remembrance that we belong to the God who is three and one.
 
 Prayer itself is Trinitarian. We address the Father, through the Son, in the Holy Spirit -- not as a formula recited once and forgotten, but as the shape of communion God opened at the Jordan and sealed at Pentecost. The Lord's Prayer itself is addressed to the Father, taught by the Son, and prayed in the Spirit who cries in our hearts. Even the Jesus Prayer -- *Lord Jesus Christ, Son of God, have mercy on me* -- presupposes the Son who is begotten of the Father and the Spirit who makes Christ present in the soul. To live the mystery is to let this pattern govern worship, work, and repentance until the Name we were baptized into becomes the truth we inhabit.
 
