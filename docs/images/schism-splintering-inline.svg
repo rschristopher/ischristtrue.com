@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 850" role="img" aria-labelledby="title desc">
   <title id="title">Timeline of the Major Schisms</title>
   <desc id="desc">Simplified inline view of the major Christian schisms. Open the full diagram for details.</desc>
 
@@ -23,19 +23,35 @@
       .label { font: 700 17px Arial, Helvetica, sans-serif; fill: #111; }
       .label-sm { font: 600 16px Arial, Helvetica, sans-serif; fill: #111; }
       .schism { font: 700 13px Arial, Helvetica, sans-serif; fill: #111; }
+      .note { font: 500 11px Arial, Helvetica, sans-serif; fill: #444; }
     </style>
   </defs>
 
-  <rect class="bg" x="0" y="0" width="1500" height="760"/>
+  <rect class="bg" x="0" y="0" width="1500" height="850"/>
 
   <text class="title" x="60" y="42">Timeline of the Major Schisms</text>
 
   <line class="axis" x1="80" y1="110" x2="1120" y2="110"/>
-  <line class="drop" x1="298" y1="114" x2="298" y2="450"/>
-  <line class="drop" x1="613" y1="114" x2="613" y2="450"/>
-  <line class="drop" x1="821" y1="114" x2="821" y2="258"/>
-  <line class="drop" x1="855" y1="114" x2="855" y2="642"/>
+  <line class="drop" x1="298" y1="114" x2="298" y2="524"/>
+  <line class="drop" x1="613" y1="114" x2="613" y2="524"/>
+  <line class="drop" x1="821" y1="114" x2="821" y2="332"/>
+  <line class="drop" x1="855" y1="114" x2="855" y2="716"/>
 
+  <line class="tick" x1="80" y1="106" x2="80" y2="114"/>
+  <line class="tick" x1="298" y1="106" x2="298" y2="114"/>
+  <line class="tick" x1="613" y1="106" x2="613" y2="114"/>
+  <line class="tick" x1="821" y1="106" x2="821" y2="114"/>
+  <line class="tick" x1="855" y1="106" x2="855" y2="114"/>
+  <line class="tick" x1="1120" y1="106" x2="1120" y2="114"/>
+
+  <text class="tick-label" x="80" y="102">AD 33</text>
+  <text class="tick-diag" transform="rotate(-40 286 94)" x="286" y="94">451</text>
+  <text class="tick-label" x="613" y="130" text-anchor="middle">1054</text>
+  <text class="tick-diag" transform="rotate(-40 809 94)" x="809" y="94">1453</text>
+  <text class="tick-label" x="855" y="130" text-anchor="middle">1517</text>
+  <text class="tick-label" x="1120" y="102" text-anchor="end">today</text>
+
+  <g transform="translate(0, 74)">
   <!-- THICK BLACK: The Church (pre-schism) -->
   <path class="trunk" d="M 80 450 L 613 450"/>
 
@@ -63,13 +79,6 @@
   <path class="grey" d="M 1080 690 L 1120 726"/>
   <path class="grey" d="M 1100 690 L 1120 738"/>
 
-  <line class="tick" x1="80" y1="106" x2="80" y2="114"/>
-  <line class="tick" x1="298" y1="106" x2="298" y2="114"/>
-  <line class="tick" x1="613" y1="106" x2="613" y2="114"/>
-  <line class="tick" x1="821" y1="106" x2="821" y2="114"/>
-  <line class="tick" x1="855" y1="106" x2="855" y2="114"/>
-  <line class="tick" x1="1120" y1="106" x2="1120" y2="114"/>
-
   <circle cx="80" cy="450" r="5" fill="#111"/>
   <circle cx="298" cy="450" r="4" fill="#222"/>
   <circle cx="613" cy="450" r="6" fill="#111"/>
@@ -88,22 +97,19 @@
   <rect class="box-end" x="1120" y="541" width="250" height="44" rx="4"/>
   <rect class="box-end" x="1120" y="668" width="250" height="44" rx="4"/>
 
-  <text class="tick-label" x="80" y="102">AD 33</text>
-  <text class="tick-diag" transform="rotate(-40 286 94)" x="286" y="94">451</text>
-  <text class="tick-label" x="613" y="130" text-anchor="middle">1054</text>
-  <text class="tick-diag" transform="rotate(-40 809 94)" x="809" y="94">1453</text>
-  <text class="tick-label" x="855" y="130" text-anchor="middle">1517</text>
-  <text class="tick-label" x="1120" y="102" text-anchor="end">today</text>
-
   <text class="label" x="127" y="456">The Church</text>
 
   <text class="schism" x="622" y="447">Great Schism</text>
 
   <text class="label-sm" x="645" y="264">Eastern Church</text>
-  <text class="schism" x="828" y="251">Fall of Constantinople</text>
+  <text class="schism" x="828" y="243">Fall of Constantinople (1453)</text>
+  <text class="note" x="828" y="259">Florence (1439)</text>
+  <text class="note" x="828" y="275">Moscow vs Constantinople (1448)</text>
 
   <text class="label-sm" x="662" y="648">Western Church</text>
-  <text class="schism" x="862" y="635">Reformation</text>
+  <text class="schism" x="862" y="627">Reformation (1517)</text>
+  <text class="note" x="862" y="643">Augsburg Confession (1530)</text>
+  <text class="note" x="862" y="659">Council of Trent (1545-1563)</text>
 
   <text class="label-sm" x="1132" y="162">Oriental Orthodox</text>
   <text class="label-sm" x="1132" y="220">Church of the East</text>
@@ -112,4 +118,5 @@
   <text class="label-sm" x="1132" y="478">Eastern Catholic</text>
   <text class="label" x="1132" y="568">Roman Catholic Church</text>
   <text class="label" x="1132" y="695">Protestantism</text>
+  </g>
 </svg>

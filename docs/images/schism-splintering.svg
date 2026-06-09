@@ -36,11 +36,26 @@
   <text class="title" x="60" y="42">Timeline of the Major Schisms</text>
 
   <line class="axis" x1="80" y1="110" x2="1120" y2="110"/>
-  <line class="drop" x1="298" y1="114" x2="298" y2="450"/>
-  <line class="drop" x1="613" y1="114" x2="613" y2="450"/>
-  <line class="drop" x1="821" y1="114" x2="821" y2="258"/>
-  <line class="drop" x1="855" y1="114" x2="855" y2="642"/>
+  <line class="drop" x1="298" y1="114" x2="298" y2="524"/>
+  <line class="drop" x1="613" y1="114" x2="613" y2="524"/>
+  <line class="drop" x1="821" y1="114" x2="821" y2="332"/>
+  <line class="drop" x1="855" y1="114" x2="855" y2="716"/>
 
+  <line class="tick" x1="80" y1="106" x2="80" y2="114"/>
+  <line class="tick" x1="298" y1="106" x2="298" y2="114"/>
+  <line class="tick" x1="613" y1="106" x2="613" y2="114"/>
+  <line class="tick" x1="821" y1="106" x2="821" y2="114"/>
+  <line class="tick" x1="855" y1="106" x2="855" y2="114"/>
+  <line class="tick" x1="1120" y1="106" x2="1120" y2="114"/>
+
+  <text class="tick-label" x="80" y="102">AD 33</text>
+  <text class="tick-diag" transform="rotate(-40 286 94)" x="286" y="94">451</text>
+  <text class="tick-label" x="613" y="130" text-anchor="middle">1054</text>
+  <text class="tick-diag" transform="rotate(-40 809 94)" x="809" y="94">1453</text>
+  <text class="tick-label" x="855" y="130" text-anchor="middle">1517</text>
+  <text class="tick-label" x="1120" y="102" text-anchor="end">today</text>
+
+  <g transform="translate(0, 74)">
   <!-- THICK BLACK: The Church (pre-schism) -->
   <path class="trunk" d="M 80 450 L 613 450"/>
 
@@ -71,13 +86,6 @@
   <path class="grey" d="M 1080 690 L 1120 726"/>
   <path class="grey" d="M 1100 690 L 1120 738"/>
 
-  <line class="tick" x1="80" y1="106" x2="80" y2="114"/>
-  <line class="tick" x1="298" y1="106" x2="298" y2="114"/>
-  <line class="tick" x1="613" y1="106" x2="613" y2="114"/>
-  <line class="tick" x1="821" y1="106" x2="821" y2="114"/>
-  <line class="tick" x1="855" y1="106" x2="855" y2="114"/>
-  <line class="tick" x1="1120" y1="106" x2="1120" y2="114"/>
-
   <circle cx="80" cy="450" r="5" fill="#111"/>
   <circle cx="298" cy="450" r="4" fill="#222"/>
   <circle cx="613" cy="450" r="6" fill="#111"/>
@@ -96,13 +104,6 @@
   <rect class="box-end-lg" x="1120" y="509" width="300" height="108" rx="4"/>
   <rect class="box-end-lg" x="1120" y="631" width="300" height="118" rx="4"/>
 
-  <text class="tick-label" x="80" y="102">AD 33</text>
-  <text class="tick-diag" transform="rotate(-40 286 94)" x="286" y="94">451</text>
-  <text class="tick-label" x="613" y="130" text-anchor="middle">1054</text>
-  <text class="tick-diag" transform="rotate(-40 809 94)" x="809" y="94">1453</text>
-  <text class="tick-label" x="855" y="130" text-anchor="middle">1517</text>
-  <text class="tick-label" x="1120" y="102" text-anchor="end">today</text>
-
   <text class="label" x="127" y="447">The Church</text>
   <text class="label-xs" x="127" y="463">one holy catholic and apostolic</text>
 
@@ -110,11 +111,15 @@
 
   <text class="label-sm" x="645" y="251">Eastern Christendom</text>
   <text class="label-xs" x="645" y="267">Byzantine era</text>
-  <text class="schism" x="828" y="251">Fall of Constantinople</text>
+  <text class="schism" x="828" y="245">Fall of Constantinople (1453)</text>
+  <text class="label-xs" x="828" y="261">Florence (1439)</text>
+  <text class="label-xs" x="828" y="277">Moscow vs Constantinople (1448)</text>
 
   <text class="label-sm" x="662" y="633">Western Christendom</text>
   <text class="label-xs" x="662" y="649">Latin West</text>
-  <text class="schism" x="862" y="635">Reformation</text>
+  <text class="schism" x="862" y="629">Reformation (1517)</text>
+  <text class="label-xs" x="862" y="645">Augsburg Confession (1530)</text>
+  <text class="label-xs" x="862" y="661">Council of Trent (1545-1563)</text>
 
   <text class="label-sm" x="1132" y="153">Oriental Orthodox</text>
   <text class="label-xs" x="1132" y="169">from 451</text>
@@ -147,6 +152,7 @@
   <text class="label-xs" x="1132" y="705">non-denominational and independent churches</text>
   <text class="label-xs" x="1132" y="721">tens of thousands of competing denominations</text>
   <text class="label-xs" x="1132" y="737">non-Trinitarian heretical sects</text>
+  </g>
 
   <line class="trunk" x1="60" y1="920" x2="110" y2="920"/>
   <text class="label-xs" x="118" y="924">thick black = The Church (pre-schism)</text>
